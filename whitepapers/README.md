@@ -6,7 +6,7 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
+
 Version: 1.1
 Priority Date: 2025-10-20
 
