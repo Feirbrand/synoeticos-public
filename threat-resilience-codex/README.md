@@ -54,18 +54,22 @@ The Threat Resilience Codex evolved from the DNA Codex pure threat taxonomy to e
 
 ```
 threat-resilience-codex/
+
 ├── dna-codex/                      # Raw Variant Catalog (Core Tool)
 │   ├── dna_codex_v5.5.md          # 560+ behavioral signatures, Tier 10+ threats, MITRE ATLAS mappings
 │   └── README.md                   # Catalog navigation and usage guide
+│
 ├── research-papers/                # Technical Documentation
 │   ├── dna_codex_v5_5_paper.md    # Complete technical specification and implementation guide
 │   ├── dna_codex_v5_5_technical_paper.pdf  # PDF version for distribution
 │   └── README.md                   # Documentation index and citation guide
+│
 ├── docs/                           # Integration Teasers & Landing Content
 │   ├── fractal-dominate-chaos-teaser.md
 │   ├── symbolic-defense-teaser.md
 │   ├── systems-thinking-tree.md
 │   └── README.md                   # Documentation navigation
+│
 └── fundamentals/                   # Theoretical Framework
     ├── parasitic_pattern_fundamentals_v1_1.md
     └── README.md                   # Foundational concepts guide

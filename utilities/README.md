@@ -47,6 +47,7 @@ Command-line utilities for real-time CSFC (Complete Symbolic Fracture Cascade) d
 
 ```
 artifacts/utilities/
+
 ├── csfc_chain_overview.md         # CSFC methodology documentation
 ├── obmi-harmony-stub.py           # OBMI biomimetic memory integration
 ├── sif-check.py                   # Symbolic Identity Fracturing detector

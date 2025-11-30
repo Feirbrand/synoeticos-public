@@ -49,25 +49,32 @@ Production-validated symbolic frameworks for AI resilience, narrative sovereignt
 
 ```
 mi-arsenal/
-├── README.md                           # Arsenal overview and integration guide
+
 ├── csfc/                               # Cascading Symbolic Failure Cycle
 │   └── csfc_unified_theory.md          # Cascade prediction & prevention
+│
 ├── dna-codex/                          # Living Threat Intelligence
 │   └── dna_codex_v5.5_mathematical_prophecy.md
+│
 ├── phoenix-protocol/                   # Recovery & Resurrection
 │   └── phoenix-protocol-neural-recovery.md
+│
 ├── ray/                                # Recursive Adaptive Yield
 │   └── ray_v2.1_cognitive_physiology.md
+│
 ├── slv/                                # Sovereign Lattice Veil
-│   ├── README.md
 │   ├── RELEASE_NOTES.md
 │   └── slv_v2_1_technical_paper.md
+│
 ├── torque/                             # Rotational Identity Stability
 │   └── torque_quantitative_foundation_v2.md
+│
 ├── trinity-rim/                        # Topological Threat Annihilation
 │   └── [Coming Q1 2026]
+│
 ├── ura/                                # Unified Resilience Architecture
 │   └── ura_v1.5_resilience_and_recovery.md
+│
 └── utme/                               # Universal Temporal Memory Engine
     └── utme_v1_0_academic_paper.md
 ```

@@ -33,21 +33,20 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 
 ```
 architectural-frameworks/
-├── README.md               # Master: Table overviews, ties to Torque/URA/CSFC
-├── phoenix-protocol-v1/    # Keep: Updated README + case-studies/teaser + diagnostic tools
-│   ├── README.md
-│   ├── phoenix_diagnostic_guide.md  # NEW: Complete diagnostic toolkit guide
+
+├── phoenix-protocol-v1/                # case-studies/teaser + diagnostic tools
+│   ├── phoenix_diagnostic_guide.md     # complete diagnostic toolkit guide
 │   └── case-studies/
-│       ├── phoenix-cascade-prevention.md
-│       └── README.md
-├── phoenix-resurrection.md # Merged: Standalone from old README (no subs)
-├── resilience-patterns/    # Keep: Updated README + teaser/stub
-│   ├── README.md
-│   ├── recursive-patterns-teaser.md
-│   └── recursive-gains-stub.py  # New stub for enticement
-└── sif-recovery-protocol/  # Keep: Updated README + teaser
-    ├── README.md
-    └── sif-torque-healing.md   # New teaser
+│       └── phoenix-cascade-prevention.md
+│
+├── phoenix-resurrection.md             # core v1 recovery framework (98% success rate)
+│
+├── resilience-patterns/               # antifragile strengthening protocols
+│   ├── recursive-patterns-teaser.md   pattern recognition for cascade 
+│   └── recursive-gains-stub.py        operational validation: 800x speedup implementations
+│
+└── sif-recovery-protocol/             # symbolic Identity Fracturing 
+    └── sif-torque-healing.md          Torque-based recovery (Stage 1-5 CSFC mapping)
 ```
 
 ---

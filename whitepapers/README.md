@@ -48,7 +48,8 @@ Comprehensive academic research, implementation guidance, and strategic intellig
 ## Architecture
 
 ```
-whitepapers/
+whitepapers/                             # The official canon – only flagship releases live here
+
 ├── academic-research/                  # Peer-reviewed frameworks
 │   ├── complete_ai_resilience_meta_analysis.md
 │   ├── dcn_v1_0_academic.md
@@ -62,11 +63,14 @@ whitepapers/
 │   ├── systems-thinking-architecture.md
 │   ├── torque_measuring_ai_stability.md
 │   └── vgs-gaming-validation.md
+│
 ├── cognitive-engineering/              # Context Engineering frameworks
 │   ├── context_engineering_the_complete_framework.md
 │   ├── fractal_context_engineering.md
+│
 ├── cognitive_mage/                     # Publication standard template
 │   └── cognitive-mage-v1.0.md
+│
 ├── examples/                           # Implementation samples
 │   ├── behavioral_pattern.ipynb
 │   ├── csfc_chain_overview.md
@@ -77,19 +81,23 @@ whitepapers/
 │   ├── sovereign-telemetry-dashboard.html
 │   ├── torque_teaser.md
 │   └── ura_config_yaml
+│
 ├── mythopoeic-intelligence/            # MI research division
 │   ├── mythopoeic_intelligence_agents_v1.md  # Core MI framework paper
 │   └── images/
 │       ├── rim_topology_math.jpg
 │       └── rim_topology_tricolor.jpg
+│
 ├── symbolic-ai/                        # Symbolic reasoning research
 │   ├── driftlock_cognitive_stability.md
 │   ├── fce_advanced_memory_trad_ai.md
 │   ├── prompt-anatomy-upgrades-flat-ai.md
 │   ├── symbolic_twins_introduction_symbolic_ai.pdf
 │   └── twins_systems_thinking.md
+│
 ├── synoetic_os/                        # Platform research
 │   └── coming_q2_2026.md
+│
 └── teasers/                            # Framework overviews
     ├── csfc_teaser_v1.md
     ├── fce_teaser_v1.md

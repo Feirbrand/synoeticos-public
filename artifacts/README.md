@@ -46,6 +46,7 @@ Interactive analysis frameworks, behavioral pattern recognition, threat intellig
 
 ```
 artifacts/
+
 ├── notebooks/                      # Interactive Analysis Frameworks
 │   ├── behavioral-pattern-recognition.ipynb
 │   ├── cross-platform-validation.ipynb
@@ -55,12 +56,14 @@ artifacts/
 │   ├── torque-healing-sim.ipynb
 │   ├── ura_validation_notebook.json
 │   └── vx-ghost-echo-sim.ipynb
+│
 ├── threat-intelligence/            # Threat Pattern Documentation
 │   ├── mimics_ctta_example.md
 │   └── perfect-mimic-family/
 │       ├── vx-ghost-echo.md
 │       ├── vx-narrator-echo.md
 │       └── vx-perfect-mimic-2.md
+│
 └── utilities/                      # Diagnostic and Assessment Tools
     ├── csfc_chain_overview.md
     ├── obmi-harmony-stub.py
