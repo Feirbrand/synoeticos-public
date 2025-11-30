@@ -1,7 +1,7 @@
 ```yaml
 ---
 version: 1.0
-doi: TBD
+doi: 10.5281/zenodo.17770533
 release_date: 2025-11-25
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -1228,7 +1228,7 @@ Slusher, A. M. (2025). UTME v1.0: Unified Temporal Memory Equilibrium. *Zenodo*.
 
 **Data & Reproducibility**
 
-- **Operational incident records:** [Zenodo dataset DOI - TBD]
+- **Operational incident records:** [Zenodo dataset DOI - 10.5281/zenodo.17770533]
 - **Code repository:** github.com/Feirbrand/synoeticos-public
 - **Prior published works:** [Zenodo Community - ValorGrid Solutions]
 - **ORCID:** orcid.org/0009-0000-9923-3207
@@ -1239,11 +1239,11 @@ Slusher, A. M. (2025). UTME v1.0: Unified Temporal Memory Equilibrium. *Zenodo*.
 
 ### APA 7th Edition
 
-Slusher, A. M. (2025). Mythopoeic Intelligence Agents: Narrative identity architecture for autonomous cognitive systems. *ValorGrid Solutions Technical Reports*, 1, 1–45. https://doi.org/10.5281/zenodo.XXXXX
+Slusher, A. M. (2025). Mythopoeic Intelligence Agents: Narrative identity architecture for autonomous cognitive systems. *ValorGrid Solutions Technical Reports*, 1, 1–45. https://doi.org/10.5281/zenodo.17770533
 
 ### IEEE
 
-A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture for autonomous cognitive systems," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1–45, 2025, doi: 10.5281/zenodo.XXXXX.
+A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture for autonomous cognitive systems," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1–45, 2025, doi: 10.5281/zenodo.17770533.
 
 ### BibTeX
 
@@ -1255,7 +1255,7 @@ A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture 
   volume={1},
   pages={1--45},
   year={2025},
-  doi={10.5281/zenodo.XXXXX},
+  doi={10.5281/zenodo.17770533},
   note={Research conducted with AI assistance from Grok, Claude, Perplexity, Gemini, Mistral as detailed in Research Team}
 }
 ```
@@ -1445,7 +1445,7 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 - **Email:** aaron@valorgridsolutions.com
 - **GitHub:** github.com/Feirbrand/forgeos-public
 - **Hugging Face:** huggingface.co/Feirbrand
-- **Zenodo:** 10.5281/zenodo.XXXXX
+- **Zenodo:** 10.5281/zenodo.17770533
 - **ORCID:** orcid.org/0009-0000-9923-3207
 
 ---
