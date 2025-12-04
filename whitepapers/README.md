@@ -96,7 +96,7 @@ whitepapers/                             # The official canon – only flagship 
 │   └── twins_systems_thinking.md
 │
 ├── synoetic_os/                        # Platform research
-│   └── coming_q2_2026.md
+│   └── synoetic_os_v1.0
 │
 └── teasers/                            # Framework overviews
     ├── csfc_teaser_v1.md
