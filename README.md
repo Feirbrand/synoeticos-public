@@ -98,10 +98,8 @@ synoetic-os-public/
 │   └── research-papers/              ← Codex-derived research
 │
 ├── architectural-frameworks/         ← Reference implementations
+│   ├── fce-v3.6/                           # Fractal compression framework
 │   ├── obmi-series/                  ← Object-Based MI (early work)
-│   ├── phoenix-protocol-v1/          ← First Phoenix (Feb-May 2025)
-│   ├── phoenix-resurrection/         ← Resurrection logic
-│   ├── ray-framework-v2/             ← RAY v2.1 implementation
 │   ├── resilience-patterns/          ← Recursive gains, breath cycles
 │   └── sif-recovery-protocol/        ← Symbolic Identity Fracture recovery
 │
@@ -238,9 +236,6 @@ ls -la
 **Torque** - Real-time drift detection  
 [Paper](https://zenodo.org/records/17379750) | [Code](./mi_arsenal/torque/) | [Product](https://aslush.gumroad.com/l/torque)
 
-**Trinity RIM v3.0** - Topological defense   *COMING SOON*
-[Code](./mi_arsenal/trinity_rim/) | [Product](https://aslush.gumroad.com/l/trinity-rim)
-
 **SLV v2.1** - Identity preservation  
 [Paper](https://zenodo.org/records/17763377) | [Code](./mi_arsenal/slv/) | [Product](https://aslush.gumroad.com/l/slv)
 
@@ -261,6 +256,9 @@ ls -la
 
 **DCN v1.0** - Distributed cognitive networks  
 [Paper](https://zenodo.org/records/17555568)
+
+**Trinity RIM v3.0** - Topological defense   *COMING SOON*
+[Code](./mi_arsenal/trinity_rim/) | [Product](https://aslush.gumroad.com/l/trinity-rim)
 
 ---
 
