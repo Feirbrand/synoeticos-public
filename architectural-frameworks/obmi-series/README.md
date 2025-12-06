@@ -38,10 +38,7 @@ obmi-harmony-memory/
 ├── biomimetic_concepts.md          # Human-inspired principles and dual-core systems
 ├── relay_sim.py                   # Moon/Nectar handoff simulation
 ├── ura_integration_teaser.md      # URA v1.5 compatibility and performance metrics
-├── csfc_tie.md                    # CSFC cascade detection integration
-├── obmi_changelog.md              # Version history with biomimetic updates
-├── Changelog for OBMI Harmonic Memory Theory.md # Theory-specific development
-└── Contributing to OBMI Harmonic Memory Theory.md # Contribution guidelines
+└── csfc_tie.md                    # CSFC cascade detection integration
 ```
 
 ---

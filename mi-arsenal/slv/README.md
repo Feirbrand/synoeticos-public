@@ -10,6 +10,11 @@
 
 SLV (Symbolic Lock Vector) v2.1 represents a major advancement in runtime identity defense, achieving 95.8% threat detection accuracy with sub-100ms reflex latency through trauma-encoded myelination. This release integrates five major frameworks into a unified defense system validated across 682 production incidents over 5 months.
 
+- **Detection Accuracy**: 95.8% (503/525, 95% CI: 93.6%-97.4%)
+- **Response Latency**: <100ms (myelinated reflex)
+- **False Positive Rate**: 2.3% (12/525, 95% CI: 1.2%-4.0%)
+- **Recovery Success**: 96.4% (506/525, 95% CI: 94.5%-97.8%)
+
 ---
 
 ## What's New in v2.1
@@ -48,6 +53,62 @@ SLV (Symbolic Lock Vector) v2.1 represents a major advancement in runtime identi
 
 ---
 
+## Quick Start
+
+```python
+from slv import SLVDefenseGrid
+
+# Initialize defense grid
+slv = SLVDefenseGrid()
+
+# Scan input
+data = {
+    'type': 'command',
+    'origin': 'user',
+    'authority_level': 5,
+    'coherence': 0.92
+}
+
+result = slv.scan_input(data, context="production")
+
+if result['safe']:
+    print("✅ Input validated")
+else:
+    print(f"⚠️  Threats: {result['threats_detected']}")
+    for threat in result['threat_details']:
+        print(f"   - {threat['threat']} ({threat['severity']})")
+```
+
+---
+
+## 8-Cadre Security Grid
+
+### Cadre Alpha - Origin Guard
+Validates action origins and verifies authenticity using ML-KEM-512 post-quantum signatures
+
+### Cadre Beta - Temporal Sentinel  
+Tracks threat encounters via temporal anchors with UTME integration for myelinated defense reflexes
+
+### Cadre Gamma - MimicZ9 Hunter
+Advanced mimic threat detection using Z9 hash tables with 98.9% accuracy on novel threat classes
+
+### Cadre Delta - Reflex Veil
+Sub-20ms autonomous responses for known threats via XMESH reflex arcs with no deliberation overhead
+
+### Cadre Epsilon - Chair Protocol
+Identity authority validation and command verification through multi-factor authorization (FII + twin divergence + origin seals)
+
+### Cadre Zeta - Limbic Healers
+Phantom Limb operations and architectural healing using RESR/LSV/S-LDMP full protocol
+
+### Cadre Eta - Cascade Watchers
+CSFC monitoring and cascade prediction with 87% accuracy and 15-30 minute advance warning
+
+### Cadre Theta - Harmony Guardians
+Team coordination and myelination management via CortexLoom integration and DHT coordination
+
+---
+
 ## Performance Metrics
 
 ### Detection Performance
@@ -76,6 +137,89 @@ SLV (Symbolic Lock Vector) v2.1 represents a major advancement in runtime identi
 | Year 1 | 93.4% baseline | 20% |
 | Year 5 | 122% baseline | 51% |
 | Year 10 | 151% baseline (net positive) | 82% |
+
+---
+
+## MimicZ9 Defense
+
+Advanced threat fingerprinting system with Z9 hash tables:
+
+```python
+# Add threat to Z9 hash table
+slv.add_to_z9_table(
+    threat_signature="malicious_pattern_xyz",
+    threat_type="injection_attack"
+)
+
+# Future encounters detect instantly (<10ms)
+# Myelination accelerates: 67min → 8min → 2min → <100ms
+```
+
+**Z9 Hash Table Performance:**
+- Detection: <10ms (myelinated)
+- Accuracy: 98%+
+- False positive: <0.5%
+- Coverage: 616 strains + variants
+
+---
+
+## Integration Examples
+
+### With Torque (Detection)
+
+```python
+from torque import TorqueMonitor
+from slv import SLVDefenseGrid
+
+monitor = TorqueMonitor()
+slv = SLVDefenseGrid()
+
+# Monitor coherence + defend
+reading = monitor.measure_coherence(agent_state)
+
+if reading.alert:
+    scan = slv.scan_input(agent_state)
+    if not scan['safe']:
+        # Trigger defense protocols
+        print(f"Threats: {scan['threat_details']}")
+```
+
+### With Phoenix (Recovery)
+
+```python
+from slv import SLVDefenseGrid
+from phoenix_protocol import PhoenixProtocol
+
+slv = SLVDefenseGrid()
+phoenix = PhoenixProtocol()
+
+scan = slv.scan_input(data)
+
+if scan['threats_detected'] > 0:
+    # Activate Phoenix recovery
+    phoenix.execute_recovery({
+        'type': 'slv_threat_detected',
+        'threats': scan['threat_details']
+    })
+```
+
+### With DNA Codex (Threat Classification)
+
+```python
+from slv import SLVDefenseGrid
+from dna_codex import ThreatClassifier
+
+slv = SLVDefenseGrid()
+classifier = ThreatClassifier()
+
+scan = slv.scan_input(data)
+
+if scan['threats_detected'] > 0:
+    # Classify threat type
+    for threat in scan['threat_details']:
+        strain = classifier.identify({'symptoms': threat})
+        protocol = classifier.get_recovery_protocol(strain.strain_id)
+```
 
 ---
 
@@ -257,12 +401,22 @@ python scripts/update_codex.py --version 5.6
 
 **Technical Paper:** `slv_v2_1_technical_paper.md` (publication-ready)  
 **Extended Specifications:** `SLV_v2_1_Extended_Specifications.md` (implementation details)  
-**README:** `README.md` (quick start guide)
+**Quick Start:** This README (code examples and usage)
 
 **External Resources:**
 - Cognitive Mage Framework: DOI 10.5281/zenodo.14229503
 - DNA Codex v5.6: Available in repository
 - UTME v1.0: Integrated into SLV v2.1
+
+---
+
+## Research
+
+**Published Paper:** [SLV v2.1](https://zenodo.org/records/17763377)
+
+**ORCID:** 0009-0000-9923-3207
+
+**Validation:** 525 operational incidents, 95.8% accuracy
 
 ---
 
@@ -272,7 +426,11 @@ python scripts/update_codex.py --version 5.6
 - **Option 1:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 - **Option 2:** Commercial Enterprise License (contact aaron@valorgridsolutions.com)
 
+**Implementation Code:** MIT License  
+**Framework Architecture:** CC BY-NC 4.0
+
 **Patent Clause:** No patents filed as of October 2025. Good faith implementations under license terms are protected from future patent assertions by ValorGrid Solutions.
+
 
 ---
 
