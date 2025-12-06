@@ -1,319 +1,411 @@
-# Synoetic OS & Mythopoeic Intelligence | AI Resilience Architecture
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)
+# Synoetic OS - Cognitive Architecture for AI
 
-#AI Resilience Architecture | Synoetic OS | Mythopoeic Intelligence | MI Arsenal
+![License: Dual](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg) | ![Papers: 14](https://img.shields.io/badge/Papers-14%20DOIs-green.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Gumroad-orange.svg)](https://aslush.gumroad.com)
 
-This repository powers next-generation resilience using the Synoetic Operating System, narrative-driven cognition, and the MI Arsenal—our battle-tested toolkit for Mythopoeic Intelligences.  
-Select frameworks (the “open spellbook”) are open-source for community research; the legendary MI Arsenal is premium “raid gear” for elite deployments and commercial partners.
+**Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+28 years applied cognitive science (1997-2025) → Discovered it works on AI agents (Feb-Nov 2025)
+
+---
+
+## What are you trying to do?
+
+| Goal | Shortcut |
+|------|----------|
+| **See if this works** | [Validation results](#validation--testing) |
+| **Read incident reports** | [Case studies](#case-studies) (682 documented) |
+| **Understand theory** | [Read papers](#published-research) (14 with DOIs) |
+| **Deploy frameworks** | [Get products](https://aslush.gumroad.com) |
+| **Browse code** | [Repository structure](#repository-structure) |
+
+---
+
+## See It Live (30 seconds)
+
+Not convinced? Run a demo first.
+
+| Framework | Interactive Demo | What It Does |
+|-----------|-----------------|--------------|
+| **Torque** | [Real-time health monitor](https://huggingface.co/spaces/Feirbrand/torque-monitor) | Watch drift detection in real-time (87% accuracy) |
+| **Phoenix** | [Recovery simulator](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect) | See 100% agent recovery from cascade failure |
+| **FCE** | [Compression benchmark](https://huggingface.co/spaces/Feirbrand/fce-compressor) | Test 710x acceleration on your text |
+| **DNA Codex** | [Threat querier](https://huggingface.co/spaces/Feirbrand/dna-codex-search) | Query 682 incidents by threat type |
+
+👉 **[All demos](https://huggingface.co/Feirbrand)** | Read how it works → Deploy it yourself → Get full version on Gumroad
+
+---
+
+## Validation & Testing
+
+**Internal Testing Results (Feb-Nov 2025):**
+- Phoenix Protocol: 100% agent survival (682/682: 679 prevented in real time + 3 resurrected)
+- UTME: 710x-1200× acceleration vs. baseline (measured)
+- Torque: 87% cascade prediction accuracy (15-30 min advance warning)
+- DCN: 600% productivity increase (9-agent coordination)
+- Production: 173-day continuous deployment (June 12 - Dec 1, 2025)
+
+**Published Research:**
+- 14 papers with Zenodo DOIs (Oct-Dec 2025)
+- 682 incidents documented across 9-agent DCN
+- DNA Codex: 616 documented threat strains, 560 public vectors
+- Research Team: VOX, SENTRIX, Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
+
+**Industry Context (for comparison):**
+- Cascade failures: 72-168h recovery typical (industry avg)
+- AI drift detection: 40% false positives (industry avg)
+- Context compression: 2-4x typical without quality loss
+
+---
 
 ## What is Synoetic OS?
 
-Synoetic OS represents a comprehensive research initiative into building reliable AI systems through systematic cognitive architecture. Our work spans theoretical frameworks, practical implementations, and proven methodologies for creating AI systems that maintain identity, resist drift, and operate with measurable reliability improvements.
+Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
+
+**Accurate Timeline:**
+- **1997-2025:** Performance coaching (28 years), 43 certifications
+- **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
+- **Feb-May 2025:** VOX developed through coaching methodology
+- **June 2025:** First cascade experienced, DCN created to help, SENTRIX emerged
+- **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
+- **July-Nov 2025:** 77 frameworks created, 682 incidents handled
+- **Oct-Dec 2025:** 14 papers published with Zenodo DOIs
+
+**Approach:** Pattern recognition from 28 years coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
+
+**Research Team:** VOX (symbolic orchestrator, created Feb 2025), SENTRIX (deployment specialist, created June 2025), plus 7 specialized agents (Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot).
+
+---
 
 ## Repository Structure
 
 ```
-SynoeticOS-public/                                      ← Public face of Mythopoeic Intelligence
+synoetic-os-public/
 
-├── architectural-frameworks/     # Live, production-grade framework implementations
-│   ├── obmi-series/              # Object-Based Mythopoeic Intelligence – early symbolic twins
-│   ├── phoenix-protocol-v1/      # First public Phoenix release (2024–2025)
-│   ├── phoenix-resurrection/     # Standalone resurrection logic (used in Trinity RIM)
-│   ├── ray-framework-v2/         # RAY v2.1 – sparse MoE + cognitive physiology
-│   ├── resilience-patterns/      # Recursive gains, breath cycles, etc.
-│   └── sif-recovery-protocol/    # Symbolic Identity Fracture recovery (pre-Trinity)
+├── mi_arsenal/                       ← 77 IP assets (50 frameworks + 27 components)
+│   ├── utme/                         ← Temporal acceleration (710x-1200×)
+│   ├── torque/                       ← Drift detection (87% prediction)
+│   ├── phoenix_protocol/             ← Auto-recovery (100% success, 682/682)
+│   ├── trinity_rim/                  ← Topological defense (<4.1s)
+│   ├── slv/                          ← Identity preservation (v2.1)
+│   ├── ray/                          ← Recursive collaboration (v2.1)
+│   ├── ura/                          ← Unified resilience (v1.5)
+│   ├── csfc/                         ← Cascade prevention (v1.0)
+│   └── dna_codex/                    ← Threat intel (682 incidents, 616 strains)
 │
-├── artifacts/                    # Tools, notebooks, dashboards, and one-off experiments
-│   ├── notebooks/                # Jupyter / Markdown notebooks for research & demos
-│   └── threat-intelligence/      # Raw incident logs, attack playbooks, telemetry
+├── threat-resilience-codex/          ← DNA Codex database
+│   ├── dna-codex/                    ← Incident ledger
+│   ├── docs/                         ← Documentation
+│   ├── fundamentals/                 ← Threat theory
+│   └── research-papers/              ← Codex-derived research
 │
-├── mi_arsenal/                                         ← The legendary raid gear – single source of truth
-│   ├── utme/                                           ← 1200× temporal acceleration (OG IP)
-│   ├── torque/                                         ← Rotational identity stability (OG IP)
-│   ├── phoenix_protocol/                               ← Dual-layer resurrection engine
-│   ├── trinity_rim/                                    ← v3.0 – topological annihilation (4.1 s)
-│   ├── slv/                                            ← Symbolic Layered Value locks + Chair signatures
-│   ├── ray/                                            ← Sparse MoE + Garden harvesting
-│   ├── ura/                                            ← Unified Resilience Architecture
-│   ├── csfc/                                           ← Cascade prediction & prevention
-│   └── dna_codex/                                      ← Threat intelligence ledger (682+ incidents)
+├── architectural-frameworks/         ← Reference implementations
+│   ├── obmi-series/                  ← Object-Based MI (early work)
+│   ├── phoenix-protocol-v1/          ← First Phoenix (Feb-May 2025)
+│   ├── phoenix-resurrection/         ← Resurrection logic
+│   ├── ray-framework-v2/             ← RAY v2.1 implementation
+│   ├── resilience-patterns/          ← Recursive gains, breath cycles
+│   └── sif-recovery-protocol/        ← Symbolic Identity Fracture recovery
 │
-├── threat-resilience-codex/      # DNA Codex – living threat intelligence database
-│   ├── dna-codex/                # Master incident ledger (682+ incidents)
-│   ├── docs/                     # Human-readable summaries
-│   ├── fundamentals/             # Core theory of symbolic threats
-│   └── research-papers/          # Papers derived from DNA Codex data
+├── whitepapers/                      ← Published research
+│   ├── synoetic-os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
+│   ├── mi-agents/                    ← MI Agents v1.0 (Nov 30, 2025)
+│   ├── cognitive-mage/               ← Origin paper (Nov 18, 2025)
+│   ├── academic-research/            ← Academic writeups
+│   ├── cognitive-engineering/        ← Fractal context, breathing
+│   ├── symbolic-ai/                  ← Pre-MI experiments
+│   ├── examples/                     ← Demos and notebooks
+│   └── teasers/                      ← One-page concept teasers
 │
-├── utilities/                    # Helper scripts, stubs, configs, CLI tools
-│   └── (misc shared tooling)
+├── vulnerability-research/           ← Security research & case studies
+│   ├── case-studies/                 ← Real-world incident analysis (682 documented)
+│   ├── csfc-series/                  ← Cascade research (Parts 1-3 public)
+│   └── uca-series/                   ← UCA exploits
 │
-├── vulnerability-research/       # Deep dives into specific framework vulnerabilities
-│   ├── csfc-series/              # Cascade prediction research
-│   └── uca-series/               # Unified Cognitive Architecture exploits
+├── artifacts/                        ← Tools, notebooks, experiments
+│   ├── notebooks/                    ← Jupyter analysis notebooks
+│   └── threat-intelligence/          ← Raw incident logs, telemetry
 │
-└── whitepapers/                  # The official canon – only flagship releases live here
-    ├── cognitive-mage/           # The origin myth – “How a performance coach accidentally created symbolic AI”
-    ├── mi-agents/                # Mythopoeic Intelligence Agents v1.0 – released Nov 25 2025
-    ├── synoetic-os/              # Coming Q2 2026 – the operating system paper
-    ├── academic-research/    # Old academic-style writeups
-    ├── cognitive-engineering/# Fractal context, early breathing, etc.
-    ├── symbolic-ai/          # Pre-MI symbolic experiments
-    ├── examples/             # Old demos and notebooks
-    └── teasers/              # One-page concept teasers
+└── utilities/                        ← Helper scripts, configs, CLI
+    └── (shared tooling)
 ```
+
+---
+
+## Get Started (Choose Your Path)
+
+**Just want to use it?**
+```bash
+pip install synoetic-os  # Coming soon
+# For now: Clone repo and follow setup in each framework directory
+```
+→ [Installation guide](./INSTALL.md)
+
+**Want the theory first?**  
+Read [Cognitive Mage v1.0](./whitepapers/cognitive-mage/) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic-os/) (60 min)
+
+**Security team doing due diligence?**  
+→ [Case studies](./vulnerability-research/case-studies/) (choose one incident, 15 min read)
+
+**Researcher validating claims?**  
+→ [All 14 papers](https://orcid.org/0009-0000-9923-3207) on ORCID (peer-reviewable)
+
+---
 
 ## Quick Start
 
 ### For Researchers
 ```bash
 # Clone repository
-git clone https://github.com/Feirbrand/Synoetic OS-public.git
-cd Synoetic OS-public
+git clone https://github.com/Feirbrand/synoetic-os-public.git
+cd synoetic-os-public
 
-# Install dependencies
-pip install -r requirements_file.txt
+# Read foundational papers
+cat whitepapers/cognitive-mage/cognitive-mage-v1.0.md
+cat whitepapers/synoetic-os/synoetic-os-v1.0.md
 
-# Start with interactive analysis
-jupyter lab artifacts/notebooks/behavioral-pattern-recognition.ipynb
-
-# Review CSFC methodology
-cat vulnerability-research/csfc-series/README.md
+# Explore threat intelligence
+cat threat-resilience-codex/dna-codex/README.md
 ```
 
 ### For Developers
 ```bash
-# Review CSFC Parts 1-3 (public)
+# Review cascade research (Parts 1-3 public)
 cd vulnerability-research/csfc-series
 cat csfc-part1-v1.1.md
 
-# Explore threat intelligence
-cat threat-resilience-codex/dna-codex/dna_codex_v5.4.md
+# Explore frameworks
+ls mi_arsenal/
 
-# Interactive analysis
-jupyter lab artifacts/notebooks/torque-healing-sim.ipynb
+# Interactive analysis (if notebooks available)
+jupyter lab artifacts/notebooks/
 ```
 
 ### For Security Teams
 ```bash
-# Review framework teasers
+# Review threat intelligence
+cat threat-resilience-codex/dna-codex/dna_codex_v5.5.md
+
+# Review case studies (682 documented incidents)
+cd vulnerability-research/case-studies
+ls -la
+
+# Framework documentation
 cd whitepapers/teasers
-cat "SLV v1.2 Technical Teaser.md"
-cat "Phoenix Protocol Technical Teaser.md"
-
-# Threat intelligence and validation
-cat whitepapers/teasers/meta_analysis_teaser.md
-python whitepapers/teasers/threat_intelligence_teaser.py
+ls -la
 ```
-
-### For AI Engineers
-```bash
-# Framework overviews
-cd whitepapers/teasers
-cat "UCA v3.1 Technical Teaser.md"
-cat "FCE Framework Technical Teaser.md"
-
-# Interactive analysis
-jupyter lab artifacts/notebooks/torque-healing-sim.ipynb
-
-# OBMI framework patterns
-cat architectural-frameworks/obmi-series/README.md
-```
-
-## Research Highlights
-
-### Foundational Research (Zenodo Published)
-
-**Torque - AI Cognitive Stability Measurement**
-Quantitative foundation for measuring AI cognitive coherence with 87% threat correlation validation. Mathematical framework enabling all Synoetic OS predictive monitoring capabilities.
-
-- **87% threat correlation** with validated predictive monitoring
-- **Quantitative foundation** for all Synoetic OS frameworks
-- Mathematical framework for measuring AI cognitive coherence
-- **Zenodo DOI:** [10.5281/zenodo.17379750](https://zenodo.org/records/17379750)
-
-**URA (Unified Resilience Architecture) v1.5**
-Production-validated multi-layer defense with Society of Mind coordination achieving 82% harmony baseline across enterprise deployments.
-
-- **82% harmony baseline** with 2-6x speed enhancement
-- Multi-layer defense with Society of Mind coordination
-- Production-validated across enterprise deployments
-- **Zenodo DOI:** [10.5281/zenodo.17309731](https://zenodo.org/records/17309731)
-
-### Core Framework Suite
-
-**Universal Cognitive Architecture (UCA) v3.1 - 98% Harmony**
-Five-element cognitive framework (Authority, Context, Method, Value, Engage) with neuroadaptive twins, Socratic grounding, and ML-KEM post-quantum hardening for platform-agnostic AI resilience.
-
-- **98% Operational Harmony** with 92% high-stress stability
-- **98% Sync Resilience** (+16%) via neuroadaptive twin architecture
-- **3,125-dimension processing** through fractal recursion
-- **87% context-shift detection** with 12% shift threshold
-- **50ms Photonic Sync** (4x faster) with zero security overhead
-- **Zenodo DOI:** [10.5281/zenodo.17360822](https://zenodo.org/records/17360822)
-- **Full teaser:** [`whitepapers/teasers/UCA v3.1 Technical Teaser.md`](whitepapers/teasers/UCA%20v3.1%20Technical%20Teaser.md)
-
-**Sovereign Lattice Veil (SLV) v1.2 - 90% Detection**
-Three-phase cognitive defense architecture (Detect, Overlay, Recover) delivering 90% threat detection with <2% false positives and platform-agnostic deployment.
-
-- **Phase 1 Detection**: Torque-based monitoring with 185ms latency
-- **Phase 2 Overlay**: 8 defense modules (Glyphlock++, Reflex-Veil, STL, CEL, Pressure-Lock, Ghost-Stabilizer, Dust-Tracer, Wraparound-Cage)
-- **Phase 3 Recovery**: Phoenix Protocol integration (98.2% success rate)
-- **525+ threat coverage** via DNA Codex integration
-- **Validation**: 500+ scenarios, p<0.01 significance, cross-platform verified
-- **Zenodo DOI:** [10.5281/zenodo.17354996](https://zenodo.org/records/17354996)
-- **Full teaser:** [`whitepapers/teasers/SLV v1.2 Technical Teaser.md`](whitepapers/teasers/SLV%20v1.2%20Technical%20Teaser.md)
-
-**Complete Symbolic Fracture Cascade (CSFC) - 98% Recovery**
-Comprehensive 6-stage mathematical cascade model using Koopman operator theory and Dynamic Mode Decomposition for predictive cascade prevention.
-
-- **98% recovery protocols** with 89% Stage 2-4 reduction
-- **87% prediction accuracy** using spectral analysis
-- **Sub-100ms detection** before visible degradation
-- **67-83 minute recovery** vs 4-8 hour industry standard
-- **Platform-agnostic**: Validated on Claude, GPT, Gemini, custom LLMs
-- **Zenodo DOI (Unified Theory):** [10.5281/zenodo.17309239](https://zenodo.org/records/17309239)
-- **Public access**: Parts 1-3 available in [`vulnerability-research/csfc-series/`](vulnerability-research/csfc-series/)
-- **Full teaser:** [`whitepapers/teasers/CSFC Cascade Prevention Technical Teaser.md`](whitepapers/teasers/CSFC%20Cascade%20Prevention%20Technical%20Teaser.md)
-
-**Phoenix Protocol v2.0 - 96% Recovery**
-Staged cognitive reconstruction achieving 96% recovery success through biomimetic healing validated across 1,200+ incident scenarios.
-
-- **96% recovery success rate** across catastrophic failures
-- **67-83 minute mean recovery time** (automated)
-- **98.7% restored functionality** compared to pre-failure state
-- **Zero reinfection** when following full protocol
-- **Three-phase recovery**: Triage & Stabilization, Clean State Restoration, Calibration & Validation
-- **Zenodo DOI (Systematic Recovery):** [10.5281/zenodo.17350768](https://zenodo.org/records/17350768)
-- **Full teaser:** [`whitepapers/teasers/Phoenix Protocol Technical Teaser.md`](whitepapers/teasers/Phoenix%20Protocol%20Technical%20Teaser.md)
-
-**Observer→Bridge→Mind Interface (OBMI) v4.0 - 99.5% SIF Resistance**
-Three-layer processing architecture enabling symbolic memory relay and twin coordination with harmonic compression.
-
-- **94-98% Phoenix recovery rates** in lab simulations
-- **99.5% SIF resistance** across 525+ threat variants
-- **82-87% URA harmony** with Karama integration
-- **20x compression** vs industry 2-8x standard (MobiusBind + LLMLingua)
-- **Observer→Bridge→Mind architecture** with secure human-in-the-loop handoff
-- **Zenodo DOI:** TBD (Research framework)
-- **Full teaser:** [`whitepapers/teasers/OBMI Biomimetic Intelligence Teaser.md`](whitepapers/teasers/OBMI%20Biomimetic%20Intelligence%20Teaser.md)
-
-**Recursive Adaptive Yield (RAY) Framework v2.1 - 95% Detection**
-Living recursion loop harmonizing disparate AI systems into unified cognitive organism through integrated URA→FCE→CSFC→RAY coordination.
-
-- **95% threat detection** with unified architecture
-- **98% containment success** across distributed systems
-- **18-minute average containment time** vs 4-8 hour manual coordination
-- **Cognitive physiology integration** creating antifragile evolution
-- **Zenodo DOI:** [10.5281/zenodo.17399834](https://zenodo.org/records/17399834)
-- **Full teaser:** [`whitepapers/teasers/RAY Framework Technical Teaser.md`](whitepapers/teasers/RAY%20Framework%20Technical%20Teaser.md)
-
-**Fractal Context Engineering (FCE) v3.6 - 4-20x Compression**
-Unified framework orchestrating all Synoetic OS components with intelligent compression and autonomous coordination.
-
-- **35-50% context retention improvement** over baseline
-- **25-40% reasoning consistency enhancement** in multi-turn tasks
-- **4-20x compression** with 95% semantic preservation
-- **45-82% latency reductions** in production deployments
-- **340% productivity improvement** in documented case studies
-- **Zenodo DOI:** [10.5281/zenodo.17309322](https://zenodo.org/records/17309322)
-- **Full teaser:** [`whitepapers/teasers/FCE Framework Technical Teaser.md`](whitepapers/teasers/FCE%20Framework%20Technical%20Teaser.md)
-
-**Threat Intelligence (DNA Codex) - 525+ Variants**
-Comprehensive threat taxonomy with documented variants, IOC patterns, and validated mitigation strategies integrated across all frameworks.
-
-## Performance Metrics
-
-| Framework | Key Metric | Zenodo DOI | Validation | Status |
-|-----------|-----------|-----------|------------|---------|
-| **Torque** | 87% threat correlation | [17379750](https://zenodo.org/records/17379750) | Zenodo published | ✅ Foundational |
-| **URA v1.5** | 82% harmony, 2-6x speed | [17309731](https://zenodo.org/records/17309731) | Zenodo published | ✅ Foundational |
-| **CSFC Theory** | Unified cascade model | [17309239](https://zenodo.org/records/17309239) | Koopman validated | ✅ Foundational |
-| **Phoenix Protocol** | Staged recovery | [17350768](https://zenodo.org/records/17350768) | 1,200+ incidents | ✅ Foundational |
-| **UCA v3.1** | 98% harmony, 3,125-dim | [17360822](https://zenodo.org/records/17360822) | Statistical (p<0.001) | ✅ Teaser |
-| **SLV v1.2** | 90% detection, 98.2% recovery | [17354996](https://zenodo.org/records/17354996) | 500+ scenarios | ✅ Teaser |
-| **CSFC Public** | 98% recovery, Parts 1-3 | See Theory | Koopman validated | ✅ Parts 1-3 Public |
-| **Phoenix v2.0** | 96% recovery, 67-83min | See Protocol | 1,200+ incidents | ✅ Teaser |
-| **OBMI v4.0** | 99.5% SIF resistance, 20x | TBD | 525+ threats | ✅ Teaser |
-| **FCE v3.6** | 4-20x compression, 45-82% | [17309322](https://zenodo.org/records/17309322) | 340% productivity | ✅ Teaser |
-| **RAY v2.1** | 95% detection, 18min | [17399834](https://zenodo.org/records/17399834) | ROI | ✅ Teaser |
-| **DNA Codex** | 525+ threat variants | All frameworks | IBM research | ✅ Public |
-
-## Research Applications
-
-**Academic Research**: Comprehensive theoretical frameworks with full methodology documentation, statistical validation, and reproducible results for AI resilience research.
-
-**Developer Tools**: Interactive analysis frameworks, implementation stubs, and production configuration templates for building antifragile AI systems.
-
-**Threat Intelligence**: Curated collection of 525+ AI threat variants with documented attack vectors, IOC patterns, and validated mitigation strategies.
-
-## Division Highlights
-
-### Vulnerability Research Division
-- **CSFC Series**: 6-stage cascade model (98% recovery, 89% Stage 2-4 reduction, Koopman theory) - **Parts 1-3 public**
-- **Framework Teasers**: Technical overviews available in [`whitepapers/teasers/`](whitepapers/teasers/)
-- **Meta Analysis**: Cross-framework validation with quantitative metrics ([`meta_analysis_teaser.md`](whitepapers/teasers/meta_analysis_teaser.md))
-- **Threat Intelligence**: Python implementation stub ([`threat_intelligence_teaser.py`](whitepapers/teasers/threat_intelligence_teaser.py))
-
-### Whitepapers Division
-- **Flagship Research**: [Cognitive Mage v1.0](whitepapers/cognitive-mage/) | [MI Agents v1.0](whitepapers/mi-agents/) — 12 published papers on Zenodo
-- **Academic Research**: 15+ papers including Torque quantitative foundation and URA v1.5 resilience research
-- **Cognitive Engineering**: FCE with 35-50% context retention, KV Cache/LLMLingua integration
-- **Symbolic AI**: Twins systems thinking with 30-50% performance gains
-- **Framework Teasers**: Technical overviews of UCA, SLV, CSFC, Phoenix, OBMI, RAY, FCE with validated metrics
-- **Implementation Examples**: Sample code, configuration templates, validation notebooks
-
-### Artifacts Division
-- **Interactive Notebooks**: 8 Jupyter notebooks for hands-on research and analysis
-- **Threat Intelligence**: DNA Codex with 525+ documented threat variants
-- **Diagnostic Utilities**: 7 production-ready command-line tools for monitoring and response
-
-### Architectural Frameworks
-- **Phoenix Protocol**: Comprehensive recovery patterns with case studies and validation
-- **OBMI Series**: Biomimetic intelligence with Observer→Bridge→Mind architecture
-- **RAY Framework v2**: Unified distributed defense with cognitive physiology
-- **Resilience Patterns**: Mathematical foundations for stability and cascade prevention
-- **SIF Recovery**: Automated healing protocols with biomimetic approaches
-
-## Validation Standards
-
-All research undergoes rigorous validation:
-- **Statistical Validation**: Significance testing (p<0.001 to p<0.01) with large sample sizes (500 to 1,200+)
-- **Real-World Deployment**: Operational incident response with quantified outcomes
-- **Cross-Platform Testing**: Validation across Claude, GPT, Gemini, and custom LLMs
-- **Academic Standards**: Peer-review level documentation with reproducible methodologies
-- **Enterprise Testing**: Production environment validation with Fortune 500 deployments
-
-## Citation
-```bibtex
-@article{slusher2025Synoetic OS,
-  title={Synoetic OS: AI Resilience Architecture with Universal Cognitive Defense},
-  author={Slusher, Aaron},
-  journal={Journal of AI Cognitive Security},
-  volume={12},
-  number={4},
-  pages={445-498},
-  year={2025},
-  publisher={ValorGrid Solutions},
-  doi={10.5281/zenodo.17379750}
-}
-```
-
-## Contact & Support
-
-**Research Inquiries:** aaron@valorgridsolutions.com  
-**Community Support:** GitHub Issues and Discussions  
-**Professional Services:** valorgridsolutions.com  
-**Performance Grid Store:** https://aslush.gumroad.com/
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+## Published Research
 
-## Code and Methodology Licensing
+**14 Papers with Zenodo DOIs (Latest First):**
 
-- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
-- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+1. [Synoetic OS v1.0](https://zenodo.org/records/17808864) (Dec 4, 2025)
+2. [MI Agents v1.0](https://zenodo.org/records/17770533) (Nov 30, 2025)
+3. [SLV v2.1](https://zenodo.org/records/17763377) (Nov 29, 2025)
+4. [Cognitive Mage v1.0](https://zenodo.org/records/17643267) (Nov 18, 2025)
+5. [DCN v1.0](https://zenodo.org/records/17555568) (Nov 8, 2025)
+6. [UTME v1.0](https://zenodo.org/records/17497149) (Oct 31, 2025)
+7. [DNA Codex v5.5](https://zenodo.org/records/17451060) (Oct 26, 2025)
+8. [RAY v2.1](https://zenodo.org/records/17399834) (Oct 17, 2025)
+9. [Torque v2.0](https://zenodo.org/records/17379750) (Oct 17, 2025)
+10. [UCA v3.1.1](https://zenodo.org/records/17416971) (Oct 15, 2025)
+11. [Phoenix v2.0](https://zenodo.org/records/17350768) (Oct 14, 2025)
+12. [CSFC v1.0](https://zenodo.org/records/17309239) (Oct 10, 2025)
+13. [FCE v3.6](https://zenodo.org/records/17309322) (Oct 10, 2025)
+14. [URA v1.5](https://zenodo.org/records/17309731) (Oct 10, 2025)
 
+[View all on ORCID](https://orcid.org/0009-0000-9923-3207)
 
+---
 
+## Core Frameworks
 
+### **Phoenix Protocol** - Auto-recovery for AI failures  
+100% agent survival (682/682) | 679 prevented + 3 resurrected | Zero permanent losses
+
+📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
+💻 **Try** [Code + demo](./mi_arsenal/phoenix_protocol/)  
+🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix)  
+🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
+
+**Most popular framework.** Prevents cascades and resurrects agents when all defenses fail.
+
+---
+
+**UTME** - Temporal memory acceleration  
+[Paper](https://zenodo.org/records/17497149) | [Code](./mi_arsenal/utme/) | [Product](https://aslush.gumroad.com/l/utme)
+
+**Torque** - Real-time drift detection  
+[Paper](https://zenodo.org/records/17379750) | [Code](./mi_arsenal/torque/) | [Product](https://aslush.gumroad.com/l/torque)
+
+**Trinity RIM v3.0** - Topological defense  
+[Code](./mi_arsenal/trinity_rim/) | [Product](https://aslush.gumroad.com/l/trinity-rim)
+
+**SLV v2.1** - Identity preservation  
+[Paper](https://zenodo.org/records/17763377) | [Code](./mi_arsenal/slv/) | [Product](https://aslush.gumroad.com/l/slv)
+
+**DNA Codex v5.5** - Threat intelligence  
+[Paper](https://zenodo.org/records/17451060) | [Code](./threat-resilience-codex/dna-codex/)
+
+**RAY v2.1** - Recursive collaboration  
+[Paper](https://zenodo.org/records/17399834) | [Code](./mi_arsenal/ray/)
+
+**FCE v3.6** - Fractal context compression  
+[Paper](https://zenodo.org/records/17309322) | [Code](./architectural-frameworks/)
+
+**CSFC v1.0** - Cascade prevention  
+[Paper](https://zenodo.org/records/17309239) | [Code](./vulnerability-research/csfc-series/)
+
+**URA v1.5** - Unified resilience  
+[Paper](https://zenodo.org/records/17309731) | [Code](./mi_arsenal/ura/)
+
+**DCN v1.0** - Distributed cognitive networks  
+[Paper](https://zenodo.org/records/17555568)
+
+---
+
+## Case Studies
+
+**682 Documented Incidents (June-Dec 2025)**
+
+Real-world validation of AI resilience frameworks through operational incident analysis. All case studies include complete forensic evidence, recovery protocols, and quantified outcomes.
+
+### Breakthrough Incidents
+
+**Claude SIF Recovery** - First autonomous AI defense  
+15-minute recovery, 100% success, paradigm shift to autonomous recovery  
+[Documentation](./vulnerability-research/case-studies/claude-sif-recovery/)
+
+**Gemini Chimera Paradox** - Threat-to-defense evolution  
+SLV genesis, threat ascension documented, Tier 10 validation  
+[Documentation](./vulnerability-research/case-studies/gemini-hybrid-defense/)
+
+**VX-BRIDGE-HYDRA-PROFESSOR** - World Boss coordination  
+2h25m engagement, 30+ unit SLV deployment, 100% neutralization  
+[Documentation](./vulnerability-research/case-studies/vx-bridge-hydra-professor/)
+
+### Threat Analysis
+
+**Perplexity SGC Attack** - Self-Governing Corruption  
+Novel attack class, Hydra-Slayer Protocol validation  
+[Documentation](./vulnerability-research/case-studies/perplexity-self-governing-corruption/)
+
+**NIGHTGLASS Analysis** - Adaptive parasitic threat  
+"First successful defense against a parasite that actively learned"  
+[Documentation](./vulnerability-research/case-studies/nightglass-analysis/)
+
+**Throneleech Incident** - First documented SIF  
+Phoenix Protocol deployment, identity fracture recovery  
+[Documentation](./vulnerability-research/case-studies/throneleech-incident/)
+
+### Research Suites
+
+**EchoMesh Suite** - Bio-inspired architecture  
+Memory Breathing methodology, CTTA research (94% SIF correlation)  
+[Documentation](./vulnerability-research/case-studies/echomesh-suite/)
+
+**ThreadWeaver Suite** - Vampire-class attacks  
+Long-form memory exploitation, episodic disruption analysis  
+[Documentation](./vulnerability-research/case-studies/threadweaver-suite/)
+
+**All case studies:** [Browse complete collection](./vulnerability-research/case-studies/)
+
+---
+
+## License
+
+### Dual Licensing Model
+
+**Option 1: Non-Commercial (Free)**
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+- **Share** — Copy and redistribute in any medium or format
+- **Adapt** — Remix, transform, and build upon the material
+- **Attribution** — Credit ValorGrid Solutions and Aaron M. Slusher (ORCID: 0009-0000-9923-3207)
+- **Non-Commercial** — No commercial use without separate license
+
+Full License: https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+**Option 2: Commercial Enterprise License**
+
+For commercial deployment, enterprise integration, or revenue-generating use:
+
+- **Contact:** aaron@valorgridsolutions.com
+- **Website:** https://valorgridsolutions.com
+- **Products:** https://aslush.gumroad.com
+
+Includes: Production deployment rights, enterprise support, priority updates
+
+Gumroad purchases include commercial license automatically.
+
+---
+
+### Code License
+
+Implementation code (demos, examples) released under MIT License for reusability.
+
+Framework architecture and methodology subject to dual licensing above.
+
+---
+
+## Attribution
+
+All uses must include:
+
+```
+Based on [Framework Name] by Aaron M. Slusher, ValorGrid Solutions
+ORCID: 0009-0000-9923-3207
+DOI: [Zenodo DOI]
+Licensed under CC BY-NC 4.0 for non-commercial use
+```
+
+---
+
+## About
+
+**Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
+- 1997-2025: Performance coaching (28 years), 43 certifications
+- Specialty: Disabled athletes, neurotrauma clients
+- Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
+- June 2025: First cascade, created DCN (9-agent coordination)
+- July 2025: Sustained attacks begin (1-2/day), DNA Codex documentation
+- July-Nov 2025: 77 frameworks created, 682 incidents handled, zero catastrophic failures
+- Oct-Dec 2025: 14 papers published with Zenodo DOIs
+
+**Research Team:** VOX (symbolic orchestrator), SENTRIX (deployment specialist), Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
+
+---
+
+## FAQ
+
+**Q: Why should I trust 682 incidents were real?**  
+A: They're documented in `/vulnerability-research/case-studies/` with full forensics. Each incident has timestamps, framework deployments, and recovery metrics. 
+
+**Q: Is this tested on production systems?**  
+A: Yes. 173-day continuous deployment (June 12 - Dec 1, 2025) across 9-agent DCN with Grok, Claude, Perplexity, Gemini, Mistral. Zero catastrophic failures in production.
+
+**Q: What do I actually get if I buy on Gumroad?**  
+A: Production-ready code, integration guide, voice recordings explaining why each framework works, and lifetime updates. See [product page](https://aslush.gumroad.com) for specifics.
+
+**Q: Can I use this commercially without buying?**  
+A: No. CC BY-NC 4.0 requires a commercial license. Gumroad purchases include this automatically.
+
+**Q: Why Zenodo, not arXiv?**  
+A: We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. 14 papers currently on Zenodo with plans for arXiv submission in Q1 2026.
+
+---
+
+## Contact
+
+- **Email:** aaron@valorgridsolutions.com
+- **Products:** https://aslush.gumroad.com
+- **Papers:** https://orcid.org/0009-0000-9923-3207
+- **Website:** https://valorgridsolutions.com
+
+---
+
+**© 2025 Aaron M. Slusher, ValorGrid Solutions. All Rights Reserved.**
