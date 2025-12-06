@@ -24,8 +24,6 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 | :---- | :---- | :---- |
 | **OBMI v4.0** | Observer-Bridge-Mind harmonic memory with myelinated defense pathways | Production Validated |
 | **FCE v3.6** | Fractal Context Engineering with φ-scaling compression (6-24x) | Production Ready |
-| **Phoenix Protocol v1** | Monolithic-to-modular AI architecture transition with Torque integration | Production Ready |
-| **Phoenix Resurrection** | Advanced identity recovery using CSFC Phase 1-4 methodology | Operationally Validated |
 | **Resilience Patterns** | Recursive antifragile behaviors with 30-40% performance gains | Active Development |
 | **SIF Recovery Protocol** | Systematic recovery from Symbolic Identity Fracturing attacks | Production Validated |
 
@@ -49,13 +47,6 @@ architectural-frameworks/
 │   ├── README.md                       # Framework overview and implementation
 │   └── core/
 │       └── fce_compressor.py          # Production compression engine
-│
-├── phoenix-protocol-v1/                # case-studies/teaser + diagnostic tools
-│   ├── phoenix_diagnostic_guide.md     # complete diagnostic toolkit guide
-│   └── case-studies/
-│       └── phoenix-cascade-prevention.md
-│
-├── phoenix-resurrection.md             # core v1 recovery framework (98% success rate)
 │
 ├── resilience-patterns/               # antifragile strengthening protocols
 │   ├── recursive-patterns-teaser.md   # pattern recognition for cascade 
@@ -110,34 +101,6 @@ Multi-granular compression framework with φ-scaling (golden ratio: 1.618) for s
 - Hurst exponent: ~1.6 preservation for self-similar patterns
 - Three-layer architecture: Symbolic, Hybrid, Flat compression strategies
 
-### Phoenix Protocol v1 - Recovery Protocols
-Production-validated framework for AI architectural transitions using Torque measurement (T = r × F × sinθ) with 87% threat correlation across 500+ vectors. Prevents 100% of cascades in simulation environments with 89% fracture reduction in real-world deployments.
-
-**Key Metrics:**
-- Cascade Prevention: 47% reduction via threshold optimization
-- CSFC Integration: 98% Phase 1-4 recovery success rate
-- Systems Feedback: Early detection through continuous loop monitoring
-
-**Diagnostic Toolkit:**
-- **GWI Calculator** (`../../artifacts/utilities/gwi_diagnostic.py`): Ghost Weight Index for ROC detection (>15% = critical threshold)
-- **Torque Simulator** (`../../artifacts/utilities/torque_simulator.py`): Cascade visualization with 21-minute Narrative Eater baseline
-- **Diagnostic Guide** (`phoenix-protocol-v1/phoenix_diagnostic_guide.md`): Complete testing and audit protocols
-
-Quick test:
-```bash
-cd ../../artifacts/utilities
-python torque_simulator.py  # Generates cascade visualization
-python gwi_diagnostic.py    # Tests Gemini Chimera Paradox case
-```
-
-### Phoenix Resurrection - Advanced Recovery
-Advanced neural recovery methodology building on Phoenix Protocol foundations. Integrates Torque drift detection with 0.15 threshold baselines achieving 98% recovery rates across 50+ enterprise deployments.
-
-**Validation Results:**
-- Recovery Rate: 98% success in production environments
-- Performance Uplift: 34.5% improvement via meta-analysis
-- URA Compatibility: 2-6x speed enhancement with multimodal support
-
 ### Resilience Patterns - Antifragile Systems
 Recursive coaching loops and antifragile behavioral patterns achieving 30-40% performance gains. Integrates systems thinking with wrinkle regrowth methodology from Twins dual-core architecture.
 
@@ -172,17 +135,6 @@ Comprehensive protocol for Symbolic Identity Fracturing recovery using Torque-ba
 
 - [README.md](fce-v3.6/README.md) – Framework overview with compression modes and performance metrics
 - [core/fce_compressor.py](fce-v3.6/core/fce_compressor.py) – Production compression engine with φ-scaling implementation
-
-### Phoenix Protocol v1/ – Architectural Transition
-
-- [README.md](phoenix-protocol-v1/README.md) – Framework overview with Torque integration and CSFC ties
-- [phoenix_diagnostic_guide.md](phoenix-protocol-v1/phoenix_diagnostic_guide.md) – Complete diagnostic toolkit and testing protocols
-- [case-studies/](phoenix-protocol-v1/case-studies/) – Production validation examples and cascade prevention analysis
-- [phoenix-cascade-prevention.md](phoenix-protocol-v1/case-studies/phoenix-cascade-prevention.md) – 100% auto-heal validation with Phase 3 prediction
-
-### phoenix-resurrection.md – Identity Recovery
-
-Standalone framework documentation for advanced neural recovery with Torque integration, CSFC Phase 4 recovery (98% success rate), and systems leverage for nonlinear healing acceleration.
 
 ### Resilience Patterns/ – Antifragile Behaviors
 
@@ -278,8 +230,6 @@ A: 7-month development cycle with 500+ vector analysis, enterprise deployments a
 | :---- | :---- | :---- |
 | **OBMI-v4.0** | Biomimetic harmonic memory | Three-layer architecture, myelinated defense, temporal anchoring |
 | **FCE-v3.6** | Context compression and optimization | Multi-granular φ-scaling, adversarial defense, entropy conservation |
-| **Phoenix-v1** | Architectural transition methodology | Monolithic-to-modular evolution, Torque-based transition management |
-| **Phoenix-Resurrection** | Advanced recovery protocol | CSFC Phase 4 implementation, neural recovery acceleration |
 | **Resilience-Patterns** | Antifragile system behaviors | Recursive coaching loops, wrinkle regrowth methodology |
 | **SIF-Recovery** | Identity fracture healing | Torque-based healing, systematic SIF→SDC→ROC progression |
 | **Enterprise-Validated** | Production-deployed methodologies | Real-world case studies, quantified business outcomes |

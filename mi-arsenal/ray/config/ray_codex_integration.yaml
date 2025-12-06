@@ -1,0 +1,129 @@
+# RAY v2.1 - DNA Codex Integration Configuration
+
+codex_integration:
+  version: "5.6"
+  strain_database: 525
+  correlation_enabled: true
+  
+# Threat Family Mapping
+threat_families:
+  injection:
+    strain_prefix: "PIW"
+    variants: 387
+    detection_rate: 0.98
+    containment_time_min: 14.2
+    
+  persistence:
+    strain_prefix: "SSM"
+    variants: 294
+    detection_rate: 0.97
+    containment_time_min: 16.8
+    
+  entropic:
+    strain_prefix: "QMT"
+    variants: 218
+    detection_rate: 0.96
+    containment_time_min: 17.1
+    
+  exfiltration:
+    strain_prefix: "CAMO"
+    variants: 142
+    detection_rate: 1.00
+    containment_time_min: 12.4
+    
+  polymorphic:
+    strain_prefix: "POLY"
+    variants: 206
+    detection_rate: 0.95
+    containment_time_min: 18.9
+
+# CVSS Score Mapping
+cvss_thresholds:
+  critical: 9.0
+  high: 7.0
+  medium: 4.0
+  low: 0.1
+
+# Velocity Tracking
+velocity:
+  tracking_enabled: true
+  update_interval_sec: 300
+  fastest_strain: "CAMO-001"
+  fastest_velocity: 0.24  # per day
+  
+# Pattern Signatures
+signature_detection:
+  enabled: true
+  signature_types:
+    - "behavioral"
+    - "structural"
+    - "temporal"
+    - "cascade"
+  
+# IOC Integration
+ioc_tracking:
+  enabled: true
+  ioc_types:
+    - "file_hash"
+    - "network_indicator"
+    - "behavioral_pattern"
+    - "memory_signature"
+  
+# Detection Rules
+detection_rules:
+  auto_generation: true
+  rule_types:
+    - "signature_based"
+    - "behavioral_based"
+    - "anomaly_based"
+    - "ml_based"
+  
+# Containment Strategy
+containment:
+  strategy_mapping:
+    injection: "immediate_isolation"
+    persistence: "progressive_elimination"
+    entropic: "cascade_prevention"
+    exfiltration: "data_flow_blocking"
+    polymorphic: "pattern_neutralization"
+    
+# VictoryShade Validation
+victoryshade:
+  combat_duration_days: 90
+  threat_batches: 30
+  total_threats: 1247
+  overall_detection_rate: 0.97
+  overall_containment_time_min: 15.0
+  false_negatives: 36
+  
+# Database Schema
+database_tables:
+  codex_correlations:
+    fields:
+      - correlation_id
+      - threat_strain
+      - cvss_score
+      - velocity
+      - pattern_signature
+      - iocs
+      - detection_rules
+      - first_seen
+      - last_seen
+    indexes:
+      - threat_strain
+      - cvss_score
+      
+  threat_detections:
+    fields:
+      - detection_id
+      - detected_at
+      - threat_type
+      - confidence
+      - source
+      - raw_data
+      - containment_status
+      - containment_time
+    indexes:
+      - detected_at
+      - threat_type
+      - containment_status

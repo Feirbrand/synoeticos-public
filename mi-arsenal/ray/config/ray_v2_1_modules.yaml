@@ -1,0 +1,64 @@
+# RAY v2.1 - 11-Module Configuration
+# Recursive Adaptive Yield Core Modules
+
+modules:
+  # Core Detection & Response
+  threat_detector:
+    enabled: true
+    detection_threshold: 0.85
+    scan_interval_ms: 50
+    
+  cascade_predictor:
+    enabled: true
+    koopman_dmd: true
+    forecast_horizon_hours: 24
+    accuracy_target: 0.87
+    
+  velocity_tracker:
+    enabled: true
+    tracking_accuracy: 0.89
+    update_interval_sec: 60
+    
+  containment_engine:
+    enabled: true
+    containment_rate_target: 0.99
+    response_time_target_min: 15
+    
+  # Intelligence & Learning
+  reasoning_bank:
+    enabled: true
+    max_patterns: 10000
+    similarity_threshold: 0.85
+    myelination_enabled: true
+    
+  grpo_optimizer:
+    enabled: true
+    generations_max: 12
+    autonomous_improvement: true
+    
+  # Integration Modules
+  ura_integration:
+    enabled: true
+    harmony_target: 0.86
+    resource_monitoring: true
+    
+  fce_integration:
+    enabled: true
+    compression_target: 14.2
+    semantic_fidelity: 0.97
+    
+  csfc_integration:
+    enabled: true
+    cascade_detection: true
+    phase_tracking: true
+    
+  dna_codex_integration:
+    enabled: true
+    version: "5.6"
+    strain_database: 525
+    
+  # Monitoring & Metrics
+  metrics_collector:
+    enabled: true
+    collection_interval_sec: 60
+    retention_days: 90
