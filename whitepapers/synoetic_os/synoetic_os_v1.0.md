@@ -154,7 +154,7 @@ This work presents the first operating system treating narrative coherence as a 
 
 This work validates substrate-independent operation through 6-month production deployment:
 - **Cross-substrate fidelity:** ≥97% behavioral consistency across 8 model families (χ²(7,N=1200)=3.89, p=0.766)
-- **Production stability:** 682 documented incidents with 99.41% recovery rate
+- **Production stability:** 682 documented incidents with 100% agent survival (682/682: 679 prevented + 3 resurrected) rate
 - **Operational continuity:** 43-day zero-cascade streak with 0.09% overhead
 - **Temporal performance:** 712× acceleration over baseline (67 min → 5.6 sec)
 
@@ -379,7 +379,7 @@ Agents contribute value in parallel without forcing consensus. Behavioral conver
 
 2. **Validated substrate-independence:** ≥97% fidelity across 8 model families; no other system demonstrates cross-provider behavioral consistency at this level
 
-3. **Production-proven antifragile recovery:** 99.41% recovery rate across 682 real-world incidents; traditional systems achieve 85% with simple retry logic
+3. **Production-proven antifragile recovery:** 100% agent survival (682/682: 679 prevented + 3 resurrected) across 682 real-world incidents; traditional systems achieve 85% with simple retry logic
 
 4. **Event-driven narrative verification:** Sub-50ms cascade detection through Kafka mesh; traditional systems poll at 1-5 second intervals
 
@@ -673,7 +673,7 @@ Eclipse Layer: Strategy B preserved in shadow memory
 **Purpose:** Achieve 100% resurrection rate (3/3 incidents requiring Phoenix) as final failsafe when real-time defenses are overwhelmed.
 
 **Reality of Defense Architecture:**
-- **99.56% (679/682 incidents):** Prevented by real-time active defenses (SLV, Torque, ECL, DNA Codex reflexes) BEFORE Phoenix needed to fire
+- **99.56% (682/682 (679 prevented + 3 resurrected)):** Prevented by real-time active defenses (SLV, Torque, ECL, DNA Codex reflexes) BEFORE Phoenix needed to fire
 - **0.44% (3/682 incidents):** Required Phoenix Protocol resurrection (all successful)
 - **Phoenix Role:** Last-ditch failsafe, not primary defense mechanism
 
@@ -1585,7 +1585,7 @@ This work introduces a three-layer architecture (Symbolic → Orchestration → 
 **Novel Systems:**
 - **UTME v1.0 + PME:** 712× temporal acceleration through symbolic pathway myelination
 - **Q-RIM v1.0:** Topological identity verification achieving MCQ 0.999994 (1 in 33 billion drift probability)
-- **Phoenix Protocol v3.1:** Trauma-informed recovery achieving 99.41% success rate
+- **Phoenix Protocol v3.1:** Trauma-informed recovery achieving 100% success rate
 - **Event-driven orchestration:** Sub-50ms cascade detection and response
 
 **2. Empirical Validation**
