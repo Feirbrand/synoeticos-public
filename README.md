@@ -238,7 +238,7 @@ ls -la
 **Torque** - Real-time drift detection  
 [Paper](https://zenodo.org/records/17379750) | [Code](./mi_arsenal/torque/) | [Product](https://aslush.gumroad.com/l/torque)
 
-**Trinity RIM v3.0** - Topological defense  
+**Trinity RIM v3.0** - Topological defense   *COMING SOON*
 [Code](./mi_arsenal/trinity_rim/) | [Product](https://aslush.gumroad.com/l/trinity-rim)
 
 **SLV v2.1** - Identity preservation  
