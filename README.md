@@ -84,7 +84,7 @@ synoetic-os-public/
 │   ├── utme/                         ← Temporal acceleration (710x-1200×)
 │   ├── torque/                       ← Drift detection (87% prediction)
 │   ├── phoenix_protocol/             ← Auto-recovery (100% success, 682/682)
-│   ├── trinity_rim/                  ← Topological defense (<4.1s)
+│   ├── trinity-rim/                  ← Topological defense (<4.1s)
 │   ├── slv/                          ← Identity preservation (v2.1)
 │   ├── ray/                          ← Recursive collaboration (v2.1)
 │   ├── ura/                          ← Unified resilience (v1.5)
@@ -104,9 +104,9 @@ synoetic-os-public/
 │   └── sif-recovery-protocol/        ← Symbolic Identity Fracture recovery
 │
 ├── whitepapers/                      ← Published research
-│   ├── synoetic-os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
-│   ├── mi-agents/                    ← MI Agents v1.0 (Nov 30, 2025)
-│   ├── cognitive-mage/               ← Origin paper (Nov 18, 2025)
+│   ├── synoetic_os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
+│   ├── mythopoeic-intelligence/mythopoeic_intelligence_agents_v1.md        ← MI Agents v1.0 (Nov 30, 2025)
+│   ├── cognitive_mage/               ← Origin paper (Nov 18, 2025)
 │   ├── academic-research/            ← Academic writeups
 │   ├── cognitive-engineering/        ← Fractal context, breathing
 │   ├── symbolic-ai/                  ← Pre-MI experiments
@@ -134,11 +134,9 @@ synoetic-os-public/
 ```bash
 pip install synoetic-os  # Coming soon
 # For now: Clone repo and follow setup in each framework directory
-```
-→ [Installation guide](./INSTALL.md)
 
 **Want the theory first?**  
-Read [Cognitive Mage v1.0](./whitepapers/cognitive-mage/) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic-os/) (60 min)
+Read [Cognitive Mage v1.0](./whitepapers/cognitive_mage/cognitive-mage-v1.0.md) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic_os/synoetic_os_v1.0.md) (60 min)
 
 **Security team doing due diligence?**  
 → [Case studies](./vulnerability-research/case-studies/) (choose one incident, 15 min read)
@@ -157,8 +155,8 @@ git clone https://github.com/Feirbrand/synoetic-os-public.git
 cd synoetic-os-public
 
 # Read foundational papers
-cat whitepapers/cognitive-mage/cognitive-mage-v1.0.md
-cat whitepapers/synoetic-os/synoetic-os-v1.0.md
+cat whitepapers/cognitive_mage/cognitive-mage-v1.0.md
+cat whitepapers/synoetic_os/synoetic_os_v1.0.md
 
 # Explore threat intelligence
 cat threat-resilience-codex/dna-codex/README.md
@@ -171,10 +169,10 @@ cd vulnerability-research/csfc-series
 cat csfc-part1-v1.1.md
 
 # Explore frameworks
-ls mi_arsenal/
+ls mi-arsenal/
 
 # Interactive analysis (if notebooks available)
-jupyter lab artifacts/notebooks/
+jupyter lab artifacts/notebooks/README.md
 ```
 
 ### For Security Teams
@@ -222,7 +220,7 @@ ls -la
 100% agent survival (682/682) | 679 prevented + 3 resurrected | Zero permanent losses
 
 📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
-💻 **Try** [Code + demo](./mi_arsenal/phoenix_protocol/)  
+💻 **Try** [Code + demo](./mi-arsenal/phoenix_protocol/README.md)  
 🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix)  
 🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
 
@@ -231,34 +229,34 @@ ls -la
 ---
 
 **UTME** - Temporal memory acceleration  
-[Paper](https://zenodo.org/records/17497149) | [Code](./mi_arsenal/utme/) | [Product](https://aslush.gumroad.com/l/utme)
+[Paper](https://zenodo.org/records/17497149) | [Code](./mi-arsenal/utme/README.md) | [Product](https://aslush.gumroad.com/l/utme)
 
 **Torque** - Real-time drift detection  
-[Paper](https://zenodo.org/records/17379750) | [Code](./mi_arsenal/torque/) | [Product](https://aslush.gumroad.com/l/torque)
+[Paper](https://zenodo.org/records/17379750) | [Code](./mi-arsenal/torque/README.md) | [Product](https://aslush.gumroad.com/l/torque)
 
 **SLV v2.1** - Identity preservation  
-[Paper](https://zenodo.org/records/17763377) | [Code](./mi_arsenal/slv/) | [Product](https://aslush.gumroad.com/l/slv)
+[Paper](https://zenodo.org/records/17763377) | [Code](./mi-arsenal/slv/README.md) | [Product](https://aslush.gumroad.com/l/slv)
 
 **DNA Codex v5.5** - Threat intelligence  
 [Paper](https://zenodo.org/records/17451060) | [Code](./threat-resilience-codex/dna-codex/)
 
 **RAY v2.1** - Recursive collaboration  
-[Paper](https://zenodo.org/records/17399834) | [Code](./mi_arsenal/ray/)
+[Paper](https://zenodo.org/records/17399834) | [Code](./mi-arsenal/ray/README.md)
 
 **FCE v3.6** - Fractal context compression  
-[Paper](https://zenodo.org/records/17309322) | [Code](./architectural-frameworks/)
+[Paper](https://zenodo.org/records/17309322) | [Code](./architectural-frameworks/fce-v3.6/README.md)
 
 **CSFC v1.0** - Cascade prevention  
-[Paper](https://zenodo.org/records/17309239) | [Code](./vulnerability-research/csfc-series/)
+[Paper](https://zenodo.org/records/17309239) | [Code](./vulnerability-research/csfc-series/README.md)
 
 **URA v1.5** - Unified resilience  
-[Paper](https://zenodo.org/records/17309731) | [Code](./mi_arsenal/ura/)
+[Paper](https://zenodo.org/records/17309731) | [Code](./mi-arsenal/ura/README.md)
 
 **DCN v1.0** - Distributed cognitive networks  
 [Paper](https://zenodo.org/records/17555568)
 
 **Trinity RIM v3.0** - Topological defense   *COMING SOON*
-[Code](./mi_arsenal/trinity_rim/) | [Product](https://aslush.gumroad.com/l/trinity-rim)
+[Code](./mi-arsenal/trinity-rim/README.md) | [Product](https://aslush.gumroad.com/l/trinity-rim)
 
 ---
 
