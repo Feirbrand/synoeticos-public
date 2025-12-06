@@ -290,7 +290,6 @@ CSFC findings align with 2025 industry research showing:
 ### 6.1 Cross-Domain Validation
 
 Further research should validate CSFC patterns across:
-- Enterprise production environments
 - Different AI model architectures
 - Various deployment contexts
 - Extended temporal periods

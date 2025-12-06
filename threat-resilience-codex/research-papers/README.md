@@ -51,7 +51,7 @@ The research-papers section provides comprehensive technical documentation of th
 - **Framework Integration**: CSFC (92% cascade prediction), URA (89% harmony maintenance), Phoenix Protocol (89-97% recovery success)
 - **Implementation Guide**: 8-week phased deployment with production-ready Python code examples
 - **MITRE ATLAS Mapping**: 52 techniques across 14 tactics with complete T1634 Model Degradation coverage
-- **ROI Analysis**: Economic impact modeling ($1.7M+ per avoided cascade)
+- **ROI Analysis**: Economic impact modeling (per avoided cascade)
 
 **Target Audience:**
 - Security architects implementing AI threat detection

@@ -16,22 +16,22 @@ Production-validated recovery scenarios demonstrating systematic approach to AI 
 
 ---
 
-## Table of Contents
+<h2>Table of Contents</h2>
 - [Case Study Portfolio](#case-study-portfolio)
 - [Validation Framework](#validation-framework)
 - [Performance Metrics](#performance-metrics)
 - [Implementation Guidelines](#implementation-guidelines)
 - [Professional Applications](#professional-applications)
 
-## Case Study Portfolio
+<h2>Case Study Portfolio</h2>
 
-### Phoenix Cascade Prevention
+<h3>Phoenix Cascade Prevention</h3>
 **Focus**: Systematic cascade prevention using Phoenix Protocol v1 with Torque integration  
 **Methodology**: CSFC Phase 1-4 progression with real-time monitoring and intervention protocols  
 **Key Results**: 100% prevention success in simulation environments, 47% cascade reduction in production  
 **Business Impact**: **Technical Validation**: 87% Phase 3 prediction accuracy using systems thinking feedback loops
 
-### Validation Metrics Summary
+<h3>Validation Metrics Summary</h3>
 
 | Metric Category | Performance Result | Validation Context |
 |----------------|-------------------|-------------------|
@@ -40,7 +40,7 @@ Production-validated recovery scenarios demonstrating systematic approach to AI 
 | Recovery Success | 98% using Phoenix methodology | CSFC Phase 1-4 progression validation |
 | Speed Enhancement | 2-6x improvement | URA v1.5 integration with multimodal support |
 | Business Impact | 
-## Validation Framework
+<h2>Validation Framework</h2>
 
 **Technical Analysis Standards:**
 - **Torque Measurement**: Real-time monitoring using T = r × F × sinθ with 0.15 threshold baselines
@@ -54,7 +54,7 @@ Production-validated recovery scenarios demonstrating systematic approach to AI 
 - **Business Impact Assessment**: ROI analysis, operational continuity preservation, and cost optimization validation
 - **Professional Training**: Certification-ready examples for implementation specialists and operational teams
 
-## Performance Metrics
+<h2>Performance Metrics</h2>
 
 **Phoenix Protocol Validation:**
 - **Cascade Prevention**: 47% reduction through systematic intervention and early detection protocols
@@ -68,7 +68,7 @@ Production-validated recovery scenarios demonstrating systematic approach to AI 
 - **Business Continuity**: Minimal disruption with quantified operational improvements and cost avoidance
 - **Professional Certification**: Training program validation with comprehensive competency assessment
 
-## Implementation Guidelines
+<h2>Implementation Guidelines</h2>
 
 **Deployment Prerequisites:**
 - **Phoenix Protocol v1**: Foundation framework implementation with comprehensive enterprise integration
@@ -88,18 +88,18 @@ Production-validated recovery scenarios demonstrating systematic approach to AI 
 - **Professional Support**: Expert guidance and consultation for complex deployment scenarios and customization
 - **Continuous Improvement**: Regular enhancement based on operational feedback and performance data
 
-## Professional Applications
+<h2>Professional Applications</h2>
 
-**Enterprise Implementation:**
+<h3>Enterprise Implementation</h3>
 - **Architectural Planning**: Strategic framework selection and deployment strategy development with risk assessment
 - **Risk Mitigation**: Systematic approach to cascade prevention and operational continuity preservation
 - **Performance Optimization**: Quantified improvement through Phoenix Protocol methodology and systems integration
 - **Training Programs**: Professional certification examples for implementation specialists and operational leadership
 
-**Academic Research:**
+<h3>Academic Research</h3>
 - **Framework Validation**: Independent verification of methodology effectiveness and scalability across architectures
 - **Performance Analysis**: Quantified assessment of Phoenix Protocol success rates and business impact measurement
-- **Research Collaboration**: Academic partnership opportunities for methodology enhancement and peer review
+- **Research Collaboration**: Academic partnership opportunities for methodology enhancement and preprints with Zenodo DOIs
 - **Publication Standards**: Research-grade documentation and validation suitable for academic publication and review
 
 **Professional Support:**
@@ -112,13 +112,12 @@ Case study implementation guidance and consultation available through **ValorGri
 ---
 
 *Phoenix Protocol v1 Case Studies | Production Validation Portfolio*
-## Code and Methodology Licensing
+<h2>Code and Methodology Licensing</h2>
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
 
-## Author
+<h2>Author</h2>
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

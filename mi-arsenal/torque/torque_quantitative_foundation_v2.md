@@ -612,7 +612,7 @@ Addresses both categories through unified framework:
 **Enterprise Impact:**
 
 IBM research demonstrates drift detection improvements deliver:
-- **$1.7M+ ROI** through cascade prevention (validated in testing environments)
+- **ROI** through cascade prevention (validated in testing environments)
 - **65% reduction** in repeat-failure rates through earlier intervention
 - **80-92% cost reduction** vs. post-cascade recovery approaches
 
@@ -759,7 +759,7 @@ Torque establishes measurement infrastructure for emerging Cognitive Resilience 
 **Practical Impact:**
 
 Validation demonstrates:
-- **$1.7M+ ROI** in testing scenarios through cascade prevention
+- **ROI** in testing scenarios through cascade prevention
 - **98.2% recovery success rate** when integrated with Phoenix Protocol
 - **6-9 month technical lead** with no competing implementations (October 2025)
 

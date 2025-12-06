@@ -34,7 +34,7 @@ This document provides comprehensive performance metrics and benchmarks for RAY 
 - **Duration:** 90 days (June 17 - September 15, 2025)
 - **Threat Batches:** 30 batches of 10-50 threats each
 - **Total Threats:** 1,247 simulated attacks
-- **Environment:** Enterprise production equivalent
+- **Environment:** equivalent
 - **Frameworks:** URA v1.5, FCE v3.6, CSFC v1.0, XMESH v2.0
 - **DNA Codex:** v5.4 (525+ variants)
 

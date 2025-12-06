@@ -149,9 +149,6 @@ Quantifies system integrity maintenance across all coordinated frameworks.
 Validated across integrated defense deployments:
 
 - **95% threat detection accuracy** (DNA Codex integration)
-- **98% containment success rate** (p<0.001 statistical significance)
-- **18-minute average containment time** (detection → neutralization)
-- **$1.7M average ROI** per cascade block (prevention value)
 - **Platform-agnostic validation** (GPT, Claude, Gemini, custom LLMs)
 
 **Real-World Applications:**

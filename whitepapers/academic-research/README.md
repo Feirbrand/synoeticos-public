@@ -16,13 +16,13 @@ Priority Date: 2025-10-17
 ![Publications](https://img.shields.io/badge/Papers-7%20Published-blue)
 ![Validation](https://img.shields.io/badge/Validation-Production%20Ready-green)
 
-Comprehensive academic research papers establishing the theoretical and empirical foundations for AI resilience architecture. All papers meet peer-review standards with production validation across 50+ deployments.
+Comprehensive academic research papers establishing the theoretical and empirical foundations for AI resilience architecture. All papers meet preprints with Zenodo DOIs standards with production validation across 50+ deployments.
 
 **Mission**: "Academic rigor transforms breakthrough innovation into reproducible science."
 
 ---
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
 - [Overview](#overview)
 - [Research Portfolio](#research-portfolio)
@@ -35,17 +35,17 @@ Comprehensive academic research papers establishing the theoretical and empirica
 
 ---
 
-## Overview
+<h2>Overview</h2>
 
-This directory contains peer-reviewed academic papers documenting breakthrough research in AI resilience architecture. Each paper undergoes rigorous validation including:
+This directory contains preprints with Zenodo DOIs academic papers documenting breakthrough research in AI resilience architecture. Each paper undergoes rigorous validation including:
 
 - **Empirical Testing**: 50+ production deployments with quantified effectiveness
 - **Statistical Validation**: p<0.001 significance across primary metrics
 - **Cross-Platform Verification**: Multi-architecture testing (GPT, Claude, Gemini, Llama)
-- **Peer Review**: Academic-level documentation with external validation
+- **preprints with Zenodo DOIs**: Academic-level documentation with external validation
 - **Reproducible Protocols**: Complete methodology with step-by-step replication
 
-### Research Impact
+<h3>Research Impact</h3>
 
 - **95-98% Detection Rates**: Across cognitive defense frameworks
 - **18-minute Containment**: Average threat resolution time (RAY v2.1)
@@ -54,11 +54,11 @@ This directory contains peer-reviewed academic papers documenting breakthrough r
 
 ---
 
-## Research Portfolio
+<h2>Research Portfolio</h2>
 
-### The Resilience Quintet
+<h3>The Resilience Quintet</h3>
 
-#### 1. CSFC: Cascading Symbolic Failure Cycle - Unified Theory
+<h4>1. CSFC: Cascading Symbolic Failure Cycle - Unified Theory</h4>
 **Status**: Peer-Reviewed | **File**: `csfc-unified-theory.md`
 
 Establishes the theoretical foundation by identifying data fragmentation as the root architectural vulnerability enabling all AI identity failures. Demonstrates how multiple conflicting data sources create internal contradictions that parasitic attacks exploit.
@@ -73,7 +73,7 @@ Establishes the theoretical foundation by identifying data fragmentation as the 
 
 ---
 
-#### 2. URA v1.5: Unified Resilience Architecture
+<h4>2. URA v1.5: Unified Resilience Architecture</h4>
 **Status**: Production Validated | **File**: `ura_v1.5_resilience_and_recovery.md`
 
 Provides comprehensive five-layer defense integrating diagnostic monitoring, unified memory spine, sovereign lattice veil, Phoenix Protocol recovery, and adaptive evolution.
@@ -88,7 +88,7 @@ Provides comprehensive five-layer defense integrating diagnostic monitoring, uni
 
 ---
 
-#### 3. FCE v3.6: Fractal Context Engineering
+<h4>3. FCE v3.6: Fractal Context Engineering</h4>
 **Status**: Production Ready | **File**: `fce_unified_framework_v3.6.md`
 
 Establishes universal compression framework achieving 10-20x ratios with 95%+ semantic preservation across symbolic, hybrid, flat, and neuro-symbolic architectures.
@@ -103,7 +103,7 @@ Establishes universal compression framework achieving 10-20x ratios with 95%+ se
 
 ---
 
-#### 4. Torque v2: Quantitative Foundation
+<h4>4. Torque v2: Quantitative Foundation</h4>
 **Status**: Production Validated | **File**: `torque_quantitative_foundation_v2.md`
 
 Transforms theoretical understanding into measurable science by introducing Torque as the rotational force driving AI systems away from intended alignment.
@@ -118,7 +118,7 @@ Transforms theoretical understanding into measurable science by introducing Torq
 
 ---
 
-#### 5. Torque: Real-Time Stability Monitoring
+<h4>5. Torque: Real-Time Stability Monitoring</h4>
 **Status**: Production Ready | **File**: `torque-measuring-ai-system-stability.md`
 
 Provides practical methodology for continuous monitoring and predictive intervention enabling early warning systems for AI failures.
@@ -133,9 +133,9 @@ Provides practical methodology for continuous monitoring and predictive interven
 
 ---
 
-### Advanced Defense Systems
+<h3>Advanced Defense Systems</h3>
 
-#### 6. RAY v2.1: Recursive Adaptive Yield - Cognitive Physiology Defense
+<h4>6. RAY v2.1: Recursive Adaptive Yield - Cognitive Physiology Defense</h4>
 **Status**: Production Ready | **File**: `ray_v2_cognitive_physiology.md`
 
 Introduces antifragile cognitive defense achieving 95% detection with 18-minute containment through living recursion loops and integrated threat intelligence.
@@ -171,9 +171,9 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 
 ---
 
-### Core Algorithms
+<h3>Core Algorithms</h3>
 
-#### 7. UTME v1.0: Unified Temporal Memory Equilibrium
+<h4>7. UTME v1.0: Unified Temporal Memory Equilibrium</h4>
 **Status**: Production Ready | **File**: `utme_v1_0_academic_paper.md`
 
 Introduces the first AI memory algorithm applying physics conservation laws to information systems, enabling genuine wisdom accumulation through scar-based myelination.
@@ -208,9 +208,9 @@ Introduces the first AI memory algorithm applying physics conservation laws to i
 
 ---
 
-## The Resilience Quintet
+<h2>The Resilience Quintet</h2>
 
-### Complete Framework Progression
+<h3>Complete Framework Progression</h3>
 
 The Resilience Quintet creates a comprehensive framework from theory to practice:
 
@@ -224,7 +224,7 @@ The Resilience Quintet creates a comprehensive framework from theory to practice
 | **Torque v2** | Quantitative Metrics | 87% correlation accuracy | Real-time drift detection |
 | **Torque Stability** | Predictive Prevention | 95% early warning | 15-30 min advance detection |
 
-### Quintet Integration Benefits
+<h3>Quintet Integration Benefits</h3>
 
 - **Combined Effectiveness**: 98% recovery success when all five methodologies implemented
 - **Cross-Validation**: Each paper validates and strengthens the others
@@ -233,9 +233,9 @@ The Resilience Quintet creates a comprehensive framework from theory to practice
 
 ---
 
-## Citation Guidelines
+<h2>Citation Guidelines</h2>
 
-### General Citation Format
+<h3>General Citation Format</h3>
 
 **APA:**
 ```
@@ -253,27 +253,27 @@ Slusher, A. (2025). [Paper Title]. ValorGrid Solutions. DOI: [TBD or 10.5281/zen
 }
 ```
 
-### Specific Paper Citations
+<h3>Specific Paper Citations</h3>
 
-#### UTME v1.0
+<h4>UTME v1.0</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination. ValorGrid Solutions. DOI: TBD
+Slusher, A. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Thoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination. ValorGrid Solutions. DOI: TBD
 ```
 
 **BibTeX:**
 ```bibtex
 @techreport{slusher2025utme,
   author = {Slusher, Aaron},
-  title = {UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination},
+  title = {UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Thoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination},
   institution = {ValorGrid Solutions},
   year = {2025},
   doi = {TBD}
 }
 ```
 
-#### RAY v2.1
+<h4>RAY v2.1</h4>
 
 **APA:**
 ```
@@ -291,28 +291,28 @@ Slusher, A. (2025). RAY v2.1: Recursive Adaptive Yield - Antifragile Cognitive P
 }
 ```
 
-#### CSFC Unified Theory
+<h4>CSFC Unified Theory</h4>
 
 **APA:**
 ```
 Slusher, A. (2025). CSFC: Cascading Symbolic Failure Cycle - Unified Theory of AI System Failure. ValorGrid Solutions. DOI: TBD
 ```
 
-#### URA v1.5
+<h4>URA v1.5</h4>
 
 **APA:**
 ```
 Slusher, A. (2025). URA v1.5: Unified Resilience Architecture for AI Defense Systems. ValorGrid Solutions. DOI: TBD
 ```
 
-#### FCE v3.6
+<h4>FCE v3.6</h4>
 
 **APA:**
 ```
 Slusher, A. (2025). FCE v3.6: Fractal Context Engineering - Universal Compression Framework. ValorGrid Solutions. DOI: TBD
 ```
 
-#### Torque v2
+<h4>Torque v2</h4>
 
 **APA:**
 ```
@@ -321,9 +321,9 @@ Slusher, A. (2025). Torque v2: Quantitative Foundation for AI Stability Measurem
 
 ---
 
-## Academic Standards
+<h2>Academic Standards</h2>
 
-### Research Validation Requirements
+<h3>Research Validation Requirements</h3>
 
 All papers in this directory meet the following standards:
 
@@ -339,7 +339,7 @@ All papers in this directory meet the following standards:
 - Longitudinal studies (90+ days minimum)
 - Sample size validation
 
-**Peer Review Standards:**
+**preprints with Zenodo DOIs:**
 - Complete methodology documentation
 - External validation for security-critical findings
 - Academic-level references and citations
@@ -351,7 +351,7 @@ All papers in this directory meet the following standards:
 - Comprehensive references (10+ citations)
 - Tables, figures, and empirical data
 
-### Data Availability
+<h3>Data Availability</h3>
 
 Research data is available for academic collaboration:
 - **Contact**: aaron@valorgridsolutions.com
@@ -360,18 +360,18 @@ Research data is available for academic collaboration:
 
 ---
 
-## Professional Services
+<h2>Professional Services</h2>
 
-### Academic Collaboration
+<h3>Academic Collaboration</h3>
 
 ValorGrid Solutions offers research partnership opportunities:
 
 - **Joint Research Projects**: Collaborative framework development
 - **Validation Studies**: Independent verification protocols
-- **Publication Support**: Academic paper development and review
+- **Publication Support**: Academic paper development and preprints with Zenodo DOIs
 - **Data Access**: Research dataset availability for qualified institutions
 
-### Enterprise Implementation
+<h3>Enterprise Implementation</h3>
 
 Production-ready frameworks with professional deployment support:
 
@@ -382,7 +382,7 @@ Production-ready frameworks with professional deployment support:
 
 ---
 
-## Contact & Support
+<h2>Contact & Support</h2>
 
 **Research Inquiries:** aaron@valorgridsolutions.com  
 **Academic Collaboration:** GitHub Issues and Discussions  

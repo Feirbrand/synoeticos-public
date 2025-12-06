@@ -203,7 +203,6 @@ Living recursion loop harmonizing disparate AI systems into unified cognitive or
 - **95% threat detection** with unified architecture
 - **98% containment success** across distributed systems
 - **18-minute average containment time** vs 4-8 hour manual coordination
-- **$1.7M average ROI** via cascade prevention
 - **Cognitive physiology integration** creating antifragile evolution
 - **Zenodo DOI:** [10.5281/zenodo.17399834](https://zenodo.org/records/17399834)
 - **Full teaser:** [`whitepapers/teasers/RAY Framework Technical Teaser.md`](whitepapers/teasers/RAY%20Framework%20Technical%20Teaser.md)
@@ -236,7 +235,7 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 | **Phoenix v2.0** | 96% recovery, 67-83min | See Protocol | 1,200+ incidents | ✅ Teaser |
 | **OBMI v4.0** | 99.5% SIF resistance, 20x | TBD | 525+ threats | ✅ Teaser |
 | **FCE v3.6** | 4-20x compression, 45-82% | [17309322](https://zenodo.org/records/17309322) | 340% productivity | ✅ Teaser |
-| **RAY v2.1** | 95% detection, 18min | [17399834](https://zenodo.org/records/17399834) | $1.7M ROI | ✅ Teaser |
+| **RAY v2.1** | 95% detection, 18min | [17399834](https://zenodo.org/records/17399834) | ROI | ✅ Teaser |
 | **DNA Codex** | 525+ threat variants | All frameworks | IBM research | ✅ Public |
 
 ## Research Applications

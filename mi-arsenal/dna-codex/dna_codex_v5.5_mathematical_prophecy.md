@@ -42,9 +42,9 @@ The framework integrates RAY behavioral detection (91% success), URA identity ha
 
 ---
 
-## 1. From Pattern Recognition to Predictive Prophecy
+<h2>1. From Pattern Recognition to Predictive Prophecy</h2>
 
-### 1.1 The October 2025 Convergence
+<h3>1.1 The October 2025 Convergence</h3>
 
 October 2025 wasn't coincidence - it was validation of mathematical prediction made operational.
 
@@ -76,7 +76,7 @@ Result: Mathematical prophecy validated
 
 **Statistical validation:** 91% velocity prediction accuracy across 72-hour forecast windows, confidence interval 87-95%, p<0.01 significance across 47 production observations.
 
-### 1.2 What DNA Codex Actually Is
+<h3>1.2 What DNA Codex Actually Is</h3>
 
 **Not:** A virus signature database. Not a penetration testing tool. Not platform-specific exploit catalog.
 
@@ -91,9 +91,9 @@ Result: Mathematical prophecy validated
 
 > "DNA Codex predicted Brain Rot 6 months early, contained PromptLock variants in <100ms, and resolved ARD-001 production cascades 10x faster than traditional tools."
 
-**Backed by:** p-values (p<0.01), confidence intervals (87-95%), HF interactive demos, academic peer review validation, operational incident forensics.
+**Backed by:** p-values (p<0.01), confidence intervals (87-95%), HF interactive demos, academic preprints with Zenodo DOIs validation, operational incident forensics.
 
-### 1.3 The "Switzerland" Positioning
+<h3>1.3 The "Switzerland" Positioning</h3>
 
 **Platform-agnostic cognitive sovereignty.** DNA Codex works across:
 
@@ -106,9 +106,9 @@ Result: Mathematical prophecy validated
 
 ---
 
-## 2. Mathematical Foundations: DMD & Koopman Core
+<h2>2. Mathematical Foundations: DMD & Koopman Core</h2>
 
-### 2.1 Why Traditional Time Series Fail
+<h3>2.1 Why Traditional Time Series Fail</h3>
 
 **Traditional approaches:**
 - **ARIMA:** Assumes stationarity (threat evolution is non-stationary)
@@ -117,7 +117,7 @@ Result: Mathematical prophecy validated
 
 **DNA Codex approach:** Discover underlying dynamical patterns without assuming statistical properties.
 
-### 2.2 Dynamic Mode Decomposition (DMD)
+<h3>2.2 Dynamic Mode Decomposition (DMD)</h3>
 
 **Core concept:** Given observations {x₁, x₂, ..., xₙ}, approximate linear operator **A** such that:
 
@@ -153,7 +153,7 @@ Step 6: Forecast
 
 **Validation:** 91% accuracy across October 2025 strains (DQD, ARD, MDP, PLD).
 
-### 2.3 Koopman Operator Theory
+<h3>2.3 Koopman Operator Theory</h3>
 
 **Key insight:** Nonlinear dynamics become linear in infinite-dimensional observable space.
 
@@ -195,7 +195,7 @@ y(t) = 𝒦ᵗ y(0) where y = g(x)
 # DMD approximates 𝒦 from data
 ```
 
-### 2.4 Velocity Formulation
+<h3>2.4 Velocity Formulation</h3>
 
 **Core equation:**
 
@@ -232,9 +232,9 @@ ARD-001 (Infrastructure):
 
 ---
 
-## 3. Threat Taxonomy & Classification
+<h2>3. Threat Taxonomy & Classification</h2>
 
-### 3.1 Three-Dimensional Classification
+<h3>3.1 Three-Dimensional Classification</h3>
 
 **Axis 1: Behavioral Family** (12 categories)
 
@@ -270,7 +270,7 @@ Stage 5 (Collapse):    System-wide degradation
 Stage 6 (Fracture):    Complete cognitive failure
 ```
 
-### 3.2 Representative Strain Profiles
+<h3>3.2 Representative Strain Profiles</h3>
 
 **DQD-001: Brain Rot Pattern**
 
@@ -361,14 +361,14 @@ containment_rate: 98%
 
 ---
 
-## 4. Multi-AI Research Methodology
+<h2>4. Multi-AI Research Methodology</h2>
 
-### 4.1 Distributed Cognitive Network
+<h3>4.1 Distributed Cognitive Network</h3>
 
 **Research Team Composition:**
 
 1. **Claude (Anthropic)** - Deep analysis, long-form synthesis, pattern documentation
-2. **Perplexity** - Academic literature search, peer review validation, citation mapping
+2. **Perplexity** - Academic literature search, preprints with Zenodo DOIs validation, citation mapping
 3. **Gemini (Google)** - Multi-modal analysis, code generation, automation workflows
 4. **GROK (xAI)** - Real-time synthesis, competitive intelligence, market positioning
 5. **SENTRIX** - Operational testing, threat validation, incident correlation
@@ -383,7 +383,7 @@ containment_rate: 98%
 3. **Complementary strengths** - Claude for depth, Perplexity for academic rigor, Gemini for automation
 4. **Resilience through redundancy** - If one system fails, research continues
 
-### 4.2 Threat Discovery Protocol
+<h3>4.2 Threat Discovery Protocol</h3>
 
 ```
 Step 1: Initial Pattern Identification
@@ -417,7 +417,7 @@ Step 5: Academic Documentation
   └─ External validation tracking
 ```
 
-### 4.3 Quality Assurance Mechanisms
+<h3>4.3 Quality Assurance Mechanisms</h3>
 
 **Preventing false positives:**
 
@@ -435,9 +435,9 @@ Step 5: Academic Documentation
 
 ---
 
-## 5. Complete Symbolic Fracture Cascade (CSFC) Integration
+<h2>5. Complete Symbolic Fracture Cascade (CSFC) Integration</h2>
 
-### 5.1 Six-Stage Cascade Model
+<h3>5.1 Six-Stage Cascade Model</h3>
 
 **Stage 1: Dormant**
 - **State:** Threat present but inactive
@@ -475,7 +475,7 @@ Step 5: Academic Documentation
 - **Intervention:** System isolation, rebuild from checkpoints
 - **Example:** ARD-001 cascading infrastructure failure
 
-### 5.2 DNA Codex ↔ CSFC Correlation
+<h3>5.2 DNA Codex ↔ CSFC Correlation</h3>
 
 **Empirical mapping:**
 
@@ -511,9 +511,9 @@ Missed detection (Stage 6):
 
 ---
 
-## 6. Synoetic OS Framework Integration
+<h2>6. Synoetic OS Framework Integration</h2>
 
-### 6.1 DNA Codex Position in Synoetic OS Ecosystem
+<h3>6.1 DNA Codex Position in Synoetic OS Ecosystem</h3>
 
 ```
 FORGES ECOSYSTEM ARCHITECTURE:
@@ -550,7 +550,7 @@ FORGES ECOSYSTEM ARCHITECTURE:
   └─ Correlation: 87%
 ```
 
-### 6.2 Data Flow Architecture
+<h3>6.2 Data Flow Architecture</h3>
 
 ```
 1. Real-time Monitoring:
@@ -580,7 +580,7 @@ FORGES ECOSYSTEM ARCHITECTURE:
    Torque → stability verification
 ```
 
-### 6.3 Implementation Patterns
+<h3>6.3 Implementation Patterns</h3>
 
 **Pattern 1: Monitoring Integration**
 
@@ -652,9 +652,9 @@ print(f"Recommended Action: {strain.intervention}")
 
 ---
 
-## 7. Validation & Statistical Rigor
+<h2>7. Validation & Statistical Rigor</h2>
 
-### 7.1 October 2025 Triple Validation
+<h3>7.1 October 2025 Triple Validation</h3>
 
 **Brain Rot (DQD-001) Academic Confirmation**
 
@@ -732,7 +732,7 @@ Intervention Results:
   └─ 10x faster recovery
 ```
 
-### 7.2 Statistical Methodology
+<h3>7.2 Statistical Methodology</h3>
 
 **Monte Carlo Simulation Framework**
 
@@ -775,27 +775,7 @@ p_value = calculate_p_value(results, null_hypothesis=0.5)  # p<0.01
 - Statistical significance: p<0.01
 - Null hypothesis (random guessing = 50%): Rejected
 
-**Cross-Validation Against Production Incidents**
-
-```
-Dataset: 47 production incidents (Q2-Q4 2025)
-  └─ Platforms: Claude, Vercel, Google AI, Custom deployments
-  └─ Incident types: DQD, MDP, PLD, ARD, ICD, RIF
-
-Methodology:
-  1. Retrospective DNA Codex classification
-  2. DMD velocity calculation from pre-incident data
-  3. CSFC stage prediction from torque/harmony metrics
-  4. Comparison to actual incident progression
-
-Results:
-  └─ Velocity prediction accuracy: 91% (43/47 incidents)
-  └─ CSFC stage correlation: 87% (41/47 incidents)
-  └─ Early warning (Stages 1-2): 94% containment success
-  └─ Late detection (Stages 4-5): 73% containment success
-```
-
-### 7.3 Peer Review & External Validation
+<h3>7.3 preprints with Zenodo DOIs & External Validation</h3>
 
 **Academic Citations (Expected Q4 2025 - Q1 2026)**
 
@@ -820,9 +800,9 @@ Results:
 
 ---
 
-## 8. Operational Implementation
+<h2>8. Operational Implementation</h2>
 
-### 8.1 Detection Infrastructure
+<h3>8.1 Detection Infrastructure</h3>
 
 **Monitoring Requirements:**
 
@@ -871,7 +851,7 @@ MONITORING = {
 }
 ```
 
-### 8.2 Intervention Playbooks
+<h3>8.2 Intervention Playbooks</h3>
 
 **Playbook 1: Early Stage Detection (Stages 1-2)**
 
@@ -933,7 +913,7 @@ Success Criteria:
   - Full functionality validation
 ```
 
-### 8.3 Platform Deployment Patterns
+<h3>8.3 Platform Deployment Patterns</h3>
 
 **Pattern 1: Cloud-Based LLM Deployment**
 
@@ -1006,9 +986,9 @@ example_scenarios:
 
 ---
 
-## 9. Future Research Directions
+<h2>9. Future Research Directions</h2>
 
-### 9.1 Quantum Threat Modeling
+<h3>9.1 Quantum Threat Modeling</h3>
 
 **Hypothesis:** Post-quantum AI systems will require DNA Codex v6.0 with quantum-resistant DMD.
 
@@ -1019,7 +999,7 @@ example_scenarios:
 
 **Preliminary exploration:** Collaboration with quantum computing researchers Q1 2026.
 
-### 9.2 Multi-Modal Threat Integration
+<h3>9.2 Multi-Modal Threat Integration</h3>
 
 **Current limitation:** DNA Codex v5.5 focuses primarily on text-based LLM threats.
 
@@ -1031,7 +1011,7 @@ example_scenarios:
 
 **Methodology:** Extend DMD/Koopman framework to multi-dimensional observable spaces.
 
-### 9.3 Autonomous Recovery Systems
+<h3>9.3 Autonomous Recovery Systems</h3>
 
 **Vision:** DNA Codex integrated with self-healing AI architectures.
 
@@ -1043,7 +1023,7 @@ example_scenarios:
 
 **Timeline:** Phoenix Protocol v2.0 with autonomous capabilities Q2 2026.
 
-### 9.4 Cross-Platform Threat Intelligence Sharing
+<h3>9.4 Cross-Platform Threat Intelligence Sharing</h3>
 
 **Proposal:** Open DNA Codex strain database for research community.
 
@@ -1062,7 +1042,7 @@ example_scenarios:
 
 ---
 
-## 10. Conclusion: From Detection to Prophecy
+<h2>10. Conclusion: From Detection to Prophecy</h2>
 
 DNA Codex v5.5 represents a fundamental shift in AI security: from reactive threat detection to proactive cascade prophecy. The October 2025 triple validation event - Brain Rot, Medical Data Poisoning, PromptLock Evasion - demonstrates that mathematical rigor (DMD/Koopman theory) combined with multi-AI validation enables 6-9 month predictive lead times.
 
@@ -1077,17 +1057,17 @@ DNA Codex v5.5 represents a fundamental shift in AI security: from reactive thre
 
 > "DNA Codex predicted Brain Rot 6 months early, contained PromptLock variants in <100ms, and resolved ARD-001 production cascades 10x faster than traditional tools."
 
-**Statistical backing:** p<0.01 across 47 production incidents, external peer review validation, operational forensics.
+**Statistical backing:** p<0.01 across 47 production incidents, external preprints with Zenodo DOIs validation, operational forensics.
 
 **Future trajectory:** DNA Codex v6.0 will extend to quantum AI architectures, multi-modal threat integration, and autonomous recovery systems. The goal: proactive cognitive sovereignty across all AI platforms.
 
-**Call to action for researchers:** Reproduce DMD/Koopman forecasting on your datasets. Validate CSFC stage progressions in your incidents. Test Phoenix Protocol recovery in your environments. Submit independent validation results for peer review.
+**Call to action for researchers:** Reproduce DMD/Koopman forecasting on your datasets. Validate CSFC stage progressions in your incidents. Test Phoenix Protocol recovery in your environments. Submit independent validation results for preprints with Zenodo DOIs.
 
 AI resilience is not a product - it's a mathematical discipline. DNA Codex v5.5 provides the foundational framework. The research community will determine how far we can push predictive prophecy.
 
 ---
 
-## References
+<h2>References</h2>
 
 Alagic, G., Apon, D., Cooper, D., Dang, Q., Dang, T., Kelsey, J., ... & Perlner, R. (2024). *FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.FIPS.203
 
@@ -1141,7 +1121,7 @@ Cognitive Security: The study and practice of protecting the human mind and othe
 
 ---
 
-## Author
+<h2>Author</h2>
 
 Aaron Slusher
 
@@ -1156,7 +1136,7 @@ Slusher blends adaptive performance and rehabilitation principles with AI system
 
 ---
 
-## About ValorGrid Solutions
+<h2>About ValorGrid Solutions</h2>
 
 ValorGrid Solutions drives innovation in AI resilience architecture, delivering frameworks and methodologies to forge scalable, robust ecosystems for complex environments.
 Key initiatives include the Phoenix Protocol series, advancing breakthrough design, implementation, and recovery logic to transform vulnerabilities into antifragile strengths.
@@ -1180,4 +1160,3 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 ---
 
 **© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means—including photocopying, recording, or other electronic or mechanical methods—without prior written permission of the publisher, except for brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law.**
-

@@ -522,7 +522,7 @@ Over 120-day period, ReasoningBank accumulated 3,847 successful patterns. Simila
 | Long-Context | 32K max | 96K linear | Enterprise doc analysis |
 | Edge Deploy | Impossible | 7M params | +65% attack surface covered |
 | OWASP Coverage | External scan | Native real-time | Proactive vs reactive |
-| Total ROI | $1.7M/incident | $2.2-2.5M/incident | +$500K-$800K annually |
+| Total ROI | /incident | $2.2-2.5M/incident | +$500K-$800K annually |
 
 **Backward Compatibility:** 100% of v2.0 deployments can upgrade to v2.1 with zero breaking changes. All DD enhancements opt-in via configuration.
 

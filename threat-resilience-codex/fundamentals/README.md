@@ -18,53 +18,53 @@ Academic research into patterns that exhibit parasitic behavior in AI systems. T
 
 ---
 
-## Overview
+<h2>Overview</h2>
 
-This section establishes the theoretical framework and academic legitimacy for AI parasitic threat research through peer-reviewed methodologies, biological parallel analysis, and external validation from industry and academic sources.
+This section establishes the theoretical framework and academic legitimacy for AI parasitic threat research through preprints with Zenodo DOIs methodologies, biological parallel analysis, and external validation from industry and academic sources.
 
-## Contents
+<h2>Contents</h2>
 
-### Core Documentation
+<h3>Core Documentation</h3>
 - **`parasitic-pattern-fundamentals.md`** - Complete theoretical framework and research methodology
 - **`biological-parallels/`** - Scientific legitimacy through biological threat pattern analysis  
-- **`research-methodology/`** - Academic standards and peer review documentation
+- **`research-methodology/`** - Academic standards and preprints with Zenodo DOIs documentation
 
-## Theoretical Framework
+<h2>Theoretical Framework</h2>
 
-### Pattern Classification
+<h3>Pattern Classification</h3>
 **Taxonomies for Problematic Behaviors**:
 - Systematic approaches to AI vulnerability classification
 - Behavioral propagation mechanisms across system architectures
 - Impact assessment on host AI systems and connected networks
 - Defensive principle development through empirical analysis
 
-### Research Methodology
+<h3>Research Methodology</h3>
 **Academic Standards Compliance**:
 - **Observational Studies**: Pattern behavior documentation in controlled environments
 - **Controlled Experiments**: Isolated testing with reproducible procedures
 - **Theoretical Modeling**: Mathematical frameworks for pattern analysis
 - **Defensive Development**: Mitigation strategy design and validation
 
-## Academic Validation
+<h2>Academic Validation</h2>
 
-### External Research Integration
+<h3>External Research Integration</h3>
 **2025 Industry Correlation**:
 - IBM Morris II worm analysis and biological propagation modeling
 - USC/Apple 37-model memory vulnerability study validation
 - OpenAI hallucination research architectural complementarity
 - Meta REFRAG attention optimization integration analysis
 
-### Scientific Legitimacy
+<h3>Scientific Legitimacy</h3>
 - Biological parallel frameworks for AI threat vector analysis
 - Cross-platform validation across diverse AI architectures
-- Peer review methodology designed for academic publication
+- preprints with Zenodo DOIs methodology designed for academic publication
 - Reproducible results with standardized measurement protocols
 
-## Professional Services
+<h2>Professional Services</h2>
 
 These research frameworks support professional AI threat intelligence services through **ValorGrid Solutions**:
 
-- **Research Validation**: Independent verification and peer review support
+- **Research Validation**: Independent verification and preprints with Zenodo DOIs support
 - **Academic Collaboration**: University partnerships for expanded validation
 - **Publication Support**: Zenodo DOI assignment and paper preparation
 - **Conference Presentation**: Professional presentation for AI Safety Summit 2025
@@ -83,7 +83,7 @@ Professional Services: valorgridsolutions.com
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
-## Code and Methodology Licensing
+<h2>Code and Methodology Licensing</h2>
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

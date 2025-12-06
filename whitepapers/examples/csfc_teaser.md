@@ -64,7 +64,7 @@ The Complete Symbolic Fracture Cascade (CSFC) represents a breakthrough in under
 - **Security Applications**: Threat detection and defensive countermeasures
 - **Conversational AI**: Enhanced dialogue management and stability
 
-## Teaser Limitations
+<h2>Teaser Limitations</h2>
 
 This overview presents the core theoretical framework. The full CSFC implementation includes:
 
@@ -73,7 +73,7 @@ This overview presents the core theoretical framework. The full CSFC implementat
 - **Custom Integration**: Platform-specific deployment procedures
 - **Performance Optimization**: Business-specific tuning and enhancement
 
-## Professional Implementation
+<h2>Professional Implementation</h2>
 
 For complete CSFC implementation with enterprise validation and business impact measurement:
 
@@ -83,7 +83,7 @@ For complete CSFC implementation with enterprise validation and business impact 
 - Website: valorgridsolutions.com
 
 **Academic Collaboration:**
-- Research Partnership: Peer review and validation
+- Research Partnership: preprints with Zenodo DOIs and validation
 - Framework Development: Custom architecture design
 - Performance Analysis: Quantified effectiveness measurement
 
@@ -94,13 +94,12 @@ For complete CSFC implementation with enterprise validation and business impact 
 **Research Status**: Production Ready  
 **Implementation Status**: Enterprise Validated  
 **Community Status**: Open Research Framework
-## Code and Methodology Licensing
+<h2>Code and Methodology Licensing</h2>
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
 
-## Author
+<h2>Author</h2>
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

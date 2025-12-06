@@ -241,7 +241,7 @@ This paper meets the following standards:
 - State management database schema
 - Deployment architecture diagrams
 
-**Peer Review Standards:**
+**preprints with Zenodo DOIs:**
 - Complete methodology documentation
 - Transparent AI assistance disclosure
 - Academic-level references (70+ citations)

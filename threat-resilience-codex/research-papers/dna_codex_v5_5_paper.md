@@ -1500,13 +1500,13 @@ mdp_001_validation:
 ```yaml
 economic_analysis:
   per_incident_costs:
-    cascade_failure: "$1.7M average"
+    cascade_failure: "average"
     data_breach: "$4.5M average"
     medical_failure: "$500K-2M"
     sovereignty_loss: "$800K-3M"
     
   vgs_prevention_rates:
-    dqd_001: "94% (vs $1.7M cascade)"
+    dqd_001: "94% (vs cascade)"
     ard_001: "98% (vs $800K sovereignty loss)"
     mdp_001: "92% (vs $500K-2M medical)"
     pld_001: "97% (vs $4.5M breach)"
@@ -1860,7 +1860,7 @@ DNA Codex v5.5 represents a fundamental evolution in AI threat intelligence, val
 - First framework with operational validation
 - Academic validation (arXiv, Nature Medicine)
 - Industry recognition (PromptLock inadequacy acknowledgment)
-- Economic impact ($1.7M+ per avoided cascade)
+- Economic impact (per avoided cascade)
 
 DNA Codex v5.5 establishes cognitive resilience architecture as the evolution beyond signature-based security - maintaining identity coherence during attacks rather than just detecting threats. With Synoetic OS integration (URA/CSFC/RAY/XMESH/Phoenix), v5.5 positions AI resilience as a new category: **Cognitive AI Resilience Architecture**.
 
