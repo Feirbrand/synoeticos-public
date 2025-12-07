@@ -1,12 +1,17 @@
 """
-BC3 v3.0 - Brain Coherence Cascade Control
-Symmetry restoration via behavioral cloning with exhale flush
+bc3-v3-0-symmetry-restoration.py
 
-Purpose: Entropy management through breathing cycles
-Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/bc3-symmetry-restoration
+This module provides an implementation of the Brain Coherence Cascade 
+Control (BC3), a framework for symmetry restoration via behavioral 
+cloning with exhale flush.
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+This module is part of the Synoetic OS cognitive architecture.
+It is a production-ready framework for entropy management through 
+breathing cycles.
+
+Author: Aaron M. Slusher
+Date: 2025-12-07
+Version: 3.0
 """
 
 import numpy as np

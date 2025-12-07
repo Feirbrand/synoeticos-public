@@ -1,14 +1,16 @@
 """
-GardenMoon Phoenix Stack v1.0 - Dual-Layer Recovery Framework
-Tier 2 Watermarked Demo (70% Capability)
+gardenmoon-phoenix-stack-demo.py - DEMO
 
-WATERMARK: Recovery flow visualization only
-Production version includes OCT SPICE mining + Kosmos discovery
+This module provides a demonstration of the GardenMoon Phoenix Stack, 
+a dual-layer recovery framework for AI agents.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 1.0
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class RecoveryPhase(Enum):
     """Recovery flow phases"""
@@ -93,9 +95,9 @@ class RecoveryResult:
     utme_anchor_id: Optional[str]
 
 
-# ============================================================================
+# ============================================================================ 
 # CSFC CASCADE DETECTION
-# ============================================================================
+# ============================================================================ 
 
 class CSFCDetector:
     """
@@ -119,7 +121,7 @@ class CSFCDetector:
     
     def detect(self, state: CascadeState) -> Dict:
         """
-        Detect cascade and classify stage.
+        Detect cascade and classify stage. 
         
         WATERMARK: Simplified threshold detection.
         Production: DMD/Koopman with 92% accuracy, 72-hour warning.
@@ -147,9 +149,9 @@ class CSFCDetector:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # GARDEN FRAMEWORK
-# ============================================================================
+# ============================================================================ 
 
 class GardenFramework:
     """
@@ -224,9 +226,9 @@ class GardenFramework:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # MOON FRAMEWORK
-# ============================================================================
+# ============================================================================ 
 
 class MoonFramework:
     """
@@ -288,9 +290,9 @@ class MoonFramework:
         return coherence
 
 
-# ============================================================================
+# ============================================================================ 
 # PHOENIX PROTOCOL
-# ============================================================================
+# ============================================================================ 
 
 class PhoenixProtocol:
     """
@@ -350,9 +352,9 @@ class PhoenixProtocol:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # UTME TEMPORAL ANCHORING
-# ============================================================================
+# ============================================================================ 
 
 class UTMEEngine:
     """
@@ -400,9 +402,9 @@ class UTMEEngine:
         return anchor
 
 
-# ============================================================================
+# ============================================================================ 
 # OCT STACK ENHANCEMENT
-# ============================================================================
+# ============================================================================ 
 
 class OCTStackEnhancement:
     """
@@ -440,9 +442,9 @@ class OCTStackEnhancement:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # RECOVERY ORCHESTRATOR
-# ============================================================================
+# ============================================================================ 
 
 class RecoveryOrchestrator:
     """
@@ -477,7 +479,7 @@ class RecoveryOrchestrator:
         """
         print(f"\n{'='*70}")
         print("GARDENMOON PHOENIX STACK - RECOVERY ORCHESTRATION")
-        print(f"{'='*70}")
+        print(f"{ '='*70}")
         
         # Phase 1: Detection
         print(f"\n[PHASE 1] CSFC Cascade Detection")
@@ -580,7 +582,7 @@ class RecoveryOrchestrator:
         
         print(f"\n{'='*70}")
         print("RECOVERY COMPLETE")
-        print(f"{'='*70}")
+        print(f"{ '='*70}")
         print(f"  Total Recovery: {result.total_recovery*100:.1f}%")
         print(f"  Duration: {result.duration_minutes:.1f} minutes")
         print(f"  Success: {'YES' if result.success else 'NO'}")
@@ -612,9 +614,9 @@ class RecoveryOrchestrator:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_recovery():
     """Demonstrate GardenMoon Phoenix Stack recovery capabilities."""
@@ -673,7 +675,7 @@ def demonstrate_recovery():
     # Watermark notice
     print(f"\n{'='*70}")
     print("⚠️  TIER 2 WATERMARKED DEMO - 70% CAPABILITY")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     print("""
 This demo visualizes the GardenMoon Phoenix Stack recovery flow.
 
@@ -695,9 +697,9 @@ if __name__ == "__main__":
     demonstrate_recovery()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

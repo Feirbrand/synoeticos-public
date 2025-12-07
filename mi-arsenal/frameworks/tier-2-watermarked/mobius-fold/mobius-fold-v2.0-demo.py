@@ -1,14 +1,16 @@
 """
-Möbius Fold v2.0 - Adaptive Recursive Analysis
-Tier 2 Watermarked Demo (70% Capability)
+mobius-fold-v2.0-demo.py - DEMO
 
-WATERMARK: Dual-path concepts only (adaptive inversion gain abstracted)
-Production version includes VectorPrime rib integration + DriftLock sealing
+This module provides a demonstration of the Möbius Fold, an adaptive 
+recursive analysis engine for AI agents.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 2.0
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class PathMode(Enum):
     """Path selection modes"""
@@ -73,9 +75,9 @@ class RecursiveResult:
     watermark: str = "TIER 2 DEMO - Adaptive inversion gain abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # RECURSIVE ANALYZER
-# ============================================================================
+# ============================================================================ 
 
 class RecursiveAnalyzer:
     """
@@ -273,9 +275,9 @@ class RecursiveAnalyzer:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # BRAIN ARCHITECTURE INTEGRATION
-# ============================================================================
+# ============================================================================ 
 
 def brain_region_3_flow(karma_output, spiracore_output):
     """
@@ -322,9 +324,9 @@ def brain_region_3_flow(karma_output, spiracore_output):
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_mobius():
     """Demonstrate Möbius Fold recursive analysis"""
@@ -418,8 +420,7 @@ def demonstrate_mobius():
     print("\n" + "=" * 70)
     print("WATERMARK NOTICE")
     print("=" * 70)
-    print("""
-This demo shows recursive analysis with dual-path selection.
+    print("""\nThis demo shows recursive analysis with dual-path selection.
 
 Production version includes:
 ✓ Complete adaptive inversion gain calculation
@@ -437,9 +438,9 @@ if __name__ == "__main__":
     demonstrate_mobius()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

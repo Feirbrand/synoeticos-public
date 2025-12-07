@@ -1,14 +1,16 @@
 """
-ColdVault v2.4 - Immutable Backup & Anchor Vault
-Tier 2 Watermarked Demo (70% Capability)
+coldvault-v2.4-demo.py - DEMO
 
-WATERMARK: Retention metrics and architecture visualization only
-Production version includes ML-KEM-512 crypto + Shadow Memory DHT
+This module provides a demonstration of the ColdVault, an immutable 
+backup and anchor vault for AI agents.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 2.4
 """
 
 from dataclasses import dataclass, field
@@ -20,9 +22,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class StorageTier(Enum):
     """Storage tier classification"""
@@ -112,13 +114,13 @@ class StorageMetrics:
     read_latency_ms: float = 38.0
 
 
-# ============================================================================
+# ============================================================================ 
 # ML-KEM-512 CRYPTO (WATERMARKED)
-# ============================================================================
+# ============================================================================ 
 
 class MLKEMCrypto:
     """
-    ML-KEM-512 cryptographic boundary.
+    ML-KEM-512 cryptographic boundary. 
     
     TIER 2 WATERMARKED: 70% capability
     - Basic encryption simulation (production has full NIST FIPS 203)
@@ -172,13 +174,13 @@ class MLKEMCrypto:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # SHADOW MEMORY DHT (WATERMARKED)
-# ============================================================================
+# ============================================================================ 
 
 class ShadowMemoryDHT:
     """
-    Shadow Memory distributed hash table backend.
+    Shadow Memory distributed hash table backend. 
     
     TIER 2 WATERMARKED: 70% capability
     - Infinite capacity simulation (production has real DHT)
@@ -237,9 +239,9 @@ class ShadowMemoryDHT:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # COLDVAULT STORAGE ENGINE
-# ============================================================================
+# ============================================================================ 
 
 class ColdVault:
     """
@@ -480,9 +482,9 @@ class ColdVault:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_coldvault():
     """Demonstrate ColdVault v2.4 capabilities."""
@@ -509,7 +511,7 @@ def demonstrate_coldvault():
     # Store test anchors
     print(f"\n{'='*70}")
     print("STORING TEMPORAL ANCHORS")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     test_anchors = [
         {
@@ -570,7 +572,7 @@ def demonstrate_coldvault():
     # Restore anchors
     print(f"\n{'='*70}")
     print("RESTORING ANCHORS")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     for anchor_id in anchor_ids[:2]:  # Restore first 2
         print(f"\n🔄 Restoring: {anchor_id}")
@@ -585,7 +587,7 @@ def demonstrate_coldvault():
     # Tier migration simulation
     print(f"\n{'='*70}")
     print("TIER MIGRATION")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     migration = vault.tier_migration()
     print(f"\n🔀 Migration Results:")
@@ -596,7 +598,7 @@ def demonstrate_coldvault():
     # Auto-prune simulation
     print(f"\n{'='*70}")
     print("AUTO-PRUNE EXECUTION")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     prune_result = vault.auto_prune(torque_threshold=0.64)
     print(f"\n🧹 Prune Results:")
@@ -607,7 +609,7 @@ def demonstrate_coldvault():
     # Statistics
     print(f"\n{'='*70}")
     print("COLDVAULT STATISTICS")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     stats = vault.get_statistics()
     print(f"\n📈 Storage Metrics:")
@@ -630,9 +632,8 @@ def demonstrate_coldvault():
     # Watermark notice
     print(f"\n{'='*70}")
     print("⚠️  TIER 2 WATERMARKED DEMO - 70% CAPABILITY")
-    print(f"{'='*70}")
-    print("""
-This demo visualizes ColdVault v2.4 retention and architecture.
+    print(f"{ '='*70}")
+    print("""\nThis demo visualizes ColdVault v2.4 retention and architecture.
 
 Production version includes:
 ✓ Complete ML-KEM-512 post-quantum cryptography
@@ -645,16 +646,16 @@ Production version includes:
 ✓ 24/7 integrity monitoring and validation
 
 Enterprise Contact: aaron@valorgridsolutions.com
-    """)
+""")
 
 
 if __name__ == "__main__":
     demonstrate_coldvault()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

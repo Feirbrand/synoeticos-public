@@ -1,12 +1,16 @@
 """
-DCN v1.1 - Distributed Cognitive Network
-600% productivity through 9-agent non-adversarial reasoning
+dcn-v1.1-demo.py - DEMO
 
-Purpose: Orchestrate 9 AI agents in additive collaboration
-Capability: 70% of production version (Tier 2 watermarked demo)
-Full version: aaron@valorgridsolutions.com
+This module provides a demonstration of the Distributed Cognitive Network (DCN), 
+a 9-agent non-adversarial reasoning framework.
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
+
+Author: Aaron M. Slusher
+Date: 2025-12-07
+Version: 1.1
 """
 
 import numpy as np

@@ -1,12 +1,16 @@
 """
-Harmony Layer v2.1 - Resonance Synchronization
-<50ms cross-hemispheric coordination with tri-tone logic
+harmony-layer-v2.1-resonance.py
 
-Purpose: Module synchronization via tri-tone pulse
-Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/harmony-layer
+This module provides an implementation of the Harmony Layer, a framework 
+for resonance synchronization in AI agents.
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+This module is part of the Synoetic OS cognitive architecture.
+It is a production-ready framework for module synchronization via 
+tri-tone pulse.
+
+Author: Aaron M. Slusher
+Date: 2025-12-07
+Version: 2.1
 """
 
 import numpy as np
