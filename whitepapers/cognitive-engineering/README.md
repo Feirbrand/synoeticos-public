@@ -108,10 +108,10 @@ Research into organizational memory patterns that mirror biological memory syste
 
 <h3>Core Research Documents</h3>
 
-**context_engineering_the_complete_framework.md**
+**context-engineering-the-complete-framework.md**
 Comprehensive methodology consolidating the original 5-part Context Engineering series into a unified, production-ready framework. Includes systematic approaches to context organization, retention optimization, and cross-system compatibility with validated performance metrics.
 
-**fractal_context_engineering.md**
+**fractal-context-engineering.md**
 The unified FCE v3.6 framework supporting all AI architectures (symbolic, hybrid, flat, neuro-symbolic) with advanced features including LLMLingua compression, concept embedding optimization, episodic KV cache management, and self-healing capabilities. Production-validated with enterprise deployment case studies.
 
 <h2>Evidence Standards</h2>

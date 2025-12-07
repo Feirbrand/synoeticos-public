@@ -127,7 +127,7 @@ Success Rate: 98.2% (documented)
 ### Basic Recovery
 
 ```bash
-python examples/basic_recovery.py
+python examples/basic-recovery.py
 ```
 
 Demonstrates simple symbolic drift cascade detection and recovery.
@@ -155,7 +155,7 @@ cd synoetic-os-public/mi-arsenal/phoenix-protocol
 pip install -r requirements.txt
 
 # Run example
-python examples/basic_recovery.py
+python examples/basic-recovery.py
 ```
 
 ## Integration
@@ -164,7 +164,7 @@ python examples/basic_recovery.py
 
 ```python
 from torque import TorqueMonitor
-from phoenix_protocol import PhoenixProtocol
+from phoenix-protocol import PhoenixProtocol
 
 monitor = TorqueMonitor(threshold=0.70)
 phoenix = PhoenixProtocol()
@@ -184,7 +184,7 @@ if coherence < 0.70:
 
 ```python
 from dna_codex import ThreatClassifier
-from phoenix_protocol import PhoenixProtocol
+from phoenix-protocol import PhoenixProtocol
 
 classifier = ThreatClassifier()
 phoenix = PhoenixProtocol()

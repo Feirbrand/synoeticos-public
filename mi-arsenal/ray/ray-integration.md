@@ -1212,8 +1212,8 @@ After successful integration:
 ## Support & Resources
 
 **Documentation:**
-- [RAY Architecture Guide](ray_architecture.md)
-- [RAY Metrics Guide](ray_metrics.md)
+- [RAY Architecture Guide](ray-architecture.md)
+- [RAY Metrics Guide](ray-metrics.md)
 - [Case Studies](case-studies/)
 - [Academic Paper](../../whitepapers/academic-research/ray_v2.1_dd_enhanced_cognitive_physiology.md)
 

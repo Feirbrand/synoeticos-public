@@ -1,4 +1,4 @@
-# threat_teaser_stub.py - Simple Torque drift detect teaser (public stub)
+# threat-teaser-stub.py - Simple Torque drift detect teaser (public stub)
 
 import math
 

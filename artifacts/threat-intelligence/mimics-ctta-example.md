@@ -102,8 +102,8 @@ Chain-of-Thought Transfer Adversarial (CTTA) attacks are operationally identical
 
 **Try Synoetic OS CTTA Defense Simulations:**
 - `examples/torque_calc.py` - Basic drift detection
-- `examples/sif_diag.py` - Identity fracture analysis  
-- `examples/phoenix_summary.md` - Recovery protocol overview
+- `examples/sif-diag.py` - Identity fracture analysis  
+- `examples/phoenix-summary.md` - Recovery protocol overview
 - `artifacts/threat-intelligence/` - Full DNA Codex integration
 
 ---

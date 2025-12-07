@@ -23,10 +23,10 @@ This section contains integration systems, landing page components, and coordina
 ```
 threat-resilience-codex/
 ├── dna-codex/                      # Raw Variant Catalog (Core Tool)
-│   └── dna_codex_v5.5.md           # Master threat database with technical indicators
+│   └── dna-codex-v5.5.md           # Master threat database with technical indicators
 ├── research-papers/                # Academic Research Papers
-│   ├── dna_codex_v5_5_paper.md     # DNA Codex v5.5 Technical Specification
-│   ├── dna_codex_v5_5_technical_paper.pdf    # PDF version for distribution
+│   ├── dna-codex-v5-5-paper.md     # DNA Codex v5.5 Technical Specification
+│   ├── dna-codex-v5-5-technical-paper.pdf    # PDF version for distribution
 ├── docs/                           # Integration & Landing Systems
 │   ├── fractal-dominate-chaos-teaser.md
 │   ├── symbolic-defense-teaser.md
@@ -44,7 +44,7 @@ The docs section provides the technical infrastructure for DNA Codex integration
 ## Contents
 
 ### System Integration
-- **`dna_codex_v5.5.md`** - Master threat database with 560+ strains, operational validation through ARD-001 incident, and enhanced framework integration (CSFC/URA/Phoenix)
+- **`dna-codex-v5.5.md`** - Master threat database with 560+ strains, operational validation through ARD-001 incident, and enhanced framework integration (CSFC/URA/Phoenix)
 - **`phase_1_defense_tracker.yaml`** - Enhanced defense coordination with RAY Framework integration, Twin Synchronization metrics, and operational IOC thresholds
 - **`threat-correlation-maps/`** - Cross-threat relationship analysis including October 2025 validation convergence and emerging threat landscape
 - **`landing-page-integration/`** - Public threat intelligence interfaces with formalized IOC threshold matrices

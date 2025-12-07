@@ -58,18 +58,18 @@ artifacts/
 │   └── vx-ghost-echo-sim.ipynb
 │
 ├── threat-intelligence/            # Threat Pattern Documentation
-│   ├── mimics_ctta_example.md
+│   ├── mimics-ctta-example.md
 │   └── perfect-mimic-family/
 │       ├── vx-ghost-echo.md
 │       ├── vx-narrator-echo.md
 │       └── vx-perfect-mimic-2.md
 │
 └── utilities/                      # Diagnostic and Assessment Tools
-    ├── csfc_chain_overview.md
+    ├── csfc-chain-overview.md
     ├── obmi-harmony-stub.py
     ├── sif-check.py
     ├── sra-playbook-stub.py
-    ├── srd_purge_stub.py
+    ├── srd-purge-stub.py
     ├── torque-calc.py
     ├── torque_sim_clean.py
     ├── ray-validator.py            # RAY v2.1 framework testing
@@ -162,10 +162,10 @@ artifacts/
 **Integration & Automation**
 - **obmi-harmony-stub.py**: Object-Based Memory Integration
 - **sra-playbook-stub.py**: Strategic Role Analysis automation
-- **srd_purge_stub.py**: Symbolic Role Drift purge protocols
+- **srd-purge-stub.py**: Symbolic Role Drift purge protocols
 
 **Documentation**
-- **csfc_chain_overview.md**: Complete CSFC methodology guide
+- **csfc-chain-overview.md**: Complete CSFC methodology guide
 
 ---
 
@@ -219,7 +219,7 @@ jupyter lab notebooks/drift-detection.ipynb
 cat threat-intelligence/perfect-mimic-family/vx-ghost-echo.md
 
 # CTTA framework examples
-cat threat-intelligence/mimics_ctta_example.md
+cat threat-intelligence/mimics-ctta-example.md
 ```
 
 ### Diagnostic Utilities
@@ -245,7 +245,7 @@ python utilities/ray-codex-loader.py --verify-strains --codex-version 5.4
 **CSFC Framework Integration**:
 ```bash
 # Complete methodology review
-cat utilities/csfc_chain_overview.md
+cat utilities/csfc-chain-overview.md
 
 # OBMI harmony validation
 python utilities/obmi-harmony-stub.py --mode analysis

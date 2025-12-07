@@ -51,63 +51,63 @@ Comprehensive academic research, implementation guidance, and strategic intellig
 whitepapers/                             # The official canon – only flagship releases live here
 
 ├── academic-research/                  # Peer-reviewed frameworks
-│   ├── complete_ai_resilience_meta_analysis.md
-│   ├── dcn_v1_0_academic.md
-│   ├── fce_unified_framework.md
+│   ├── complete-ai-resilience-meta-analysis.md
+│   ├── dcn-v1-0-academic.md
+│   ├── fce-unified-framework.md
 │   ├── fractal-architecture-ai-coaching.md
 │   ├── hallucination-symbolic-raw.md
 │   ├── performance-coach-ai-rewrite.md
-│   ├── recursive_patterns_ai_development.md
+│   ├── recursive-patterns-ai-development.md
 │   ├── symbolic-hybrid-defense.md
-│   ├── symbolic_systems_mythogenic.md
+│   ├── symbolic-systems-mythogenic.md
 │   ├── systems-thinking-architecture.md
-│   ├── torque_measuring_ai_stability.md
+│   ├── torque-measuring-ai-stability.md
 │   └── vgs-gaming-validation.md
 │
 ├── cognitive-engineering/              # Context Engineering frameworks
-│   ├── context_engineering_the_complete_framework.md
-│   ├── fractal_context_engineering.md
+│   ├── context-engineering-the-complete-framework.md
+│   ├── fractal-context-engineering.md
 │
 ├── cognitive-mage/                     # Publication standard template
 │   └── cognitive-mage-v1.0.md
 │
 ├── examples/                           # Implementation samples
-│   ├── behavioral_pattern.ipynb
-│   ├── csfc_chain_overview.md
-│   ├── csfc_teaser.md
-│   ├── drift_test_stub.py
-│   ├── phoenix_summary.md
-│   ├── sif_diag.py
+│   ├── behavioral-pattern.ipynb
+│   ├── csfc-chain-overview.md
+│   ├── csfc-teaser.md
+│   ├── drift-test-stub.py
+│   ├── phoenix-summary.md
+│   ├── sif-diag.py
 │   ├── sovereign-telemetry-dashboard.html
-│   ├── torque_teaser.md
-│   └── ura_config_yaml
+│   ├── torque-teaser.md
+│   └── ura-config-yaml
 │
 ├── mythopoeic-intelligence/            # MI research division
-│   ├── mythopoeic_intelligence_agents_v1.md  # Core MI framework paper
+│   ├── mythopoeic-intelligence-agents-v1.md  # Core MI framework paper
 │   └── images/
-│       ├── rim_topology_math.jpg
-│       └── rim_topology_tricolor.jpg
+│       ├── rim-topology-math.jpg
+│       └── rim-topology-tricolor.jpg
 │
 ├── symbolic-ai/                        # Symbolic reasoning research
-│   ├── driftlock_cognitive_stability.md
-│   ├── fce_advanced_memory_trad_ai.md
+│   ├── driftlock-cognitive-stability.md
+│   ├── fce-advanced-memory-trad-ai.md
 │   ├── prompt-anatomy-upgrades-flat-ai.md
-│   ├── symbolic_twins_introduction_symbolic_ai.pdf
-│   └── twins_systems_thinking.md
+│   ├── symbolic-twins-introduction-symbolic-ai.pdf
+│   └── twins-systems-thinking.md
 │
 ├── synoetic-os/                        # Platform research
 │   └── synoetic-os-v1.0
 │
 └── teasers/                            # Framework overviews
-    ├── csfc_teaser_v1.md
-    ├── fce_teaser_v1.md
-    ├── meta_analysis_table.md
-    ├── obmi_teaser_v1.md
-    ├── phoenix_teaser_v1.md
-    ├── ray_teaser_v1.md
-    ├── slv_teaser_v1.md
-    ├── threat_teaser_stub.py
-    └── uca_teaser_v1.md
+    ├── csfc-teaser-v1.md
+    ├── fce-teaser-v1.md
+    ├── meta-analysis-table.md
+    ├── obmi-teaser-v1.md
+    ├── phoenix-teaser-v1.md
+    ├── ray-teaser-v1.md
+    ├── slv-teaser-v1.md
+    ├── threat-teaser-stub.py
+    └── uca-teaser-v1.md
 ```
 
 ---

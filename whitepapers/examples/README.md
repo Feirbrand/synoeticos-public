@@ -29,15 +29,15 @@ Priority Date: 2025-10-15
 
 ```
 examples/
-├── behavioral_pattern.ipynb          # Pattern recognition examples
-├── csfc_teaser.md                    # CSFC methodology overview
+├── behavioral-pattern.ipynb          # Pattern recognition examples
+├── csfc-teaser.md                    # CSFC methodology overview
 ├── drift_test.py                     # Drift detection sample code
 ├── obmi_harmony_stub.py              # OBMI implementation example
-├── phoenix_summary.md                # Phoenix Protocol summary
-├── sif_diag.py                       # SIF diagnostic example
+├── phoenix-summary.md                # Phoenix Protocol summary
+├── sif-diag.py                       # SIF diagnostic example
 ├── torque_calc.py                    # Torque calculation samples
-├── torque_teaser.md                  # Torque stability introduction
-└── ura_config_yaml                   # URA configuration template
+├── torque-teaser.md                  # Torque stability introduction
+└── ura-config-yaml                   # URA configuration template
 ```
 
 ## Research Portfolio
@@ -81,7 +81,7 @@ pip install jupyter
 **Behavioral Pattern Analysis**:
 ```bash
 # Run Jupyter example
-jupyter notebook behavioral_pattern.ipynb
+jupyter notebook behavioral-pattern.ipynb
 
 # Basic pattern detection
 python drift_test.py --sample-mode
@@ -90,10 +90,10 @@ python drift_test.py --sample-mode
 **CSFC Framework Preview**:
 ```bash
 # Read methodology overview
-cat csfc_teaser.md
+cat csfc-teaser.md
 
 # Run simplified diagnostic
-python sif_diag.py --demo-mode
+python sif-diag.py --demo-mode
 ```
 
 **Torque Stability Examples**:
@@ -102,13 +102,13 @@ python sif_diag.py --demo-mode
 python torque_calc.py --example
 
 # Read introduction
-cat torque_teaser.md
+cat torque-teaser.md
 ```
 
 **Phoenix Protocol Overview**:
 ```bash
 # Review methodology
-cat phoenix_summary.md
+cat phoenix-summary.md
 
 # Test OBMI harmony
 python obmi_harmony_stub.py --demo
@@ -119,7 +119,7 @@ python obmi_harmony_stub.py --demo
 **URA Configuration**:
 ```bash
 # Copy template
-cp ura_config_yaml my_ura_config.yaml
+cp ura-config-yaml my_ura_config.yaml
 
 # Edit for your environment
 nano my_ura_config.yaml
@@ -129,8 +129,8 @@ nano my_ura_config.yaml
 
 | Example | Complexity | Educational Value | Production Ready | Status |
 |---------|------------|-------------------|------------------|---------|
-| **behavioral_pattern.ipynb** | Beginner | High | Prototype | ✅ Educational |
-| **csfc_teaser.md** | Overview | Very High | Documentation | ✅ Complete |
+| **behavioral-pattern.ipynb** | Beginner | High | Prototype | ✅ Educational |
+| **csfc-teaser.md** | Overview | Very High | Documentation | ✅ Complete |
 | **drift_test.py** | Intermediate | High | Sample only | ✅ Educational |
 | **torque_calc.py** | Beginner | High | Basic version | ✅ Educational |
 
@@ -152,31 +152,31 @@ All examples designed for accessibility:
 ## Contents
 
 ### Implementation Examples
-- `behavioral_pattern.ipynb` - Interactive pattern recognition examples with visualization
+- `behavioral-pattern.ipynb` - Interactive pattern recognition examples with visualization
 - `drift_test.py` - Simple drift detection with monitoring capabilities
-- `sif_diag.py` - Basic SIF diagnostic implementation
+- `sif-diag.py` - Basic SIF diagnostic implementation
 - `torque_calc.py` - Torque stability calculation examples
 - `obmi_harmony_stub.py` - OBMI biomimetic memory sample implementation
 
 ### Research Documentation
-- `csfc_teaser.md` - Complete CSFC methodology overview and introduction
-- `phoenix_summary.md` - Phoenix Protocol summary with implementation guidance
-- `torque_teaser.md` - Torque stability concepts and mathematical foundations
+- `csfc-teaser.md` - Complete CSFC methodology overview and introduction
+- `phoenix-summary.md` - Phoenix Protocol summary with implementation guidance
+- `torque-teaser.md` - Torque stability concepts and mathematical foundations
 
 ### Configuration Templates
-- `ura_config_yaml` - URA (Unified Resilience Architecture) configuration template
+- `ura-config-yaml` - URA (Unified Resilience Architecture) configuration template
 - Production-ready setup examples for rapid deployment
 
 ## Usage Guidelines
 
 ### For Researchers
-- Start with documentation teasers (`csfc_teaser.md`, `phoenix_summary.md`)
-- Explore interactive examples (`behavioral_pattern.ipynb`)
+- Start with documentation teasers (`csfc-teaser.md`, `phoenix-summary.md`)
+- Explore interactive examples (`behavioral-pattern.ipynb`)
 - Review sample implementations for understanding core concepts
 
 ### For Developers  
 - Begin with sample code (`drift_test.py`, `torque_calc.py`)
-- Use configuration templates for setup (`ura_config_yaml`)
+- Use configuration templates for setup (`ura-config-yaml`)
 - Upgrade to production tools in `../artifacts/utilities/` when ready
 
 ### For Enterprise
@@ -187,9 +187,9 @@ All examples designed for accessibility:
 ## Upgrade Path
 
 Examples → Production Tools:
-- `sif_diag.py` → `../artifacts/utilities/sif-check.py` (full production version)
+- `sif-diag.py` → `../artifacts/utilities/sif-check.py` (full production version)
 - `torque_calc.py` → `../artifacts/utilities/torque_sim_clean.py` (enhanced simulation)
-- `obmi_harmony_stub.py` → `../artifacts/utilities/obmi_harmony_memory.py` (complete implementation)
+- `obmi_harmony_stub.py` → `../artifacts/utilities/obmi-harmony-memory.py` (complete implementation)
 
 
 ## License & Usage

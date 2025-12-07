@@ -134,7 +134,7 @@ Comprehensive protocol for Symbolic Identity Fracturing recovery using Torque-ba
 ### FCE v3.6/ – Fractal Context Engineering
 
 - [README.md](fce-v3.6/README.md) – Framework overview with compression modes and performance metrics
-- [core/fce_compressor.py](fce-v3.6/core/fce_compressor.py) – Production compression engine with φ-scaling implementation
+- [fce-compressor.py](fce-v3.6/fce-compressor.py) – Production compression engine with φ-scaling implementation
 
 ### Resilience Patterns/ – Antifragile Behaviors
 

@@ -1127,7 +1127,7 @@ for i, response in enumerate(responses):
 
 **Phoenix Protocol Recovery:**
 ```python
-# phoenix_protocol.py - Rapid recovery system
+# phoenix-protocol.py - Rapid recovery system
 import asyncio
 from typing import Dict, List, Optional
 from datetime import datetime

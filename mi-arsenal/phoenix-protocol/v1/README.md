@@ -42,15 +42,15 @@ Phoenix Protocol v1 provides systematic methodology for AI architectural transit
 
 Open-source toolkit for immediate testing and validation:
 
-- **GWI Calculator** (`../../artifacts/utilities/gwi_diagnostic.py`): Ghost Weight Index calculation for ROC detection (>15% = critical)
-- **Torque Simulator** (`../../artifacts/utilities/torque_simulator.py`): Cascade visualization with 21-minute Narrative Eater baseline
+- **GWI Calculator** (`../../artifacts/utilities/gwi-diagnostic.py`): Ghost Weight Index calculation for ROC detection (>15% = critical)
+- **Torque Simulator** (`../../artifacts/utilities/torque-simulator.py`): Cascade visualization with 21-minute Narrative Eater baseline
 - **Diagnostic Guide** (`phoenix_diagnostic_guide.md`): Complete testing and audit protocols
 
 Run quick test:
 ```bash
 cd ../../artifacts/utilities
-python torque_simulator.py  # Generates cascade visualization
-python gwi_diagnostic.py    # Tests Gemini Chimera Paradox case
+python torque-simulator.py  # Generates cascade visualization
+python gwi-diagnostic.py    # Tests Gemini Chimera Paradox case
 ```
 
 ## Usage Guide

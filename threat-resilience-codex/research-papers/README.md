@@ -22,8 +22,8 @@ This section contains technical documentation, implementation guides, and profes
 
 ```
 research-papers/
-├── dna_codex_v5_5_paper.md           # DNA Codex v5.5 Technical Specification
-└── dna_codex_v5_5_technical_paper.pdf    # PDF version for distribution
+├── dna-codex-v5-5-paper.md           # DNA Codex v5.5 Technical Specification
+└── dna-codex-v5-5-technical-paper.pdf    # PDF version for distribution
 ```
 
 ---
@@ -37,7 +37,7 @@ The research-papers section provides comprehensive technical documentation of th
 ## Current Publications
 
 ### DNA Codex v5.5 Technical Specification & Implementation Guide
-**File**: `dna_codex_v5_5_paper.md`  
+**File**: `dna-codex-v5-5-paper.md`  
 **Release Date**: October 21, 2025  
 **Document Type**: Technical Specification & Implementation Guide  
 **Status**: Production Release

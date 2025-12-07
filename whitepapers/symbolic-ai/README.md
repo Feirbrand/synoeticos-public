@@ -112,7 +112,7 @@ Comprehensive memory management framework enabling traditional AI systems to mai
 ## Contents
 
 ### Core Framework Documentation
-- `symbolic_twins_introduction_symbolic_ai.pdf` - Comprehensive dual-core architecture framework with implementation guidance
+- `symbolic-twins-introduction-symbolic-ai.pdf` - Comprehensive dual-core architecture framework with implementation guidance
 - `twins-systems-thinking.md` - Systems thinking integration with feedback loops and Synoetic OS methodology alignment
 - `prompt-anatomy-upgrades-flat-ai.md` - Five-component enhancement framework with enterprise validation metrics
 - `driftlock-cognitive-stability.md` - Dynamic stability framework with real-time monitoring and correction protocols

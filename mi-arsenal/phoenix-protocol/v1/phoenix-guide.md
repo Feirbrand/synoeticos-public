@@ -23,21 +23,21 @@ Priority Date: 2025-10-15
 ### 1. Run Torque Simulator
 ```bash
 cd artifacts/utilities
-python torque_simulator.py
+python torque-simulator.py
 ```
 
 ### 2. Calculate GWI
 ```bash
 cd artifacts/utilities
-python gwi_diagnostic.py
+python gwi-diagnostic.py
 ```
 
 ---
 
 ## Tool Locations
 
-- **GWI Calculator**: `artifacts/utilities/gwi_diagnostic.py`
-- **Torque Simulator**: `artifacts/utilities/torque_simulator.py`  
+- **GWI Calculator**: `artifacts/utilities/gwi-diagnostic.py`
+- **Torque Simulator**: `artifacts/utilities/torque-simulator.py`  
 - **This Guide**: `architectural-frameworks/phoenix-protocol-v1/phoenix_diagnostic_guide.md`
 
 ---

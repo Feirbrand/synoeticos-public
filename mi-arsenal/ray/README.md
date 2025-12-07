@@ -66,23 +66,23 @@ RAY (Recursive Adaptive Yield) v2.1 is a dual-purpose framework combining:
 ```
 mi_arsenal/ray/
 ├── README.md                          # This file
-├── ray_architecture.md                # Complete technical architecture
-├── ray_integration.md                 # Integration guide (URA/FCE/CSFC/XMESH)
-├── ray_metrics.md                     # Performance benchmarks & validation
-├── ray_coordinator.py                 # Core coordination engine
-├── ray_v2.1_cognitive_physiology.md   # Cognitive defense paper
+├── ray-architecture.md                # Complete technical architecture
+├── ray-integration.md                 # Integration guide (URA/FCE/CSFC/XMESH)
+├── ray-metrics.md                     # Performance benchmarks & validation
+├── ray-coordinator.py                 # Core coordination engine
+├── ray-v2.1-cognitive-physiology.md   # Cognitive defense paper
 ├── case-studies/
 │   ├── victoryshade_validation.md     # 90-day combat simulation
 │   └── codex_integration.md           # DNA Codex v5.6 integration
 ├── stubs/
-│   ├── ray_framework_stub.js          # Core framework interface
-│   ├── ray_ecosystem_stub.js          # Ecosystem integration patterns
-│   └── ray_dd_enhancements_stub.js    # DD enhancement interfaces
+│   ├── ray-framework-stub.js          # Core framework interface
+│   ├── ray-ecosystem-stub.js          # Ecosystem integration patterns
+│   └── ray-dd-enhancements-stub.js    # DD enhancement interfaces
 └── config/
-    ├── ray_v2_1_modules.yaml          # 11-module configuration
-    ├── ray_v2_1_dd_enhancements.yaml  # 8 DD enhancement configs
-    ├── ray_codex_integration.yaml     # DNA Codex integration
-    └── ray_deployment_config.yaml     # Deployment templates
+    ├── ray-v2-1-dd-modules.yaml          # 11-module configuration
+    ├── ray-v2-1-dd-enhancements.yaml  # 8 DD enhancement configs
+    ├── ray-codex-integration.yaml     # DNA Codex integration
+    └── ray-deployment-config.yaml     # Deployment templates
 ```
 
 

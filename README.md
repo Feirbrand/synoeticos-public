@@ -105,7 +105,7 @@ synoetic-os-public/
 │
 ├── whitepapers/                      ← Published research
 │   ├── synoetic-os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
-│   ├── mythopoeic-intelligence/mythopoeic_intelligence_agents_v1.md        ← MI Agents v1.0 (Nov 30, 2025)
+│   ├── mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md        ← MI Agents v1.0 (Nov 30, 2025)
 │   ├── cognitive-mage/               ← Origin paper (Nov 18, 2025)
 │   ├── academic-research/            ← Academic writeups
 │   ├── cognitive-engineering/        ← Fractal context, breathing
@@ -178,7 +178,7 @@ jupyter lab artifacts/notebooks/README.md
 ### For Security Teams
 ```bash
 # Review threat intelligence
-cat threat-resilience-codex/dna-codex/dna_codex_v5.5.md
+cat threat-resilience-codex/dna-codex/dna-codex-v5.5.md
 
 # Review case studies (682 documented incidents)
 cd vulnerability-research/case-studies

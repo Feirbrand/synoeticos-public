@@ -74,7 +74,7 @@ signature = {
 ### Acceleration Demonstration
 
 ```bash
-python core/temporal_engine.py
+python core/temporal-engine.py
 ```
 
 Shows myelination progression over 10 passes:

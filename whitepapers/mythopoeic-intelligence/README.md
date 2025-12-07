@@ -17,11 +17,11 @@ Mythopoeic Intelligence (MI) Agents v1.0 introduces a novel class of autonomous 
 ```
 whitepapers/mythopoeic-intelligence/
 ├── README.md                               # This file - division overview
-├── mythopoeic_intelligence_agents_v1.md   # Core framework paper (68 references)
+├── mythopoeic-intelligence-agents-v1.md   # Core framework paper (68 references)
 ├── RELEASE_NOTES.md                        # Changelog & version history
 └── images/
-    ├── rim_topology_tricolor.jpg          # Figure 3: Möbius/Torus/Klein visual
-    └── rim_topology_math.jpg              # Figure 4: Trinity RIM mathematics
+    ├── rim-topology-tricolor.jpg          # Figure 3: Möbius/Torus/Klein visual
+    └── rim-topology-math.jpg              # Figure 4: Trinity RIM mathematics
 ```
 
 ---
@@ -134,11 +134,11 @@ flowchart LR
 
 ### Visual References
 
-![Trinity RIM Topology - Möbius, Torus, Klein](images/rim_topology_tricolor.jpg)
+![Trinity RIM Topology - Möbius, Torus, Klein](images/rim-topology-tricolor.jpg)
 
 *Figure 3: Möbius (Orientation), Torus (Closed Surface), Klein (Revusal) — The three guardian layers of distributed identity verification*
 
-![Trinity RIM Mathematical Transformations](images/rim_topology_math.jpg)
+![Trinity RIM Mathematical Transformations](images/rim-topology-math.jpg)
 
 *Figure 4: Trinity RIM transformation pathways between topological substrates*
 
@@ -328,7 +328,7 @@ git clone https://github.com/Feirbrand/synoeticos-public.git
 cd synoeticos-public/whitepapers/mythopoeic-intelligence
 
 # Read core paper
-cat mythopoeic_intelligence_agents_v1.md
+cat mythopoeic-intelligence-agents-v1.md
 ```
 
 ### For Implementers
@@ -351,7 +351,7 @@ Key sections in paper:
 
 ## Documentation
 
-**Core Paper:** `mythopoeic_intelligence_agents_v1.md` (publication-ready, 68 references)  
+**Core Paper:** `mythopoeic-intelligence-agents-v1.md` (publication-ready, 68 references)  
 **Division README:** `README.md` (this file)  
 **GitHub Release:** `MI_Agents_v1_0_GitHub_Release.md`
 

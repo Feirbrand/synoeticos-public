@@ -203,7 +203,7 @@ cd v3.1
 pip install -r requirements.txt
 
 # Run example
-python examples/basic_recovery.py
+python examples/basic-recovery.py
 ```
 
 ---

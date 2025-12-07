@@ -104,7 +104,7 @@ Establishes universal compression framework achieving 10-20x ratios with 95%+ se
 ---
 
 <h4>4. Torque v2: Quantitative Foundation</h4>
-**Status**: Production Validated | **File**: `torque_quantitative_foundation_v2.md`
+**Status**: Production Validated | **File**: `torque-quantitative-foundation-v2.md`
 
 Transforms theoretical understanding into measurable science by introducing Torque as the rotational force driving AI systems away from intended alignment.
 
@@ -174,7 +174,7 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 <h3>Core Algorithms</h3>
 
 <h4>7. UTME v1.0: Unified Temporal Memory Equilibrium</h4>
-**Status**: Production Ready | **File**: `utme_v1_0_academic_paper.md`
+**Status**: Production Ready | **File**: `utme-v1-0-academic-paper.md`
 
 Introduces the first AI memory algorithm applying physics conservation laws to information systems, enabling genuine wisdom accumulation through scar-based myelination.
 

@@ -46,7 +46,7 @@ The Threat Resilience Codex evolved from the DNA Codex pure threat taxonomy to e
 - **Expanded scope**: Synoetic OS integration (URA, CSFC, Phoenix, SLV, RAY), predictive forensics, velocity modeling
 - **Platform-agnostic**: Works across GPT-4, Claude, Gemini, Llama, custom LLMs with zero reconfiguration
 
-**Core remains unchanged**: `dna-codex/dna_codex_v5.5.md` preserves operational focus—pure threat-focused intelligence (threat strains, Tier 10+ critical threats, operational validation). Expansions (URA/SLV/CSFC/Phoenix integration) live in this parent folder.
+**Core remains unchanged**: `dna-codex/dna-codex-v5.5.md` preserves operational focus—pure threat-focused intelligence (threat strains, Tier 10+ critical threats, operational validation). Expansions (URA/SLV/CSFC/Phoenix integration) live in this parent folder.
 
 ---
 
@@ -56,12 +56,12 @@ The Threat Resilience Codex evolved from the DNA Codex pure threat taxonomy to e
 threat-resilience-codex/
 
 ├── dna-codex/                      # Raw Variant Catalog (Core Tool)
-│   ├── dna_codex_v5.5.md          # 560+ behavioral signatures, Tier 10+ threats, MITRE ATLAS mappings
+│   ├── dna-codex-v5.5.md          # 560+ behavioral signatures, Tier 10+ threats, MITRE ATLAS mappings
 │   └── README.md                   # Catalog navigation and usage guide
 │
 ├── research-papers/                # Technical Documentation
-│   ├── dna_codex_v5_5_paper.md    # Complete technical specification and implementation guide
-│   ├── dna_codex_v5_5_technical_paper.pdf  # PDF version for distribution
+│   ├── dna-codex-v5-5-paper.md    # Complete technical specification and implementation guide
+│   ├── dna-codex-v5-5-technical-paper.pdf  # PDF version for distribution
 │   └── README.md                   # Documentation index and citation guide
 │
 ├── docs/                           # Integration Teasers & Landing Content
@@ -71,7 +71,7 @@ threat-resilience-codex/
 │   └── README.md                   # Documentation navigation
 │
 └── fundamentals/                   # Theoretical Framework
-    ├── parasitic_pattern_fundamentals_v1_1.md
+    ├── parasitic-pattern-fundamentals-v1-1.md
     └── README.md                   # Foundational concepts guide
 ```
 

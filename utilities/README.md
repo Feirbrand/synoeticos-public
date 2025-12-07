@@ -48,11 +48,11 @@ Command-line utilities for real-time CSFC (Complete Symbolic Fracture Cascade) d
 ```
 artifacts/utilities/
 
-├── csfc_chain_overview.md         # CSFC methodology documentation
+├── csfc-chain-overview.md         # CSFC methodology documentation
 ├── obmi-harmony-stub.py           # OBMI biomimetic memory integration
 ├── sif-check.py                   # Symbolic Identity Fracturing detector
 ├── sra-playbook-stub.py           # Strategic Role Analysis automation
-├── srd_purge_stub.py              # Symbolic Role Drift purge protocols
+├── srd-purge-stub.py              # Symbolic Role Drift purge protocols
 ├── torque-calc.py                 # Torque stability calculations
 ├── torque_sim_clean.py            # Enhanced cascade simulation engine
 ├── ray-validator.py               # RAY v2.1 framework testing utility
@@ -112,12 +112,12 @@ artifacts/utilities/
 - Strategic Role Analysis with automated playbook execution
 - Full CSFC framework compatibility with Phoenix Protocol support
 
-**srd_purge_stub.py**
+**srd-purge-stub.py**
 - Symbolic Role Drift purge automation with 47% risk reduction
 - Safety validation and rollback capabilities
 
 ### Documentation & Framework
-**csfc_chain_overview.md**
+**csfc-chain-overview.md**
 - Complete CSFC methodology documentation
 - Implementation guide and integration patterns
 
@@ -177,7 +177,7 @@ python obmi-harmony-stub.py --continuous --threshold 0.8
 python sra-playbook-stub.py --full-analysis
 
 # Drift purge automation
-python srd_purge_stub.py --purge-mode --safety-checks
+python srd-purge-stub.py --purge-mode --safety-checks
 ```
 
 ### CSFC Framework Integration
@@ -185,7 +185,7 @@ python srd_purge_stub.py --purge-mode --safety-checks
 **Complete Methodology Review**:
 ```bash
 # Read comprehensive CSFC documentation
-cat csfc_chain_overview.md
+cat csfc-chain-overview.md
 
 # Integrated cascade analysis pipeline
 python torque_sim_clean.py | python sif-check.py --pipe-mode
@@ -209,11 +209,11 @@ python torque_sim_clean.py | python sif-check.py --pipe-mode
 ## Usage Patterns
 
 ### Development Workflow
-1. **Assessment**: Start with `csfc_chain_overview.md` for methodology understanding
+1. **Assessment**: Start with `csfc-chain-overview.md` for methodology understanding
 2. **Detection**: Deploy `sif-check.py` for real-time monitoring
 3. **Validation**: Use `ray-validator.py` to verify RAY framework integrity
 4. **Analysis**: Use `torque_sim_clean.py` for cascade modeling and prediction
-5. **Response**: Implement `sra-playbook-stub.py` and `srd_purge_stub.py` for automated response
+5. **Response**: Implement `sra-playbook-stub.py` and `srd-purge-stub.py` for automated response
 
 ### Production Deployment
 1. **Monitoring**: Continuous SIF detection with threshold alerting
