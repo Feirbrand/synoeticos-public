@@ -1,0 +1,27 @@
+{
+  "project_name": "SynoeticOS-Public",
+  "description": "Synoetic OS - Cognitive Architecture for AI. Research initiative into AI resilience through cognitive architecture.",
+  "main_entry_points": [
+    "mi-arsenal/",
+    "threat-resilience-codex/",
+    "architectural-frameworks/",
+    "whitepapers/",
+    "vulnerability-research/",
+    "utilities/"
+  ],
+  "testing_frameworks": [
+    {
+      "name": "Python Unittest",
+      "command": "python -m unittest discover -s {test_dir} -p '*_test.py'"
+    }
+  ],
+  "build_commands": [],
+  "code_standards": {
+    "language": "Python",
+    "naming_convention": "kebab-case for files/directories, snake_case for python variables/functions",
+    "docstring_style": "Sphinx"
+  },
+  "documentation": {
+    "developer_guide": "docs/developer-guide.md"
+  }
+}
