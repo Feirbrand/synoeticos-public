@@ -82,10 +82,10 @@ synoetic-os-public/
 
 mi-arsenal/
 │   ├── frameworks/
-│   │   ├── tier-1-public/        ← 40 production frameworks
-│   │   └── tier-2-watermarked/   ← 15 demo frameworks
-│   ├── validation/               ← Operational reports
-│   └── papers/                   ← Zenodo DOI links
+│   │   ├── tier-1-public/           ← 35 production frameworks
+│   │   └── tier-2-watermarked/      ← 15 demo frameworks
+│   ├── validation/                  ← 3 operational reports (Phoenix, DNA, UTME)
+│   └── papers/                      ← 14 Zenodo DOI links (indexed)
 │
 ├── threat-resilience-codex/          ← DNA Codex database
 │   ├── dna-codex/                    ← Incident ledger

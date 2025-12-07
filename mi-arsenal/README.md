@@ -107,7 +107,7 @@ mi-arsenal/
 │   ├── validation-2-dna-codex-analysis.md
 │   └── validation-3-utme-benchmarks.md
 └── papers/
-    └── [14+ Zenodo DOI links]
+    └── papers-index.md 
 ```
 
 
