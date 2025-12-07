@@ -43,6 +43,12 @@ Not convinced? Run a demo first.
 - DCN: 600% productivity increase (9-agent coordination)
 - Production: 173-day continuous deployment (June 12 - Dec 1, 2025)
 
+
+**Detailed Validation Reports:**
+- [Phoenix Protocol Testing](./mi-arsenal/validation/validation-1-phoenix-testing.md)
+- [DNA Codex Analysis](./mi-arsenal/validation/validation-2-dna-codex-analysis.md)
+- [UTME Benchmarks](./mi-arsenal/validation/validation-3-utme-benchmarks.md)
+
 **Published Research:**
 - 14 papers with Zenodo DOIs (Oct-Dec 2025)
 - 682 incidents documented across 9-agent DCN
