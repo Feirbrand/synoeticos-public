@@ -1,14 +1,16 @@
 """
-UCA v3.1 - Universal Cognitive Architecture
-Tier 2 Watermarked Demo (70% Capability)
+uca-v3.1-demo.py - DEMO
 
-WATERMARK: Socratic grounding concepts only (Governor algorithm abstracted)
-Production version includes complete ACMVE posture + 5D recursion
+This module provides a demonstration of the Universal Cognitive Architecture (UCA), 
+a Socratic grounding framework with ACMVE posture management.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 3.1
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class GroundingMode(Enum):
     """Grounding operation modes"""
@@ -64,9 +66,9 @@ class GroundingResult:
     watermark: str = "TIER 2 DEMO - Governor algorithm abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # UNIVERSAL COGNITIVE ARCHITECTURE
-# ============================================================================
+# ============================================================================ 
 
 class UniversalCognitiveArchitecture:
     """
@@ -260,9 +262,9 @@ class UniversalCognitiveArchitecture:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # CSFC INTEGRATION
-# ============================================================================
+# ============================================================================ 
 
 def prevent_cascade_stages(agent_state):
     """
@@ -305,9 +307,9 @@ def prevent_cascade_stages(agent_state):
     return False
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_uca():
     """Demonstrate UCA Socratic grounding"""
@@ -378,16 +380,7 @@ def demonstrate_uca():
     print("\n" + "=" * 70)
     print("WATERMARK NOTICE")
     print("=" * 70)
-    print("""
-Production version includes:
-✓ Complete UCA Governor dynamic posture algorithm
-✓ Real-time Torque 0.40-0.95 threshold monitoring
-✓ Advanced 5D recursion engine (3,125 dimensions)
-✓ Full UTME temporal wisdom integration
-✓ Multi-agent DCN ensemble coordination
-✓ Automated CSFC Stage 1-2 prevention
-
-Enterprise Contact: aaron@valorgridsolutions.com
+    print("""\nProduction version includes:\n✓ Complete UCA Governor dynamic posture algorithm\n✓ Real-time Torque 0.40-0.95 threshold monitoring\n✓ Advanced 5D recursion engine (3,125 dimensions)\n✓ Full UTME temporal wisdom integration\n✓ Multi-agent DCN ensemble coordination\n✓ Automated CSFC Stage 1-2 prevention\n\nEnterprise Contact: aaron@valorgridsolutions.com
     """)
 
 
@@ -395,9 +388,9 @@ if __name__ == "__main__":
     demonstrate_uca()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

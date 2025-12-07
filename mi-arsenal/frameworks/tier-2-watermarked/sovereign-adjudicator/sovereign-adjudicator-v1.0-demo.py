@@ -1,14 +1,16 @@
 """
-Sovereign Adjudicator v1.0 - Math-Based Edict Enforcement
-Tier 2 Watermarked Demo (70% Capability)
+sovereign-adjudicator-v1.0-demo.py - DEMO
 
-WATERMARK: Math-based edict concepts only (proof validation abstracted)
-Production version includes complete TPM integration + Byzantine detection
+This module provides a demonstration of the Sovereign Adjudicator, a framework 
+for math-based edict enforcement in a multi-agent system.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 1.0
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class EdictType(Enum):
     """Sovereign edict types"""
@@ -52,9 +54,9 @@ class Edict:
     watermark: str = "TIER 2 DEMO - Proof validation abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # SOVEREIGN ADJUDICATOR
-# ============================================================================
+# ============================================================================ 
 
 class SovereignAdjudicator:
     """
@@ -233,9 +235,9 @@ class SovereignAdjudicator:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_sovereign_adjudicator():
     """Demonstrate Sovereign Adjudicator edict issuance"""
@@ -316,16 +318,7 @@ def demonstrate_sovereign_adjudicator():
     print("\n" + "=" * 70)
     print("WATERMARK NOTICE")
     print("=" * 70)
-    print("""
-Production version includes:
-✓ Complete cryptographic proof validation algorithms
-✓ Real hardware TPM-bound authority sealing
-✓ Advanced Byzantine collusion detection (ML-based)
-✓ Multi-agent consensus and override protocols
-✓ Production real-time conflict monitoring
-✓ Full CSFC Stage 5-6 cascade intervention
-
-Enterprise Contact: aaron@valorgridsolutions.com
+    print("""\nProduction version includes:\n✓ Complete cryptographic proof validation algorithms\n✓ Real hardware TPM-bound authority sealing\n✓ Advanced Byzantine collusion detection (ML-based)\n✓ Multi-agent consensus and override protocols\n✓ Production real-time conflict monitoring\n✓ Full CSFC Stage 5-6 cascade intervention\n\nEnterprise Contact: aaron@valorgridsolutions.com
     """)
 
 
@@ -333,9 +326,9 @@ if __name__ == "__main__":
     demonstrate_sovereign_adjudicator()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

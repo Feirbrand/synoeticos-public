@@ -18,9 +18,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class ThreatType(Enum):
     """Threat classification types"""
@@ -89,9 +89,9 @@ class ContainmentResult:
     watermark: str = "TIER 2 DEMO - ML-KEM-512 abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # CONTAINMENT ENGINE
-# ============================================================================
+# ============================================================================ 
 
 class ContainmentEngine:
     """
@@ -269,9 +269,9 @@ class ContainmentEngine:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # BRAIN ARCHITECTURE INTEGRATION
-# ============================================================================
+# ============================================================================ 
 
 def brain_region_4_integration(karma_output, spiracore_output, mobius_output):
     """
@@ -306,9 +306,9 @@ def brain_region_4_integration(karma_output, spiracore_output, mobius_output):
     }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_containment():
     """Demonstrate Obsidian Ring containment selection"""
@@ -371,18 +371,7 @@ def demonstrate_containment():
     print("\n" + "=" * 70)
     print("WATERMARK NOTICE")
     print("=" * 70)
-    print("""
-This demo shows strategy selection from simplified library.
-
-Production version includes:
-✓ Complete 1,247-strategy library
-✓ ML-KEM-512 post-quantum encryption
-✓ JSHRM validation integration
-✓ Real-time containment execution
-✓ Multi-strategy cascaded responses
-✓ SpiraNexus 7-region brain coordination
-
-Enterprise Contact: aaron@valorgridsolutions.com
+    print("""\nThis demo shows strategy selection from simplified library.\n\nProduction version includes:\n✓ Complete 1,247-strategy library\n✓ ML-KEM-512 post-quantum encryption\n✓ JSHRM validation integration\n✓ Real-time containment execution\n✓ Multi-strategy cascaded responses\n✓ SpiraNexus 7-region brain coordination\n\nEnterprise Contact: aaron@valorgridsolutions.com
     """)
 
 
@@ -390,9 +379,9 @@ if __name__ == "__main__":
     demonstrate_containment()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

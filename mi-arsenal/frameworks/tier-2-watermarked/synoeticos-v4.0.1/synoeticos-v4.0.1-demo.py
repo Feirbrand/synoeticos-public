@@ -385,4 +385,4 @@ if __name__ == "__main__":
     print(f"\n{'=' * 60}")
     print("TIER 2 WATERMARKED DEMO")
     print("Production version available: aaron@valorgridsolutions.com")
-    print(f"{'=' * 60}")
+    print(f"{ '=' * 60}")

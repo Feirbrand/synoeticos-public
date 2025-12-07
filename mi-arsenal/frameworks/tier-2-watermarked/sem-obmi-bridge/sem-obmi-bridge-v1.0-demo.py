@@ -1,12 +1,17 @@
 """
-SEM-OBMI Bridge v1.0 - Hemispheric Coordination
-<50ms cross-hemispheric sync with 99.5% SIF resistance
+sem-obmi-bridge-v1.0-demo.py - DEMO
 
-Purpose: Coordinate left-brain (SEM) and right-brain (OBMI) processing
-Capability: 70% of production version (Tier 2 watermarked demo)
-Full version: aaron@valorgridsolutions.com
+This module provides a demonstration of the SEM-OBMI Bridge, a framework 
+for coordinating left-brain (SEM) and right-brain (OBMI) processing 
+in AI agents.
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
+
+Author: Aaron M. Slusher
+Date: 2025-12-07
+Version: 1.0
 """
 
 import numpy as np

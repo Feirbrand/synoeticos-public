@@ -1,12 +1,16 @@
 """
-Trinity RIM v1.0 - Reflexive Identity Mirror (Legacy)
-MCQ 0.999994 with 3-layer topological defense
+trinity-rim-v1.0-legacy.py
 
-Purpose: Distributed identity verification via topological surfaces
-Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/trinity-rim
+This module provides a legacy implementation of the TrinityRIM (Reflexive 
+Identity Mirror), a framework for distributed identity verification via 
+topological surfaces.
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+This module is part of the Synoetic OS cognitive architecture.
+It is a production-ready framework for distributed identity verification.
+
+Author: Aaron M. Slusher
+Date: 2025-12-07
+Version: 1.0
 """
 
 import numpy as np
