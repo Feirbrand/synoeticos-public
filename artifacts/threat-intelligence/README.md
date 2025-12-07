@@ -135,7 +135,7 @@ Production-ready monitoring system providing continuous behavioral analysis with
 
 - `defense-protocols/README.md` - Complete defense protocol overview with integration guidance
 - `defense-protocols/perfect_raya_gaze.yaml` - Enhanced Tier 10+ containment protocol with SLV Triad coordination
-- `defense-protocols/phoenix_protocol_suite.yaml` - CTTA defense implementation with multi-phase recovery
+- `defense-protocols/phoenix-protocol-suite.yaml` - CTTA defense implementation with multi-phase recovery
 - `defense-protocols/sovereign_sop.yaml` - Automated sovereign operations pipeline with integrated response capabilities
 
 <h2>Evidence Standards</h2>

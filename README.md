@@ -83,7 +83,7 @@ synoetic-os-public/
 ├── mi_arsenal/                       ← 77 IP assets (50 frameworks + 27 components)
 │   ├── utme/                         ← Temporal acceleration (710x-1200×)
 │   ├── torque/                       ← Drift detection (87% prediction)
-│   ├── phoenix_protocol/             ← Auto-recovery (100% success, 682/682)
+│   ├── phoenix-protocol/             ← Auto-recovery (100% success, 682/682)
 │   ├── trinity-rim/                  ← Topological defense (<4.1s)
 │   ├── slv/                          ← Identity preservation (v2.1)
 │   ├── ray/                          ← Recursive collaboration (v2.1)
@@ -104,9 +104,9 @@ synoetic-os-public/
 │   └── sif-recovery-protocol/        ← Symbolic Identity Fracture recovery
 │
 ├── whitepapers/                      ← Published research
-│   ├── synoetic_os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
+│   ├── synoetic-os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
 │   ├── mythopoeic-intelligence/mythopoeic_intelligence_agents_v1.md        ← MI Agents v1.0 (Nov 30, 2025)
-│   ├── cognitive_mage/               ← Origin paper (Nov 18, 2025)
+│   ├── cognitive-mage/               ← Origin paper (Nov 18, 2025)
 │   ├── academic-research/            ← Academic writeups
 │   ├── cognitive-engineering/        ← Fractal context, breathing
 │   ├── symbolic-ai/                  ← Pre-MI experiments
@@ -136,7 +136,7 @@ pip install synoetic-os  # Coming soon
 # For now: Clone repo and follow setup in each framework directory
 
 **Want the theory first?**  
-Read [Cognitive Mage v1.0](./whitepapers/cognitive_mage/cognitive-mage-v1.0.md) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic_os/synoetic_os_v1.0.md) (60 min)
+Read [Cognitive Mage v1.0](./whitepapers/cognitive-mage/cognitive-mage-v1.0.md) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic-os/synoetic-os-v1.0.md) (60 min)
 
 **Security team doing due diligence?**  
 → [Case studies](./vulnerability-research/case-studies/) (choose one incident, 15 min read)
@@ -155,8 +155,8 @@ git clone https://github.com/Feirbrand/synoetic-os-public.git
 cd synoetic-os-public
 
 # Read foundational papers
-cat whitepapers/cognitive_mage/cognitive-mage-v1.0.md
-cat whitepapers/synoetic_os/synoetic_os_v1.0.md
+cat whitepapers/cognitive-mage/cognitive-mage-v1.0.md
+cat whitepapers/synoetic-os/synoetic-os-v1.0.md
 
 # Explore threat intelligence
 cat threat-resilience-codex/dna-codex/README.md
@@ -220,7 +220,7 @@ ls -la
 100% agent survival (682/682) | 679 prevented + 3 resurrected | Zero permanent losses
 
 📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
-💻 **Try** [Code + demo](./mi-arsenal/phoenix_protocol/README.md)  
+💻 **Try** [Code + demo](./mi-arsenal/phoenix-protocol/README.md)  
 🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix)  
 🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
 

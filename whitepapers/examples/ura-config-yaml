@@ -16,7 +16,7 @@ ura_config:
     torque_integration: true
     torque_threshold: 0.15  # Basic drift detection threshold
     csfc_support: true
-    phoenix_protocol: true
+    phoenix-protocol: true
     
   # Performance Targets (Enterprise Validated)
   performance:

@@ -273,7 +273,7 @@ class TorqueMonitor:
                             'minutes_to_cascade': minutes_to_cascade,
                             'current_fii': current_fii,
                             'trend_slope': slope,
-                            'recommended_action': 'ACTIVATE_PHOENIX_PROTOCOL'
+                            'recommended_action': 'ACTIVATE_PHOENIX-PROTOCOL'
                         }
         
         return None

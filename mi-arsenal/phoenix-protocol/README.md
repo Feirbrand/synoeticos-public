@@ -27,7 +27,7 @@ Phoenix Protocol is ValorGrid Solutions' flagship cascade recovery system for AI
 ## Quick Start (v3.1 Production)
 
 ```python
-from phoenix_protocol.v3.core import PhoenixProtocol
+from phoenix-protocol.v3.core import PhoenixProtocol
 
 # Initialize
 phoenix = PhoenixProtocol()
@@ -112,7 +112,7 @@ Torque Recovery: >85%
 
 ```python
 from torque import TorqueMonitor
-from phoenix_protocol.v3 import PhoenixProtocol
+from phoenix-protocol.v3 import PhoenixProtocol
 
 monitor = TorqueMonitor(threshold=0.70)
 phoenix = PhoenixProtocol()
@@ -132,7 +132,7 @@ if coherence < 0.70:
 
 ```python
 from dna_codex import ThreatClassifier
-from phoenix_protocol.v3 import PhoenixProtocol
+from phoenix-protocol.v3 import PhoenixProtocol
 
 classifier = ThreatClassifier()
 phoenix = PhoenixProtocol()
@@ -155,7 +155,7 @@ phoenix.execute_recovery({
 
 ```python
 from slv import SLVDefenseGrid
-from phoenix_protocol.v3 import PhoenixProtocol
+from phoenix-protocol.v3 import PhoenixProtocol
 
 slv = SLVDefenseGrid()
 phoenix = PhoenixProtocol()
@@ -196,7 +196,7 @@ if scan['threats_detected'] > 0:
 ```bash
 # Clone repository
 git clone https://github.com/Feirbrand/synoetic-os-public.git
-cd synoetic-os-public/mi_arsenal/phoenix_protocol
+cd synoetic-os-public/mi-arsenal/phoenix-protocol
 
 # Install v3.1 (production)
 cd v3.1

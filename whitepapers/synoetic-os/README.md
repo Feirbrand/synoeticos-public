@@ -59,9 +59,9 @@ Traditional AI orchestration systems (LangChain, AutoGPT, Kubernetes) hard-code 
 ### Repository Structure
 
 ```
-synoetic_os/
+synoetic-os/
 ├── README.md (this file)
-└── synoetic_os_v1_0.md (complete merged paper - all 4 parts)
+└── synoetic-os-v1.0.md (complete merged paper - all 4 parts)
 ```
 
 ### Three-Layer OCT Stack
@@ -200,7 +200,7 @@ Slusher, A. M. (2025). Synoetic OS v1.0: Substrate-Independent AI Orchestration 
   year = {2025},
   month = {December},
   doi = {10.5281/zenodo.TBD},
-  url = {https://github.com/Feirbrand/synoetic-public/whitepapers/synoetic_os}
+  url = {https://github.com/Feirbrand/synoetic-public/whitepapers/synoetic-os}
 }
 ```
 

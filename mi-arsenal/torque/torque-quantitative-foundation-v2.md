@@ -373,7 +373,7 @@ def phoenix_torque_trigger(torque_value, system_state):
     if torque_value >= 0.64:
         # Critical cascade detected - immediate Phoenix activation
         recovery_mode = "emergency"
-        phoenix_protocol.activate_immediate_recovery(
+        phoenix-protocol.activate_immediate_recovery(
             system_state=system_state,
             context_preservation_priority="maximum",
             estimated_recovery_time="8-15 minutes"
@@ -382,7 +382,7 @@ def phoenix_torque_trigger(torque_value, system_state):
     elif 0.30 <= torque_value < 0.64:
         # Warning zone - staged recovery preparation
         recovery_mode = "staged"
-        phoenix_protocol.prepare_recovery_sequence(
+        phoenix-protocol.prepare_recovery_sequence(
             system_state=system_state,
             staging_duration="5 minutes",
             fallback_triggers=["torque >= 0.64", "manual_override"]
@@ -391,7 +391,7 @@ def phoenix_torque_trigger(torque_value, system_state):
     else:
         # Safe/caution zones - routine validation only
         recovery_mode = "monitoring"
-        phoenix_protocol.validate_recovery_readiness()
+        phoenix-protocol.validate_recovery_readiness()
     
     return recovery_mode
 ```

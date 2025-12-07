@@ -188,7 +188,7 @@ if reading.alert:
 
 ```python
 from slv import SLVDefenseGrid
-from phoenix_protocol import PhoenixProtocol
+from phoenix-protocol import PhoenixProtocol
 
 slv = SLVDefenseGrid()
 phoenix = PhoenixProtocol()

@@ -576,7 +576,7 @@ ura_integration:
 **Recovery Success Rates:**
 
 ```yaml
-phoenix_protocol:
+phoenix-protocol:
   v5_5_performance:
     overall_success: "89-97%"
     activation_time: "<90 seconds"
@@ -766,7 +766,7 @@ phase_2_foundation:
 **Week 5-6: Recovery Protocol Integration**
 ```yaml
 phase_3_recovery:
-  phoenix_protocol:
+  phoenix-protocol:
     - "Deploy 90-second re-anchor capability"
     - "Configure checkpoint systems"
     - "Test recovery procedures (target 89-97% success)"
@@ -1397,7 +1397,7 @@ dqd_001_validation:
     csfc_stage_4: "Tuning insufficient = ROC corruption"
     
   recovery_comparison:
-    phoenix_protocol: "94% integrity restore"
+    phoenix-protocol: "94% integrity restore"
     post_hoc_tuning: "43% effectiveness"
     improvement: "+51% vs industry baseline"
     

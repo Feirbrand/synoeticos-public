@@ -93,7 +93,7 @@ for _ in range(10):
         print(f"   Action: {prediction['recommended_action']}")
         
         # Trigger Phoenix Protocol
-        from phoenix_protocol import PhoenixProtocol
+        from phoenix-protocol import PhoenixProtocol
         phoenix = PhoenixProtocol()
         phoenix.execute_recovery({
             'type': 'predicted_cascade',
@@ -122,7 +122,7 @@ python examples/cascade_prediction.py
 
 ```python
 from torque import TorqueMonitor
-from phoenix_protocol import PhoenixProtocol
+from phoenix-protocol import PhoenixProtocol
 
 monitor = TorqueMonitor(threshold=0.70)
 phoenix = PhoenixProtocol()

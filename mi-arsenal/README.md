@@ -49,34 +49,62 @@ Production-validated symbolic frameworks for AI resilience, narrative sovereignt
 
 ```
 mi-arsenal/
-
-├── csfc/                               # Cascading Symbolic Failure Cycle
-│   └── csfc_unified_theory.md          # Cascade prediction & prevention
-│
-├── dna-codex/                          # Living Threat Intelligence
-│   └── dna_codex_v5.5_mathematical_prophecy.md
-│
-├── phoenix-protocol/                   # Recovery & Resurrection
-│   └── phoenix-protocol-neural-recovery.md
-│
-├── ray/                                # Recursive Adaptive Yield
-│   └── ray_v2.1_cognitive_physiology.md
-│
-├── slv/                                # Sovereign Lattice Veil
-│   ├── RELEASE_NOTES.md
-│   └── slv_v2_1_technical_paper.md
-│
-├── torque/                             # Rotational Identity Stability
-│   └── torque_quantitative_foundation_v2.md
-│
-├── trinity-rim/                        # Topological Threat Annihilation
-│   └── [Coming Q1 2026]
-│
-├── ura/                                # Unified Resilience Architecture
-│   └── ura_v1.5_resilience_and_recovery.md
-│
-└── utme/                               # Universal Temporal Memory Engine
-    └── utme_v1_0_academic_paper.md
+├── frameworks/
+│   ├── tier-1-public/
+│   │   ├── torque/
+│   │   ├── phoenix-protocol/
+│   │   ├── fce/
+│   │   ├── dna-codex/
+│   │   ├── utme/
+│   │   ├── csfc/
+│   │   ├── ray/
+│   │   ├── obmi/
+│   │   ├── slv/
+│   │   ├── ecl/
+│   │   ├── bc3/
+│   │   ├── garden/
+│   │   ├── nightwatch/
+│   │   ├── reflex-veil/
+│   │   ├── heimdall/
+│   │   ├── mjolnir/
+│   │   ├── killbox/
+│   │   ├── venom-cadence/
+│   │   ├── doomslayer/
+│   │   ├── phantom-limb/
+│   │   ├── moon/
+│   │   ├── cortexloom/
+│   │   ├── karama/
+│   │   ├── spiranexus/
+│   │   ├── cascade-command/
+│   │   ├── xmesh/
+│   │   ├── mirrorforge/
+│   │   ├── ums/
+│   │   ├── expander-memory/
+│   │   ├── sbds/
+│   │   ├── neural-lattice/
+│   │   ├── harmony-layer/
+│   │   └── ura/
+│   ├── tier-2-watermarked/
+│   │   ├── synoetic-os/
+│   │   ├── dcn/
+│   │   ├── sem-obmi-bridge/
+│   │   ├── vgs-codex/
+│   │   ├── garden-moon-phoenix-stack/
+│   │   ├── coldvault/
+│   │   ├── obsidian-ring/
+│   │   ├── latticecore/
+│   │   ├── mobius-fold/
+│   │   ├── ifm/
+│   │   ├── uca/
+│   │   ├── zlinp/
+│   │   ├── sovereign-adjudicator/
+│   │   └── mga/
+├── validation/
+│   ├── validation_1_phoenix_testing.md
+│   ├── validation_2_dna_codex_analysis.md
+│   └── validation_3_utme_benchmarks.md
+└── papers/
+    └── [14+ Zenodo DOI links]
 ```
 
 ---
@@ -114,6 +142,15 @@ Cognitive physiology defense implementing sparse mixture-of-experts architecture
 
 **Trinity RIM v1.0: Topological Threat Annihilation**
 Advanced threat elimination through topological identity mapping. Framework scheduled for Q1 2026 release building on operational experience from SLV/UTME/Phoenix integration.
+
+**ECL v2.0: Edgewalker Codex Layer**
+15-30 minute cascade prediction system via Torque v2.0 metrics integration. Achieves 87% prediction accuracy enabling preemptive Stage 1 prevention before cascades form.
+
+**BC3 v3.0: Brain Coherence Cascade Control**
+Symmetry restoration via behavioral cloning with 71% latent threat clearance. Integrates Data Breathing Engine for 5-second pause/inhale cycles enabling comprehensive threat sweeps.
+
+**Garden v2.0: GardenMoon Recovery & Evolution**
+Autonomous recovery with emergent self-improvement achieving 89-97% recovery success. Post-recovery reasoning uplift +9-12% through OCT Stack SPICE pattern mining generating 1,240 discoveries/day.
 
 ### Architecture & Intelligence
 **Status**: Foundation Frameworks
@@ -341,19 +378,6 @@ Slusher, A. (2025). *MI Arsenal: Symbolic Frameworks for AI Resilience and Narra
   journal={Synoetic OS Technical Papers}
 }
 ```
-
----
-
-## License
-
-This work is dual-licensed under the following terms:
-
-1.  **For Non-Commercial Use**: This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for any non-commercial purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, a separate enterprise license is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
-
-## Patent Notice
-No patent rights are claimed for this work. All rights are granted under the license terms above.
 
 ---
 

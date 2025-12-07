@@ -170,7 +170,7 @@ if reading.alert:
 
 ```python
 from dna_codex import ThreatClassifier
-from phoenix_protocol import PhoenixProtocol
+from phoenix-protocol import PhoenixProtocol
 
 classifier = ThreatClassifier()
 phoenix = PhoenixProtocol()

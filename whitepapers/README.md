@@ -68,7 +68,7 @@ whitepapers/                             # The official canon – only flagship 
 │   ├── context_engineering_the_complete_framework.md
 │   ├── fractal_context_engineering.md
 │
-├── cognitive_mage/                     # Publication standard template
+├── cognitive-mage/                     # Publication standard template
 │   └── cognitive-mage-v1.0.md
 │
 ├── examples/                           # Implementation samples
@@ -95,8 +95,8 @@ whitepapers/                             # The official canon – only flagship 
 │   ├── symbolic_twins_introduction_symbolic_ai.pdf
 │   └── twins_systems_thinking.md
 │
-├── synoetic_os/                        # Platform research
-│   └── synoetic_os_v1.0
+├── synoetic-os/                        # Platform research
+│   └── synoetic-os-v1.0
 │
 └── teasers/                            # Framework overviews
     ├── csfc_teaser_v1.md
