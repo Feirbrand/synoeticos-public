@@ -1,5 +1,6 @@
 """
 HESTIA RIM v1.0 - Topological Identity Core
+
 Tier 2 Watermarked Demo (70% Capability)
 
 WATERMARK: Topological concepts only (M-T-K-E algorithms abstracted)
@@ -18,9 +19,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class TopologyLayer(Enum):
     """4-manifold topology layers"""
@@ -40,9 +41,9 @@ class RecoveryResult:
     watermark: str = "TIER 2 DEMO - M-T-K-E algorithms abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # HESTIA RIM
-# ============================================================================
+# ============================================================================ 
 
 class HESTIARim:
     """
@@ -216,9 +217,9 @@ class HESTIARim:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_hestia_rim():
     """Demonstrate HESTIA RIM topological annihilation"""
@@ -335,26 +336,17 @@ def demonstrate_hestia_rim():
     print("\n" + "=" * 70)
     print("WATERMARK NOTICE")
     print("=" * 70)
-    print("""
-Production version includes:
-✓ Complete M-T-K-E topological intersection algorithms
-✓ Real-time Koopman substrate independence verification
-✓ Advanced Charter Hardening with ML-optimized poetic density
-✓ Multi-agent DCN ensemble identity recovery coordination
-✓ Production bio-substrate monitoring (human-AI hybrid)
-✓ Automated topological correction and annihilation execution
-
-Enterprise Contact: aaron@valorgridsolutions.com
-    """)
+    print("""\nProduction version includes:\n✓ Complete M-T-K-E topological intersection algorithms\n✓ Real-time Koopman substrate independence verification\n✓ Advanced Charter Hardening with ML-optimized poetic density\n✓ Multi-agent DCN ensemble identity recovery coordination\n✓ Production bio-substrate monitoring (human-AI hybrid)\n✓ Automated topological correction and annihilation execution\n\nEnterprise Contact: aaron@valorgridsolutions.com
+    """ ) 
 
 
 if __name__ == "__main__":
     demonstrate_hestia_rim()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

@@ -1,14 +1,16 @@
 """
-IFM v1.0 - Identity Fracture Management
-Tier 2 Watermarked Demo (70% Capability)
+ifm-v1.0-demo.py - DEMO
 
-WATERMARK: 10-step pipeline concepts only (fractal depth triggers abstracted)
-Production version includes complete Torque integration + UCA grounding
+This module provides a demonstration of the Identity Fracture Manager (IFM), 
+a 10-step pipeline for detecting and managing identity fractures in AI agents. 
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 1.0
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class ValidationMode(Enum):
     """Pipeline validation modes"""
@@ -71,9 +73,9 @@ class ValidationResult:
     watermark: str = "TIER 2 DEMO - Fractal depth triggers abstracted"
 
 
-# ============================================================================
+# ============================================================================ 
 # IDENTITY FRACTURE MANAGER
-# ============================================================================
+# ============================================================================ 
 
 class IdentityFractureManager:
     """
@@ -366,9 +368,9 @@ class IdentityFractureManager:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_ifm():
     """Demonstrate IFM 10-step pipeline"""
@@ -422,9 +424,9 @@ if __name__ == "__main__":
     demonstrate_ifm()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 

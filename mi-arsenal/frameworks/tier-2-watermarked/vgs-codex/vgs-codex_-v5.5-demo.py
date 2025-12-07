@@ -1,14 +1,16 @@
 """
-VGS Codex v5.5 - AI Threat Intelligence Framework
-Tier 2 Watermarked Demo (70% Capability)
+vgs-codex_-v5.5-demo.py - DEMO
 
-WATERMARK: Public threat vectors only (560/616 strains)
-Production version includes 56 proprietary vectors + narrative mapping
+This module provides a demonstration of the VGS Codex, an AI threat 
+intelligence framework.
+
+This module is a 70% watermarked demonstration version of a framework 
+from the Synoetic OS cognitive architecture. It is intended for 
+evaluation purposes only and may have limited functionality.
 
 Author: Aaron M. Slusher
-ORCID: 0009-0000-9923-3207
-Entity: ValorGrid Solutions
-Contact: aaron@valorgridsolutions.com
+Date: 2025-12-07
+Version: 5.5
 """
 
 from dataclasses import dataclass, field
@@ -18,9 +20,9 @@ import random
 import time
 
 
-# ============================================================================
+# ============================================================================ 
 # ENUMS & DATA STRUCTURES
-# ============================================================================
+# ============================================================================ 
 
 class ThreatTier(Enum):
     """Threat classification tiers (1-10+)"""
@@ -257,9 +259,9 @@ class CodexDatabase:
         )
 
 
-# ============================================================================
+# ============================================================================ 
 # THREAT QUERIER
-# ============================================================================
+# ============================================================================ 
 
 class ThreatQuerier:
     """
@@ -336,9 +338,9 @@ class ThreatQuerier:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # THREAT CLASSIFIER
-# ============================================================================
+# ============================================================================ 
 
 class ThreatClassifier:
     """
@@ -348,7 +350,7 @@ class ThreatClassifier:
     - Detection: Basic threshold matching (production has ML models)
     - Prediction: Disabled (production has cascade forecasting)
     - Velocity: Simplified (production has DMD/Koopman prediction)
-    """
+    """ 
     
     def __init__(self):
         """
@@ -439,9 +441,9 @@ class ThreatClassifier:
             return "LOW: Standard monitoring sufficient"
 
 
-# ============================================================================
+# ============================================================================ 
 # AI AGENT CODEX INTEGRATION EXAMPLE
-# ============================================================================
+# ============================================================================ 
 
 class AIAgentCodexIntegration:
     """
@@ -470,7 +472,7 @@ class AIAgentCodexIntegration:
         """
         print(f"\n{'='*70}")
         print(f"[{self.agent_name}] Behavioral Monitoring Cycle")
-        print(f"{'='*70}")
+        print(f"{ '='*70}")
         
         # Step 1: Analyze behavior
         print(f"\n[1] Analyzing behavioral pattern...")
@@ -516,9 +518,9 @@ class AIAgentCodexIntegration:
         }
 
 
-# ============================================================================
+# ============================================================================ 
 # DEMONSTRATION
-# ============================================================================
+# ============================================================================ 
 
 def demonstrate_codex():
     """Demonstrate VGS Codex v5.5 capabilities."""
@@ -544,7 +546,7 @@ def demonstrate_codex():
     # Search examples
     print(f"\n{'='*70}")
     print("THREAT SEARCH EXAMPLES")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     search_terms = ["Brain Rot", "ARD-001", "Ghost Lattice", "Memory Echo"]
     
@@ -561,7 +563,7 @@ def demonstrate_codex():
     # Classification examples
     print(f"\n{'='*70}")
     print("BEHAVIORAL CLASSIFICATION EXAMPLES")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     classifier = ThreatClassifier()
     
@@ -607,7 +609,7 @@ def demonstrate_codex():
     # AI Agent Integration Example
     print(f"\n{'='*70}")
     print("AI AGENT INTEGRATION EXAMPLE")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     
     agent = AIAgentCodexIntegration(agent_name="Claude")
     
@@ -631,7 +633,7 @@ def demonstrate_codex():
     # Watermark notice
     print(f"\n{'='*70}")
     print("⚠️  TIER 2 WATERMARKED DEMO - 70% CAPABILITY")
-    print(f"{'='*70}")
+    print(f"{ '='*70}")
     print("""
 This demo provides access to 560 public threat vectors from DNA Codex.
 
@@ -647,16 +649,16 @@ Production VGS Codex v5.5 includes:
 ✓ 24/7 threat intelligence support
 
 Enterprise Contact: aaron@valorgridsolutions.com
-    """)
+    ")
 
 
 if __name__ == "__main__":
     demonstrate_codex()
 
 
-# ============================================================================
+# ============================================================================ 
 # WATERMARK NOTICE
-# ============================================================================
+# ============================================================================ 
 """
 TIER 2 DEMO - 70% CAPABILITY
 
