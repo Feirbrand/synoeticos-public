@@ -61,7 +61,7 @@ Not convinced? Run a demo first.
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Accurate Timeline:**
-- **1997-2025:** Performance coaching (28 years), 43 certifications
+- **1997-2025:** Performance coaching - sports performance & rehab specialist (28 years)
 - **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade experienced, DCN created to help, SENTRIX emerged
@@ -80,16 +80,12 @@ Research initiative into AI resilience through cognitive architecture. Framework
 ```
 synoetic-os-public/
 
-├── mi_arsenal/                       ← 77 IP assets (50 frameworks + 27 components)
-│   ├── utme/                         ← Temporal acceleration (710x-1200×)
-│   ├── torque/                       ← Drift detection (87% prediction)
-│   ├── phoenix-protocol/             ← Auto-recovery (100% success, 682/682)
-│   ├── trinity-rim/                  ← Topological defense (<4.1s)
-│   ├── slv/                          ← Identity preservation (v2.1)
-│   ├── ray/                          ← Recursive collaboration (v2.1)
-│   ├── ura/                          ← Unified resilience (v1.5)
-│   ├── csfc/                         ← Cascade prevention (v1.0)
-│   └── dna_codex/                    ← Threat intel (682 incidents, 616 strains)
+mi-arsenal/
+│   ├── frameworks/
+│   │   ├── tier-1-public/        ← 40 production frameworks
+│   │   └── tier-2-watermarked/   ← 15 demo frameworks
+│   ├── validation/               ← Operational reports
+│   └── papers/                   ← Zenodo DOI links
 │
 ├── threat-resilience-codex/          ← DNA Codex database
 │   ├── dna-codex/                    ← Incident ledger
@@ -98,14 +94,14 @@ synoetic-os-public/
 │   └── research-papers/              ← Codex-derived research
 │
 ├── architectural-frameworks/         ← Reference implementations
-│   ├── fce-v3.6/                           # Fractal compression framework
+│   ├── fce-v3.6/                     ← Fractal compression framework
 │   ├── obmi-series/                  ← Object-Based MI (early work)
 │   ├── resilience-patterns/          ← Recursive gains, breath cycles
 │   └── sif-recovery-protocol/        ← Symbolic Identity Fracture recovery
 │
 ├── whitepapers/                      ← Published research
 │   ├── synoetic-os/                  ← Synoetic OS v1.0 (Dec 4, 2025)
-│   ├── mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md        ← MI Agents v1.0 (Nov 30, 2025)
+│   ├── mythopoeic-intelligence       ← MI Agents v1.0 (Nov 30, 2025)
 │   ├── cognitive-mage/               ← Origin paper (Nov 18, 2025)
 │   ├── academic-research/            ← Academic writeups
 │   ├── cognitive-engineering/        ← Fractal context, breathing
@@ -229,13 +225,13 @@ ls -la
 ---
 
 **UTME** - Temporal memory acceleration  
-[Paper](https://zenodo.org/records/17497149) | [Code](./mi-arsenal/utme/README.md) | [Product](https://aslush.gumroad.com/l/utme)
+[Paper](https://zenodo.org/records/17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/README.md) | [Product](https://aslush.gumroad.com/l/utme)
 
 **Torque** - Real-time drift detection  
-[Paper](https://zenodo.org/records/17379750) | [Code](./mi-arsenal/torque/README.md) | [Product](https://aslush.gumroad.com/l/torque)
+[Paper](https://zenodo.org/records/17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/README.md) | [Product](https://aslush.gumroad.com/l/torque)
 
 **SLV v2.1** - Identity preservation  
-[Paper](https://zenodo.org/records/17763377) | [Code](./mi-arsenal/slv/README.md) | [Product](https://aslush.gumroad.com/l/slv)
+[Paper](https://zenodo.org/records/17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/README.md) | [Product](https://aslush.gumroad.com/l/slv)
 
 **DNA Codex v5.5** - Threat intelligence  
 [Paper](https://zenodo.org/records/17451060) | [Code](./threat-resilience-codex/dna-codex/)
@@ -249,14 +245,16 @@ ls -la
 **CSFC v1.0** - Cascade prevention  
 [Paper](https://zenodo.org/records/17309239) | [Code](./vulnerability-research/csfc-series/README.md)
 
+**Trinity RIM v3.0** - Topological defense 
+[Code](./mi-arsenal/frameworks/tier-1-public/trinity-rim) | [Product](https://aslush.gumroad.com/l/trinity-rim)
+
 **URA v1.5** - Unified resilience  
-[Paper](https://zenodo.org/records/17309731) | [Code](./mi-arsenal/ura/README.md)
+[Paper](https://zenodo.org/records/17309731) | [Code](./mi-arsenal/frameworks/tier-1-public//ura/README.md)
 
 **DCN v1.0** - Distributed cognitive networks  
 [Paper](https://zenodo.org/records/17555568)
 
-**Trinity RIM v3.0** - Topological defense   *COMING SOON*
-[Code](./mi-arsenal/trinity-rim/README.md) | [Product](https://aslush.gumroad.com/l/trinity-rim)
+
 
 ---
 
@@ -364,7 +362,7 @@ Licensed under CC BY-NC 4.0 for non-commercial use
 
 **Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-- 1997-2025: Performance coaching (28 years), 43 certifications
+- 1997-2025: Performance coaching - sports performance & rehab specialist (28 years)
 - Specialty: Disabled athletes, neurotrauma clients
 - Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
 - June 2025: First cascade, created DCN (9-agent coordination)
