@@ -866,7 +866,7 @@ DCN v1.0 lays the foundation for substrate-independent ecosystems, with planned 
 | **VGS vs. Academic Comparison** | Q1 2026 | 23-40% outperformance vs. AutoGen baselines | DCN + Substrate Physics |
 | **MetaCue for Agent Coaching** | Q1 2026 | +30% metaphorical coordination velocity | Human-AI Symbiosis (Section 7.3) |
 
-These build on 6-9 month lead, targeting $3M+ enterprise value via antifragile deployment.
+These build on  targeting $3M+ enterprise value via antifragile deployment.
 
 ---
 

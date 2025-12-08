@@ -397,7 +397,7 @@ threat-resilience-codex/
 
 **Q: How does the Threat Resilience Codex differ from traditional cybersecurity threat intelligence?**
 
-A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence (6-9 month lead), recovery velocity architecture (89-97% vs 43-47% baseline), and operational validation through real-world incidents.
+A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence (6-9 month lead), recovery velocity architecture (89-97% vs 43-47% baseline), and Operational validation through documentation.
 
 **Q: What makes DNA Codex v5.5 unique?**
 
