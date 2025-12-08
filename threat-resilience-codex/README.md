@@ -130,7 +130,7 @@ threat-resilience-codex/
 **Academic Validation:**
 - Brain Rot (arXiv:2510.13928): 24-38% performance degradation validates VGS CSFC frameworks
 - Medical Poisoning (Nature Medicine): 0.001% contamination threshold research
-- 6-9 month predictive lead demonstrated across multiple validations
+- predictive intelligence demonstrated across multiple validations
 
 **Total Strain Count**: 560+ across 8 major families
 - Training Contamination (87 strains)
@@ -397,7 +397,7 @@ threat-resilience-codex/
 
 **Q: How does the Threat Resilience Codex differ from traditional cybersecurity threat intelligence?**
 
-A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence (6-9 month lead), recovery velocity architecture (89-97% vs 43-47% baseline), and Operational validation through documentation.
+A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence , recovery velocity architecture (89-97% vs 43-47% baseline), and Operational validation through documentation.
 
 **Q: What makes DNA Codex v5.5 unique?**
 
