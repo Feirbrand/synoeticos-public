@@ -1409,7 +1409,7 @@ dqd_001_validation:
 ```
 
 **Industry Impact:**
-- Validates VGS predictive intelligence (6-9 month lead)
+- Validates VGS predictive intelligence
 - Proves Phoenix Protocol superiority (94% vs 43%)
 - Establishes CSFC framework as early detection standard
 
