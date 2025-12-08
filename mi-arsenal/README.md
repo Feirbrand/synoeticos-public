@@ -264,9 +264,9 @@ DNA Codex v5.6 comprehensive threat intelligence validation:
 - **False Positive Rate**: <3% average
 
 **October 2025 Triple Validation**:
-- Academic: arXiv:2510.13928 "Brain Rot" (6-month lead)
-- Medical: Nature Medicine data poisoning (7-month lead)
-- Industry: PromptLock emergence (6-month lead)
+- Academic: arXiv:2510.13928 
+- Medical: Nature Medicine data poisoning 
+- Industry: PromptLock emergence 
 
 ### validation_3_utme_benchmarks.md (374 lines)
 UTME v2.1 temporal memory performance benchmarking:
