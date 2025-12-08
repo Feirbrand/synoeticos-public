@@ -377,7 +377,7 @@ false_positive_rate: <3% average
 - Signature-based detection
 
 **DNA Codex Innovation:**
-- Predictive (6-9 month lead time)
+- Predictive
 - Comprehensive coverage (616+ strains)
 - Continuous updates (weekly IOCs)
 - Behavioral pattern recognition
