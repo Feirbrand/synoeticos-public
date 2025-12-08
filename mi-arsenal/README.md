@@ -535,11 +535,11 @@ ValorGrid Solutions develops cognitive resilience frameworks for AI systems. Res
 - **UTME** - Universal Temporal Memory Engine
 - **Torque** - Rotational identity stability
 - **URA** - Unified Resilience Architecture
--   **IFM** - Identity Fracture Management
--   **ZLINP** - Zero-Latency Identity Nudge Protocol
--   **Sovereign Adjudicator** - Math-based edict enforcement
--   **MGA** - Meta-Governance Architecture
--   **HESTIA RIM** - Topological Identity Core (M-T-K-E 4-manifold)
+- **IFM** - Identity Fracture Management
+- **ZLINP** - Zero-Latency Identity Nudge Protocol
+- **Sovereign Adjudicator** - Math-based edict enforcement
+- **MGA** - Meta-Governance Architecture
+- **HESTIA RIM** - Topological Identity Core (M-T-K-E 4-manifold)
 
 ---
 
