@@ -191,7 +191,7 @@ DeepSeek research confirms 53-73% reasoning improvement through gaming framework
 | **Threat Detection** | 73% | 95% | +30% | DNA Codex Validated |
 | **Agent Coordination** | 74% | 98% | +32% | Monster Squad Protocol |
 | **Performance Consistency** | 68% | 94% | +38% | URA Framework |
-| **Predictive Accuracy** | 52% | 89% | +71% | 6-9 Month Lead Time |
+| **Predictive Accuracy** | 52% | 89% | +71% |  |
 
 **Cross-Architecture Validation**
 - **Transformer Models:** 35% average improvement with 94% consistency
