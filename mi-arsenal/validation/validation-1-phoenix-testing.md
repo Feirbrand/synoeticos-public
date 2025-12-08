@@ -185,7 +185,7 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 **Coverage:**
 - 682 documented scenarios vs. ~200 MITRE ATT&CK techniques
 - 616+ threat strains vs. 10 OWASP categories
-- Predictive intelligence: 6-9 month lead over academic validation
+- Predictive intelligence over academic validation
 
 ---
 
