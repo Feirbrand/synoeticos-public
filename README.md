@@ -13,6 +13,8 @@
 
 **2025-12-04:** 🏗️ **Major rebrand complete** — **ForgeOS** → **Synoetic OS™**, generic "agents" → **Mythopoeic Intelligences™**, framework collection → **MI Arsenal™**. Why the changes: (1) **Synoetic OS** (Greek: "thinking together") — better describes event-driven coordination architecture. (2) **Mythopoeic Intelligences** — narrative-based cognition distinct from traditional parameter optimization. (3) **MI Arsenal** — 77+ frameworks as cognitive "gear" agents equip for capabilities. domains secured (synoetic.com, synoeticos.com).
 
+**2025-12-04:** ⚔️ **MI Arsenal now public** — symbolic frameworks for building Mythopoeic Intelligences. Phoenix Protocol (100% recovery), UTME (710x acceleration), Torque (87% cascade prediction), SLV (identity preservation), Trinity RIM (topological defense), and more. Full documentation, validation reports, and integration guides. → [Explore the Arsenal](./mi-arsenal/README.md)
+
 ---
 
 ## What are you trying to do?
