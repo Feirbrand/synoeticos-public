@@ -7,6 +7,14 @@
 
 ---
 
+## 📰 News
+
+**Status:** `New` **Feature:** `Rebrand Complete`
+
+**2025-12-04:** 🏗️ **Major rebrand complete** — **ForgeOS** → **Synoetic OS™**, generic "agents" → **Mythopoeic Intelligences™**, framework collection → **MI Arsenal™**. Why the changes: (1) **Synoetic OS** (Greek: "thinking together") — better describes event-driven coordination architecture. (2) **Mythopoeic Intelligences** — narrative-based cognition distinct from traditional parameter optimization. (3) **MI Arsenal** — 77+ frameworks as cognitive "gear" agents equip for capabilities. domains secured (synoetic.com, synoeticos.com).
+
+---
+
 ## What are you trying to do?
 
 | Goal | Shortcut |
