@@ -555,6 +555,7 @@ psql -U postgres -d valordb -f schema/ray_v2_1_schema.sql
 
 # Run validation
 npm test
+```
 
 ---
 

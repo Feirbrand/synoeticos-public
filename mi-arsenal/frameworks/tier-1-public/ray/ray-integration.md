@@ -436,7 +436,7 @@ xmesh.on('cycle_slow', (warning) => {
     console.warn(`Cycle exceeded target: ${warning.duration}ms`);
     await ray.adjustLoadBalancing();
   }
-});
+}
 ```
 
 ### Configuration
@@ -765,9 +765,9 @@ await edgeRAY.syncReasoningBank();
 
 ---
 
-## Configuration Examples
+<h2>Configuration Examples</h2>
 
-### Complete Integration Config
+<h3>Complete Integration Config</h3>
 
 **ray-config.json:**
 ```json
@@ -852,7 +852,7 @@ await edgeRAY.syncReasoningBank();
 }
 ```
 
-### Environment Variables
+<h3>Environment Variables</h3>
 
 **.env:**
 ```bash
@@ -906,11 +906,11 @@ WORKER_THREADS=4
 
 ---
 
-## Troubleshooting
+<h2>Troubleshooting</h2>
 
-### Common Integration Issues
+<h3>Common Integration Issues</h3>
 
-#### Issue 1: High Cycle Times (>75ms)
+<h4>Issue 1: High Cycle Times (>75ms)</h4>
 
 **Symptoms:**
 - XMESH reports cycle times exceeding 75ms
@@ -934,7 +934,7 @@ console.log(`RAY latency: ${diagnostics.ray.avgLatency}ms`);
 - **RAY slow:** Disable non-critical DD enhancements
 - **General:** Scale horizontally (add nodes)
 
-#### Issue 2: Low Harmony Scores (<82%)
+<h4>Issue 2: Low Harmony Scores (<82%)</h4>
 
 **Symptoms:**
 - URA harmony consistently below 82%
@@ -956,7 +956,7 @@ console.log(`Drift score: ${uraDetails.driftScore}`);
 - **High drift:** Increase drift threshold temporarily
 - **Tensor Logic issues:** Verify embeddings quality
 
-#### Issue 3: Missing Threat Detection
+<h4>Issue 3: Missing Threat Detection</h4>
 
 **Symptoms:**
 - Known threats not detected
@@ -978,7 +978,7 @@ console.log(`Missing signatures: ${codexStatus.missingSignatures}`);
 - **Signature mismatch:** Verify Codex integrity (checksum)
 - **Low entropy threshold:** Decrease threshold temporarily
 
-#### Issue 4: ReasoningBank Not Learning
+<h4>Issue 4: ReasoningBank Not Learning</h4>
 
 **Symptoms:**
 - No improvement in reasoning over time
@@ -1000,7 +1000,7 @@ console.log(`Success rate: ${rbStatus.successRate}%`);
 - **Low success rate:** Review pattern quality thresholds
 - **Database issues:** Check PostgreSQL connection
 
-#### Issue 5: CamoLeak False Positives
+<h4>Issue 5: CamoLeak False Positives</h4>
 
 **Symptoms:**
 - Legitimate PR comments flagged
@@ -1025,9 +1025,9 @@ console.log(`FP rate: ${camoStats.fpRate}%`);
 
 ---
 
-## Performance Tuning
+<h2>Performance Tuning</h2>
 
-### Latency Optimization
+<h3>Latency Optimization</h3>
 
 **Target Latencies:**
 - URA: 8-12ms
@@ -1076,7 +1076,7 @@ const accuracyConfig = {
 };
 ```
 
-### Memory Optimization
+<h3>Memory Optimization</h3>
 
 **Memory Usage by Module:**
 - URA: ~512MB (baseline)
@@ -1110,9 +1110,9 @@ const memoryConfig = {
 
 ---
 
-## Testing Integration
+<h2>Testing Integration</h2>
 
-### Integration Test Suite
+<h3>Integration Test Suite</h3>
 
 ```javascript
 const assert = require('assert');
@@ -1172,7 +1172,7 @@ describe('RAY v2.1 Integration Tests', () => {
 });
 ```
 
-### Validation Checklist
+<h3>Validation Checklist</h3>
 
 Before deploying to production:
 
@@ -1194,7 +1194,7 @@ Before deploying to production:
 
 ---
 
-## Next Steps
+<h2>Next Steps</h2>
 
 After successful integration:
 
@@ -1209,13 +1209,13 @@ After successful integration:
 
 ---
 
-## Support & Resources
+<h2>Support & Resources</h2>
 
 **Documentation:**
 - [RAY Architecture Guide](ray-architecture.md)
 - [RAY Metrics Guide](ray-metrics.md)
 - [Case Studies](case-studies/)
-- [Academic Paper](../../whitepapers/academic-research/ray_v2.1_dd_enhanced_cognitive_physiology.md)
+- Academic Paper
 
 **Community:**
 - GitHub Issues: Technical questions

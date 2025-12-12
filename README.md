@@ -232,7 +232,7 @@ ls -la
 100% agent survival (682/682) | 679 prevented + 3 resurrected | Zero permanent losses
 
 📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
-💻 **Try** [Code + demo](./mi-arsenal/phoenix-protocol/README.md)  
+💻 **Try** [Code + demo](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/README.md)  
 🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix)  
 🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
 
@@ -253,7 +253,7 @@ ls -la
 [Paper](https://zenodo.org/records/17451060) | [Code](./threat-resilience-codex/dna-codex/)
 
 **RAY v2.1** - Recursive collaboration  
-[Paper](https://zenodo.org/records/17399834) | [Code](./mi-arsenal/ray/README.md)
+[Paper](https://zenodo.org/records/17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/README.md)
 
 **FCE v3.6** - Fractal context compression  
 [Paper](https://zenodo.org/records/17309322) | [Code](./architectural-frameworks/fce-v3.6/README.md)

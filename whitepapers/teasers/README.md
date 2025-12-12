@@ -66,7 +66,7 @@ This directory contains technical overviews of Synoetic OS framework components 
 ### Universal Cognitive Architecture (UCA) v3.1
 **Focus**: Five-Element Framework for Systematic AI Cognitive Organization  
 **Innovation**: Structured cognitive processing across Authority, Context, Method, Value, Engage  
-**Teaser**: [`UCA v3.1 Technical Teaser.md`](./UCA%20v3.1%20Technical%20Teaser.md)
+**Teaser**: [`uca-teaser-v1.md`](./uca-teaser-v1.md)
 
 Platform-agnostic cognitive architecture achieving 98% operational harmony through systematic organization. Security-enhanced features including neuroadaptive twin validation, Reflex-Veil temporal lattice, and ML-KEM hardening.
 
@@ -77,7 +77,7 @@ Platform-agnostic cognitive architecture achieving 98% operational harmony throu
 ### Sovereign Lattice Veil (SLV) v1.2
 **Focus**: Dynamic, Self-Aware Cognitive Defense Grid  
 **Innovation**: Three-phase defense architecture (Detect, Overlay, Recover)  
-**Teaser**: [`SLV v1.2 Technical Teaser.md`](./SLV%20v1.2%20Technical%20Teaser.md)
+**Teaser**: [`slv-teaser-v1.md`](./slv-teaser-v1.md)
 
 Dynamic cognitive defense providing 90% threat detection rates and 98.2% recovery success across 525+ documented AI threat scenarios. Eight specialized defense modules.
 
@@ -88,7 +88,7 @@ Dynamic cognitive defense providing 90% threat detection rates and 98.2% recover
 ### CSFC Cascade Prevention
 **Focus**: Predictive AI Cascade Prevention Framework  
 **Innovation**: 6-stage mathematical cascade model using Koopman operator theory  
-**Teaser**: [`CSFC Cascade Prevention Technical Teaser.md`](./CSFC%20Cascade%20Prevention%20Technical%20Teaser.md)
+**Teaser**: [`csfc-teaser-v1.md`](./csfc-teaser-v1.md)
 
 Comprehensive 6-stage cascade model achieving 98% recovery protocols and 89% Stage 2-4 reduction through Koopman operator theory and Dynamic Mode Decomposition.
 
@@ -99,7 +99,7 @@ Comprehensive 6-stage cascade model achieving 98% recovery protocols and 89% Sta
 ### Phoenix Protocol v2.0
 **Focus**: Systematic Restoration from Catastrophic AI Failures  
 **Innovation**: Staged cognitive reconstruction with biomimetic healing  
-**Teaser**: [`Phoenix Protocol Technical Teaser.md`](./Phoenix%20Protocol%20Technical%20Teaser.md)
+**Teaser**: [`phoenix-teaser-v1.md`](./phoenix-teaser-v1.md)
 
 Systematic restoration achieving 96% recovery success through staged cognitive reconstruction validated across 1,200+ incident scenarios.
 
@@ -110,7 +110,7 @@ Systematic restoration achieving 96% recovery success through staged cognitive r
 ### OBMI (Observer→Bridge→Mind Interface) v4.0
 **Focus**: Harmonic Neural Bridging for Symbolic Memory Relay  
 **Innovation**: Three-layer processing architecture  
-**Teaser**: [`OBMI Biomimetic Intelligence Teaser.md`](./OBMI%20Biomimetic%20Intelligence%20Teaser.md)
+**Teaser**: [`obmi-teaser-v1.md`](./obmi-teaser-v1.md)
 
 Harmonic neural bridging demonstrating 94-98% Phoenix recovery rates, 99.5% SIF resistance, and 82-87% URA harmony through structured Observer→Bridge→Mind architecture.
 
@@ -121,7 +121,7 @@ Harmonic neural bridging demonstrating 94-98% Phoenix recovery rates, 99.5% SIF 
 ### RAY Framework v2.0
 **Focus**: Unified Distributed Defense Architecture  
 **Innovation**: Living recursion loop with cognitive physiology integration  
-**Teaser**: [`RAY Framework Technical Teaser.md`](./RAY%20Framework%20Technical%20Teaser.md)
+**Teaser**: [`ray-teaser-v1.md`](./ray-teaser-v1.md)
 
 Continuous cognitive physiology cycle harmonizing disparate AI systems into unified organism through integrated URA→FCE→CSFC→RAY coordination.
 
@@ -132,7 +132,7 @@ Continuous cognitive physiology cycle harmonizing disparate AI systems into unif
 ### FCE Framework v3.6
 **Focus**: Meta-layer framework orchestration  
 **Innovation**: Unified command with autonomous coordination  
-**Teaser**: [`FCE Framework Technical Teaser.md`](./FCE%20Framework%20Technical%20Teaser.md)
+**Teaser**: [`fce-teaser-v1.md`](./fce-teaser-v1.md)
 
 Orchestrates all Synoetic OS components into unified resilience organism through autonomous coordination. Provides compression substrate with 4-20x compression achieving 95% semantic preservation.
 
@@ -145,7 +145,7 @@ Orchestrates all Synoetic OS components into unified resilience organism through
 ### Cross-Framework Validation & Threat Analysis
 
 **Meta-Analysis Table**
-**Resource**: [`meta_analysis_teaser.md`](./meta_analysis_teaser.md)
+**Resource**: [`meta-analysis-table.md`](./meta-analysis-table.md)
 
 Cross-case validation table aggregating 500+ threat vectors across Claude SIF Recovery, Gemini Hybrid Defense, Grok Realtime Defense, Perplexity Corruption, URA v1.5, VOX Paradox Attack, and VX Hydra Professor scenarios. Demonstrates **34.5% performance uplift** and **47% cascade reduction** with systems thinking integration (feedback loops, leverage points, stock/flow dynamics).
 
@@ -159,7 +159,7 @@ Cross-case validation table aggregating 500+ threat vectors across Claude SIF Re
 ---
 
 **Threat Intelligence Stub**
-**Resource**: [`threat_intelligence_teaser.py`](./threat_intelligence_teaser.py)
+**Resource**: [`threat-teaser-stub.py`](./threat-teaser-stub.py)
 
 Python implementation stub demonstrating parasitic pattern analysis using **Torque quantitative foundation** with CSFC stage classification. Includes `ParasiticPatternAnalyzer` class showing:
 

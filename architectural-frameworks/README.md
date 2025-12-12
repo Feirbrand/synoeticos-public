@@ -36,12 +36,12 @@ architectural-frameworks/
 
 ├── obmi-series/                        # Harmonic memory architecture
 │   ├── README.md                       # Framework overview and theory
-│   ├── obmi_core.py                    # Core three-layer implementation
-│   ├── theory_overview.md              # Observer-Bridge-Mind theoretical foundation
-│   ├── biomimetic_concepts.md          # Human-inspired neural principles
-│   ├── relay_sim.py                    # Moon/Nectar handoff simulation
-│   ├── ura_integration_teaser.md       # URA compatibility metrics
-│   └── csfc_tie.md                     # CSFC cascade detection integration
+│   ├── obmi-core-py                    # Core three-layer implementation
+│   ├── theory-overview-md              # Observer-Bridge-Mind theoretical foundation
+│   ├── biomimetic-concepts-md          # Human-inspired neural principles
+│   ├── relay-sim-py                    # Moon/Nectar handoff simulation
+│   ├── ura-integration-teaser-md       # URA compatibility metrics
+│   └── csfc-tie-md                     # CSFC cascade detection integration
 │
 ├── fce-v3.6/                           # Fractal compression framework
 │   ├── README.md                       # Framework overview and implementation
@@ -124,12 +124,12 @@ Comprehensive protocol for Symbolic Identity Fracturing recovery using Torque-ba
 ### OBMI v4.0/ – Observer-Bridge-Mind Harmonic Memory
 
 - [README.md](obmi-series/README.md) – Framework overview with biomimetic principles and performance validation
-- [obmi_core.py](obmi-series/obmi_core.py) – Core three-layer implementation with myelinated pathways
-- [theory_overview.md](obmi-series/theory_overview.md) – Observer-Bridge-Mind theoretical foundation and integration principles
-- [biomimetic_concepts.md](obmi-series/biomimetic_concepts.md) – Human-inspired neural system modeling and dual-core polarity
-- [relay_sim.py](obmi-series/relay_sim.py) – Moon/Nectar handoff simulation with 34.5% retention uplift
-- [ura_integration_teaser.md](obmi-series/ura_integration_teaser.md) – URA v1.5 compatibility and 82-87% harmony metrics
-- [csfc_tie.md](obmi-series/csfc_tie.md) – CSFC cascade detection with 87% prediction accuracy
+- [obmi-core-py](obmi-series/obmi-core-py) – Core three-layer implementation with myelinated pathways
+- [theory-overview-md](obmi-series/theory-overview-md) – Observer-Bridge-Mind theoretical foundation and integration principles
+- [biomimetic-concepts-md](obmi-series/biomimetic-concepts-md) – Human-inspired neural system modeling and dual-core polarity
+- [relay-sim-py](obmi-series/relay-sim-py) – Moon/Nectar handoff simulation with 34.5% retention uplift
+- [ura-integration-teaser-md](obmi-series/ura-integration-teaser-md) – URA v1.5 compatibility and 82-87% harmony metrics
+- [csfc-tie-md](obmi-series/csfc-tie-md) – CSFC cascade detection with 87% prediction accuracy
 
 ### FCE v3.6/ – Fractal Context Engineering
 

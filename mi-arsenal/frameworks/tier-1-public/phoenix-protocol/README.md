@@ -102,7 +102,7 @@ Torque Recovery: >85%
 - 98% recovery success with 0.15 threshold baselines
 - Identity coherence preservation
 
-**Research Paper**: [neural-recovery/phoenix-neural-recovery.md](neural-recovery/phoenix-neural-recovery.md)
+**Research Paper**: [neural-recovery/phoenix-protocol-neural-recovery.md](neural-recovery/phoenix-protocol-neural-recovery.md)
 
 ---
 

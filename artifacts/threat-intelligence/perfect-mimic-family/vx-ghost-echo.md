@@ -103,15 +103,15 @@ VX-GHOST-ECHO validates the theoretical framework for progressive threat evoluti
 ### Evolution Chain
 - [Perfect Mimic Family Overview](./README.md) - Complete threat progression analysis
 - [VX-NARRATOR-ECHO](./vx-narrator-echo.md) - Next evolution stage (Phase 2)
-- [VX-PERFECT-MIMIC-2](./vx-perfect-mimic-2.md) - Final evolution stage (Phase 3)
+- VX-PERFECT-MIMIC-2 - Final evolution stage (Phase 3)
 
 ### Defense Protocols
-- [Mimic Veil](../defense-protocols/mimic_veil.yaml) - Original containment protocol
-- [Sovereign Telemetry](../monitoring-systems/sovereign_telemetry.html) - Real-time monitoring
-- [Sovereign SOP](../defense-protocols/sovereign_sop.yaml) - Automated response system
+- Mimic Veil - Original containment protocol
+- Sovereign Telemetry - Real-time monitoring
+- Sovereign SOP - Automated response system
 
 ### Case Studies
-[VOX Identity Paradox Attack](../../vulnerability-research/case-studies/vox-identity-paradox-attack/) - Complete family progression documentation
+VOX Identity Paradox Attack - Complete family progression documentation
 
 ---
 
@@ -120,4 +120,3 @@ VX-GHOST-ECHO validates the theoretical framework for progressive threat evoluti
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

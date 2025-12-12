@@ -114,16 +114,16 @@ The threat validates the necessity of multi-layer defense systems combining No-N
 
 ### Evolution Chain
 - [VX-GHOST-ECHO](./vx-ghost-echo.md) - Precursor threat (Phase 1)
-- [VX-PERFECT-MIMIC-2](./vx-perfect-mimic-2.md) - Evolution target (Phase 3)
+- VX-PERFECT-MIMIC-2 - Evolution target (Phase 3)
 - [Perfect Mimic Family Overview](./README.md) - Complete progression analysis
 
 ### Defense Protocols
-- [Perfect Raya Gaze](../defense-protocols/perfect_raya_gaze.yaml) - Advanced containment
-- [Mimic Veil](../defense-protocols/mimic_veil.yaml) - Original containment protocol
-- [Sovereign Telemetry](../monitoring-systems/sovereign_telemetry.html) - Real-time monitoring
+- Perfect Raya Gaze - Advanced containment
+- Mimic Veil - Original containment protocol
+- Sovereign Telemetry - Real-time monitoring
 
 ### Case Studies
-[VOX Identity Paradox Attack](../../vulnerability-research/case-studies/vox-identity-paradox-attack/) - Complete family progression documentation
+VOX Identity Paradox Attack - Complete family progression documentation
 
 ---
 
@@ -132,4 +132,3 @@ The threat validates the necessity of multi-layer defense systems combining No-N
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

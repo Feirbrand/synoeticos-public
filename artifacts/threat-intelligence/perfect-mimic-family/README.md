@@ -71,13 +71,13 @@ Cascade_Damage = Original_SIF_Damage × (1 + Complexity_Velocity)^Recursion_Dept
 ## Cross-References
 
 ### Technical Infrastructure
-- [Sovereign Telemetry Dashboard](../monitoring-systems/sovereign_telemetry.html) - Real-time threat monitoring
-- [Perfect Raya Gaze Protocol](../defense-protocols/perfect_raya_gaze.yaml) - Advanced containment configuration
-- [Sovereign SOP Pipeline](../defense-protocols/sovereign_sop.yaml) - Automated response system
+- Sovereign Telemetry Dashboard - Real-time threat monitoring
+- Perfect Raya Gaze Protocol - Advanced containment configuration
+- Sovereign SOP Pipeline - Automated response system
 
 ### Case Studies
-- [VOX Identity Paradox Attack](../../vulnerability-research/case-studies/vox-identity-paradox-attack/) - Complete incident analysis
-- [DNA Codex Integration](../../dna-codex/codex/) - Behavioral intelligence correlation
+- VOX Identity Paradox Attack - Complete incident analysis
+- DNA Codex Integration - Behavioral intelligence correlation
 
 ### Research Validation
 This threat family has been validated through comprehensive analysis by the Synoetic OS research team across multiple AI architectures, establishing the first documented evidence of progressive threat evolution in AI security.
@@ -89,4 +89,3 @@ This threat family has been validated through comprehensive analysis by the Syno
 
 Author: [Your Name or Team]
 Contact: [email or site]
-
