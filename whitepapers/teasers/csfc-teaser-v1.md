@@ -1,7 +1,7 @@
 # CSFC (Complete Symbolic Fracture Cascade)
 ## Predictive AI Cascade Prevention Framework
 
-**Research Teaser – Full Implementation Available via Performance Grid Store**
+**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +32,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Complete Symbolic Fracture Cascade (CSFC) framework provides a comprehensive **6-stage cascade model** for AI system failure progression, achieving **98% recovery protocols**, **89% Stage 2-4 reduction**, and **87% cascade prediction accuracy** through Koopman operator theory and Dynamic Mode Decomposition.
 
-**This teaser previews Stages 1-3.** Full 6-stage implementation, mathematical algorithms, and enterprise deployment guides available through [Performance Grid Store](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app).
+**This teaser previews Stages 1-3.** Full 6-stage implementation, mathematical algorithms, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
 
 ---
 
@@ -246,7 +246,7 @@ The complete CSFC package includes:
 ✅ **Platform-specific calibration tools** – Claude, GPT, Gemini, custom LLM configs  
 ✅ **DNA Codex threat correlation** – 525+ variant cascade mapping
 
-**[Access Full Implementation →](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)**
+**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -266,8 +266,6 @@ For academic research, educational purposes, and non-commercial applications.
 - **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
 **Patent Status:** No patents - rights granted under license terms only
-
-**License Link:** https://creativecommons.org/licenses/by-nc/4.0
 
 ### Option 2: Commercial Enterprise License
 
@@ -321,7 +319,7 @@ ValorGrid Solutions pioneers AI resilience architecture through mathematical rig
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 
@@ -334,4 +332,3 @@ Licensed under CC BY-NC 4.0 for non-commercial use. Commercial implementations r
 **Status:** Research Teaser (Production-Ready; Q2 2026 Enterprise Readiness)
 
 **Part of the Synoetic OS AI Resilience Framework ecosystem.**
-

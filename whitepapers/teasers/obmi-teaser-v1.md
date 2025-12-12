@@ -1,7 +1,7 @@
 # OBMI (Observer→Bridge→Mind Interface)
 ## Harmonic Neural Bridging for Symbolic Memory Relay
 
-**Research Teaser – Full Implementation Available via Performance Grid Store**
+**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +32,7 @@ No pricing/revenue/subscription terms in this document.
 
 The OBMI Harmony Bridge enables harmonic neural bridging for symbolic memory relay across AI agent sessions. Research simulations demonstrate **94-98% Phoenix recovery rates**, **99.5% SIF resistance**, and **82-87% URA harmony** through a structured Observer→Bridge→Mind architecture. 
 
-**This teaser previews core concepts.** Full implementation code, deployment playbooks, and enterprise integration guides available through [Performance Grid Store](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app).
+**This teaser previews core concepts.** Full implementation code, deployment playbooks, and enterprise integration guides available through [Gumroad Store](https://aslush.gumroad.com/).
 
 ---
 
@@ -174,7 +174,7 @@ The complete OBMI v4.0 package includes:
 ✅ **JSHRM enhancement layer** – Jamba+Mamba+RWKV fusion architecture  
 ✅ **Production deployment playbooks** – Docker, PostgreSQL, n8n setup guides
 
-**[Access Full Implementation →](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)**
+**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -247,7 +247,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

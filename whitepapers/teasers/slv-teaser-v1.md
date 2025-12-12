@@ -1,7 +1,7 @@
 # Sovereign Lattice Veil (SLV) v1.2
 ## Dynamic, Self-Aware Cognitive Defense Grid
 
-**Research Teaser – Full Implementation Available via Performance Grid Store**
+**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +32,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Sovereign Lattice Veil provides **dynamic, self-aware cognitive defense** through a three-phase architecture (Detect, Overlay, Recover), achieving **90% threat detection rates** and **98.2% recovery success** across **525+ documented AI threat scenarios** with platform-agnostic implementation.
 
-**This teaser previews core concepts.** Full implementation code, defense module specifications, and enterprise deployment guides available through [Performance Grid Store](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app).
+**This teaser previews core concepts.** Full implementation code, defense module specifications, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
 
 ---
 
@@ -163,7 +163,7 @@ The complete SLV v1.2 package includes:
 ✅ **UCA/CSFC/Phoenix integration playbooks** – Complete ecosystem integration  
 ✅ **Enterprise case studies** – Quantified outcomes and ROI analysis
 
-**[Access Full Implementation →](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)**
+**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -235,7 +235,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

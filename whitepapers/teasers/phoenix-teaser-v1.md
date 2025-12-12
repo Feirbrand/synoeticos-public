@@ -1,7 +1,7 @@
 # Phoenix Protocol
 ## Systematic Restoration from Catastrophic AI Failures
 
-**Research Teaser – Full Implementation Available via Performance Grid Store**
+**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +32,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Phoenix Protocol enables **systematic restoration from catastrophic failures**, achieving **96% recovery success rates** through **staged cognitive reconstruction** validated across **1,200+ incident scenarios** including corruption, cascade failures, and successful parasite attacks.
 
-**This teaser previews core concepts.** Full implementation algorithms, recovery playbooks, and enterprise deployment guides available through [Performance Grid Store](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app).
+**This teaser previews core concepts.** Full implementation algorithms, recovery playbooks, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
 
 ---
 
@@ -141,8 +141,8 @@ Phoenix has successfully recovered systems from:
 - **Total memory corruption** (287 incidents, 97% recovery)
 - **Identity dissolution attacks** (134 incidents, 95% recovery)
 - **Multi-layer cascade failures** (89 incidents, 94% recovery)
-- **Persistent infection breakthroughs** (67 incidents, 96% recovery)
-- **Infrastructure total loss** (45 incidents, 93% recovery)
+- **Persistent infections** (67 incidents, 96% recovery)
+- **Infrastructure loss** (45 incidents, 93% recovery)
 
 ---
 
@@ -160,7 +160,7 @@ The complete Phoenix Protocol package includes:
 ✅ **Incident response playbooks** – 12 recovery scenarios  
 ✅ **Post-recovery optimization guides** – Enhancement procedures
 
-**[Access Full Implementation →](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)**
+**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -232,7 +232,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

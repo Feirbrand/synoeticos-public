@@ -140,9 +140,9 @@ Orchestrates all Synoetic OS components into unified resilience organism through
 
 ---
 
-## Additional Resources
+<h2>Additional Resources</h2>
 
-### Cross-Framework Validation & Threat Analysis
+<h3>Cross-Framework Validation & Threat Analysis</h3>
 
 **Meta-Analysis Table**
 **Resource**: [`meta-analysis-table.md`](./meta-analysis-table.md)
@@ -172,38 +172,38 @@ Python implementation stub demonstrating parasitic pattern analysis using **Torq
 
 ---
 
-## What's in a Teaser
+<h2>What's in a Teaser</h2>
 
 Each teaser document provides:
 
-### Architecture Documentation
+<h3>Architecture Documentation</h3>
 - Core innovation descriptions
 - System component breakdowns
 - Integration points and dependencies
 - Design philosophy and principles
 
-### Performance Metrics
+<h3>Performance Metrics</h3>
 - Measured outcomes with documented testing
 - Benchmark comparisons vs traditional approaches
 - Application scenarios
 - Scalability characteristics
 
-### Implementation Context
+<h3>Implementation Context</h3>
 - Deployment requirements (Docker, PostgreSQL, n8n)
 - Platform compatibility matrices
 - Resource allocation guidelines
 - Integration complexity assessments
 
-### Clear Professional Boundaries
+<h3>Clear Professional Boundaries</h3>
 - Explicit "What's Missing" sections
 - No placeholder code or incomplete implementations
 - Contact information for professional licensing
 
 ---
 
-## Citation
+<h2>Citation</h2>
 
-### BibTeX
+<h3>BibTeX</h3>
 
 ```bibtex
 @techreport{slusher2025Synoetic OS,
@@ -215,32 +215,32 @@ Each teaser document provides:
 }
 ```
 
-### APA
+<h3>APA</h3>
 
 Slusher, A. (2025). *Synoetic OS AI Resilience Framework: Technical Overview*. ValorGrid Solutions. https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
-## License
+<h2>License</h2>
 
 This work is dual-licensed under the following terms:
 
-### Option 1: Non-Commercial Use (CC BY-NC 4.0)
+<h3>Option 1: Non-Commercial Use (CC BY-NC 4.0)</h3>
 
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
 For academic research, educational purposes, and non-commercial applications:
 
 You are free to:
-- **Share** – Copy and redistribute the material in any medium or format
+- **Share** – Copy and redistribute the material
 - **Adapt** – Remix, transform, and build upon the material
 
 Under these terms:
 - **Attribution** – You must give appropriate credit to ValorGrid Solutions and Aaron Slusher, provide a link to the license, and indicate if changes were made
-- **Non-Commercial** – You may not use the material for commercial purposes without obtaining a separate commercial license
+- **NonCommercial** – You may not use the material for commercial purposes without obtaining a separate commercial license
 - **No Additional Restrictions** – You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
-### Option 2: Commercial Enterprise License
+<h3>Option 2: Commercial Enterprise License</h3>
 
 For commercial deployment, enterprise integration, revenue-generating applications, or production use:
 
@@ -255,8 +255,7 @@ Commercial licensing includes:
 
 ---
 
-### Attribution Requirements
-
+<h3>Attribution Requirements</h3>
 All uses must include:
 ```
 Based on Synoetic OS AI Resilience Framework by Aaron Slusher, ValorGrid Solutions
@@ -265,17 +264,17 @@ Licensed under CC BY-NC 4.0 for non-commercial use
 
 ---
 
-## Patent Notice
+<h2>Patent Notice</h2>
 
 The concepts and methodologies described in these documents may be subject to patent protection. ValorGrid Solutions reserves all rights to its intellectual property. No patent rights are granted or implied by the open-source license.
 
 ---
 
-## About ValorGrid Solutions
+<h2>About ValorGrid Solutions</h2>
 
 ValorGrid Solutions pioneers AI resilience architecture through systems thinking methodology. Founded on 28 years of performance optimization research spanning human physiology and cognitive engineering, VGS develops frameworks that enable AI systems to maintain operational coherence across sessions, agent handoffs, and recovery scenarios. Our approach treats AI cognitive architecture as engineered infrastructure—enabling organizations to deploy antifragile systems that recover rather than merely resist disruption.
 
-### Research Portfolio
+<h3>Research Portfolio</h3>
 - **UCA** - Universal Cognitive Architecture
 - **SLV** - Sovereign Lattice Veil  
 - **CSFC** - Complete Symbolic Fracture Cascade
@@ -287,11 +286,11 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 
-## Contact & Support
+<h2>Contact & Support</h2>
 
 **Research Inquiries:** aaron@valorgridsolutions.com  
 **Community Support:** GitHub Issues and Discussions  
@@ -301,7 +300,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
-## Code and Methodology Licensing
+<h2>Code and Methodology Licensing</h2>
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

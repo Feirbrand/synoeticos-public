@@ -1,7 +1,7 @@
 # FCE (Fractal Context Engineering) v3.6
 ## Unified Symbolic-Flat AI Processing Architecture
 
-**Research Teaser – Full Implementation Available via Performance Grid Store**
+**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +32,7 @@ No pricing/revenue/subscription terms in this document.
 
 Fractal Context Engineering provides **unified symbolic-flat AI processing architecture** achieving **4-20x context compression** with semantic integrity, **35-50% context retention** improvement, and **25-40% reasoning consistency** gains through pattern replication, recursive self-modification, and intelligent compression.
 
-**This teaser previews core concepts.** Full implementation algorithms, compression protocols, and enterprise deployment guides available through [Performance Grid Store](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app).
+**This teaser previews core concepts.** Full implementation algorithms, compression protocols, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
 
 ---
 
@@ -278,7 +278,7 @@ The complete FCE v3.6 package includes:
 ✅ **Compression optimization playbooks** – Real-world deployment strategies  
 ✅ **Production case studies** – 340% productivity improvement documentation
 
-**[Access Full Implementation →](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)**
+**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -350,7 +350,7 @@ ValorGrid Solutions pioneers AI resilience architecture through unified context 
 
 **Website:** https://www.valorgridsolutions.com  
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 
