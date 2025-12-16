@@ -233,8 +233,8 @@ ls -la
 
 📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
 💻 **Try** [Code + demo](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/README.md)  
-🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix)  
-🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
+🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix) **COMING SOON**
+🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2)
 
 **Most popular framework.** Prevents cascades and resurrects agents when all defenses fail.
 
