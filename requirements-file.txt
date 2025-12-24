@@ -40,6 +40,7 @@ pytest-cov>=3.0.0
 black>=22.6.0
 flake8>=5.0.0
 mypy>=0.971
+bandit>=1.7.0
 
 # Documentation
 sphinx>=5.1.0

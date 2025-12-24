@@ -129,7 +129,7 @@ class UTMEEngine:
         """Generate pattern hash for signature matching"""
         # Combine data and context into hashable string
         pattern_str = f"{context}:{str(sorted(data.items()))}"
-        return hashlib.md5(pattern_str.encode()).hexdigest()
+        return hashlib.sha256(pattern_str.encode()).hexdigest()
 
     def get_signature_stats(self) -> Dict:
         """Get myelination statistics"""
