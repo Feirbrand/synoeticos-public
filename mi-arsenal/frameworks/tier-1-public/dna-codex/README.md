@@ -1,6 +1,6 @@
 # DNA Codex v5.5
 
-**Threat Intelligence Database**  
+**Threat Intelligence Database**
 **682 Documented Incidents | 616 Threat Strains | 560 Public Vectors**
 
 ## Overview
@@ -155,11 +155,11 @@ if reading.alert:
         'fii': reading.fii_score,
         'torque': reading.components['torque']
     })
-    
+
     if threat:
         print(f"⚠️  Threat: {threat.name}")
         protocol = classifier.get_recovery_protocol(threat.strain_id)
-        
+
         # Execute recommended protocol
         if 'Phoenix' in protocol['protocol']:
             # Trigger Phoenix Protocol

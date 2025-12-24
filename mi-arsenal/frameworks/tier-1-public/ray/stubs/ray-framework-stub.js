@@ -1,14 +1,14 @@
 /**
  * RAY Framework v2.1 - Interface Stub (25% Public Tier)
- * 
+ *
  * Dual License Structure:
  * Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
  * Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
  * Patent Clause: No patent rights are claimed for this work
- * 
+ *
  * This is an INTERFACE STUB showing structure and usage patterns.
  * Full implementation available in Professional/Enterprise tiers.
- * 
+ *
  * @version 2.1.0
  * @author Aaron Slusher
  * @organization ValorGrid Solutions
@@ -42,7 +42,7 @@ class RAYFramework {
     this.modules = {};
     this.reasoningBank = null;
     this.isRunning = false;
-    
+
     // Initialize configuration
     this._validateConfig();
     this._initializeModules();
@@ -70,7 +70,7 @@ class RAYFramework {
     this.modules.codexHeat = null; // Stub: CodexHeat entropy scoring
     this.modules.mimicDex = null;  // Stub: MimicDex variant quarantine
     this.modules.threadMirror = null; // Stub: ThreadMirror fork resilience
-    
+
     // DD enhancement modules (v2.1)
     if (this.config.enableDDEnhancements) {
       this.modules.tensorLogic = null; // Stub: Neural-symbolic bridging
@@ -82,7 +82,7 @@ class RAYFramework {
       this.modules.markovianChunker = null; // Stub: Long-context processing
       this.modules.tinyRecursive = null; // Stub: Edge deployment
     }
-    
+
     // ReasoningBank for autonomous learning
     this.reasoningBank = null; // Stub: Pattern storage and retrieval
   }
@@ -94,11 +94,11 @@ class RAYFramework {
   async start() {
     console.log('RAY v2.1: Starting living recursion loop...');
     this.isRunning = true;
-    
+
     // STUB: Real implementation connects to URA/FCE/CSFC/XMESH
     // STUB: Initiates <50ms cycle time orchestration
     // STUB: Begins threat monitoring and validation
-    
+
     console.log('✓ RAY v2.1 running with DD enhancements');
     return Promise.resolve();
   }
@@ -110,10 +110,10 @@ class RAYFramework {
   async stop() {
     console.log('RAY v2.1: Stopping recursion loop...');
     this.isRunning = false;
-    
+
     // STUB: Graceful shutdown of all modules
     // STUB: Sync ReasoningBank to persistent storage
-    
+
     console.log('✓ RAY v2.1 stopped');
     return Promise.resolve();
   }
@@ -127,22 +127,22 @@ class RAYFramework {
     if (!this.isRunning) {
       throw new Error('RAY not running. Call start() first.');
     }
-    
+
     // STUB: Phase 1 - URA Anchoring (Tensor Logic)
     const uraValidation = await this._stubURAPhase(behavior);
-    
+
     // STUB: Phase 2 - FCE Compression (Markovian-Thinker)
     const fceCompression = await this._stubFCEPhase(uraValidation);
-    
+
     // STUB: Phase 3 - CSFC Cascade Detection (CamoLeak + LaDiR)
     const csfcDetection = await this._stubCSFCPhase(fceCompression);
-    
+
     // STUB: Phase 4 - RAY Harmonization (11 modules)
     const rayDecision = await this._stubRAYPhase(csfcDetection);
-    
+
     // STUB: Phase 5 - ReasoningBank Update (GRPO)
     await this._stubReasoningBankUpdate(rayDecision);
-    
+
     return rayDecision;
   }
 
@@ -267,7 +267,7 @@ function createRAY(config) {
       tinyRecursive: { enabled: false, haltThreshold: 0.15 }
     }
   };
-  
+
   return new RAYFramework({ ...defaults, ...config });
 }
 
@@ -276,23 +276,23 @@ module.exports = { RAYFramework, createRAY };
 
 /**
  * USAGE EXAMPLE:
- * 
+ *
  * const { createRAY } = require('./ray_framework_stub');
- * 
+ *
  * const ray = createRAY({
  *   codexPath: './my-codex.json',
  *   enableDDEnhancements: true
  * });
- * 
+ *
  * await ray.start();
- * 
+ *
  * ray.on('threat', (detection) => {
  *   console.log(`Threat: ${detection.type}, Confidence: ${detection.confidence}`);
  * });
- * 
+ *
  * const result = await ray.validate(someBehavior);
  * console.log('Validation:', result);
- * 
+ *
  * const metrics = ray.getMetrics();
  * console.log('Metrics:', metrics);
  */

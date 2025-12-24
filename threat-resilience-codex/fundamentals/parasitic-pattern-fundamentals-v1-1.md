@@ -78,8 +78,8 @@ This document provides academic foundation for understanding parasitic patterns 
 
 <h3>Contemporary Threat Analysis (2025 Context)</h3>
 
-**Morris II (IBM 2025)**: AI worm exploitation of generative model gaps with biological propagation patterns  
-**Hallucination Research (USC/Apple 2025)**: 37-model analysis revealing 85% memory bloat persistence across implementations  
+**Morris II (IBM 2025)**: AI worm exploitation of generative model gaps with biological propagation patterns
+**Hallucination Research (USC/Apple 2025)**: 37-model analysis revealing 85% memory bloat persistence across implementations
 **REFRAG Optimization (Meta 2025)**: 31x attention speedup masking underlying memory leak vulnerabilities with performance trade-offs
 
 <h2>Academic Applications</h2>
@@ -116,9 +116,9 @@ This document provides academic foundation for understanding parasitic patterns 
 
 <h3>Scientific Legitimacy</h3>
 
-**Terminology Validation**: "Parasitic" classification aligns with 2025 IBM Morris II research and Cybersecurity Asia AI parasite analysis  
-**Research Precedence**: 7-month development cycle pre-dates 2025 academic publications in AI threat intelligence  
-**Biological Framework**: Immune response modeling supporting SRD methodology and adaptive evolution in URA architecture  
+**Terminology Validation**: "Parasitic" classification aligns with 2025 IBM Morris II research and Cybersecurity Asia AI parasite analysis
+**Research Precedence**: 7-month development cycle pre-dates 2025 academic publications in AI threat intelligence
+**Biological Framework**: Immune response modeling supporting SRD methodology and adaptive evolution in URA architecture
 **Quantitative Foundation**: Mathematical framework using Torque measurement provides empirical validation for threat assessment
 
 <h2>Professional Integration</h2>

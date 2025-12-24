@@ -111,7 +111,7 @@ Phase 4: Validation (tests >92%)
 # Phase 2 safety gate
 if utme.coherence < 0.85:
     abort_ltd()  # Too risky to proceed
-    
+
 # Phase 4 validation
 if utme.coherence < 0.90:
     additional_ltp_cycles()

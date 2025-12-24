@@ -7,8 +7,8 @@ Patent Clause: No patent rights are claimed for this work
 
 # RAY v2.1 Integration Guide
 
-**Version:** 2.1.0  
-**Last Updated:** October 17, 2025  
+**Version:** 2.1.0
+**Last Updated:** October 17, 2025
 **Author:** Aaron Slusher, ValorGrid Solutions
 
 ---
@@ -126,7 +126,7 @@ async function validateAnchors(context) {
     depth: 3, // 3-level recursion
     tensorLogic: true // v2.1 enhancement
   });
-  
+
   return {
     isValid: validation.harmonyScore >= 0.82, // 82-89% baseline
     harmonyScore: validation.harmonyScore,
@@ -215,7 +215,7 @@ async function compressContext(rawContext) {
     semanticFidelity: 0.95,
     markovianChunking: true // v2.1 enhancement
   });
-  
+
   return {
     compressedContext: compressed.data,
     compressionRatio: compressed.ratio,
@@ -309,7 +309,7 @@ async function detectCascade(signals) {
     koopmanDMD: true, // Velocity forecasting
     camoLeakScan: true // v2.1 enhancement
   });
-  
+
   return {
     cascadeDetected: cascade.velocity > 0.15,
     velocity: cascade.velocity,
@@ -494,7 +494,7 @@ const DNACodex = require('./dna-codex-loader');
 async function loadCodex() {
   const codexData = await fs.readFile('./dna-codex-v5.4.json', 'utf8');
   const codex = JSON.parse(codexData);
-  
+
   return new DNACodex({
     variants: codex.variants, // 525+ threats
     velocityData: codex.velocities,
@@ -521,7 +521,7 @@ async function scoreEntropy(behavior) {
     },
     mutationFactor: 1.15 // Polymorphic adjustment
   });
-  
+
   if (score > 0.85) {
     await ray.triggerFlamepulse({
       threat: codex.identifyVariant(behavior),
@@ -529,7 +529,7 @@ async function scoreEntropy(behavior) {
       action: 'immediate_containment'
     });
   }
-  
+
   return score;
 }
 ```
@@ -545,7 +545,7 @@ if (variant) {
   console.log(`CVSS: ${variant.cvss}`);
   console.log(`Velocity: ${variant.velocity}/day`);
   console.log(`Techniques: ${variant.techniques.join(', ')}`);
-  
+
   // Apply variant-specific containment
   await ray.applyContainment(variant);
 }
@@ -619,28 +619,28 @@ services:
       - "8081:8081"
     environment:
       - NODE_ENV=development
-  
+
   fce:
     image: Synoetic OS/fce:3.6
     ports:
       - "8082:8082"
     environment:
       - NODE_ENV=development
-  
+
   csfc:
     image: Synoetic OS/csfc:1.0
     ports:
       - "8083:8083"
     environment:
       - NODE_ENV=development
-  
+
   xmesh:
     image: Synoetic OS/xmesh:2.0
     ports:
       - "8084:8084"
     environment:
       - NODE_ENV=development
-  
+
   ray:
     image: Synoetic OS/ray:2.1
     ports:
@@ -658,7 +658,7 @@ services:
       - fce
       - csfc
       - xmesh
-  
+
   postgres:
     image: postgres:15
     ports:
@@ -1120,7 +1120,7 @@ const RAYIntegration = require('./ray-integration');
 
 describe('RAY v2.1 Integration Tests', () => {
   let integration;
-  
+
   before(async () => {
     integration = new RAYIntegration({
       uraEndpoint: 'http://localhost:8081',
@@ -1128,44 +1128,44 @@ describe('RAY v2.1 Integration Tests', () => {
       csfcEndpoint: 'http://localhost:8083',
       xmeshEndpoint: 'http://localhost:8084'
     });
-    
+
     await integration.initialize();
   });
-  
+
   it('should complete recursion loop in <50ms', async () => {
     const start = Date.now();
     await integration.runCycle();
     const duration = Date.now() - start;
-    
+
     assert(duration < 50, `Cycle took ${duration}ms (expected <50ms)`);
   });
-  
+
   it('should maintain URA harmony >82%', async () => {
     const harmony = await integration.getHarmonyScore();
     assert(harmony >= 0.82, `Harmony ${harmony} below threshold`);
   });
-  
+
   it('should achieve FCE compression 10-20x', async () => {
     const ratio = await integration.getCompressionRatio();
     assert(ratio >= 10 && ratio <= 20, `Compression ${ratio}x out of range`);
   });
-  
+
   it('should detect CAMO-001 threats', async () => {
     const testThreat = generateCAMO001Pattern();
     const detection = await integration.detectThreat(testThreat);
-    
+
     assert(detection.detected === true, 'Failed to detect CAMO-001');
     assert(detection.cvss >= 9.6, 'Incorrect CVSS score');
   });
-  
+
   it('should update ReasoningBank after detection', async () => {
     const initialPatterns = await integration.getPatternCount();
     await integration.detectThreat(generateTestThreat());
     const finalPatterns = await integration.getPatternCount();
-    
+
     assert(finalPatterns > initialPatterns, 'ReasoningBank not updated');
   });
-  
+
   after(async () => {
     await integration.cleanup();
   });

@@ -243,8 +243,8 @@ Enterprise AI system monitoring and resilience framework development with integr
 
 <h2>Author</h2>
 
-**Contact**: aaron@valorgridsolutions.com  
-**Research Collaboration**: Open to academic and industry partnerships  
+**Contact**: aaron@valorgridsolutions.com
+**Research Collaboration**: Open to academic and industry partnerships
 **Professional Services**: ValorGrid Solutions
 
 <h2>About ValorGrid Solutions</h2>

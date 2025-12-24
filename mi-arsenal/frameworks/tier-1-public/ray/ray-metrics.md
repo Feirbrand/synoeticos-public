@@ -7,8 +7,8 @@ Patent Clause: No patent rights are claimed for this work
 
 # RAY v2.1 Performance Metrics & Benchmarks
 
-**Version:** 2.1.0  
-**Last Updated:** October 17, 2025  
+**Version:** 2.1.0
+**Last Updated:** October 17, 2025
 **Author:** Aaron Slusher, ValorGrid Solutions
 
 ---

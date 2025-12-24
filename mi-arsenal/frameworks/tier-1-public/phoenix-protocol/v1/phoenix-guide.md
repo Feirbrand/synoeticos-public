@@ -12,8 +12,8 @@ Priority Date: 2025-10-15
 
 # Phoenix Protocol Diagnostic Guide
 
-**Path**: `architectural-frameworks/phoenix-protocol-v1/phoenix_diagnostic_guide.md`  
-**Version**: 1.0  
+**Path**: `architectural-frameworks/phoenix-protocol-v1/phoenix_diagnostic_guide.md`
+**Version**: 1.0
 **Contact**: aaron@valorgridsolutions.com
 
 ---
@@ -37,7 +37,7 @@ python gwi-diagnostic.py
 ## Tool Locations
 
 - **GWI Calculator**: `artifacts/utilities/gwi-diagnostic.py`
-- **Torque Simulator**: `artifacts/utilities/torque-simulator.py`  
+- **Torque Simulator**: `artifacts/utilities/torque-simulator.py`
 - **This Guide**: `architectural-frameworks/phoenix-protocol-v1/phoenix_diagnostic_guide.md`
 
 ---
@@ -71,4 +71,3 @@ Contact aaron@valorgridsolutions.com for:
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

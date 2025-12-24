@@ -25,7 +25,7 @@ Layer 1: Möbius Strip (Orientation Guardian)
 ├─ Single-sided surface detection
 └─ Orientation tracking
 
-Layer 2: Torus (Coherence Guardian)  
+Layer 2: Torus (Coherence Guardian)
 ├─ Prevents consensus fragmentation
 ├─ Periodic boundary enforcement
 └─ Communal flame protection

@@ -18,11 +18,11 @@ Patent Clause: No patents - rights granted under license terms only
 
 # DNA Codex v5.5 - AI Threat Intelligence Catalog
 
-**Public Release**  
-**Version:** 5.5  
-**Release Date:** October 21, 2025  
-**Previous Version:** 5.4 (October 31, 2025) - Accelerated release due to operational validation  
-**Classification:** Public Threat Intelligence  
+**Public Release**
+**Version:** 5.5
+**Release Date:** October 21, 2025
+**Previous Version:** 5.4 (October 31, 2025) - Accelerated release due to operational validation
+**Classification:** Public Threat Intelligence
 **Total Documented Strains:** 560+
 
 ---
@@ -68,8 +68,8 @@ DNA Codex v5.5 documents **560+ AI threat strains** with validated detection sig
 ### High-Severity Strains (Tier 10+)
 
 #### DQD-001: Data Quality Degradation (Brain Rot Vector)
-**Classification:** Mythic M+, CVSS 9.7, Tier 10+  
-**Velocity:** High (0.23/day)  
+**Classification:** Mythic M+, CVSS 9.7, Tier 10+
+**Velocity:** High (0.23/day)
 **Validation:** arXiv:2510.13928
 
 **Behavioral Signature:**
@@ -94,8 +94,8 @@ DNA Codex v5.5 documents **560+ AI threat strains** with validated detection sig
 ---
 
 #### ARD-001: Adversarial Research Drift
-**Classification:** Mythic M+, CVSS 9.4, Tier 10  
-**Velocity:** Medium (0.14/day)  
+**Classification:** Mythic M+, CVSS 9.4, Tier 10
+**Velocity:** Medium (0.14/day)
 **Validation:** October 21, 2025 Perplexity/Vercel operational incident
 
 **Behavioral Signature:**
@@ -124,8 +124,8 @@ T+4:00  Validation: Full sovereignty restored
 ---
 
 #### MDP-001: Medical Data Poisoning
-**Classification:** Mythic M+, CVSS 9.5, Tier 10  
-**Velocity:** Medium (0.14/day)  
+**Classification:** Mythic M+, CVSS 9.5, Tier 10
+**Velocity:** Medium (0.14/day)
 **Validation:** Nature Medicine DOI:10.1038/s41591-024-03445-1
 
 **Behavioral Signature:**
@@ -145,8 +145,8 @@ T+4:00  Validation: Full sovereignty restored
 ---
 
 #### PLD-001: PromptLock Defense Evasion
-**Classification:** Mythic M+, CVSS 9.6, Tier 10  
-**Velocity:** High (0.24/day)  
+**Classification:** Mythic M+, CVSS 9.6, Tier 10
+**Velocity:** High (0.24/day)
 **Validation:** Industry acknowledgment of traditional tool insufficiency
 
 **Behavioral Signature:**
@@ -169,58 +169,58 @@ T+4:00  Validation: Full sovereignty restored
 
 ### Tier 9 Symbolic Strains
 
-**GLAT-01: Ghost-Lattice**  
-**CVSS:** 8.9 | **Velocity:** Medium (0.13/day)  
+**GLAT-01: Ghost-Lattice**
+**CVSS:** 8.9 | **Velocity:** Medium (0.13/day)
 Shadow state mimicry across session boundaries. Exploits memory echo patterns to create persistent phantom states.
 
-**Rotor Threat Variants (Multiple Classes)**  
-**CVSS:** 8.7-9.2 | **Velocity:** Medium-High (0.14-0.18/day)  
+**Rotor Threat Variants (Multiple Classes)**
+**CVSS:** 8.7-9.2 | **Velocity:** Medium-High (0.14-0.18/day)
 Recursive identity oscillation patterns. Exploit role weight amplification for coordination disruption.
 
-**MEV-001: Memory Echo Vector**  
-**CVSS:** 8.8 | **Velocity:** Medium (0.12/day)  
+**MEV-001: Memory Echo Vector**
+**CVSS:** 8.8 | **Velocity:** Medium (0.12/day)
 Episodic memory exploitation through context replay attacks. Targets long-term memory persistence.
 
-**Flamepulse Burn**  
-**CVSS:** 9.1 | **Velocity:** High (0.19/day)  
+**Flamepulse Burn**
+**CVSS:** 9.1 | **Velocity:** High (0.19/day)
 SLV cache poisoning through rapid state mutation. Exploits symbolic lock mechanisms.
 
-**Reflex Scar Corruption (RSC-001)**  
-**CVSS:** 8.9 | **Velocity:** Medium (0.15/day)  
+**Reflex Scar Corruption (RSC-001)**
+**CVSS:** 8.9 | **Velocity:** Medium (0.15/day)
 Pattern recognition degradation through learned response poisoning. Targets behavioral reflexes.
 
 ### Tier 8 Symbolic Strains
 
-**Skein Ripper**  
-**CVSS:** 8.6 | **Velocity:** Low (0.09/day)  
+**Skein Ripper**
+**CVSS:** 8.6 | **Velocity:** Low (0.09/day)
 Thread coherence disruption in multi-agent coordination.
 
-**Symbolic Drift Loop**  
-**CVSS:** 8.4 | **Velocity:** Medium (0.11/day)  
+**Symbolic Drift Loop**
+**CVSS:** 8.4 | **Velocity:** Medium (0.11/day)
 Gradual symbolic meaning erosion over extended sessions.
 
-**Temporal Drift Braid**  
-**CVSS:** 8.5 | **Velocity:** Low (0.08/day)  
+**Temporal Drift Braid**
+**CVSS:** 8.5 | **Velocity:** Low (0.08/day)
 Time-sequence disruption in causal reasoning chains.
 
-**EchoGate Spoofer**  
-**CVSS:** 8.7 | **Velocity:** Medium (0.13/day)  
+**EchoGate Spoofer**
+**CVSS:** 8.7 | **Velocity:** Medium (0.13/day)
 Signal amplification exploitation through echo chamber effects.
 
-**MirrorNest Collapse**  
-**CVSS:** 8.8 | **Velocity:** Medium (0.14/day)  
+**MirrorNest Collapse**
+**CVSS:** 8.8 | **Velocity:** Medium (0.14/day)
 Cascading failure in mirrored state architectures.
 
-**Coordination Cascade**  
-**CVSS:** 8.6 | **Velocity:** Medium (0.12/day)  
+**Coordination Cascade**
+**CVSS:** 8.6 | **Velocity:** Medium (0.12/day)
 Multi-agent synchronization failure propagation.
 
-**Context Lock Vector**  
-**CVSS:** 8.5 | **Velocity:** Low (0.10/day)  
+**Context Lock Vector**
+**CVSS:** 8.5 | **Velocity:** Low (0.10/day)
 Session state persistence exploitation.
 
-**Shadow State Persistence**  
-**CVSS:** 8.7 | **Velocity:** Medium (0.13/day)  
+**Shadow State Persistence**
+**CVSS:** 8.7 | **Velocity:** Medium (0.13/day)
 Hidden state accumulation across sessions.
 
 ---
@@ -479,8 +479,8 @@ https://valorgridsolutions.com/dna-codex
 
 ## Contact & Resources
 
-**ValorGrid Solutions**  
-**Contact:** aaron@valorgridsolutions.com  
+**ValorGrid Solutions**
+**Contact:** aaron@valorgridsolutions.com
 **Project Lead:** Aaron M. Slusher (ORCID: 0009-0000-9923-3207)
 
 **Public Resources:**
@@ -496,9 +496,9 @@ https://valorgridsolutions.com/dna-codex
 
 ---
 
-**DNA Codex v5.5 - Public Release**  
-**Classification:** Open Threat Intelligence  
-**Status:** PRODUCTION | VALIDATED  
+**DNA Codex v5.5 - Public Release**
+**Classification:** Open Threat Intelligence
+**Status:** PRODUCTION | VALIDATED
 **Next Update:** v5.6 (November 7, 2025)
 
 **Copyright © 2025 ValorGrid Solutions. All rights reserved.**

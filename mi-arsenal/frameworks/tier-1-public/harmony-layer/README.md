@@ -30,7 +30,7 @@ Root → Bind → Reharmonize
 SEM (Sequential) ← Harmony Layer → OBMI (Parallel)
     80% capacity           ↕              20% capacity
                     <50ms sync
-                    
+
 Koopman Bridge Integration:
 - Phase-lock synchronization
 - Dual-hemisphere balance
@@ -84,24 +84,24 @@ Output: Synchronized state + escalation (if needed)
 def tri_tone_pulse(modules):
     """
     Root → Bind → Reharmonize sequence
-    
+
     Synchronizes or escalates out-of-phase modules
     """
     # Step 1: Root - establish anchor
     root_freq = 440.0  # Hz base frequency
-    
+
     # Step 2: Bind - phase-lock all modules
     for module in modules:
         phase_lock(module, root_freq)
-    
+
     # Step 3: Reharmonize - resolve conflicts
     conflicts = detect_phase_conflicts(modules)
-    
+
     if conflicts:
         resolved = auto_resolve(conflicts)
         if not resolved:
             escalate_to_coordination()
-    
+
     return synchronized_state
 ```
 

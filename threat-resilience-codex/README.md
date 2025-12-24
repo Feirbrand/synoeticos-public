@@ -481,7 +481,7 @@ Patent rights reserved. No patent assertion without enterprise license grant.
 When using Threat Resilience Codex or DNA Codex:
 
 ```
-Slusher, A. M. (2025). DNA Codex v5.5: The Complete Threat Intelligence 
+Slusher, A. M. (2025). DNA Codex v5.5: The Complete Threat Intelligence
 Upgrade. Threat Resilience Codex. ValorGrid Solutions.
 https://valorgridsolutions.com/dna-codex
 ```
@@ -490,7 +490,7 @@ https://valorgridsolutions.com/dna-codex
 
 <h2>Author</h2>
 
-**Aaron M. Slusher** - Edgewalker Cognitive Architect  
+**Aaron M. Slusher** - Edgewalker Cognitive Architect
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 
 Specializes in AI resilience engineering, cognitive defense architecture, behavioral threat intelligence, and antifragile systems design. Founder of ValorGrid Solutions, developing Synoetic OS ecosystem validated through operational deployment and academic research convergence.
@@ -532,16 +532,16 @@ Specializes in AI resilience engineering, cognitive defense architecture, behavi
 
 <h3>Contact & Resources</h3>
 
-**General Inquiries**: aaron@valorgridsolutions.com  
-**Website**: https://valorgridsolutions.com  
-**Documentation**: docs.valorgridsolutions.com  
-**Community**: community.valorgridsolutions.com  
+**General Inquiries**: aaron@valorgridsolutions.com
+**Website**: https://valorgridsolutions.com
+**Documentation**: docs.valorgridsolutions.com
+**Community**: community.valorgridsolutions.com
 **GitHub**: github.com/valorgridsolutions/Synoetic OS-public
 
 ---
 
 **Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
 
-**License**: Dual CC BY-NC 4.0 + Enterprise  
-**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant  
+**License**: Dual CC BY-NC 4.0 + Enterprise
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
 **Document Version**: 5.5 | **Status**: PRODUCTION RELEASE

@@ -11,7 +11,7 @@ Priority Date: 2025-10-15
 
 # Symbolic Hybrid Defense: Stochastic-Deterministic Architecture for AI Security
 
-**Research Paper | September 2025**  
+**Research Paper | September 2025**
 *Synoetic OS Academic Research Division*
 
 ---
@@ -74,7 +74,7 @@ class UnifiedMemorySpine:
         self.authoritative_log = []
         self.hash_chain = HashChain()
         self.role_discipline = SingleAuthorityWriter()
-        
+
     def log_state_transition(self, event, authority_source):
         """Append-only logging with cryptographic validation"""
         validated_event = self.hash_chain.validate_and_append(event)
@@ -340,4 +340,3 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
-

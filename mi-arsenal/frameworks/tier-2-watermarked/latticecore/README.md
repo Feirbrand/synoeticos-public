@@ -108,7 +108,7 @@ lattice = LatticeCoreEngine(mode="demo")
 # DCN 9-agent ensemble handoff
 def coordinate_ensemble(task):
     agents = []
-    
+
     # Fork 9 agents with coherence validation
     for i in range(9):
         spawn = lattice.fork_agent(
@@ -116,21 +116,21 @@ def coordinate_ensemble(task):
             task_segment=task.partition(i),
             torque_threshold=0.64
         )
-        
+
         if spawn.coherence_valid:
             agents.append(spawn)
         else:
             print(f"Agent {i} desync - rolling back")
-    
+
     # Execute coordinated task
     results = [agent.execute() for agent in agents]
-    
+
     # Merge results with coherence check
     merged = lattice.merge_results(
         results=results,
         validate_coherence=True
     )
-    
+
     return merged
 ```
 

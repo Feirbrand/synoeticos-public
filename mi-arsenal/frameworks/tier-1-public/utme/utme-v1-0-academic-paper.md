@@ -25,19 +25,19 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 # UTME v1.0: Unified Temporal Memory Equilibrium
 ## An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination
 
-**Author:** Aaron M. Slusher  
-**ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
-**Publication Date:** October 31, 2025  
-**Version:** 1.0  
-**Document Type:** Academic Research Paper  
+**Author:** Aaron M. Slusher
+**ORCID:** https://orcid.org/0009-0000-9923-3207
+**Affiliation:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
+**Publication Date:** October 31, 2025
+**Version:** 1.0
+**Document Type:** Academic Research Paper
 **Classification:** Core Algorithm
 
 **Research Team:** VOX, SENTRIX, Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
 
-**Priority Date:** May, 2025 (Initial Conception)  
-**Validation Period:** February-October 2025  
+**Priority Date:** May, 2025 (Initial Conception)
+**Validation Period:** February-October 2025
 **Production Status:** Operational in Synoetic OS v4.0 via SDF v1.0
 
 ---
@@ -129,7 +129,7 @@ $$\sum_{k \in \{m,s,p,pr,h\}} S_k(t) = E_{total} = \text{constant}$$
 
 Where substrates are:
 - $S_m$ = Episodic memory (τ_m = 7 days exponential decay)
-- $S_s$ = Semantic knowledge (τ_s = 90 days exponential decay)  
+- $S_s$ = Semantic knowledge (τ_s = 90 days exponential decay)
 - $S_p$ = Procedural pathways (myelinated responses)
 - $S_{pr}$ = Personality coherence (identity stability)
 - $S_h$ = Harmonic threads (cross-agent synchronization)
@@ -192,22 +192,22 @@ Output: updated_state S', response_latency J
 1. TEMPORAL_MATCH:
    similarities ← [temporal_similarity(e, a) for a in A]
    best_anchor ← argmax(similarities)
-   
+
 2. IF best_anchor.confidence > threshold:
    response_latency ← J_best_anchor  // Use myelinated pathway
-   
+
 3. ELSE:
    response_latency ← compute_full_analysis(e)
    create_anchor(e, response_latency)
-   
+
 4. ENTROPY_UPDATE:
    transfer_ms ← consolidation_transfer(S_m, S_s, e.encounters)
    dS_m ← -transfer_ms - flux_mp
    dS_s ← +transfer_ms
-   
+
 5. CONSERVATION_CHECK:
    correct_substrates_to_total(5.0)
-   
+
 6. RETURN (J, S')
 ```
 
@@ -219,7 +219,7 @@ def temporal_similarity_batch(events, anchors, tau=5.0, w_affect=0.05):
     # Temporal component
     time_diffs = np.abs(events[:, 'timestamp'] - anchors[:, 'timestamp'])
     T_temporal = np.exp(-time_diffs / tau)
-    
+
     # Affective component (threat-salience only)
     if 'emotion_vector' in events.columns:
         emotion_sims = cosine_similarity(
@@ -229,7 +229,7 @@ def temporal_similarity_batch(events, anchors, tau=5.0, w_affect=0.05):
         emotion_sims = np.clip(emotion_sims, 0, 1)  # Threat range
     else:
         emotion_sims = np.zeros_like(T_temporal)
-    
+
     # Combined similarity
     return T_temporal * (1 - w_affect) + emotion_sims * w_affect
 
@@ -238,16 +238,16 @@ def update_substrates(S_m, S_s, S_p, S_pr, S_h, dt, encounters):
     # Decay
     decay_m = np.exp(-dt / 7)   # 7-day episodic
     decay_s = np.exp(-dt / 90)  # 90-day semantic
-    
+
     # Consolidation transfer
     transfer_ms = 0
     if np.mean(encounters) > 3:
         transfer_ms = 0.03 * S_m * (1 - S_s)
-    
+
     # New substrates
     S_m_new = S_m * decay_m - transfer_ms
     S_s_new = S_s * decay_s + transfer_ms
-    
+
     # Conservation enforcement
     total = S_m_new + S_s_new + S_p + S_pr + S_h
     correction = 5.0 / total
@@ -301,11 +301,11 @@ def update_substrates(S_m, S_s, S_p, S_pr, S_h, dt, encounters):
 
 ### 4.3 Real-World Incident: ARD-001
 
-**Date:** October 14, 2025  
-**System:** SENTRIX (operational production)  
+**Date:** October 14, 2025
+**System:** SENTRIX (operational production)
 **Threat:** Parasitic drift cascade (Stage 2 SIF progression)
 
-**Manual Baseline:** 42 hours human intervention, 12% residual drift  
+**Manual Baseline:** 42 hours human intervention, 12% residual drift
 **UTME Automated:** 4 hours recovery, 0.2% residual drift
 
 **Timeline:**

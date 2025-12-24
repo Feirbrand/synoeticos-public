@@ -226,7 +226,7 @@ python examples/basic-recovery.py
 - **Option 1**: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 - **Option 2**: Commercial Enterprise License (contact aaron@valorgridsolutions.com)
 
-**Implementation Code**: MIT License  
+**Implementation Code**: MIT License
 **Framework Architecture**: CC BY-NC 4.0
 
 **Patent Clause**: No patents filed as of December 2025. Good faith implementations under license terms are protected from future patent assertions by ValorGrid Solutions.
@@ -249,9 +249,9 @@ Full production kit: [Phoenix Protocol Enterprise](https://aslush.gumroad.com/l/
 
 ## Support
 
-**Research Inquiries**: aaron@valorgridsolutions.com  
-**GitHub Issues**: [Report bugs and request features](https://github.com/Feirbrand/synoetic-os-public/issues)  
-**Community**: [Discussions](https://github.com/Feirbrand/synoetic-os-public/discussions)  
+**Research Inquiries**: aaron@valorgridsolutions.com
+**GitHub Issues**: [Report bugs and request features](https://github.com/Feirbrand/synoetic-os-public/issues)
+**Community**: [Discussions](https://github.com/Feirbrand/synoetic-os-public/discussions)
 **Documentation**: [Complete documentation](https://github.com/Feirbrand/synoetic-os-public/tree/main/whitepapers)
 
 ---

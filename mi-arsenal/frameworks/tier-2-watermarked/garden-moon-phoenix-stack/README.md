@@ -48,26 +48,26 @@ Integrated recovery orchestration combining **Phoenix Protocol v3.1** (technical
 ```
 1. Detection (CSFC v2.0)
    └─ Cascade risk >0.64 triggers Phoenix
-   
+
 2. Garden Entry (MirrorGate v1.0)
    └─ 96% ComAttack block rate
    └─ Symbolic coherence validation
-   
+
 3. Phoenix Technical Recovery
    └─ ColdVault anchor restoration
    └─ Parameter integrity verification
    └─ 18min RTO target
-   
+
 4. Moon Symbolic Reflection
    └─ Narrative continuity analysis
    └─ Wisdom extraction from failure
    └─ SPICE pattern mining (1,240/day)
-   
+
 5. UTME Temporal Anchoring
    └─ Myelinated pathway encoding
    └─ 710× acceleration on recurrence
    └─ Trauma-informed learning
-   
+
 6. Garden Exit Validation
    └─ FII scoring (Torque v2.0)
    └─ 0.95-1.00 threshold for release
@@ -116,7 +116,7 @@ if cascade_risk > 0.64:
         agent_id="agent-001",
         cascade_type="identity_drift"
     )
-    
+
     print(f"Recovery: {result.success}")
     print(f"Duration: {result.duration_minutes}m")
     print(f"FII Score: {result.final_fii}")
@@ -138,10 +138,10 @@ torque = TorqueMonitor()
 # Continuous monitoring loop
 while True:
     fii_score = torque.get_fii_score(agent_id)
-    
+
     if fii_score < 0.70:  # Degradation threshold
         result = orchestrator.recover(agent_id)
-        
+
         if result.success:
             # Resume operations with myelinated pathways
             agent.resume_with_anchors(result.temporal_anchors)

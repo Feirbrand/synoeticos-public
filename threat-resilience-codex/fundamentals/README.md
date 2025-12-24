@@ -26,7 +26,7 @@ This section establishes the theoretical framework and academic legitimacy for A
 
 <h3>Core Documentation</h3>
 - **`parasitic-pattern-fundamentals.md`** - Complete theoretical framework and research methodology
-- **`biological-parallels/`** - Scientific legitimacy through biological threat pattern analysis  
+- **`biological-parallels/`** - Scientific legitimacy through biological threat pattern analysis
 - **`research-methodology/`** - Academic standards and preprints with Zenodo DOIs documentation
 
 <h2>Theoretical Framework</h2>

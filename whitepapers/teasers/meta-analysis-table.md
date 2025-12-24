@@ -26,6 +26,3 @@ Aggregated from 500+ vectors: 34.5% uplift, 47% reduction. Link back to README f
 
 Author: [Your Name or Team]
 Contact: [email or site]
-
-
-

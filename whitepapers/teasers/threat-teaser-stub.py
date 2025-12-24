@@ -2,7 +2,8 @@
 
 import math
 
-def detect_threat_drift(r=1.0, F=5.0, theta=math.pi/2, threshold=0.15):
+
+def detect_threat_drift(r=1.0, F=5.0, theta=math.pi / 2, threshold=0.15):
     """
     Torque-based threat detection using T = r × F × sin(θ)
     Based on Torque Quantitative Foundation paper - 87% correlation on 500+ vectors
@@ -11,6 +12,7 @@ def detect_threat_drift(r=1.0, F=5.0, theta=math.pi/2, threshold=0.15):
     if torque > threshold:
         return f"Threat Alert: Drift detected (Torque: {torque:.2f}) - 47% cascade risk cut possible"
     return "Stable: No immediate threat"
+
 
 def csfc_phase_check(torque_value):
     """
@@ -26,6 +28,7 @@ def csfc_phase_check(torque_value):
     else:
         return "CSFC Stable: Below Phase 1 threshold"
 
+
 def systems_thinking_analysis(torque_history):
     """
     Systems thinking approach: feedback loops, delays, leverage points
@@ -33,11 +36,11 @@ def systems_thinking_analysis(torque_history):
     """
     if len(torque_history) < 3:
         return "Insufficient data for systems analysis"
-    
+
     # Simple trend analysis (delay detection)
     recent_trend = sum(torque_history[-3:]) / 3
     earlier_trend = sum(torque_history[:-3]) / max(1, len(torque_history) - 3)
-    
+
     if recent_trend > earlier_trend * 1.2:
         return "Systems Alert: Positive feedback loop detected - leverage point intervention needed"
     elif recent_trend < earlier_trend * 0.8:
@@ -45,9 +48,12 @@ def systems_thinking_analysis(torque_history):
     else:
         return "Systems Stable: Balanced feedback loops"
 
+
 # Example run (HOLY CRAP output - test in your env)
 print("=== Synoetic OS Threat Detection Teaser ===")
-print(detect_threat_drift())  # Threat Alert: Drift detected (Torque: 5.00) - 47% cascade risk cut possible
+print(
+    detect_threat_drift()
+)  # Threat Alert: Drift detected (Torque: 5.00) - 47% cascade risk cut possible
 print(csfc_phase_check(5.0))  # CSFC Phase 4: Critical - SRD protocols required
 
 # Systems thinking demo
@@ -57,8 +63,7 @@ print(f"Systems Analysis: {systems_thinking_analysis(torque_sequence)}")
 # Tie-in: From CSFC Phase 1 (baselines <0.15). Explore for 87% correlation sims.
 print("\n--- Integration Notes ---")
 print("• Torque Formula: T = r × F × sin(θ)")
-print("• Validation: 87% correlation on 500+ vectors")  
+print("• Validation: 87% correlation on 500+ vectors")
 print("• CSFC Integration: 98% Phase 1-4 recovery proven")
 print("• Systems Thinking: Feedback loops, leverage points, stock/flow")
 print("• Professional Support: aaron@valorgridsolutions.com")
-

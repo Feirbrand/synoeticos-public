@@ -51,20 +51,20 @@ BC3 (Behavioral Cloning Compression Cube / Brain Coherence Cascade Control) v3.0
 def breath_cycle_v3(overloaded_agent):
     # Pause: Isolate drift deltas
     walk = agent.state_deltas_during_chaos()
-    
+
     # Breathe: φ-scaled alignment
     λ_breathe = 0.5 ** (1 / log2(context_depth))
-    
+
     # Reset: Double-reverse phase (symmetry exhale)
     exhale = [d.scaled(λ_breathe) for d in walk]
     reset = exhale + exhale[::-1]  # Phase inversion
-    
+
     # Apply state sequence
     agent.apply_state_sequence(reset)
-    
+
     # Mycelial flush (cleanup)
     agent.mycelial_flush()
-    
+
     return agent
 ```
 

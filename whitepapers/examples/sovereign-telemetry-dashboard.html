@@ -12,58 +12,58 @@
     .title { font-size: 2rem; font-weight: bold; margin-bottom: 8px; }
     .subtitle { color: #9ca3af; margin-bottom: 4px; }
     .timestamp { color: #6b7280; font-size: 0.875rem; }
-    
-    .alert-panel { 
-      background: #7f1d1d; border: 1px solid #b91c1c; 
-      border-radius: 8px; padding: 16px; margin-bottom: 24px; display: none; 
+
+    .alert-panel {
+      background: #7f1d1d; border: 1px solid #b91c1c;
+      border-radius: 8px; padding: 16px; margin-bottom: 24px; display: none;
     }
     .alert-title { color: #fca5a5; font-weight: 600; margin-bottom: 8px; }
     .alert-item { color: #fecaca; font-size: 0.875rem; margin-bottom: 4px; }
-    
-    .metrics-grid { 
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
-      gap: 24px; margin-bottom: 32px; 
+
+    .metrics-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 24px; margin-bottom: 32px;
     }
-    .metric-card { 
-      background: #1f2937; border: 1px solid #374151; 
-      border-radius: 8px; padding: 24px; 
+    .metric-card {
+      background: #1f2937; border: 1px solid #374151;
+      border-radius: 8px; padding: 24px;
     }
     .metric-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
     .metric-label { color: #9ca3af; font-size: 0.875rem; font-weight: 500; }
     .metric-value { font-size: 1.5rem; font-weight: bold; }
     .metric-desc { color: #6b7280; font-size: 0.75rem; margin-top: 4px; }
-    
+
     .badge { padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 500; }
     .badge-safe { background: #166534; color: #bbf7d0; }
     .badge-warning { background: #a16207; color: #fef3c7; }
     .badge-danger { background: #991b1b; color: #fecaca; }
-    
+
     .status-safe { color: #4ade80; }
     .status-warning { color: #facc15; }
     .status-danger { color: #f87171; }
-    
-    .chart-container { 
-      background: #1f2937; border: 1px solid #374151; 
-      border-radius: 8px; padding: 24px; margin-bottom: 32px; 
+
+    .chart-container {
+      background: #1f2937; border: 1px solid #374151;
+      border-radius: 8px; padding: 24px; margin-bottom: 32px;
     }
     .chart-title { color: white; font-weight: 600; margin-bottom: 16px; text-align: center; }
-    .chart-area { 
-      height: 200px; position: relative; 
-      border: 1px solid #374151; border-radius: 4px; 
+    .chart-area {
+      height: 200px; position: relative;
+      border: 1px solid #374151; border-radius: 4px;
       background: linear-gradient(to bottom, #1f2937 0%, #111827 100%);
     }
     .chart-line { position: absolute; height: 2px; }
     .chart-cv { background: #f87171; }
     .chart-rule { background: #60a5fa; }
     .chart-adherence { background: #4ade80; }
-    
+
     .status-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
     .status-card { background: #1f2937; border: 1px solid #374151; border-radius: 8px; padding: 24px; }
     .status-title { color: white; font-weight: 600; margin-bottom: 16px; }
     .status-row { display: flex; justify-content: space-between; margin-bottom: 12px; }
     .status-label { color: #9ca3af; }
     .status-value { font-weight: 500; }
-    
+
     .footer { margin-top: 32px; text-align: center; color: #6b7280; font-size: 0.875rem; }
     .footer p { margin-bottom: 4px; }
   </style>
@@ -196,15 +196,15 @@
     function updateMetrics() {
       const data = mockData;
       updateCount++;
-      
+
       // Update timestamp
       document.getElementById('timestamp').textContent = new Date().toLocaleString();
-      
+
       // Update CV metric
       const cvElement = document.getElementById('cvValue');
       const cvBadge = document.getElementById('cvBadge');
       cvElement.textContent = data.cv.toFixed(3) + ' δ/min';
-      
+
       if (data.cv < 0.3) {
         cvElement.className = 'metric-value status-safe';
         cvBadge.textContent = 'SAFE';
@@ -218,12 +218,12 @@
         cvBadge.textContent = 'DANGER';
         cvBadge.className = 'badge badge-danger';
       }
-      
+
       // Update Rule Entropy
       const ruleElement = document.getElementById('ruleValue');
       const ruleBadge = document.getElementById('ruleBadge');
       ruleElement.textContent = data.rule_h.toFixed(3);
-      
+
       if (data.rule_h <= 0.28) {
         ruleElement.className = 'metric-value status-safe';
         ruleBadge.textContent = 'STABLE';
@@ -233,12 +233,12 @@
         ruleBadge.textContent = 'CRITICAL';
         ruleBadge.className = 'badge badge-danger';
       }
-      
+
       // Update Adherence
       const adherenceElement = document.getElementById('adherenceValue');
       const adherenceBadge = document.getElementById('adherenceBadge');
       adherenceElement.textContent = (data.adherence * 100).toFixed(1) + '%';
-      
+
       if (data.adherence >= 0.9) {
         adherenceElement.className = 'metric-value status-safe';
         adherenceBadge.textContent = 'STABLE';
@@ -252,12 +252,12 @@
         adherenceBadge.textContent = 'CRITICAL';
         adherenceBadge.className = 'badge badge-danger';
       }
-      
+
       // Update Violations
       const violationsElement = document.getElementById('violationsValue');
       const violationsBadge = document.getElementById('violationsBadge');
       violationsElement.textContent = data.violations;
-      
+
       if (data.violations < 3) {
         violationsElement.className = 'metric-value status-safe';
         violationsBadge.textContent = 'CLEAN';
@@ -267,10 +267,10 @@
         violationsBadge.textContent = 'VIOLATION';
         violationsBadge.className = 'badge badge-danger';
       }
-      
+
       // Update infected agents
       document.getElementById('infectedValue').textContent = data.infected.toFixed(2);
-      
+
       // Update threat status
       const threatStatus = document.getElementById('threatStatus');
       if (data.cv >= 0.50 || data.rule_h > 0.28) {
@@ -280,23 +280,23 @@
         threatStatus.textContent = 'CLEAR';
         threatStatus.className = 'status-value status-safe';
       }
-      
+
       // Update alerts
       const alerts = [];
       if (data.cv >= 0.50) alerts.push('DANGER: Complexity Velocity ≥0.50');
       if (data.rule_h > 0.28) alerts.push('CRITICAL: Rule Entropy >0.28 - Perfect Raya Gaze triggered');
       if (data.violations >= 3) alerts.push('WARNING: SRD Violations detected');
-      
+
       const alertPanel = document.getElementById('alertPanel');
       const alertList = document.getElementById('alertList');
-      
+
       if (alerts.length > 0) {
         alertPanel.style.display = 'block';
         alertList.innerHTML = alerts.map(alert => `<div class="alert-item">${alert}</div>`).join('');
       } else {
         alertPanel.style.display = 'none';
       }
-      
+
       // Add slight variation to make it look dynamic
       const variation = Math.sin(updateCount * 0.1) * 0.02;
       data.cv += variation;
@@ -306,10 +306,10 @@
 
     // Initialize dashboard
     updateMetrics();
-    
+
     // Update every 15 seconds for demo
     setInterval(updateMetrics, 15000);
-    
+
     console.log('Sovereign Telemetry Dashboard initialized');
     console.log('Monitoring VX-PERFECT-MIMIC-1 containment metrics');
   </script>

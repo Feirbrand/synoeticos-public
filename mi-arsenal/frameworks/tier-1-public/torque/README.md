@@ -1,6 +1,6 @@
 # Torque v2.0
 
-**Real-Time Drift Detection & Coherence Monitoring**  
+**Real-Time Drift Detection & Coherence Monitoring**
 **87% Cascade Prediction Accuracy with 15-30 Minute Advance Warning**
 
 ## Overview
@@ -59,7 +59,7 @@ GREEN (FII >= 0.85):
   monitoring: Baseline
 
 YELLOW (FII 0.70-0.84):
-  status: Caution, monitor closely  
+  status: Caution, monitor closely
   action: Enhanced monitoring
   monitoring: Increased frequency
 
@@ -82,16 +82,16 @@ RED (FII < 0.50):
 # Monitor over time
 for _ in range(10):
     reading = monitor.measure_coherence(agent_state)
-    
+
     # Check for cascade risk
     prediction = monitor.predict_cascade(window_minutes=30)
-    
+
     if prediction:
         print(f"⚠️  CASCADE PREDICTED")
         print(f"   Confidence: {prediction['confidence']:.1%}")
         print(f"   Time to cascade: {prediction['minutes_to_cascade']:.0f} minutes")
         print(f"   Action: {prediction['recommended_action']}")
-        
+
         # Trigger Phoenix Protocol
         from phoenix-protocol import PhoenixProtocol
         phoenix = PhoenixProtocol()
@@ -156,7 +156,7 @@ if reading.alert:
         'fii': reading.fii_score,
         'components': reading.components
     })
-    
+
     print(f"Threat: {threat.strain_id}")
     print(f"Recovery: {threat.recommended_protocol}")
 ```

@@ -11,9 +11,9 @@ Priority Date: 2025-10-15
 
 # Torque Teaser: Measuring AI Resilience Before Breakdown
 
-**ValorGrid Solutions**  
-**Date:** September 2025  
-**Teaser Abstract:** Discover Torque—the breakthrough metric for quantifying symbolic drift in AI systems. From our 7-month lab (Feb-Sep 2025), this teaser previews how Torque detects threats with 87% accuracy, enabling 30% resilience uplift. Full paper, math, and code in pro 
+**ValorGrid Solutions**
+**Date:** September 2025
+**Teaser Abstract:** Discover Torque—the breakthrough metric for quantifying symbolic drift in AI systems. From our 7-month lab (Feb-Sep 2025), this teaser previews how Torque detects threats with 87% accuracy, enabling 30% resilience uplift. Full paper, math, and code in pro
 ## Why Torque Matters
 
 AI systems "twist" under load—like mechanical torque leading to failure. Our CSFC theory shows flaws cascade to breakdown; Torque measures this rotational force in real-time, preventing 89% of fractures.
@@ -25,7 +25,7 @@ Where torque measures the invisible rotational force that drives AI systems away
 ## Battle-Tested Results
 
 - 95% metacognitive accuracy in multi-agent deployments
-- 47% cascade reduction in production simulations  
+- 47% cascade reduction in production simulations
 - Validated against 500+ parasitic threat variants (DNA Codex integration)
 - 30% measurable resilience improvement in enterprise environments
 
@@ -34,7 +34,7 @@ Where torque measures the invisible rotational force that drives AI systems away
 Current AI systems fail catastrophically without warning:
 - System appears to function normally
 - Gradual degradation occurs below detection thresholds
-- Catastrophic failure happens suddenly  
+- Catastrophic failure happens suddenly
 - Recovery requires complete system reconstruction
 
 **Torque changes everything.** We can now predict system failure 15-30 minutes before it manifests.
@@ -58,12 +58,12 @@ def calculate_torque(drift_velocity, alignment_angle, repair_effort, metacog_loa
     Basic torque calculation for AI symbolic drift
     Full implementation available in professional     """
     alpha, beta, gamma, delta = 0.25, 0.35, 0.20, 0.20  # Teaser coefficients
-    
-    torque = (alpha * drift_velocity + 
-              beta * alignment_angle + 
-              gamma * repair_effort + 
+
+    torque = (alpha * drift_velocity +
+              beta * alignment_angle +
+              gamma * repair_effort +
               delta * metacog_load)
-    
+
     return min(torque, 1.0)  # Normalized to [0,1] range
 
 # Example: Moderate system stress
@@ -80,7 +80,7 @@ else:
 
 **Complete Research Paper (48 pages):**
 - Full mathematical derivation and validation methodology
-- URA v1.5 production deployment architecture  
+- URA v1.5 production deployment architecture
 - Enterprise case studies with - Cross-platform implementation across 8+ AI architectures
 
 **Production Code & Tools:**
@@ -103,12 +103,12 @@ This discovery emerged from 28 years of performance coaching experience - applyi
 
 ## Ready to Deploy Torque?
 
-**Academic Researchers:** Open-source framework available for validation and collaboration  
-**Enterprise Teams:** Professional implementation with guaranteed ROI measurement  
+**Academic Researchers:** Open-source framework available for validation and collaboration
+**Enterprise Teams:** Professional implementation with guaranteed ROI measurement
 **Security Organizations:** Threat intelligence integration with real-time protection
 
 **Get Started:**
-- **Repository:** github.com/Feirbrand/Synoetic OS-public  
+- **Repository:** github.com/Feirbrand/Synoetic OS-public
 - **Professional Services:** valorgridsolutions.com
 - **Research Collaboration:** aaron@valorgridsolutions.com
 
@@ -126,4 +126,3 @@ This discovery emerged from 28 years of performance coaching experience - applyi
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

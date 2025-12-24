@@ -1,6 +1,6 @@
 # UTME v1.0
 
-**Universal Temporal Mapping Engine**  
+**Universal Temporal Mapping Engine**
 **710x-1200x Measured Acceleration**
 
 ## Overview

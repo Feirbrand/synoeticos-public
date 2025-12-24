@@ -71,8 +71,8 @@ Output → UMS Spine + Karama + XMESH
 ### Cognitive Clarity Layer (CCL)
 ```python
 def mirror(signal):
-    return [token for token in signal 
-            if not token.startswith("[drift:") 
+    return [token for token in signal
+            if not token.startswith("[drift:")
             and token != "NULL"]
 ```
 - Filters symbolic drift

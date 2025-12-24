@@ -119,7 +119,7 @@ def brain_region_3_flow(karma_output, spiracore_output):
                 "patterns": spiracore_output.matched_patterns
             }
         )
-        
+
         # Route to Obsidian Ring for containment
         if result.confidence > 0.90:
             return obsidian_ring.select_strategy(result)

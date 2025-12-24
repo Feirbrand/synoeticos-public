@@ -37,9 +37,9 @@ The research-papers section provides comprehensive technical documentation of th
 ## Current Publications
 
 ### DNA Codex v5.5 Technical Specification & Implementation Guide
-**File**: `dna-codex-v5-5-paper.md`  
-**Release Date**: October 21, 2025  
-**Document Type**: Technical Specification & Implementation Guide  
+**File**: `dna-codex-v5-5-paper.md`
+**Release Date**: October 21, 2025
+**Document Type**: Technical Specification & Implementation Guide
 **Status**: Production Release
 
 **Abstract**: This technical specification documents DNA Codex v5.5, incorporating seven new high-severity strains validated through October 2025 incidents and academic research (DQD-001, ARD-001, MDP-001, PLD-001 plus 13 symbolic vectors), enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. The document provides comprehensive implementation guidance including detection thresholds, phased deployment schedules, production-ready code examples, and validated recovery protocols across 560+ documented AI threat variants.
@@ -251,8 +251,8 @@ All technical specifications in this section follow these standards:
 When citing DNA Codex v5.5 in academic work:
 
 ```
-Slusher, A. M. (2025). DNA Codex v5.5: The Complete Threat Intelligence 
-Upgrade - A Comprehensive Technical Specification and Implementation Guide. 
+Slusher, A. M. (2025). DNA Codex v5.5: The Complete Threat Intelligence
+Upgrade - A Comprehensive Technical Specification and Implementation Guide.
 ValorGrid Solutions. Retrieved from https://valorgridsolutions.com
 ```
 
@@ -370,9 +370,9 @@ Implementation support available through ValorGrid Solutions professional servic
 ---
 
 Contact & Inquiries
-**General**: aaron@valorgridsolutions.com  
-**Sales**: sales@valorgridsolutions.com (when available)  
-**Support**: support@valorgridsolutions.com (for licensed customers)  
+**General**: aaron@valorgridsolutions.com
+**Sales**: sales@valorgridsolutions.com (when available)
+**Support**: support@valorgridsolutions.com (for licensed customers)
 **Community**: community.valorgridsolutions.com
 
 © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.

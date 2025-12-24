@@ -8,7 +8,7 @@ dd_enhancements:
     hybrid_accuracy: 0.96
     latency_budget_ms: 5
     improvement: "+33.3% on hybrid threats"
-    
+
   dd2_grpo:
     name: "Group Relative Policy Optimization"
     enabled: true
@@ -16,7 +16,7 @@ dd_enhancements:
     info_gain_threshold: 0.75
     autonomous_improvement: 0.19
     pattern_storage: true
-    
+
   dd3_agentic_radar:
     name: "OWASP LLM Top 10 Scanner"
     enabled: true
@@ -24,7 +24,7 @@ dd_enhancements:
     detection_rate: 0.925
     scan_time_ms: 12.4
     hardening_success: 0.895
-    
+
   dd4_markovian_thinker:
     name: "Linear-Scaling Long Context"
     enabled: true
@@ -34,7 +34,7 @@ dd_enhancements:
     complexity: "O(n)"
     speedup_96k: 0.90
     coherence: 0.943
-    
+
   dd5_reasoning_bank:
     name: "UTME Pattern Database"
     enabled: true
@@ -43,14 +43,14 @@ dd_enhancements:
     recall_accuracy: 0.94
     retrieval_latency_ms: 8
     myelination_increment: 0.05
-    
+
   dd6_episodic_rnn:
     name: "Time-Aware Context Modeling"
     enabled: true
     hidden_dim: 128
     temporal_weight: 0.8
     temporal_coherence: 0.94
-    
+
   dd7_llm_oracle:
     name: "Distributed Reasoning Validation"
     enabled: true
@@ -58,7 +58,7 @@ dd_enhancements:
     consensus_threshold: 0.85
     consensus_accuracy: 0.97
     validation_time_ms: 8.7
-    
+
   dd8_explainability:
     name: "Audit Trail Generation"
     enabled: true
@@ -74,7 +74,7 @@ performance:
   reasoning_uplift: "+19%"
   long_context_speedup: "+90% at 96K"
   edge_deployment: "<50ms at 7M params"
-  
+
 # Resource Allocation
 resources:
   dd_enhancements_cpu: 0.9

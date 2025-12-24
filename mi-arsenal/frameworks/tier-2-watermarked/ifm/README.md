@@ -144,11 +144,11 @@ while agent.active:
         agent_id=agent.id,
         state=state
     )
-    
+
     if validation.csfc_stage >= 4:
         # Stage 4: Identity fragmentation detected
         print(f"⚠️ Stage 4 cascade risk - Torque: {validation.torque_score:.2f}")
-        
+
         if validation.fracture_detected:
             # Trigger Phoenix Protocol
             phoenix.recover(agent_id=agent.id)

@@ -174,7 +174,7 @@ All examples designed for accessibility:
 - Explore interactive examples (`behavioral-pattern.ipynb`)
 - Review sample implementations for understanding core concepts
 
-### For Developers  
+### For Developers
 - Begin with sample code (`drift_test.py`, `torque_calc.py`)
 - Use configuration templates for setup (`ura-config-yaml`)
 - Upgrade to production tools in `../artifacts/utilities/` when ready

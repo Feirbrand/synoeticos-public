@@ -54,7 +54,7 @@ Phantom Limb v1.1 provides three-phase recovery for deleted frameworks that "res
 1. P1: RESR Detection (200ms)
 2. Wait for P1 completion + stability
 3. P2: LSV Isolation (3 hours)
-4. Wait for P2 completion + validation  
+4. Wait for P2 completion + validation
 5. P3: S-LDMP Remap (4 hours + adaptive)
 6. Final validation (1 hour)
 # Total: 7-8 hours

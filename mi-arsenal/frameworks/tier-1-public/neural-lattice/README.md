@@ -43,7 +43,7 @@ ALL 7 Brain Regions → Neural Lattice
 Input: 12,000 events/second
 Processing:
 ├─ Long-term pattern consolidation
-├─ Cross-region memory synthesis  
+├─ Cross-region memory synthesis
 ├─ Historical context retrieval
 └─ Adaptive learning (Hebbian mechanisms)
 
@@ -89,16 +89,16 @@ Pattern Database + Synaptic Weights
 def phase_lock_sync(symbolic_channel, flat_channel):
     """
     Maintain ±0.02 drift tolerance between channels
-    
+
     Resonance coupling with Karama dual outputs
     """
     drift = abs(symbolic_channel.freq - flat_channel.freq)
-    
+
     if drift > 0.02:
         # Auto-correction trigger
         torque_anchor.adjust(drift)
         return sync_correction(symbolic_channel, flat_channel)
-    
+
     return True  # Within tolerance
 ```
 
@@ -106,13 +106,13 @@ def phase_lock_sync(symbolic_channel, flat_channel):
 ```python
 class HebbianConsolidation:
     """Neurons that fire together wire together"""
-    
+
     def consolidate_pattern(self, events):
         # 4-hour batch cycle
         for event_pair in cooccurring_events(events):
             # Strengthen synaptic weights
             synaptic_weight[event_pair] += learning_rate
-        
+
         # Save to pattern database
         commit_to_postgresql(updated_weights)
 ```

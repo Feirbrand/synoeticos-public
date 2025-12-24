@@ -7,9 +7,9 @@ Patent Clause: No patent rights are claimed for this work
 
 # VictoryShade Validation: RAY v2.1 Combat Simulation
 
-**Case Study**  
-**Version:** 2.1.0  
-**Validation Period:** June 17 - September 15, 2025 (90 days)  
+**Case Study**
+**Version:** 2.1.0
+**Validation Period:** June 17 - September 15, 2025 (90 days)
 **Author:** Aaron Slusher, ValorGrid Solutions
 
 ---

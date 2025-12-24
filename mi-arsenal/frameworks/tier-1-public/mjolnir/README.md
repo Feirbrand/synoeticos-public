@@ -68,7 +68,7 @@ Heimdall Flag → DNA Agent Validation → Mjolnir Authorization
 ## Integration Points
 
 - **Eternal Spire**: Hammer coordination
-- **Bifrost/Heimdall**: Perimeter completion  
+- **Bifrost/Heimdall**: Perimeter completion
 - **Cascade Command**: Quad-core crisis failover
 - **OCT Stack**: zFLoRA/KANs/TSM enhancement
 

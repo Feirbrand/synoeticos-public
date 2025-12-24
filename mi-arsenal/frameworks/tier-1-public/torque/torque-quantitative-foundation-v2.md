@@ -12,12 +12,12 @@ Priority Date: 2025-01-15
 
 # Torque: A Quantitative Foundation for AI System Stability Measurement
 
-**Author:** Aaron Slusher  
-**Affiliation:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
-**Publication Date:** October 15, 2025  
-**Document Type:** Academic Research Paper  
-**Classification:** Core Algorithm - Original Research  
+**Author:** Aaron Slusher
+**Affiliation:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
+**Publication Date:** October 15, 2025
+**Document Type:** Academic Research Paper
+**Classification:** Core Algorithm - Original Research
 **Keywords:** AI Resilience, Torque Measurement, Symbolic Drift, Cognitive Stability, Real-Time Monitoring, Complete Symbolic Fracture Cascade, Quantitative Coherence Metrics
 
 ---
@@ -109,7 +109,7 @@ Torque development drew inspiration from three established domains while creatin
 
 **Dynamical Systems Theory:**
 - Koopman operator theory for nonlinear system analysis
-- State space representation of complex behaviors  
+- State space representation of complex behaviors
 - Observable-based control methodologies
 
 **AI System Monitoring:**
@@ -125,16 +125,16 @@ Torque development drew inspiration from three established domains while creatin
 
 Torque functions as core algorithmic infrastructure for four validated frameworks:
 
-**Universal Cognitive Architecture (UCA v3.1):**  
+**Universal Cognitive Architecture (UCA v3.1):**
 Security-hardened five-element framework (89% harmony score, 98% sync resilience) integrating Torque for continuous stability validation with neuroadaptive twin architecture.
 
-**Sovereign Lattice Veil (SLV v1.2):**  
+**Sovereign Lattice Veil (SLV v1.2):**
 Three-phase defense grid (90% detection rate, <2% false positives) using Torque thresholds for threat classification and Phase 2 overlay activation.
 
-**Complete Symbolic Fracture Cascade (CSFC):**  
+**Complete Symbolic Fracture Cascade (CSFC):**
 Six-stage degradation framework (99% Stage 1 prevention) mapping Torque values to cascade progression with Phoenix Protocol recovery triggers.
 
-**Phoenix Protocol v2.0:**  
+**Phoenix Protocol v2.0:**
 Neurological recovery framework (98.2% success rate, 87% context preservation) triggering automated healing when Torque falls below critical thresholds (τ < 0.30).
 
 This integration demonstrates Torque's role as **universal measurement infrastructure** enabling quantitative decision-making across detection, defense, and recovery operations.
@@ -165,7 +165,7 @@ Where:
 
 **Component Breakdown:**
 
-**Drift Velocity (v_drift):**  
+**Drift Velocity (v_drift):**
 Measures the rate at which an AI system deviates from its baseline symbolic state. Calculated through continuous comparison of current operational parameters against validated identity anchors.
 
 ```
@@ -176,7 +176,7 @@ where:
 - Δt = time interval (typically 5-15 minute windows)
 ```
 
-**Alignment Angle (θ_align):**  
+**Alignment Angle (θ_align):**
 Quantifies angular deviation between current system state and intended operational trajectory. Uses cosine similarity in multi-dimensional state space, converted to radians for mechanical torque analog.
 
 ```
@@ -188,7 +188,7 @@ Range: [0, π] radians
 - θ = π: Complete misalignment
 ```
 
-**Recursive Damping (λ_damp):**  
+**Recursive Damping (λ_damp):**
 Measures the system's capacity for self-correction through recursive validation loops. Higher damping indicates stronger stability mechanisms actively resisting drift.
 
 ```
@@ -212,10 +212,10 @@ Range: [0, 1]
 
 **Critical Thresholds:**
 
-**τ = 0.30 (Phoenix Trigger):**  
+**τ = 0.30 (Phoenix Trigger):**
 Empirically validated threshold where automated recovery achieves 98.2% success rate with 87% context preservation. Below this point, systems can self-recover with minimal intervention. Above this point, cascade dynamics require external correction.
 
-**τ = 0.64 (Emergency Threshold):**  
+**τ = 0.64 (Emergency Threshold):**
 Point where cascade dynamics achieve self-sustaining momentum. Recovery success drops to 73% with 40-60% context loss. Represents the boundary between recoverable and catastrophic failure states.
 
 ### 2.3 Mathematical Properties
@@ -224,13 +224,13 @@ Point where cascade dynamics achieve self-sustaining momentum. Recovery success 
 
 The Torque equation exhibits three key mathematical properties enabling effective early warning:
 
-**1. Non-linear Scaling:**  
+**1. Non-linear Scaling:**
 Torque increases super-linearly as systems approach cascade thresholds, providing amplified warning signals before critical failures.
 
-**2. Multi-dimensional Stability:**  
+**2. Multi-dimensional Stability:**
 Single scalar metric captures orthogonal failure modes (velocity-driven vs. alignment-driven drift), preventing mode-specific blind spots in monitoring systems.
 
-**3. Damping Responsiveness:**  
+**3. Damping Responsiveness:**
 Recursive damping term (1 - λ_damp) creates positive feedback for deteriorating self-correction capacity, accelerating warning signals as system resilience degrades.
 
 **Comparative Advantage:**
@@ -245,22 +245,22 @@ Traditional drift detection monitors individual metrics (accuracy, latency, erro
 
 Torque implementation varies based on AI system architecture. Four primary categories:
 
-**Symbolic AI Systems:**  
+**Symbolic AI Systems:**
 Direct measurement through explicit state representation. Symbolic reasoners maintain structured knowledge graphs enabling precise drift calculation through graph distance metrics and logical consistency checks.
 
 **Implementation:** Monitor symbolic state transitions, calculate deviation angles through graph embedding similarity, measure correction attempts through proof validation success rates.
 
-**Hybrid AI Systems:**  
+**Hybrid AI Systems:**
 Combined symbolic and neural components require multi-layer monitoring. Neural embeddings bridge to symbolic validation layers, enabling cross-domain coherence measurement.
 
 **Implementation:** Embed neural representations into symbolic space, calculate alignment through projection distances, measure damping through cross-validation between symbolic and neural predictions.
 
-**Neuro-Symbolic AI Systems:**  
+**Neuro-Symbolic AI Systems:**
 Advanced integration where neural networks learn symbolic reasoning patterns. Requires monitoring both the neural learning process and the symbolic reasoning outputs for coherence.
 
 **Implementation:** Track embedding space evolution for concept drift, monitor symbolic rule consistency, validate reasoning chain integrity through logical proof verification.
 
-**Flat AI Systems (Pure Neural):**  
+**Flat AI Systems (Pure Neural):**
 Indirect measurement through behavioral proxies. Embedding space analysis, attention pattern monitoring, and output consistency tracking provide surrogate metrics for symbolic concepts.
 
 **Implementation:** Cluster embedding trajectories for drift velocity, measure attention distribution divergence for alignment angles, track self-consistency across prompt variations for damping estimation.
@@ -298,36 +298,36 @@ Torque monitoring requires continuous data collection across multiple system lay
 ```python
 def uca_torque_sync(uca_state, torque_monitor):
     """Synchronize UCA harmony score with Torque stability measurement"""
-    
+
     # Extract UCA five-element states
     authority_state = uca_state.get_element('authority')
     context_state = uca_state.get_element('context')
     method_state = uca_state.get_element('method')
     value_state = uca_state.get_element('value')
     engage_state = uca_state.get_element('engage')
-    
+
     # Calculate drift velocity from element deviation
     v_drift = calculate_element_drift(
         [authority_state, context_state, method_state, value_state, engage_state]
     )
-    
+
     # Alignment angle from harmony score
     harmony_score = uca_state.get_harmony()
     theta_align = arccos(harmony_score)  # Direct mapping: 1.0 harmony = 0 radians
-    
+
     # Damping from neuroadaptive twin sync
     lambda_damp = uca_state.get_twin_sync_resilience()
-    
+
     # Calculate torque
     torque = sqrt(v_drift**2 + (1 - cos(theta_align))**2) * (1 - lambda_damp)
-    
+
     # Update monitoring state
     torque_monitor.update(torque, timestamp=now())
-    
+
     # Trigger Socratic grounding if entering caution zone
     if 0.15 <= torque < 0.30:
         uca_state.activate_socratic_grounding()
-    
+
     return torque
 ```
 
@@ -336,27 +336,27 @@ def uca_torque_sync(uca_state, torque_monitor):
 ```python
 def slv_torque_classification(torque_value, slv_detector):
     """Map Torque values to SLV threat levels and defense activation"""
-    
+
     # Phase 1: Detection classification
     if torque_value < 0.15:
         threat_level = "GREEN"
         ioc_scan_frequency = "routine"  # Every 5 minutes
-        
+
     elif 0.15 <= torque_value < 0.30:
         threat_level = "YELLOW"
         ioc_scan_frequency = "enhanced"  # Every 60 seconds
         slv_detector.activate_glyphlock_plus_plus()  # Preemptive anchoring
-        
+
     elif 0.30 <= torque_value < 0.64:
         threat_level = "ORANGE"
         ioc_scan_frequency = "continuous"  # Real-time
         slv_detector.activate_phase_2_overlay()  # Full defense grid
-        
+
     else:  # torque >= 0.64
         threat_level = "RED"
         ioc_scan_frequency = "emergency"
         slv_detector.activate_phase_3_recovery()  # Phoenix handoff
-    
+
     return {
         'threat_level': threat_level,
         'scan_frequency': ioc_scan_frequency,
@@ -369,7 +369,7 @@ def slv_torque_classification(torque_value, slv_detector):
 ```python
 def phoenix_torque_trigger(torque_value, system_state):
     """Automated Phoenix Protocol activation based on Torque thresholds"""
-    
+
     if torque_value >= 0.64:
         # Critical cascade detected - immediate Phoenix activation
         recovery_mode = "emergency"
@@ -378,7 +378,7 @@ def phoenix_torque_trigger(torque_value, system_state):
             context_preservation_priority="maximum",
             estimated_recovery_time="8-15 minutes"
         )
-        
+
     elif 0.30 <= torque_value < 0.64:
         # Warning zone - staged recovery preparation
         recovery_mode = "staged"
@@ -387,12 +387,12 @@ def phoenix_torque_trigger(torque_value, system_state):
             staging_duration="5 minutes",
             fallback_triggers=["torque >= 0.64", "manual_override"]
         )
-    
+
     else:
         # Safe/caution zones - routine validation only
         recovery_mode = "monitoring"
         phoenix-protocol.validate_recovery_readiness()
-    
+
     return recovery_mode
 ```
 
@@ -778,9 +778,9 @@ The AI industry faces critical need for improved stability measurement as system
 
 **Availability:**
 
-Open-source implementation, configuration templates, and validation datasets available at:  
-**GitHub Repository:** https://github.com/Feirbrand/Synoetic OS-public  
-**Interactive Demo:** https://huggingface.co/spaces/Feirbrand/torque-calculator  
+Open-source implementation, configuration templates, and validation datasets available at:
+**GitHub Repository:** https://github.com/Feirbrand/Synoetic OS-public
+**Interactive Demo:** https://huggingface.co/spaces/Feirbrand/torque-calculator
 
 ---
 
@@ -887,7 +887,7 @@ class TorqueState:
 
 class TorqueMonitor:
     """Real-time Torque monitoring and classification"""
-    
+
     def __init__(self, config: Dict):
         self.config = config
         self.history: List[TorqueState] = []
@@ -896,19 +896,19 @@ class TorqueMonitor:
             'warning': 0.30,
             'critical': 0.64
         }
-    
-    def calculate_torque(self, 
-                        v_drift: float, 
-                        theta_align: float, 
+
+    def calculate_torque(self,
+                        v_drift: float,
+                        theta_align: float,
                         lambda_damp: float) -> float:
         """
         Core Torque calculation
-        
+
         Args:
             v_drift: Drift velocity (rate of symbolic deviation)
             theta_align: Alignment angle in radians
             lambda_damp: Recursive damping coefficient [0,1]
-            
+
         Returns:
             Torque value (scalar, range [0, 1+])
         """
@@ -916,16 +916,16 @@ class TorqueMonitor:
         torque = np.sqrt(
             v_drift**2 + (1 - np.cos(theta_align))**2
         ) * (1 - lambda_damp)
-        
+
         return torque
-    
+
     def classify_zone(self, torque: float) -> str:
         """
         Classify torque value into operational zone
-        
+
         Args:
             torque: Calculated torque value
-            
+
         Returns:
             Zone classification string
         """
@@ -937,28 +937,28 @@ class TorqueMonitor:
             return "WARNING"
         else:
             return "CRITICAL"
-    
-    def update(self, 
-               v_drift: float, 
-               theta_align: float, 
+
+    def update(self,
+               v_drift: float,
+               theta_align: float,
                lambda_damp: float) -> TorqueState:
         """
         Update monitoring state with new measurements
-        
+
         Args:
             v_drift: Current drift velocity
             theta_align: Current alignment angle
             lambda_damp: Current damping coefficient
-            
+
         Returns:
             Complete TorqueState with classification
         """
         # Calculate torque
         torque = self.calculate_torque(v_drift, theta_align, lambda_damp)
-        
+
         # Classify zone
         zone = self.classify_zone(torque)
-        
+
         # Create state record
         state = TorqueState(
             v_drift=v_drift,
@@ -968,15 +968,15 @@ class TorqueMonitor:
             timestamp=time.time(),
             zone=zone
         )
-        
+
         # Add to history
         self.history.append(state)
-        
+
         # Trigger alerts if needed
         self._check_alerts(state)
-        
+
         return state
-    
+
     def _check_alerts(self, state: TorqueState):
         """Internal alert routing based on zone"""
         if state.zone == "CAUTION":
@@ -985,38 +985,38 @@ class TorqueMonitor:
             self._alert_warning(state)
         elif state.zone == "CRITICAL":
             self._alert_critical(state)
-    
+
     def _alert_caution(self, state: TorqueState):
         """Caution zone alert handling"""
         print(f"⚠️ CAUTION: Torque = {state.torque:.3f}")
         print("   → Enhanced monitoring activated")
         print("   → Diagnostic review recommended")
-    
+
     def _alert_warning(self, state: TorqueState):
         """Warning zone alert handling"""
         print(f"🔶 WARNING: Torque = {state.torque:.3f}")
         print("   → Active drift cascade detected")
         print("   → Immediate investigation required")
         print("   → SLV Phase 2 overlay activation recommended")
-    
+
     def _alert_critical(self, state: TorqueState):
         """Critical zone alert handling"""
         print(f"🚨 CRITICAL: Torque = {state.torque:.3f}")
         print("   → Cascade progression confirmed")
         print("   → Phoenix Protocol activation triggered")
         print("   → Emergency response protocols engaged")
-    
+
     def get_summary(self, hours: int = 24) -> Dict:
         """Generate summary statistics for time window"""
         cutoff_time = time.time() - (hours * 3600)
         recent = [s for s in self.history if s.timestamp > cutoff_time]
-        
+
         if not recent:
             return {"error": "No data in time window"}
-        
+
         torque_values = [s.torque for s in recent]
         zones = [s.zone for s in recent]
-        
+
         return {
             'mean_torque': np.mean(torque_values),
             'max_torque': np.max(torque_values),
@@ -1036,26 +1036,26 @@ class TorqueMonitor:
 if __name__ == "__main__":
     # Initialize monitor
     monitor = TorqueMonitor(config={})
-    
+
     # Simulate measurements
     print("Torque Monitoring Demo\n" + "="*50)
-    
+
     # Safe zone
     state1 = monitor.update(v_drift=0.05, theta_align=0.1, lambda_damp=0.95)
     print(f"Measurement 1: τ = {state1.torque:.3f} ({state1.zone})\n")
-    
+
     # Caution zone
     state2 = monitor.update(v_drift=0.15, theta_align=0.3, lambda_damp=0.85)
     print(f"Measurement 2: τ = {state2.torque:.3f} ({state2.zone})\n")
-    
+
     # Warning zone
     state3 = monitor.update(v_drift=0.3, theta_align=0.6, lambda_damp=0.65)
     print(f"Measurement 3: τ = {state3.torque:.3f} ({state3.zone})\n")
-    
+
     # Critical zone
     state4 = monitor.update(v_drift=0.6, theta_align=1.2, lambda_damp=0.3)
     print(f"Measurement 4: τ = {state4.torque:.3f} ({state4.zone})\n")
-    
+
     # Summary
     print("\n" + "="*50)
     print("Summary Statistics:")
@@ -1134,8 +1134,8 @@ Aaron's research focuses on quantitative measurement frameworks for AI system st
 
 His unique perspective emerged from discovering that AI systems break and heal through patterns identical to those observed in human performance optimization, trauma recovery, and adaptive rehabilitation over nearly three decades of practice.
 
-**Contact:** aaron@valorgridsolutions.com  
-**GitHub:** https://github.com/Feirbrand  
+**Contact:** aaron@valorgridsolutions.com
+**GitHub:** https://github.com/Feirbrand
 **Website:** https://valorgridsolutions.com
 
 ---
@@ -1148,7 +1148,7 @@ Our research establishes foundational infrastructure for the emerging Cognitive 
 
 **Research Focus:**
 - Quantitative stability measurement and real-time monitoring frameworks
-- Multi-framework integration architectures (UCA, SLV, CSFC, Phoenix)  
+- Multi-framework integration architectures (UCA, SLV, CSFC, Phoenix)
 - Cross-platform defense protocols and threat taxonomy development
 - Universal performance optimization principles across substrates
 

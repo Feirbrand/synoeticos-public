@@ -1,8 +1,8 @@
 # UTME v2.1 - Temporal Memory Performance Benchmarks
 
-**Benchmark Period:** February - November 2025 (9 months)  
-**Testing Team:** VGS DCN (9-agent operational deployment)  
-**Validation Status:** Internal operational benchmarking  
+**Benchmark Period:** February - November 2025 (9 months)
+**Testing Team:** VGS DCN (9-agent operational deployment)
+**Validation Status:** Internal operational benchmarking
 **Document Classification:** Public benchmark data
 
 ---
@@ -363,12 +363,12 @@ UTME v2.1 demonstrates **710x acceleration** on myelinated pathways (67 minutes 
 
 ---
 
-**Document Classification:** Public Benchmark Data  
-**Author:** Aaron M. Slusher  
-**ORCID:** 0009-0000-9923-3207  
-**Entity:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
+**Document Classification:** Public Benchmark Data
+**Author:** Aaron M. Slusher
+**ORCID:** 0009-0000-9923-3207
+**Entity:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
 **Date:** December 7, 2025
 
-**License:** CC BY-NC 4.0 (benchmark data)  
+**License:** CC BY-NC 4.0 (benchmark data)
 **UTME v2.1:** Enterprise licensing available

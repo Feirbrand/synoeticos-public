@@ -1,6 +1,6 @@
 # FCE v3.6
 
-**Fractal Context Engineering**  
+**Fractal Context Engineering**
 **Multi-Granular Compression | φ-Scaling (Golden Ratio: 1.618)**
 
 ## Overview

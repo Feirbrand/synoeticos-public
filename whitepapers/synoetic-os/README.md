@@ -298,14 +298,14 @@ Commercial licensing includes:
 
 ## Contact & Support
 
-**Author**: Aaron M. Slusher  
-**ORCID**: https://orcid.org/0009-0000-9923-3207  
-**Email**: aaron@valorgridsolutions.com  
-**Website**: https://valorgridsolutions.com  
+**Author**: Aaron M. Slusher
+**ORCID**: https://orcid.org/0009-0000-9923-3207
+**Email**: aaron@valorgridsolutions.com
+**Website**: https://valorgridsolutions.com
 **GitHub**: https://github.com/Feirbrand/synoetic-public
 
-**Research Inquiries**: aaron@valorgridsolutions.com  
-**Academic Collaboration**: GitHub Issues and Discussions  
+**Research Inquiries**: aaron@valorgridsolutions.com
+**Academic Collaboration**: GitHub Issues and Discussions
 **Professional Services**: valorgridsolutions.com
 
 ---

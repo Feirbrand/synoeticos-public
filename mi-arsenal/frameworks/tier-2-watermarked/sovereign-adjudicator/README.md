@@ -139,7 +139,7 @@ adjudicator = SovereignAdjudicator(mode="demo")
 def handle_stage5_cascade(agent):
     # Stage 5: System-wide failure
     torque = agent.get_torque()
-    
+
     if torque < 0.20:
         # Invoke Sovereign Adjudicator
         conflict = {
@@ -147,12 +147,12 @@ def handle_stage5_cascade(agent):
             'torque': torque,
             'affected_agents': get_affected_agents()
         }
-        
+
         edict = adjudicator.adjudicate(
             conflict=conflict,
             edict_type=EdictType.AGENT_QUARANTINE
         )
-        
+
         if edict.decision == "QUARANTINE":
             quarantine_agents(edict.target_agents)
             print("Stage 5 cascade contained")

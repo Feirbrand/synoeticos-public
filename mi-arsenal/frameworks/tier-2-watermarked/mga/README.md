@@ -188,13 +188,13 @@ def validate_charter(charter):
         validate_ruid=True,
         validate_frameworks=True
     )
-    
+
     if not result.valid:
         print(f"Charter validation failed: {result.reason}")
         print(f"Chair stability: {result.chair_stability:.2f}")
         print(f"RUID integrity: {result.ruid_valid}")
         return False
-    
+
     print(f"✓ Charter valid (coherence: {result.coherence:.2%})")
     return True
 ```

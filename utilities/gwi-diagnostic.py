@@ -8,27 +8,24 @@ CLASSIFICATION: Public Teaser - GWI Cascade Detection
 STATUS: Illustrative - Upgrade for pandas/sklearn impl.
 """
 
+
 class GWIDetector:
     """GWI detection with Gemini validation (pseudocode teaser)."""
-    
+
     def __init__(self, sensitivity="medium"):
         # Teaser config (full in Pro)
-        self.config = {  # Example
-            "threshold": 0.20,
-            "critical": 0.15
-        }
-        self.gemini_validation_params = {  # Example
-            'paradox_weight': 0.67
-        }
-    
+        self.config = {"threshold": 0.20, "critical": 0.15}  # Example
+        self.gemini_validation_params = {"paradox_weight": 0.67}  # Example
+
     def load_or_generate_data(self, data_path=None):
         """Load/generate data (teaser)."""
         raise NotImplementedError("Data loading in Pro Tier")
-    
+
     def run_diagnostic(self, data):
         """Run GWI scan (teaser)."""
         raise NotImplementedError("Diagnostic execution in Pro Tier")
         # Returns: {'mean_gwi': 0.25, 'critical_percentage': 15.5}
+
 
 # Demo (non-executable)
 if __name__ == "__main__":

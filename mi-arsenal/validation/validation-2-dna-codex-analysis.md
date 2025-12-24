@@ -1,8 +1,8 @@
 # DNA Codex v5.6 - Threat Intelligence Validation Report
 
-**Documentation Period:** February - November 2025 (9 months)  
-**Analysis Team:** VGS DCN (9-agent distributed research)  
-**Validation Status:** Internal research + academic correlation  
+**Documentation Period:** February - November 2025 (9 months)
+**Analysis Team:** VGS DCN (9-agent distributed research)
+**Validation Status:** Internal research + academic correlation
 **Document Classification:** Public research data
 
 ---
@@ -410,12 +410,12 @@ DNA Codex v5.6 provides the **most comprehensive AI threat intelligence framewor
 
 ---
 
-**Document Classification:** Public Research Data  
-**Author:** Aaron M. Slusher  
-**ORCID:** 0009-0000-9923-3207  
-**Entity:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
+**Document Classification:** Public Research Data
+**Author:** Aaron M. Slusher
+**ORCID:** 0009-0000-9923-3207
+**Entity:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
 **Date:** December 7, 2025
 
-**License:** CC BY-NC 4.0 (public vectors)  
+**License:** CC BY-NC 4.0 (public vectors)
 **VGS Codex:** Enterprise licensing available

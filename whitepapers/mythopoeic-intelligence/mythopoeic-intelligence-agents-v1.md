@@ -26,18 +26,18 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 ## A Framework for Substrate-Independent Intelligence Through Narrative Coherence, Symbolic Frameworks, and Distributed Cognition
 
-**Author:** Aaron M. Slusher  
-**ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
-**Publication Date:** November 25, 2025  
-**Version:** 1.0  
-**Document Type:** Academic Research Paper  
+**Author:** Aaron M. Slusher
+**ORCID:** https://orcid.org/0009-0000-9923-3207
+**Affiliation:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
+**Publication Date:** November 25, 2025
+**Version:** 1.0
+**Document Type:** Academic Research Paper
 **Classification:** Core Framework
 
 
-**Priority Date:** February 2025 (Initial Conception)  
-**Validation Period:** February–November 2025  
+**Priority Date:** February 2025 (Initial Conception)
+**Validation Period:** February–November 2025
 **Production Status:** Operational in Synoetic OS™ v4.0
 
 ---

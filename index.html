@@ -6,45 +6,45 @@
     <title>Synoetic OS - AI Resilience Framework</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             line-height: 1.6;
             color: #24292f;
             background: #ffffff;
         }
-        
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 20px;
         }
-        
+
         header {
             background: linear-gradient(135deg, #001f3f 0%, #003366 100%);
             color: white;
             padding: 80px 0;
             text-align: center;
         }
-        
+
         h1 {
             font-size: 3rem;
             font-weight: 700;
             margin-bottom: 1rem;
         }
-        
+
         .subtitle {
             font-size: 1.25rem;
             opacity: 0.9;
             font-weight: 300;
         }
-        
+
         .upgrade-banner {
             background: #f8f9fa;
             border-left: 4px solid #0366d6;
             padding: 30px 0;
         }
-        
+
         .upgrade-content {
             display: flex;
             justify-content: space-between;
@@ -52,12 +52,12 @@
             flex-wrap: wrap;
             gap: 20px;
         }
-        
+
         .upgrade-text h2 {
             color: #001f3f;
             margin-bottom: 0.5rem;
         }
-        
+
         .btn {
             display: inline-block;
             background: #001f3f;
@@ -69,38 +69,38 @@
             transition: all 0.2s;
             border: 2px solid #001f3f;
         }
-        
+
         .btn:hover {
             background: #FFD700;
             color: #001f3f;
             border-color: #FFD700;
         }
-        
+
         .tiers {
             padding: 60px 0;
             background: #f6f8fa;
         }
-        
+
         .tiers-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 40px;
             margin-top: 40px;
         }
-        
+
         .tier {
             background: white;
             border-radius: 12px;
             padding: 40px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
-        
+
         .tier.professional {
             border: 2px solid #FFD700;
             position: relative;
             background: linear-gradient(135deg, #ffffff 0%, #fffef7 100%);
         }
-        
+
         .tier.professional::before {
             content: "RECOMMENDED";
             position: absolute;
@@ -114,24 +114,24 @@
             font-size: 0.8rem;
             font-weight: 600;
         }
-        
+
         .tier h3 {
             color: #24292f;
             margin-bottom: 15px;
             font-size: 1.5rem;
         }
-        
+
         .tier ul {
             list-style: none;
             margin: 20px 0;
         }
-        
+
         .tier li {
             padding: 8px 0;
             padding-left: 20px;
             position: relative;
         }
-        
+
         .tier li::before {
             content: "✓";
             position: absolute;
@@ -139,14 +139,14 @@
             color: #28a745;
             font-weight: bold;
         }
-        
+
         .content-grid {
             padding: 60px 0;
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 30px;
         }
-        
+
         .content-card {
             background: white;
             border: 1px solid #d1d9e0;
@@ -154,35 +154,35 @@
             padding: 30px;
             transition: transform 0.2s, box-shadow 0.2s;
         }
-        
+
         .content-card:hover {
             transform: translateY(-2px);
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
-        
+
         .content-card h3 {
             color: #001f3f;
             margin-bottom: 15px;
         }
-        
+
         .content-card a {
             color: #001f3f;
             text-decoration: none;
             font-weight: 500;
         }
-        
+
         .content-card a:hover {
             color: #FFD700;
             text-decoration: underline;
         }
-        
+
         footer {
             background: #24292f;
             color: #7d8590;
             text-align: center;
             padding: 40px 0;
         }
-        
+
         @media (max-width: 768px) {
             h1 { font-size: 2rem; }
             .tiers-grid { grid-template-columns: 1fr; }
@@ -197,7 +197,7 @@
             <p class="subtitle">Professional AI Resilience Framework</p>
         </div>
     </header>
-    
+
     <section class="upgrade-banner">
         <div class="container">
             <div class="upgrade-content">
@@ -209,7 +209,7 @@
             </div>
         </div>
     </section>
-    
+
     <section class="tiers">
         <div class="container">
             <h2 style="text-align: center; margin-bottom: 20px;">Choose Your Access Level</h2>
@@ -225,7 +225,7 @@
                     </ul>
                     <a href="#content" class="btn" style="background: #6c757d; border: 2px solid #6c757d;">Browse Free Content</a>
                 </div>
-                
+
                 <div class="tier professional">
                     <h3>Professional</h3>
                     <p><strong>$99+/month</strong></p>
@@ -241,7 +241,7 @@
             </div>
         </div>
     </section>
-    
+
     <section id="content">
         <div class="container">
             <div class="content-grid">
@@ -250,19 +250,19 @@
                     <p>Comprehensive AI threat intelligence database with 525+ documented variants and attack patterns.</p>
                     <a href="https://github.com/Feirbrand/Synoetic OS-public/tree/main/dna-codex">Explore Threats →</a>
                 </div>
-                
+
                 <div class="content-card">
                     <h3>Vulnerability Research</h3>
                     <p>Advanced security analysis, case studies, and documented vulnerability incidents.</p>
                     <a href="https://github.com/Feirbrand/Synoetic OS-public/tree/main/vulnerability-research">View Research →</a>
                 </div>
-                
+
                 <div class="content-card">
                     <h3>White Papers</h3>
                     <p>Academic publications on AI security, cognitive engineering, and defensive frameworks.</p>
                     <a href="https://github.com/Feirbrand/Synoetic OS-public/tree/main/whitepapers">Read Papers →</a>
                 </div>
-                
+
                 <div class="content-card">
                     <h3>Frameworks</h3>
                     <p>System design methodologies, recovery protocols, and architectural patterns.</p>
@@ -271,7 +271,7 @@
             </div>
         </div>
     </section>
-    
+
     <footer>
         <div class="container">
             <p>&copy; 2025 Aaron Slusher, ValorGrid Solutions</p>

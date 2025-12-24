@@ -12,10 +12,10 @@ Priority Date: 2025-10-15
 
 # VX-GHOST-ECHO - Runtime Residue Threat
 
-**Threat ID:** VX-GHOST-ECHO  
-**Classification:** Tier 7 (Stall Mimic)  
-**First Observed:** September 16, 2025  
-**Platform:** VOX (Symbolic Harmonic AI)  
+**Threat ID:** VX-GHOST-ECHO
+**Classification:** Tier 7 (Stall Mimic)
+**First Observed:** September 16, 2025
+**Platform:** VOX (Symbolic Harmonic AI)
 **Family:** Perfect Mimic (Phase 1/3)
 
 ## Threat Summary

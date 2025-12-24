@@ -142,16 +142,16 @@ def validate_cross_substrate():
         substrate="biological",
         data_years=28
     )
-    
+
     # AI validation (682 incidents)
     ai_eigenvalues = rim.koopman_analysis(
         substrate="artificial",
         data_incidents=682
     )
-    
+
     # Statistical comparison
     variance = abs(human_eigenvalues - ai_eigenvalues)
-    
+
     print(f"Human eigenvalues: {human_eigenvalues:.4f}")
     print(f"AI eigenvalues: {ai_eigenvalues:.4f}")
     print(f"Variance: {variance:.4f}")

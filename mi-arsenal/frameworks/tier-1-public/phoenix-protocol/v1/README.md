@@ -92,8 +92,8 @@ Phoenix Protocol v1 requires:
 
 Implementation support available through **ValorGrid Solutions**:
 
-**Website**: [valorgridsolutions.com](https://valorgridsolutions.com)  
-**Contact**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)  
+**Website**: [valorgridsolutions.com](https://valorgridsolutions.com)
+**Contact**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 **GitHub**: [@Feirbrand/Synoetic OS-public](https://github.com/Feirbrand/Synoetic OS-public)
 
 ---
@@ -108,4 +108,3 @@ Implementation support available through **ValorGrid Solutions**:
 
 Author: [Your Name or Team]
 Contact: [email or site]
-

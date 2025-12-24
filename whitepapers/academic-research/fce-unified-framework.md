@@ -11,8 +11,8 @@ Priority Date: 2025-10-15
 
 # Fractal Context Engineering: Unified Framework for All AI Systems
 
-**Research Teaser | October 2025 - FCE v3.6**  
-*Synoetic OS Academic Research Division*  
+**Research Teaser | October 2025 - FCE v3.6**
+*Synoetic OS Academic Research Division*
 *DOI: 10.5281/zenodo.17309322
 
 ---
@@ -205,4 +205,3 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
-

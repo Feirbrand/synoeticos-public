@@ -106,20 +106,20 @@ engine = ContainmentEngine(mode="demo")
 def brain_defense_flow(threat_data):
     # Region 1: Karma classification
     classification = karma.classify(threat_data)
-    
+
     # Region 2: SpiraCore pattern matching
     patterns = spiracore.match(classification)
-    
+
     # Region 3: Möbius Fold recursive analysis
     analysis = mobius_fold.analyze(patterns, max_depth=5)
-    
+
     # Region 4: Obsidian Ring containment (this component)
     strategy = engine.select_strategy(
         threat_type=analysis.threat_type,
         severity=analysis.severity,
         context=analysis.context
     )
-    
+
     return strategy
 ```
 

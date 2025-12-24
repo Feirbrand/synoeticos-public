@@ -1,6 +1,6 @@
 # URA v1.5
 
-**Unified Resilience Architecture**  
+**Unified Resilience Architecture**
 **Organism-Level Cognitive Framework**
 
 ## Overview
@@ -59,7 +59,7 @@ Resilience Score Components:
   Identity: 30%
   Knowledge Graph: 20%
   Blue Chain: 10%
-  
+
 Status Levels:
   >0.90: HEALTHY (continue monitoring)
   0.85-0.90: GOOD (minor tuning)
@@ -112,7 +112,7 @@ Operational Validation:
 
 ## License
 
-MIT License (implementation code)  
+MIT License (implementation code)
 CC BY-NC 4.0 (framework architecture)
 
 Enterprise licensing: aaron@valorgridsolutions.com

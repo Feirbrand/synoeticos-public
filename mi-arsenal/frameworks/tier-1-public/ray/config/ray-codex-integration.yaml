@@ -4,7 +4,7 @@ codex_integration:
   version: "5.6"
   strain_database: 525
   correlation_enabled: true
-  
+
 # Threat Family Mapping
 threat_families:
   injection:
@@ -12,25 +12,25 @@ threat_families:
     variants: 387
     detection_rate: 0.98
     containment_time_min: 14.2
-    
+
   persistence:
     strain_prefix: "SSM"
     variants: 294
     detection_rate: 0.97
     containment_time_min: 16.8
-    
+
   entropic:
     strain_prefix: "QMT"
     variants: 218
     detection_rate: 0.96
     containment_time_min: 17.1
-    
+
   exfiltration:
     strain_prefix: "CAMO"
     variants: 142
     detection_rate: 1.00
     containment_time_min: 12.4
-    
+
   polymorphic:
     strain_prefix: "POLY"
     variants: 206
@@ -50,7 +50,7 @@ velocity:
   update_interval_sec: 300
   fastest_strain: "CAMO-001"
   fastest_velocity: 0.24  # per day
-  
+
 # Pattern Signatures
 signature_detection:
   enabled: true
@@ -59,7 +59,7 @@ signature_detection:
     - "structural"
     - "temporal"
     - "cascade"
-  
+
 # IOC Integration
 ioc_tracking:
   enabled: true
@@ -68,7 +68,7 @@ ioc_tracking:
     - "network_indicator"
     - "behavioral_pattern"
     - "memory_signature"
-  
+
 # Detection Rules
 detection_rules:
   auto_generation: true
@@ -77,7 +77,7 @@ detection_rules:
     - "behavioral_based"
     - "anomaly_based"
     - "ml_based"
-  
+
 # Containment Strategy
 containment:
   strategy_mapping:
@@ -86,7 +86,7 @@ containment:
     entropic: "cascade_prevention"
     exfiltration: "data_flow_blocking"
     polymorphic: "pattern_neutralization"
-    
+
 # VictoryShade Validation
 victoryshade:
   combat_duration_days: 90
@@ -95,7 +95,7 @@ victoryshade:
   overall_detection_rate: 0.97
   overall_containment_time_min: 15.0
   false_negatives: 36
-  
+
 # Database Schema
 database_tables:
   codex_correlations:
@@ -112,7 +112,7 @@ database_tables:
     indexes:
       - threat_strain
       - cvss_score
-      
+
   threat_detections:
     fields:
       - detection_id

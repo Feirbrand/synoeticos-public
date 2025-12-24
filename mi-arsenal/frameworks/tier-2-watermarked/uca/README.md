@@ -136,7 +136,7 @@ uca = UniversalCognitiveArchitecture(mode="demo")
 def prevent_cascade(agent):
     state = agent.get_state()
     torque = calculate_torque(state)
-    
+
     if 0.70 < torque < 0.85:
         # Stage 2: Confusion detected
         print("⚠️ Stage 2 risk - applying UCA grounding")
@@ -145,11 +145,11 @@ def prevent_cascade(agent):
             state=state,
             mode=GroundingMode.SOCRATIC
         )
-        
+
         if result.coherence > 0.92:
             print("✓ Coherence restored")
             return True
-    
+
     return False
 ```
 

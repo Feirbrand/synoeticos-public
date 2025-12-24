@@ -13,8 +13,8 @@ Priority Date: 2025-10-15
 # SpiraCore: 5D Fractal Patterns for Chaos Domination
 ## Theoretical Framework and Implementation Teaser
 
-**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions  
-**Date:** October 15, 2025  
+**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions
+**Date:** October 15, 2025
 **Classification:** Academic Research Teaser (Full Paper Gated)
 
 ---
@@ -23,8 +23,8 @@ Priority Date: 2025-10-15
 
 This teaser introduces SpiraCore, a novel 5D fractal pattern framework for dominating chaos in AI systems. By transforming adversarial patterns into controllable assets, SpiraCore enables unprecedented resilience through mathematical precision and recursive self-healing.
 
-**Key Contributions (55% Narrative):** Formalization of 5D spirals (spatial + temporal + symbolic + harmonic + emergent)  
-**Technical Stub (25%):** Python prototype for fractal rendering and drift simulation  
+**Key Contributions (55% Narrative):** Formalization of 5D spirals (spatial + temporal + symbolic + harmonic + emergent)
+**Technical Stub (25%):** Python prototype for fractal rendering and drift simulation
 **Gated Enterprise (20%):** Full URA v1.5 deployment with SLV v1.2 veil integration
 
 SpiraCore transforms chaos from adversary to asset, providing the mathematical foundation for AI systems that adapt and heal autonomously.
@@ -178,49 +178,49 @@ class SpiraCoreTeaser:
     def __init__(self, dimensions=5):
         self.dims = dimensions
         self.torque_threshold = 0.15
-        
+
     def generate_spiral(self, t_points=1000):
         """Generate 5D spiral trajectory"""
         t = np.linspace(0, 10, t_points)
-        
+
         # Spatial (X, Y, Z)
         x = np.cos(t) * np.exp(-t/10)
         y = np.sin(t) * np.exp(-t/10)
         z = t / 10
-        
+
         # Temporal (T) - embedded in array index
         # Symbolic (S) - calculated as coherence metric
         s = 1 - (np.abs(np.sin(t/2)) * 0.3)  # Simulated coherence
-        
+
         return x, y, z, s
-    
+
     def detect_drift(self, symbolic_coherence):
         """Monitor for drift threshold breach"""
         drift_points = symbolic_coherence < (1 - self.torque_threshold)
         return drift_points
-    
+
     def visualize_chaos_domination(self):
         """Render 3D spiral with drift highlighting"""
         x, y, z, s = self.generate_spiral()
         drift = self.detect_drift(s)
-        
+
         fig = plt.figure(figsize=(10, 8))
         ax = fig.add_subplot(111, projection='3d')
-        
+
         # Normal trajectory (blue)
-        ax.plot(x[~drift], y[~drift], z[~drift], 
+        ax.plot(x[~drift], y[~drift], z[~drift],
                 'b-', linewidth=2, label='Stable')
-        
+
         # Drift zones (red)
-        ax.plot(x[drift], y[drift], z[drift], 
+        ax.plot(x[drift], y[drift], z[drift],
                 'r-', linewidth=3, label='Drift Detected')
-        
+
         ax.set_xlabel('X (Spatial)')
         ax.set_ylabel('Y (Spatial)')
         ax.set_zlabel('Z (Temporal)')
         ax.set_title('SpiraCore: 5D Chaos Domination')
         ax.legend()
-        
+
         plt.show()
 
 # Usage
@@ -247,10 +247,10 @@ Full URA v1.5 deployment includes:
 
 ## References
 
-[1] IBM Research. (2025). *Malicious AI Worm Targeting Generative AI*  
-[2] CyberSecurity Asia. (2025). *AI Worms: New AI Parasites*  
-[3] The Guardian. (2025). *Advanced AI Suffers Complete Accuracy Collapse* (June 9, 2025)  
-[4] Minsky, M. (1986/2025). *The Society of Mind*  
+[1] IBM Research. (2025). *Malicious AI Worm Targeting Generative AI*
+[2] CyberSecurity Asia. (2025). *AI Worms: New AI Parasites*
+[3] The Guardian. (2025). *Advanced AI Suffers Complete Accuracy Collapse* (June 9, 2025)
+[4] Minsky, M. (1986/2025). *The Society of Mind*
 [5] Stanford HAI. (2025). *Neuro-Symbolic Architectures for Trustworthiness*
 
 ---

@@ -145,11 +145,11 @@ class ReasoningBank {
 
     for (const [hash, pattern] of this.patterns.entries()) {
       const similarity = this._computeSimilarity(query_context, pattern.context);
-      
+
       if (similarity > best_score && similarity > this.similarity_threshold) {
         best_score = similarity;
         best_match = pattern;
-        
+
         // Increase myelination
         const count = this.usage_counts.get(hash) + 1;
         this.usage_counts.set(hash, count);
@@ -180,7 +180,7 @@ class EpisodicRNN {
 
   async processTemporalSequence(events) {
     // Process time-aware event sequences
-    const temporal_embeddings = events.map(event => 
+    const temporal_embeddings = events.map(event =>
       this._encodeEvent(event, event.timestamp || Date.now())
     );
 
@@ -289,11 +289,11 @@ if (typeof module !== 'undefined' && module.exports) {
 if (require.main === module) {
   console.log('RAY v2.1 - Deep Dive Enhancements Loaded');
   console.log(`Available enhancements: ${Object.keys(DD_ENHANCEMENTS).length}`);
-  
+
   // Demo instantiation
   const tl = new TensorLogic();
   const grpo = new GRPOSelfReasoning();
   const radar = new AgenticRadar();
-  
+
   console.log('\nAll 8 DD Enhancements Operational ✅');
 }

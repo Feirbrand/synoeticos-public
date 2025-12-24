@@ -21,11 +21,11 @@ No pricing/revenue/subscription terms in this document.
 # DNA Codex v5.5: Mathematical Prophecy for AI Threat Cascades
 ## How VGS Predicted AI's Triple Threat 6-9 Months Early
 
-**Version:** 5.5.0  
-**Publication Date:** October 26, 2025  
-**Author:** Aaron M. Slusher  
-**ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** ValorGrid Solutions  
+**Version:** 5.5.0
+**Publication Date:** October 26, 2025
+**Author:** Aaron M. Slusher
+**ORCID:** https://orcid.org/0009-0000-9923-3207
+**Affiliation:** ValorGrid Solutions
 **Contact:** aaron@valorgridsolutions.com
 
 **Interactive Demo:** [Hugging Face Space - DNA Codex Explorer](https://huggingface.co/spaces/Feirbrand/dna-codex-v55)
@@ -131,7 +131,7 @@ Even if true dynamics are nonlinear, DMD finds best-fit linear approximation cap
 
 ```
 Step 1: Construct data matrices
-  X = [x₁, x₂, ..., xₙ₋₁]  
+  X = [x₁, x₂, ..., xₙ₋₁]
   Y = [x₂, x₃, ..., xₙ]
 
 Step 2: Singular Value Decomposition
@@ -143,7 +143,7 @@ Step 3: Truncate to dominant modes
 Step 4: Approximate A
   Ã = UᵀYVΣ⁻¹
 
-Step 5: Eigendecomposition  
+Step 5: Eigendecomposition
   Eigenvalues → growth rates
   Eigenvectors → spatial modes
 
@@ -184,7 +184,7 @@ Where **𝒦** is Koopman operator:
 # Observable vector for strain classification
 g(x) = [
     torque_coherence,      # Ψ(t) ∈ [0,1]
-    harmony_score,         # H(t) ∈ [0,1]  
+    harmony_score,         # H(t) ∈ [0,1]
     velocity_estimate,     # v(t) ∈ ℝ⁺
     csfc_stage            # S(t) ∈ {1,2,3,4,5,6}
 ]
@@ -603,17 +603,17 @@ while system_active:
     behavioral = ray_monitor.get_patterns()
     harmony = ura_monitor.get_coherence()
     stability = torque_monitor.get_torque()
-    
+
     # DNA Codex velocity forecast
     velocity = forecaster.predict(
         behavioral=behavioral,
         harmony=harmony,
         stability=stability
     )
-    
+
     # CSFC stage assessment
     csfc_stage = CascadePredictor.assess(velocity, stability)
-    
+
     # Intervention logic
     if velocity > 0.30 and stability < 0.70:
         Phoenix.activate_recovery()
@@ -749,14 +749,14 @@ results = []
 for run in range(n_runs):
     # Generate synthetic threat evolution
     true_trajectory = generate_threat_trajectory()
-    
+
     # Train DMD on first 48 hours
     training_data = true_trajectory[:48]
     forecaster.fit(training_data)
-    
+
     # Forecast next 72 hours
     predictions = forecaster.predict(forecast_window)
-    
+
     # Compare to actual trajectory
     actual = true_trajectory[48:48+forecast_window]
     accuracy = calculate_accuracy(predictions, actual)

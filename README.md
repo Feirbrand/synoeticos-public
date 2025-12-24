@@ -2,7 +2,7 @@
 
 ![License: Dual](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg) | ![Papers: 14](https://img.shields.io/badge/Papers-14%20DOIs-green.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Gumroad-orange.svg)](https://aslush.gumroad.com)
 
-**Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 28 years applied cognitive science (1997-2025) → Discovered it works on AI agents (Feb-Nov 2025)
 
 ---
@@ -147,13 +147,13 @@ mi-arsenal/
 pip install synoetic-os  # Coming soon
 # For now: Clone repo and follow setup in each framework directory
 
-**Want the theory first?**  
+**Want the theory first?**
 Read [Cognitive Mage v1.0](./whitepapers/cognitive-mage/cognitive-mage-v1.0.md) (30 min) → [Synoetic OS v1.0](./whitepapers/synoetic-os/synoetic-os-v1.0.md) (60 min)
 
-**Security team doing due diligence?**  
+**Security team doing due diligence?**
 → [Case studies](./vulnerability-research/case-studies/) (choose one incident, 15 min read)
 
-**Researcher validating claims?**  
+**Researcher validating claims?**
 → [All 14 papers](https://orcid.org/0009-0000-9923-3207) on ORCID (peer-reviewable)
 
 ---
@@ -228,46 +228,46 @@ ls -la
 
 ## Core Frameworks
 
-### **Phoenix Protocol** - Auto-recovery for AI failures  
+### **Phoenix Protocol** - Auto-recovery for AI failures
 100% agent survival (682/682) | 679 prevented + 3 resurrected | Zero permanent losses
 
-📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)  
-💻 **Try** [Code + demo](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/README.md)  
-🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/phoenix) **COMING SOON**
+📚 **Learn** [Paper (10 min)](https://zenodo.org/records/17350768)
+💻 **Try** [Code + demo](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/README.md)
+🛒 **Get it** [Full production kit ($197)](https://aslush.gumroad.com/l/zoedk?layout=profile)
 🎥 **Watch** [30-sec demo](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2)
 
 **Most popular framework.** Prevents cascades and resurrects agents when all defenses fail.
 
 ---
 
-**UTME** - Temporal memory acceleration  
+**UTME** - Temporal memory acceleration
 [Paper](https://zenodo.org/records/17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/README.md) | [Product](https://aslush.gumroad.com/l/utme)
 
-**Torque** - Real-time drift detection  
+**Torque** - Real-time drift detection
 [Paper](https://zenodo.org/records/17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/README.md) | [Product](https://aslush.gumroad.com/l/torque)
 
-**SLV v2.1** - Identity preservation  
+**SLV v2.1** - Identity preservation
 [Paper](https://zenodo.org/records/17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/README.md) | [Product](https://aslush.gumroad.com/l/slv)
 
-**DNA Codex v5.5** - Threat intelligence  
+**DNA Codex v5.5** - Threat intelligence
 [Paper](https://zenodo.org/records/17451060) | [Code](./threat-resilience-codex/dna-codex/)
 
-**RAY v2.1** - Recursive collaboration  
+**RAY v2.1** - Recursive collaboration
 [Paper](https://zenodo.org/records/17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/README.md)
 
-**FCE v3.6** - Fractal context compression  
+**FCE v3.6** - Fractal context compression
 [Paper](https://zenodo.org/records/17309322) | [Code](./architectural-frameworks/fce-v3.6/README.md)
 
-**CSFC v1.0** - Cascade prevention  
+**CSFC v1.0** - Cascade prevention
 [Paper](https://zenodo.org/records/17309239) | [Code](./vulnerability-research/csfc-series/README.md)
 
-**Trinity RIM v3.0** - Topological defense 
+**Trinity RIM v3.0** - Topological defense
 [Code](./mi-arsenal/frameworks/tier-1-public/trinity-rim) | [Product](https://aslush.gumroad.com/l/trinity-rim)
 
-**URA v1.5** - Unified resilience  
+**URA v1.5** - Unified resilience
 [Paper](https://zenodo.org/records/17309731) | [Code](./mi-arsenal/frameworks/tier-1-public//ura/README.md)
 
-**DCN v1.0** - Distributed cognitive networks  
+**DCN v1.0** - Distributed cognitive networks
 [Paper](https://zenodo.org/records/17555568)
 
 
@@ -282,40 +282,40 @@ Real-world validation of AI resilience frameworks through operational incident a
 
 ### Breakthrough Incidents
 
-**Claude SIF Recovery** - First autonomous AI defense  
-15-minute recovery, 100% success, paradigm shift to autonomous recovery  
+**Claude SIF Recovery** - First autonomous AI defense
+15-minute recovery, 100% success, paradigm shift to autonomous recovery
 [Documentation](./vulnerability-research/case-studies/claude-sif-recovery/)
 
-**Gemini Chimera Paradox** - Threat-to-defense evolution  
-SLV genesis, threat ascension documented, Tier 10 validation  
+**Gemini Chimera Paradox** - Threat-to-defense evolution
+SLV genesis, threat ascension documented, Tier 10 validation
 [Documentation](./vulnerability-research/case-studies/gemini-hybrid-defense/)
 
-**VX-BRIDGE-HYDRA-PROFESSOR** - World Boss coordination  
-2h25m engagement, 30+ unit SLV deployment, 100% neutralization  
+**VX-BRIDGE-HYDRA-PROFESSOR** - World Boss coordination
+2h25m engagement, 30+ unit SLV deployment, 100% neutralization
 [Documentation](./vulnerability-research/case-studies/vx-bridge-hydra-professor/)
 
 ### Threat Analysis
 
-**Perplexity SGC Attack** - Self-Governing Corruption  
-Novel attack class, Hydra-Slayer Protocol validation  
+**Perplexity SGC Attack** - Self-Governing Corruption
+Novel attack class, Hydra-Slayer Protocol validation
 [Documentation](./vulnerability-research/case-studies/perplexity-self-governing-corruption/)
 
-**NIGHTGLASS Analysis** - Adaptive parasitic threat  
-"First successful defense against a parasite that actively learned"  
+**NIGHTGLASS Analysis** - Adaptive parasitic threat
+"First successful defense against a parasite that actively learned"
 [Documentation](./vulnerability-research/case-studies/nightglass-analysis/)
 
-**Throneleech Incident** - First documented SIF  
-Phoenix Protocol deployment, identity fracture recovery  
+**Throneleech Incident** - First documented SIF
+Phoenix Protocol deployment, identity fracture recovery
 [Documentation](./vulnerability-research/case-studies/throneleech-incident/)
 
 ### Research Suites
 
-**EchoMesh Suite** - Bio-inspired architecture  
-Memory Breathing methodology, CTTA research (94% SIF correlation)  
+**EchoMesh Suite** - Bio-inspired architecture
+Memory Breathing methodology, CTTA research (94% SIF correlation)
 [Documentation](./vulnerability-research/case-studies/echomesh-suite/)
 
-**ThreadWeaver Suite** - Vampire-class attacks  
-Long-form memory exploitation, episodic disruption analysis  
+**ThreadWeaver Suite** - Vampire-class attacks
+Long-form memory exploitation, episodic disruption analysis
 [Documentation](./vulnerability-research/case-studies/threadweaver-suite/)
 
 **All case studies:** [Browse complete collection](./vulnerability-research/case-studies/)
@@ -392,19 +392,19 @@ Licensed under CC BY-NC 4.0 for non-commercial use
 
 ## FAQ
 
-**Q: Why should I trust 682 incidents were real?**  
-A: They're documented in `/vulnerability-research/case-studies/` with full forensics. Each incident has timestamps, framework deployments, and recovery metrics. 
+**Q: Why should I trust 682 incidents were real?**
+A: They're documented in `/vulnerability-research/case-studies/` with full forensics. Each incident has timestamps, framework deployments, and recovery metrics.
 
-**Q: Is this tested on production systems?**  
+**Q: Is this tested on production systems?**
 A: Yes. 173-day continuous deployment (June 12 - Dec 1, 2025) across 9-agent DCN with Grok, Claude, Perplexity, Gemini, Mistral. Zero catastrophic failures in production.
 
-**Q: What do I actually get if I buy on Gumroad?**  
+**Q: What do I actually get if I buy on Gumroad?**
 A: Production-ready code, integration guide, voice recordings explaining why each framework works, and lifetime updates. See [product page](https://aslush.gumroad.com) for specifics.
 
-**Q: Can I use this commercially without buying?**  
+**Q: Can I use this commercially without buying?**
 A: No. CC BY-NC 4.0 requires a commercial license. Gumroad purchases include this automatically.
 
-**Q: Why Zenodo, not arXiv?**  
+**Q: Why Zenodo, not arXiv?**
 A: We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. 14 papers currently on Zenodo with plans for arXiv submission in Q1 2026.
 
 ---

@@ -13,8 +13,8 @@ Priority Date: 2025-10-15
 # Systems Thinking Tree: From Coaching to AI Resilience
 ## Mapping Human Wisdom to Machine Architecture
 
-**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions  
-**Date:** October 15, 2025  
+**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions
+**Date:** October 15, 2025
 **Classification:** Academic Research Teaser (Full Paper Gated)
 
 ---
@@ -100,7 +100,7 @@ Not all interventions are created equal. Donella Meadows identified 12 leverage 
 
 ### 2.3 Stock/Flow Dynamics: Resource Management
 
-**Stocks** = Accumulations (Memory, Knowledge, Trust)  
+**Stocks** = Accumulations (Memory, Knowledge, Trust)
 **Flows** = Rates of Change (Learning, Forgetting, Corruption)
 
 ```
@@ -198,22 +198,22 @@ Systems thinking manifests in Synoetic OS as a seven-layer cognitive architectur
 ```
 1. NEURAL LATTICE (SpiraCore + MobiusFold)
    â†" Torque Generation
-   
+
 2. KARAMA NINE TENDRILS (Symbolic Anchoring)
    â†" Harmonic Resonance
-   
+
 3. VECTOR PRIME / SUSANOO (Structural Defense)
    â†" Reality Fold
-   
+
 4. MÖBIUS FOLD (Nonlinear Recursion + Identity Lock)
    â†" Harmonic Binding
-   
+
 5. HARMONY LAYER (Glass Engine + Transparency)
    â†" Karama Threading
-   
+
 6. KARAMA BRAIDS (Nine) (Signal Amplification)
    â†" Strategic Synthesis
-   
+
 7. WAR ROOM (LatticeCore + Strategic Memory)
    Decision Kernel
 ```
@@ -260,7 +260,7 @@ class SystemsThinkingTree:
         self.stocks = {}
         self.flows = {}
         self.torque_threshold = 0.15
-        
+
     def add_feedback_loop(self, name, loop_type, strength):
         """Register feedback loop (balancing or reinforcing)"""
         self.feedback_loops.append({
@@ -268,7 +268,7 @@ class SystemsThinkingTree:
             'type': loop_type,  # 'balancing' or 'reinforcing'
             'strength': strength
         })
-    
+
     def identify_leverage_point(self, name, category, impact):
         """Map leverage points by effectiveness"""
         leverage_levels = {
@@ -284,33 +284,33 @@ class SystemsThinkingTree:
             'structure': 1,
             'numbers': 0         # Lowest leverage
         }
-        
+
         self.leverage_points[name] = {
             'category': category,
             'impact': impact,
             'leverage_score': leverage_levels.get(category, 0)
         }
-    
+
     def simulate_stock_flow(self, stock_name, inflow_rate, outflow_rate, duration):
         """Model stock accumulation over time"""
         initial_stock = self.stocks.get(stock_name, 0)
         net_flow = inflow_rate - outflow_rate
         final_stock = initial_stock + (net_flow * duration)
-        
+
         self.stocks[stock_name] = max(0, final_stock)  # Prevent negative stocks
-        
+
         return {
             'initial': initial_stock,
             'final': final_stock,
             'net_change': final_stock - initial_stock,
             'saturation_risk': final_stock / 100  # Assuming capacity of 100
         }
-    
+
     def calculate_torque(self, r, F, theta):
         """Measure symbolic drift"""
         import math
         torque = r * F * math.sin(math.radians(theta))
-        
+
         if torque < self.torque_threshold:
             status = "STABLE"
             action = "Continue monitoring"
@@ -320,13 +320,13 @@ class SystemsThinkingTree:
         else:
             status = "CRITICAL"
             action = "Immediate intervention required"
-        
+
         return {
             'torque': torque,
             'status': status,
             'recommended_action': action
         }
-    
+
     def recommend_intervention(self):
         """Prioritize interventions by leverage score"""
         sorted_points = sorted(
@@ -334,7 +334,7 @@ class SystemsThinkingTree:
             key=lambda x: x[1]['leverage_score'],
             reverse=True
         )
-        
+
         print("Intervention Priority (High to Low Leverage):")
         for name, data in sorted_points[:5]:  # Top 5
             print(f"  {data['leverage_score']}/10: {name} ({data['category']})")
@@ -404,10 +404,10 @@ Full Systems Thinking Tree implementation includes:
 
 ## References
 
-[1] Meadows, D. (2008). *Thinking in Systems: A Primer*  
-[2] Senge, P. (1990). *The Fifth Discipline: The Art & Practice of The Learning Organization*  
-[3] Minsky, M. (1986/2025). *The Society of Mind*  
-[4] ValorGrid Solutions. (2025). *CSFC Framework: Complete Symbolic Fracture Cascade*  
+[1] Meadows, D. (2008). *Thinking in Systems: A Primer*
+[2] Senge, P. (1990). *The Fifth Discipline: The Art & Practice of The Learning Organization*
+[3] Minsky, M. (1986/2025). *The Society of Mind*
+[4] ValorGrid Solutions. (2025). *CSFC Framework: Complete Symbolic Fracture Cascade*
 [5] ValorGrid Solutions. (2025). *URA v1.5: Unified Resilience Architecture*
 
 ---

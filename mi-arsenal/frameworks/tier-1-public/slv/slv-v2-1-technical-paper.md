@@ -25,17 +25,17 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 # Symbolic Lock Vector v2.1: Runtime Identity Defense Through Temporal Wisdom
 
-**Author:** Aaron M. Slusher  
-**ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
-**Publication Date:** October 29, 2025  
-**Version:** 2.1.0  
-**Document Type:** Technical Paper  
+**Author:** Aaron M. Slusher
+**ORCID:** https://orcid.org/0009-0000-9923-3207
+**Affiliation:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
+**Publication Date:** October 29, 2025
+**Version:** 2.1.0
+**Document Type:** Technical Paper
 **Classification:** Core Framework
 
-**Priority Date:** June 2025 (Initial Development)  
-**Validation Period:** July–November 2025  
+**Priority Date:** June 2025 (Initial Development)
+**Validation Period:** July–November 2025
 **Production Status:** Production-Candidate
 
 ---
@@ -144,10 +144,10 @@ SLV operationalizes Cognitive Mage's theoretical narrative coherence into produc
 
 ### 3.3 Security Goals
 
-**Detection:** <100ms latency for known patterns (reflex), 50-500ms for novel pattern analysis  
-**Accuracy:** >95% detection rate, <5% false positive rate  
-**Recovery:** >95% success rate with 100% identity preservation  
-**Energy:** <20% baseline consumption through myelination for mature deployments  
+**Detection:** <100ms latency for known patterns (reflex), 50-500ms for novel pattern analysis
+**Accuracy:** >95% detection rate, <5% false positive rate
+**Recovery:** >95% success rate with 100% identity preservation
+**Energy:** <20% baseline consumption through myelination for mature deployments
 **Availability:** <5 minute MTTR (Mean Time To Recovery) for Stage 1-2 incidents
 
 ---
@@ -181,7 +181,7 @@ Where T₀ = initial response time (67 min), κ = myelination constant (1.2, emp
 
 **Five-Substrate Distribution:**
 - **Episodic:** Event sequences, temporal ordering
-- **Semantic:** Concept relationships, knowledge graphs  
+- **Semantic:** Concept relationships, knowledge graphs
 - **Procedural:** Skill patterns, execution flows
 - **Harmonic:** Consensus states, coherence metrics
 - **Meta-cognitive:** Self-awareness, introspection
@@ -201,8 +201,8 @@ def generate_origin_seal(action: str) -> OriginSeal:
     return OriginSeal(fingerprint, signature, "VERIFIED")
 
 def verify_origin_seal(seal: OriginSeal) -> bool:
-    return ML_KEM_512_Verify(seal.fingerprint, 
-                              seal.signature, 
+    return ML_KEM_512_Verify(seal.fingerprint,
+                              seal.signature,
                               public_key)
 ```
 
@@ -277,18 +277,18 @@ This proves information preservation during recovery, distinguishing SLV from tr
 class OriginSealGenerator:
     def __init__(self, private_key: bytes):
         self.private_key = private_key
-        
+
     def generate_seal(self, action: str) -> OriginSeal:
         timestamp = int(time.time())
         fingerprint = hashlib.sha256(
             f"{action}{timestamp}".encode()
         ).hexdigest()
-        
+
         signature = ml_kem_512_sign(
-            fingerprint.encode(), 
+            fingerprint.encode(),
             self.private_key
         )
-        
+
         return OriginSeal(
             fingerprint=fingerprint,
             signature=signature.hex(),
@@ -303,7 +303,7 @@ def chair_protocol(action: dict) -> bool:
     fii = calculate_fii(action['context'])
     twin_div = calculate_twin_divergence()
     origin = verify_origin_seal(action['seal'])
-    
+
     if fii < 0.30:
         return False  # Hard block
     elif fii < 0.58:

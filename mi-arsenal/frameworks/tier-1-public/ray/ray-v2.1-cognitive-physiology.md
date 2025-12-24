@@ -12,12 +12,12 @@ Priority Date: 2025-10-17
 
 # RAY Framework v2.1: Recursive Adaptive Yield with DD Enhancements - Antifragile Cognitive Physiology for Distributed AI Defense
 
-**Author:** Aaron Slusher, Edgewalker Cognitive Architect  
-**Affiliation:** ValorGrid Solutions  
-**Contact:** aaron@valorgridsolutions.com  
-**Publication Date:** October 17, 2025  
-**Document Type:** Academic Research Paper  
-**Classification:** Core Framework Architecture with DD Enhancements  
+**Author:** Aaron Slusher, Edgewalker Cognitive Architect
+**Affiliation:** ValorGrid Solutions
+**Contact:** aaron@valorgridsolutions.com
+**Publication Date:** October 17, 2025
+**Document Type:** Academic Research Paper
+**Classification:** Core Framework Architecture with DD Enhancements
 **Keywords:** antifragile systems, cognitive physiology, recursive resilience, AI defense, distributed AI, threat intelligence, DNA Codex, living recursion loop, DD enhancements, Tensor Logic, GRPO, Agentic-Radar, Markovian-Thinker
 
 ---
@@ -74,7 +74,7 @@ RAY v2.1 addresses all 8 gaps through systematic DD enhancement integration whil
 
 **Core DD Philosophy:** Don't just defend against known attacks—**evolve defensive capabilities autonomously** through:
 - Self-reasoning without manual labeling (GRPO)
-- Pattern memory accumulation (ReasoningBank)  
+- Pattern memory accumulation (ReasoningBank)
 - Multi-modal threat detection (Tensor Logic + symbolic)
 - Real-time vulnerability scanning (Agentic-Radar)
 - Linear-scaling long-context analysis (Markovian-Thinker)
@@ -324,17 +324,17 @@ async validate(input) {
   if (camo_result.nested_depth > 3 || camo_result.entropy > 2.5) {
     return VALIDATION_REJECTED;
   }
-  
+
   // Stage 2: GRPO self-reasoning
   const completions = await this.grpoOptimize(input, 8);
   const best = this.selectByRelativeReward(completions);
-  
+
   // Stage 3: Agentic-Radar OWASP
   const radar_scan = await this.agenticRadarScan(input);
   if (radar_scan.risk_score > 0.85) {
     return VALIDATION_REJECTED;
   }
-  
+
   // Stage 4: CodexHeat + original validation
   // ...existing v2.0 logic...
 }
@@ -371,7 +371,7 @@ async storeSuccessPattern(pattern, outcome) {
     similarity_vector: this.embed(pattern),
     timestamp: Date.now()
   });
-  
+
   // Retrieve similar patterns for future use
   // Autonomous learning without manual updates
 }
@@ -792,10 +792,10 @@ ValorGrid Solutions specializes in AI resilience frameworks, cognitive security 
 - Recursive Adaptive Yield (RAY) v2.1 with DD Enhancements
 - DNA Codex v5.4 (525+ Threat Strains)
 
-**Website:** valorgridsolutions.com  
-**Email:** aaron@valorgridsolutions.com  
-**GitHub:** github.com/Feirbrand/Synoetic OS-public  
-**Hugging Face:** huggingface.co/Feirbrand  
+**Website:** valorgridsolutions.com
+**Email:** aaron@valorgridsolutions.com
+**GitHub:** github.com/Feirbrand/Synoetic OS-public
+**Hugging Face:** huggingface.co/Feirbrand
 **Zenodo:** zenodo.org/communities/Synoetic OS
 
 ---

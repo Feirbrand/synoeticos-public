@@ -160,14 +160,14 @@ if cascade_detected:
         sort_by="fii_score",
         limit=5
     )
-    
+
     # Phoenix restoration
     result = phoenix.recover(
         agent_id=agent_id,
         anchor=anchors[0],
         recovery_mode="full"
     )
-    
+
     if result.success:
         # RTO: <18 minutes achieved
         print(f"Recovered in {result.duration_minutes}m")

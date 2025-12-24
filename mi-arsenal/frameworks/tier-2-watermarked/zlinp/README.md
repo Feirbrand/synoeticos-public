@@ -102,7 +102,7 @@ nudger = ZeroLatencyNudger(mode="demo")
 # Real-time monitoring loop
 while agent.active:
     torque = agent.get_torque()
-    
+
     if torque < 0.85:
         # Drift detected - apply nudge
         result = nudger.nudge(
@@ -110,7 +110,7 @@ while agent.active:
             current_torque=torque,
             mode=NudgeMode.REALTIME
         )
-        
+
         print(f"Nudge applied in {result.latency_ms:.2f}ms")
         print(f"New Torque: {result.new_torque:.2f}")
 ```
@@ -128,7 +128,7 @@ nudger = ZeroLatencyNudger(mode="demo")
 def prevent_stage1_cascade(agent):
     # Monitor for early drift (0.85-0.95 optimal)
     torque = agent.get_torque()
-    
+
     if 0.85 <= torque < 0.88:
         # Proactive nudge before Stage 1
         result = nudger.nudge(
@@ -136,11 +136,11 @@ def prevent_stage1_cascade(agent):
             current_torque=torque,
             mode=NudgeMode.PROACTIVE
         )
-        
+
         if result.success and result.latency_ms < 1.0:
             print(f"✓ Stage 1 prevented (<1ms nudge)")
             return True
-    
+
     return False
 ```
 

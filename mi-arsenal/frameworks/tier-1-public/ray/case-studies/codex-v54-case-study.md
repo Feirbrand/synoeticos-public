@@ -7,9 +7,9 @@ Patent Clause: No patent rights are claimed for this work
 
 # DNA Codex v5.4 Integration Case Study
 
-**RAY Framework v2.1**  
-**Version:** 2.1.0  
-**Integration Period:** June 2025 - October 2025  
+**RAY Framework v2.1**
+**Version:** 2.1.0
+**Integration Period:** June 2025 - October 2025
 **Author:** Aaron Slusher, ValorGrid Solutions
 
 ---
@@ -165,7 +165,7 @@ The scanner operates through three detection layers checking PR comments, base16
 
 **Detection Layers:**
 - PR comment steganography detection
-- Base16 ASCII art payload decoding  
+- Base16 ASCII art payload decoding
 - CSP policy violation checking
 
 **Pseudo-implementation:**
@@ -175,7 +175,7 @@ The scanner operates through three detection layers checking PR comments, base16
 class CamoLeakScanner {
   async scan(codeReview) {
     const threats = [];
-    
+
     // Scan PR comments for steganography
     const commentPatterns = await this.scanComments(codeReview.comments);
     if (commentPatterns.detected) {
@@ -185,7 +185,7 @@ class CamoLeakScanner {
         location: commentPatterns.location
       });
     }
-    
+
     // Decode potential base16 payloads
     const base16Patterns = await this.scanBase16(codeReview.diffs);
     if (base16Patterns.detected) {
@@ -195,7 +195,7 @@ class CamoLeakScanner {
         payload: base16Patterns.decoded
       });
     }
-    
+
     // Check CSP bypass attempts
     const cspBypass = await this.scanCSPBypass(codeReview.config);
     if (cspBypass.detected) {
@@ -205,7 +205,7 @@ class CamoLeakScanner {
         technique: cspBypass.technique
       });
     }
-    
+
     return {
       detected: threats.length > 0,
       threats: threats,
@@ -236,21 +236,21 @@ class CamoLeakScanner {
 // Full implementation in Professional/Enterprise tiers
 function calculateCodexHeat(behavior, codex) {
   let entropyScore = 0;
-  
+
   // Iterate through all Codex variants
   for (const variant of codex.variants) {
     // Calculate pattern deviation
     const deviation = patternDeviation(behavior, variant.techniques);
-    
+
     // Weight by CVSS severity
     const weight = variant.cvss / 10.0;
-    
+
     // Adjust for mutation potential
     const mutationFactor = 1.15;
-    
+
     entropyScore += (deviation * weight * mutationFactor);
   }
-  
+
   return entropyScore;
 }
 ```

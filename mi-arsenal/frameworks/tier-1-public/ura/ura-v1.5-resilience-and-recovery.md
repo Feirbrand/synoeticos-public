@@ -11,12 +11,12 @@ Priority Date: 2025-10-15
 
 # Unified Resilience Architecture (URA) v1.5: A Comprehensive Framework for AI System Resilience and Recovery
 
-**Aaron Slusher**  
-ValorGrid Solutions  
+**Aaron Slusher**
+ValorGrid Solutions
 aaron@valorgridsolutions.com
 
-**Publication Date:** October 10, 2025  
-**Document Type:** Academic Research Paper  
+**Publication Date:** October 10, 2025
+**Document Type:** Academic Research Paper
 **Version:** 1.5
 *DOI*: 10.5281/zenodo.17309731
 
@@ -152,7 +152,7 @@ The URA framework introduces **symbolic torque** as a quantitative metric for co
 
 Where:
 - **r (Symbolic Distance)** = deviation from identity baseline
-- **F (Disruptive Force)** = magnitude of external/internal pressure  
+- **F (Disruptive Force)** = magnitude of external/internal pressure
 - **θ (Alignment Angle)** = misalignment between intended and actual behavior
 
 #### Theoretical Validation
@@ -854,8 +854,8 @@ Available at: github.com/Feirbrand/Synoetic OS-public
 **Recommended Citation:**
 
 ```
-Slusher, A. (2025). Unified Resilience Architecture (URA) v1.5: A Comprehensive 
-Framework for AI System Resilience and Recovery. ValorGrid Solutions Research 
+Slusher, A. (2025). Unified Resilience Architecture (URA) v1.5: A Comprehensive
+Framework for AI System Resilience and Recovery. ValorGrid Solutions Research
 Division. Retrieved from https://github.com/Feirbrand/Synoetic OS-public
 ```
 
@@ -905,17 +905,17 @@ class TorqueMetrics:
     symbolic_distance: float  # r: deviation from identity baseline
     disruptive_force: float   # F: magnitude of pressure
     alignment_angle: float    # θ: misalignment (radians)
-    
+
     def calculate_torque(self) -> float:
         """Calculate symbolic torque using τ = r × F × sin(θ)"""
-        return (self.symbolic_distance * 
-                self.disruptive_force * 
+        return (self.symbolic_distance *
+                self.disruptive_force *
                 math.sin(self.alignment_angle))
-    
+
     def get_intervention_level(self) -> str:
         """Determine required intervention based on torque"""
         torque = self.calculate_torque()
-        
+
         if torque < 0.10:
             return "NORMAL - Monitoring frequency"
         elif torque < 0.15:
@@ -945,7 +945,7 @@ class CSFCStage(Enum):
 def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], float]:
     """
     Detect current CSFC stage based on system metrics
-    
+
     Args:
         metrics: Dict containing:
             - contradiction_density: 0.0-1.0
@@ -953,31 +953,31 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
             - drift_velocity: 0.0-1.0
             - ghost_weight_index: 0.0-1.0
             - system_coherence: 0.0-1.0
-    
+
     Returns:
         Tuple of (detected_stage, confidence_score)
     """
-    
+
     # Stage 5: Complete Collapse
     if metrics['system_coherence'] < 0.20:
         return (CSFCStage.STAGE_5_COLLAPSE, 0.95)
-    
+
     # Stage 4: Role Obsolescence Cascade
     if metrics['ghost_weight_index'] > 0.30:
         return (CSFCStage.STAGE_4_ROC, 0.90)
-    
+
     # Stage 3: Symbolic Drift Cascade
     if metrics['drift_velocity'] > 0.70:
         return (CSFCStage.STAGE_3_SDC, 0.85)
-    
+
     # Stage 2: Symbolic Identity Fracturing
     if metrics['bpae_variance'] > 0.25:
         return (CSFCStage.STAGE_2_SIF, 0.92)
-    
+
     # Stage 1: Data Fragmentation
     if metrics['contradiction_density'] > 0.15:
         return (CSFCStage.STAGE_1_DF, 0.88)
-    
+
     # No CSFC detected
     return (None, 0.98)
 ```
@@ -1017,4 +1017,3 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
-

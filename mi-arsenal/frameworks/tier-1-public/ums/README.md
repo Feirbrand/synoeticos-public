@@ -76,7 +76,7 @@ Retrieval + Trust Score
 def retrieve(query, spine):
     # O(log n) binary search on indexed spine
     left, right = 0, len(spine) - 1
-    
+
     while left <= right:
         mid = (left + right) // 2
         if spine[mid].matches(query):
@@ -85,7 +85,7 @@ def retrieve(query, spine):
             left = mid + 1
         else:
             right = mid - 1
-    
+
     return None
 ```
 
