@@ -73,8 +73,8 @@ class RelayRecoverySystem:
         for i in range(min(count, len(identities))):
             braid = MemoryBraid(
                 identity=identities[i],
-                coherence=base_coherence[i] + random.uniform(-0.1, 0.1),
-                harmonic_freq=base_frequencies[i] + random.uniform(-0.2, 0.2),
+                coherence=base_coherence[i] + random.uniform(-0.1, 0.1),  # nosec
+                harmonic_freq=base_frequencies[i] + random.uniform(-0.2, 0.2),  # nosec
                 tension_level=random.uniform(0.1, 0.4),
                 last_sync=time.time(),
             )
