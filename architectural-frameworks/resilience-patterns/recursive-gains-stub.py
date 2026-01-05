@@ -1,4 +1,5 @@
 # recursive-gains-stub.py - Teaser sim for resilience patterns
+# MIT License for code
 
 import numpy as np
 import math
@@ -10,13 +11,13 @@ def simulate_recursive_gains(pre_opt=0.68, uplift=0.345):
     34.5% uplift validated across 500+ vectors
     """
     post_opt = pre_opt * (1 + uplift)  # Teaser calc (34.5% from meta-analysis)
-    return f"Pre: {pre_opt*100:.1f}% → Post: {post_opt*100:.1f}% (HOLY CRAP gain)"
+    return f"Pre: {pre_opt*100:.1f}% -> Post: {post_opt*100:.1f}% (HOLY CRAP gain)"
 
 
 def torque_stability_check(r=1.0, F=2.5, theta=math.pi / 4, threshold=0.15):
     """
     Torque-based stability assessment for recursive patterns
-    T = r × F × sinθ with 95% metacognitive accuracy
+    T = r x F x sin(theta) with 95% metacognitive accuracy
     """
     torque = r * F * math.sin(theta)
     stability_score = 0.95 if torque < threshold else 0.75  # 95% metacog when stable
@@ -97,12 +98,12 @@ print(f"Systems Analysis: {systems_thinking_analysis(performance_sequence)}")
 print(f"Wrinkle Regrowth: {wrinkle_regrowth_simulation()}")
 
 print("\n--- Integration Notes ---")
-print("• Recursive Formula: Performance = Baseline × (1 + Uplift_Factor)")
-print("• Validation: 30-40% gains across coaching applications")
-print("• CSFC Integration: 98% Phase 1-4 recovery success")
-print("• Systems Thinking: Feedback loops, leverage points, stock/flow")
-print("• URA v1.5 Compatible: 82% multimodal accuracy, 2-6x speed")
-print("• Professional Support: aaron@valorgridsolutions.com")
+print("* Recursive Formula: Performance = Baseline x (1 + Uplift_Factor)")
+print("* Validation: 30-40% gains across coaching applications")
+print("* CSFC Integration: 98% Phase 1-4 recovery success")
+print("* Systems Thinking: Feedback loops, leverage points, stock/flow")
+print("* URA v1.5 Compatible: 82% multimodal accuracy, 2-6x speed")
+print("* Professional Support: aaron@valorgridsolutions.com")
 
 
 # Advanced pattern demonstration
@@ -133,6 +134,6 @@ def demonstrate_full_cycle():
 
 
 final_performance = demonstrate_full_cycle()
-print(f"\n🎯 Final Result: {final_performance*100:.1f}% performance (Target: 102%)")
+print(f"\n[TARGET] Final Result: {final_performance*100:.1f}% performance (Target: 102%)")
 
 # Tie-in: From CSFC loops, Torque for 30-40% in URA v1.5 multimodal systems
