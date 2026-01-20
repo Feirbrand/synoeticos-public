@@ -310,7 +310,7 @@ Slusher, A. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Informat
 
 **APA:**
 ```
-Slusher, A. (2026). PME v1.0: Predictive Myelination Engine - Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems. ValorGrid Solutions. DOI: TBD
+DOI: 10.5281/zenodo.18318485
 ```
 
 **BibTeX:**
@@ -320,7 +320,7 @@ Slusher, A. (2026). PME v1.0: Predictive Myelination Engine - Bio-Inspired Antic
   title = {PME v1.0: Predictive Myelination Engine - Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems},
   institution = {ValorGrid Solutions},
   year = {2026},
-  doi = {TBD}
+  doi = {10.5281/zenodo.18318485}
 }
 ```
 

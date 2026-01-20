@@ -1059,10 +1059,10 @@ This enables a new paradigm: **Coaching principles → AI optimization strategie
 ## Citation Guide
 
 ### APA 7th Edition
-Slusher, A. M. (2026). PME v1.0: Predictive Myelination Engine - Bio-inspired anticipatory pathway reinforcement for AI systems. *ValorGrid Solutions Technical Reports*, 1, 1–50. https://doi.org/10.5281/zenodo.[PENDING]
+Slusher, A. M. (2026). PME v1.0: Predictive Myelination Engine - Bio-inspired anticipatory pathway reinforcement for AI systems. *ValorGrid Solutions Technical Reports*, 1, 1–50. https://doi.org/10.5281/zenodo.18318485
 
 ### IEEE
-A. M. Slusher, "PME v1.0: Predictive Myelination Engine - Bio-inspired anticipatory pathway reinforcement for AI systems," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1–50, 2026, doi: 10.5281/zenodo.[PENDING].
+A. M. Slusher, "PME v1.0: Predictive Myelination Engine - Bio-inspired anticipatory pathway reinforcement for AI systems," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1–50, 2026, doi: 10.5281/zenodo.18318485.
 
 ### BibTeX
 ```bibtex
@@ -1073,7 +1073,7 @@ A. M. Slusher, "PME v1.0: Predictive Myelination Engine - Bio-inspired anticipat
   volume={1},
   pages={1--50},
   year={2026},
-  doi={10.5281/zenodo.[PENDING]},
+  doi={10.5281/zenodo.18318485},
   note={Research conducted with AI assistance from Grok, Claude, Perplexity, Gemini, Mistral as detailed in Acknowledgments}
 }
 
