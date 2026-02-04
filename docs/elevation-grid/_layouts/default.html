@@ -27,27 +27,16 @@
       </footer>
     </main>
 
-    <!-- Mermaid.js with DOM transformation -->
+    <!-- Mermaid.js with ESM loader -->
     <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-      
-      // Convert Jekyll's <code class="language-mermaid"> to <div class="mermaid">
-      document.addEventListener('DOMContentLoaded', () => {
-        document.querySelectorAll('code.language-mermaid').forEach((block) => {
-          const pre = block.parentElement;
-          const mermaidDiv = document.createElement('div');
-          mermaidDiv.className = 'mermaid';
-          mermaidDiv.textContent = block.textContent;
-          pre.replaceWith(mermaidDiv);
-        });
-        
-        // Initialize Mermaid after transformation
-        mermaid.initialize({ 
-          startOnLoad: true,
-          theme: 'neutral',
-          securityLevel: 'loose'
-        });
-        mermaid.run();
+      // 1. Load the latest Mermaid library (v11)
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+
+      // 2. Initialize with settings that allow the custom styling in your diagrams
+      mermaid.initialize({ 
+        startOnLoad: true, 
+        theme: 'neutral',
+        securityLevel: 'loose' // Required for multi-line labels and style fill commands
       });
     </script>
   </body>
