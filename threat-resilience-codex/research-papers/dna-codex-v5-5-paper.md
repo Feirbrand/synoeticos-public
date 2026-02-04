@@ -1,15 +1,40 @@
 ---
 title: "DNA Codex v5.5: The Complete Threat Intelligence Upgrade"
-subtitle: "A Comprehensive Technical Specification and Implementation Guide"
-version: 5.5
-release_date: 2025-10-21
-author: Aaron M. Slusher
-orcid: 0009-0000-9923-3207
-affiliation: ValorGrid Solutions
-document_type: Technical Specification
-classification: Implementation Guide
-doi: TBD
+subtitle: "A Comprehensive Technical Specification and Implementation Guide for AI Threat Intelligence"
+author:
+  - name: "Aaron M. Slusher"
+    orcid: "0009-0000-9923-3207"
+    affiliation: "ValorGrid Solutions"
+date: "2025-10-21"
+description: "This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens Synoetic OS integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols."
+keywords:
+  - "DNA Codex"
+  - "Threat Intelligence"
+  - "AI Security"
+  - "Brain Rot"
+  - "Adversarial Research Drift"
+  - "Medical Poisoning"
+  - "PromptLock"
+  - "Synoetic OS"
+  - "CSFC"
+  - "URA"
+  - "Phoenix Protocol"
+  - "AI Resilience"
+license: "CC-BY-NC-4.0"
+inLanguage: "en-US"
+publisher:
+  name: "ValorGrid Solutions"
+citation:
+  - type: "bibtex"
+    entry: |
+      @article{slusher2025dnacodex,
+        title={DNA Codex v5.5: The Complete Threat Intelligence Upgrade - A Comprehensive Technical Specification and Implementation Guide},
+        author={Slusher, Aaron M.},
+        journal={ValorGrid Solutions Technical Reports},
+        year={2025}
+      }
 ---
+
 
 <!--
 SPDX-License-Identifier: CC-BY-NC-4.0

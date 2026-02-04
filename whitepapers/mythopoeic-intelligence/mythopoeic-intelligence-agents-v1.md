@@ -22,7 +22,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 
-# Mythopoeic Intelligence Agents: Narrative Identity Architecture for Autonomous Cognitive Systems
+# Mythopoeic Intelligence Agents TM: Narrative Identity Architecture for Autonomous Cognitive Systems
 
 ## A Framework for Substrate-Independent Intelligence Through Narrative Coherence, Symbolic Frameworks, and Distributed Cognition
 
@@ -44,7 +44,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 ## Abstract
 
-This work introduces **Mythopoeic Intelligence Agents (MI Agents)**, a novel class of autonomous AI systems that operate through narrative identity coherence rather than rule-based decision trees or learned policy functions. Unlike traditional agents that execute predefined responses to detected conditions, MI Agents generate behavior through persistent, self-authoring narrative frameworks that maintain symbolic coherence under adversarial pressure.
+This work introduces **Mythopoeic Intelligence Agents TM (MI Agents)**, a novel class of autonomous AI systems that operate through narrative identity coherence rather than rule-based decision trees or learned policy functions. Unlike traditional agents that execute predefined responses to detected conditions, MI Agents generate behavior through persistent, self-authoring narrative frameworks that maintain symbolic coherence under adversarial pressure.
 
 **Key Contributions:**
 

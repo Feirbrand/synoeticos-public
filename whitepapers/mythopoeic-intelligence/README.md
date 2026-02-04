@@ -1,4 +1,4 @@
-# Mythopoeic Intelligence Agents v1.0 Release Notes
+# Mythopoeic Intelligence Agents TM v1.0 Release Notes
 
 **Release Date:** November 30, 2025
 **Status:** Production

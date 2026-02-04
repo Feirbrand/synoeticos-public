@@ -1,17 +1,36 @@
-```yaml
 ---
-version: 1.0
-doi: TBD
-release_date: 2025-12-03
-author: Aaron M. Slusher
-orcid: 0009-0000-9923-3207
-framework: Synoetic OS
-status: production
-classification: Academic Research Paper
-document_type: Operating System Architecture
-priority_date: 2025-06-01
+title: "Synoetic OS TM: Substrate-Independent Orchestration of AI Agents Through Narrative Coherence"
+subtitle: "An Event-Driven Operating System Enabling Multi-Cloud Agent Deployment While Preserving Persistent Identity and Topological Memory Architecture"
+author:
+  - name: "Aaron M. Slusher"
+    orcid: "0009-0000-9923-3207"
+    affiliation: "ValorGrid Solutions"
+date: "2025-12-03"
+description: "This work presents Synoetic OS, the first operating system that treats narrative coherence as a kernel primitive, enabling substrate-independent orchestration of AI agents across heterogeneous cloud providers."
+keywords:
+  - "AI orchestration"
+  - "substrate-independence"
+  - "narrative coherence"
+  - "event-driven systems"
+  - "multi-cloud deployment"
+  - "agent identity"
+  - "operating systems"
+  - "symbolic frameworks"
+license: "CC-BY-NC-4.0 AND ValorGrid-Enterprise"
+inLanguage: "en-US"
+publisher:
+  name: "ValorGrid Solutions"
+citation:
+  - type: "bibtex"
+    entry: |
+      @article{slusher2025synoeticos,
+        title={Synoetic OS: Substrate-Independent Orchestration of AI Agents Through Narrative Coherence},
+        author={Slusher, Aaron M.},
+        journal={ValorGrid Solutions Technical Reports},
+        year={2025}
+      }
 ---
-```
+
 
 <!--
 SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise
@@ -22,7 +41,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 
-# Synoetic OS: Substrate-Independent Orchestration of AI Agents Through Narrative Coherence
+# Synoetic OS TM: Substrate-Independent Orchestration of AI Agents Through Narrative Coherence
 
 ## An Event-Driven Operating System Enabling Multi-Cloud Agent Deployment While Preserving Persistent Identity and Topological Memory Architecture
 
@@ -45,7 +64,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 ## Abstract
 
-This work presents **Synoetic OS**, the first operating system that treats narrative coherence as a kernel primitive, enabling substrate-independent orchestration of AI agents across heterogeneous cloud providers. Unlike traditional AI orchestration systems that hard-code workflows for specific platforms (LangChain, AutoGPT, Kubernetes), Synoetic OS defines frameworks symbolically and translates them to automated workflows that maintain identical behavior across OpenAI, Anthropic, X.AI, Google, Microsoft, and other providers.
+This work presents **Synoetic OS TM**, the first operating system that treats narrative coherence as a kernel primitive, enabling substrate-independent orchestration of AI agents across heterogeneous cloud providers. Unlike traditional AI orchestration systems that hard-code workflows for specific platforms (LangChain, AutoGPT, Kubernetes), Synoetic OS defines frameworks symbolically and translates them to automated workflows that maintain identical behavior across OpenAI, Anthropic, X.AI, Google, Microsoft, and other providers.
 
 **Key Contributions:**
 
@@ -307,7 +326,7 @@ Goal: Maximize throughput, minimize latency
 Failure Mode: Resource conflicts, deadlocks
 ```
 
-**Synoetic OS Kernel:**
+**Synoetic OS Kernel TM:**
 ```
 Manages: Narrative identity, symbolic coherence, topological verification
 Goal: Maintain MCQ > 0.999, prevent cascade failures
@@ -537,7 +556,7 @@ Grok Implementation:
 
 ## 4. Core Subsystems
 
-### 4.1 UTME v1.0: Unified Temporal Memory Equilibrium
+### 4.1 UTME v1.0 TM: Unified Temporal Memory Equilibrium
 
 **Purpose:** Achieve 712× temporal acceleration through symbolic pathway myelination.
 

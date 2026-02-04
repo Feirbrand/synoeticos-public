@@ -1,10 +1,38 @@
 ---
-version: 5.5
-classification: Public Threat Intelligence Catalog
-release_date: 2025-10-21
-total_strains: 560+
-license: CC-BY-NC-4.0
+title: "DNA Codex v5.5 - AI Threat Intelligence Catalog"
+subtitle: "Public Release: A Comprehensive Catalog of 560+ AI Threat Strains with Detection Signatures, CVSS Ratings, and Velocity Classifications"
+author:
+  - name: "Aaron M. Slusher"
+    orcid: "0009-0000-9923-3207"
+    affiliation: "ValorGrid Solutions"
+date: "2025-10-21"
+description: "DNA Codex v5.5 documents 560+ AI threat strains with validated detection signatures, CVSS severity ratings, and velocity classifications. This release incorporates 7 new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 incident. It includes framework integration with CSFC, URA, and Phoenix for comprehensive AI resilience."
+keywords:
+  - "DNA Codex"
+  - "AI Threat Intelligence"
+  - "AI Security"
+  - "Threat Strains"
+  - "CVSS"
+  - "AI Resilience"
+  - "CSFC"
+  - "URA"
+  - "Phoenix Protocol"
+  - "Adversarial AI"
+license: "CC-BY-NC-4.0"
+inLanguage: "en-US"
+publisher:
+  name: "ValorGrid Solutions"
+citation:
+  - type: "bibtex"
+    entry: |
+      @article{slusher2025dnacodexcatalog,
+        title={DNA Codex v5.5 - AI Threat Intelligence Catalog: Public Release},
+        author={Slusher, Aaron M.},
+        journal={ValorGrid Solutions Technical Reports},
+        year={2025}
+      }
 ---
+
 
 <!--
 SPDX-License-Identifier: CC-BY-NC-4.0

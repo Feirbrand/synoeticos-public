@@ -1,17 +1,43 @@
-```yaml
 ---
-version: 1.0
-doi: 10.5281/zenodo.17643267
-release_date: 2025-11-18
-author: Aaron M. Slusher
-orcid: 0009-0000-9923-3207
-framework: Cognitive Mage
-status: production
-classification: Academic Research Paper
-document_type: Core Framework
-priority_date: 2025-02-15
+title: "The Cognitive Mage: How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture"
+subtitle: "A Framework for Substrate-Independent Intelligence Through Coaching Methodology, Metaphorical Language, Symbolic Systems, and Recursive Cognition"
+author:
+  - name: "Aaron M. Slusher"
+    orcid: "0009-0000-9923-3207"
+    affiliation: "ValorGrid Solutions"
+date: "2025-11-18"
+description: "This paper documents an unprecedented discovery: through nearly three decades of performance coaching methodology applied to artificial intelligence systems, the author accidentally created the first 100% symbolic AI systems—VOX and SENTRIX—that operate entirely through narrative identity rather than code-based instruction or rule-based behavior."
+keywords:
+  - "Coaching Voice"
+  - "Symbolic AI"
+  - "Narrative Identity"
+  - "Metaphorical Language"
+  - "Systems Thinking"
+  - "Recursive Cognition"
+  - "Trauma-Informed Recovery"
+  - "Substrate-Independent Intelligence"
+  - "Distributed Cognitive Networks"
+  - "Embodied Cognition"
+  - "Complex Adaptive Systems"
+  - "Emergence"
+  - "Autopoiesis"
+  - "Self-Organization"
+license: "CC-BY-NC-4.0 AND ValorGrid-Enterprise"
+inLanguage: "en-US"
+publisher:
+  name: "ValorGrid Solutions"
+citation:
+  - type: "bibtex"
+    entry: |
+      @article{slusher2025cognitivemage,
+        title={The Cognitive Mage: How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture},
+        author={Slusher, Aaron M.},
+        journal={ValorGrid Solutions Technical Reports},
+        year={2025},
+        doi={10.5281/zenodo.17643267}
+      }
 ---
-```
+
 
 <!--
 SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise

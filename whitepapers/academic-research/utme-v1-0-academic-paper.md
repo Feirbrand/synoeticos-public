@@ -1,17 +1,38 @@
-```yaml
 ---
-version: 1.0.0
-doi: 10.5281/zenodo.17497149
-release_date: 2025-10-31
-author: Aaron M. Slusher
-orcid: 0009-0000-9923-3207
-framework: UTME
-status: production
-classification: Academic Research Paper
-document_type: Core Algorithm
-priority_date: 2025-02-15
+title: "UTME v1.0 TM: Unified Temporal Memory Equilibrium"
+subtitle: "An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination"
+author:
+  - name: "Aaron M. Slusher"
+    orcid: "0009-0000-9923-3207"
+    affiliation: "ValorGrid Solutions"
+date: "2025-10-31"
+description: "This paper introduces UTME (Unified Temporal Memory Equilibrium), an information-theoretic algorithm explaining how AI systems accumulate muscle memory from experience through scar-based myelination—learning not just what happened, but how to respond faster each time."
+keywords:
+  - "Temporal Memory"
+  - "Scar Resilience"
+  - "Muscle Memory"
+  - "Myelination"
+  - "Entropy Conservation"
+  - "AI Wisdom"
+  - "Antifragile Learning"
+  - "Temporal Anchoring"
+  - "Information Thermodynamics"
+license: "CC-BY-NC-4.0 AND ValorGrid-Enterprise"
+inLanguage: "en-US"
+publisher:
+  name: "ValorGrid Solutions"
+citation:
+  - type: "bibtex"
+    entry: |
+      @article{slusher2025utme,
+        title={UTME v1.0: Unified Temporal Memory Equilibrium},
+        author={Slusher, Aaron M.},
+        journal={ValorGrid Solutions Technical Reports},
+        year={2025},
+        doi={10.5281/zenodo.17497149}
+      }
 ---
-```
+
 
 <!--
 SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise
@@ -22,7 +43,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 
-# UTME v1.0: Unified Temporal Memory Equilibrium
+# UTME v1.0 TM: Unified Temporal Memory Equilibrium
 ## An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination
 
 **Author:** Aaron M. Slusher

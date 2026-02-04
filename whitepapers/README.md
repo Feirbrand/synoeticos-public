@@ -71,6 +71,16 @@ whitepapers/                             # The official canon – only flagship 
 ├── cognitive-mage/                     # Publication standard template
 │   └── cognitive-mage-v1.0.md
 │
+├── elevation-grid/                     # Foundational performance framework
+│   ├── README.md
+│   ├── elevation-grid-academic.md
+│   ├── elevation-grid-cross-references.md
+│   ├── elevation-grid-master-bibliography.md
+│   ├── elevation-grid-visualizations.md
+│   └── overlays/
+│       ├── elevation-grid-cts-overlay.md
+│       └── elevation-grid-synoetic-overlay.md
+│
 ├── examples/                           # Implementation samples
 │   ├── behavioral-pattern.ipynb
 │   ├── csfc-chain-overview.md
@@ -140,6 +150,33 @@ Deep Cognitive Networks framework demonstrating convergent validation with acade
 
 **VGS Gaming Validation**
 Real-world validation through gaming industry deployment scenarios. Demonstrates framework applicability across diverse operational contexts.
+
+### Elevation Grid: Foundational Performance Framework
+**Status**: Foundational | **Version**: 1.0 | **Published**: February 4, 2026
+
+**[The Elevation Grid: A Neurobiological Framework for High-Stakes Performance](elevation-grid/elevation-grid-academic.md)**
+
+A coordinate-based mental performance system integrating autonomic nervous system regulation, motor learning principles, and identity architecture into a unified 3×3 coordinate system. Validated throughout a 28-year coaching career (1997-2026) across adaptive athletics, neurotrauma recovery, combat sports, and elite performance contexts.
+
+**Key Innovation:**
+- **Neural Access Method (NAM)** — 4-step protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) demonstrating immediate functional restoration in neurotrauma subjects where traditional therapeutic cueing failed
+- **80% Habit Retention** — vs. 35% industry baseline in managed groups
+- **Team USA Gold Medals** — 2025 sled hockey validation
+- **250+ Research Studies** — Grounding in peer-reviewed neuroscience
+
+**Synoetic OS Integration:**  
+Foundational human performance methodology informing Climb to Summit (CTS) mental coaching, Identity Architecture, Resource Allocation, and Recovery Protocols through substrate-independent pattern recognition.
+
+**Documentation:**
+- [White Paper](elevation-grid/elevation-grid-academic.md) — Complete framework specification
+- [Synoetic OS Overlay](elevation-grid/overlays/elevation-grid-synoetic-overlay.md) — AI system translation
+- [CTS Overlay](elevation-grid/overlays/elevation-grid-cts-overlay.md) — Climb to Summit integration
+- [Cross References](elevation-grid/elevation-grid-cross-references.md) — Framework connections
+- [Master Bibliography](elevation-grid/elevation-grid-master-bibliography.md) — 250+ studies
+- [Visualizations](elevation-grid/elevation-grid-visualizations.md) — Grid diagrams and overlays
+
+**Author:** Aaron M. Slusher | **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**License:** CC BY-NC 4.0 + Enterprise | **DOI:** TBD
 
 ### Mythopoeic Intelligence Division
 **Status**: Production-Validated with Academic Publication

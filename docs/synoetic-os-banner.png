@@ -1,0 +1,9 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#001f3f"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="100" fill="#FFD700" font-weight="bold">
+    Synoetic OS
+  </text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="40" fill="#ffffff" font-weight="normal">
+    Cognitive Architecture for AI Resilience
+  </text>
+</svg>
