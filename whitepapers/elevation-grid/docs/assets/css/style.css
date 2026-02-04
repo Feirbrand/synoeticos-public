@@ -1,0 +1,283 @@
+/* Custom CSS for Elevation Grid GitHub Pages */
+
+:root {
+  --primary-color: #4ecdc4;
+  --secondary-color: #ffe66d;
+  --accent-color: #ff6b6b;
+  --success-color: #95e1d3;
+  --text-dark: #2c3e50;
+  --text-light: #7f8c8d;
+  --bg-light: #f8f9fa;
+  --border-color: #dee2e6;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+.hero .subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+  opacity: 0.95;
+}
+
+.hero .tagline {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+/* Hero Stats */
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin: 3rem 0;
+  flex-wrap: wrap;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(255,255,255,0.2);
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  backdrop-filter: blur(10px);
+  min-width: 150px;
+}
+
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  font-size: 1rem;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.stat-context {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  display: block;
+}
+
+/* CTA Buttons */
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.btn-primary {
+  background: white;
+  color: var(--primary-color);
+  border-color: white;
+}
+
+.btn-primary:hover {
+  background: transparent;
+  color: white;
+  border-color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: white;
+  border-color: white;
+}
+
+.btn-secondary:hover {
+  background: white;
+  color: var(--primary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.btn-sm {
+  padding: 0.5rem 1.25rem;
+  font-size: 0.9rem;
+}
+
+/* Documentation Grid */
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.doc-card {
+  background: var(--bg-light);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.doc-card:hover {
+  border-color: var(--primary-color);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.doc-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text-dark);
+}
+
+.doc-card p {
+  color: var(--text-light);
+  margin-bottom: 1.5rem;
+}
+
+/* Mermaid Diagrams */
+.mermaid {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+/* Code Blocks */
+pre {
+  background: var(--bg-light);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 1.5rem;
+  overflow-x: auto;
+}
+
+code {
+  background: var(--bg-light);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Sections */
+h2 {
+  color: var(--text-dark);
+  border-bottom: 3px solid var(--primary-color);
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  color: var(--text-dark);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer CTA */
+.footer-cta {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(135deg, var(--text-dark) 0%, #34495e 100%);
+  color: white;
+  border-radius: 8px;
+  margin-top: 4rem;
+}
+
+.footer-cta p {
+  margin: 0.5rem 0;
+}
+
+.footer-cta strong {
+  font-size: 1.3rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.footer-cta .copyright {
+  margin-top: 2rem;
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  
+  .hero .subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .hero-stats {
+    gap: 1.5rem;
+  }
+  
+  .stat {
+    min-width: 120px;
+    padding: 1rem 1.5rem;
+  }
+  
+  .stat-value {
+    font-size: 2rem;
+  }
+  
+  .cta-buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .doc-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .hero, .cta-buttons, .footer-cta {
+    display: none;
+  }
+  
+  .mermaid {
+    page-break-inside: avoid;
+  }
+}

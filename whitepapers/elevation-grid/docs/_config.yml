@@ -1,0 +1,41 @@
+theme: jekyll-theme-cayman
+title: The Elevation Grid
+description: A Neurobiological Framework for High-Stakes Performance
+show_downloads: false
+
+# Mermaid support
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# Enable Mermaid diagrams
+plugins:
+  - jekyll-mermaid
+
+# Custom variables
+author:
+  name: Aaron M. Slusher
+  orcid: 0009-0000-9923-3207
+  email: aaron@achievepeakperformance.net
+  website: https://achievepeakperformance.net
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: White Paper
+    url: /elevation-grid-academic
+  - title: Visualizations
+    url: /elevation-grid-visualizations
+  - title: References
+    url: /elevation-grid-cross-references
+  - title: Bibliography
+    url: /elevation-grid-master-bibliography
+
+# Social
+social:
+  orcid: https://orcid.org/0009-0000-9923-3207
+  github: https://github.com/Feirbrand/synoeticos-public
+
+# Analytics (optional - add later)
+# google_analytics: UA-XXXXXXXXX-X
