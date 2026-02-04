@@ -10,7 +10,7 @@ kramdown:
 
 # Enable Mermaid diagrams
 plugins:
-  - jekyll-mermaid
+
 
 # Custom variables
 author:
