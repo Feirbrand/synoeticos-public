@@ -29,18 +29,35 @@
 
     <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true, theme: 'neutral', securityLevel: 'loose' });
+  
+  // 1. Initialize without auto-start to prevent clashing
+  mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'loose' });
 
-  // This function finds raw graph text that Jekyll accidentally hid in code blocks
-  document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('pre code.language-mermaid, .mermaid').forEach((el) => {
-      const graphText = el.textContent;
+  // 2. The Universal Fix: Find EVERY possible mermaid block (divs and code fences)
+  document.addEventListener('DOMContentLoaded', async () => {
+    const selector = 'div.mermaid, pre code.language-mermaid';
+    const blocks = document.querySelectorAll(selector);
+
+    for (let i = 0; i < blocks.length; i++) {
+      const el = blocks[i];
+      const rawText = el.textContent.trim();
+      
+      // Create a clean container for the SVG
       const container = document.createElement('div');
       container.className = 'mermaid';
-      container.textContent = graphText;
-      el.closest('pre')?.replaceWith(container) || el.replaceWith(container);
-    });
-    mermaid.run();
+      container.id = `mermaid-render-${i}`;
+      container.textContent = rawText;
+
+      // Replace the old messy tag (pre/code) with our clean div
+      if (el.tagName === 'CODE') {
+        el.parentElement.replaceWith(container);
+      } else {
+        el.replaceWith(container);
+      }
+    }
+    
+    // 3. Manually trigger the render on our new clean divs
+    await mermaid.run();
   });
 </script>
   </body>
