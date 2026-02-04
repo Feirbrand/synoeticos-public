@@ -324,7 +324,7 @@ false_positive_rate: <3% average
 ### Academic Peer Review
 
 **Current Status:**
-- 14 papers published with Zenodo DOIs
+- 15 papers published with Zenodo DOIs
 - Preparing formal peer review submission (Q1 2026)
 - Open for community validation and extension
 - Seeking academic collaboration partnerships
