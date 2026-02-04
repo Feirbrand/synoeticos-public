@@ -28,29 +28,20 @@
     </main>
 
     <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-      
-      mermaid.initialize({ 
-        startOnLoad: false, // We will trigger it manually
-        theme: 'neutral',
-        securityLevel: 'loose'
-      });
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'neutral', securityLevel: 'loose' });
 
-      async function renderMermaid() {
-        // Find all divs with the mermaid class
-        const elements = document.querySelectorAll('.mermaid');
-        for (let i = 0; i < elements.length; i++) {
-          const element = elements[i];
-          // Force render each element
-          const id = `mermaid-svg-${i}`;
-          const text = element.textContent;
-          const { svg } = await mermaid.render(id, text);
-          element.innerHTML = svg;
-        }
-      }
-
-      // Run on load
-      window.addEventListener('load', renderMermaid);
-    </script>
+  // This function finds raw graph text that Jekyll accidentally hid in code blocks
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('pre code.language-mermaid, .mermaid').forEach((el) => {
+      const graphText = el.textContent;
+      const container = document.createElement('div');
+      container.className = 'mermaid';
+      container.textContent = graphText;
+      el.closest('pre')?.replaceWith(container) || el.replaceWith(container);
+    });
+    mermaid.run();
+  });
+</script>
   </body>
 </html>
