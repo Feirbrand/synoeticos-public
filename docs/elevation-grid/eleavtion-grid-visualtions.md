@@ -2,7 +2,7 @@
 
 ## 1. THE 3×3 GRID SYSTEM
 
-```mermaid
+<div class="mermaid">
 graph TD
     subgraph Layer3["LAYER 3: IDENTITY ARCHITECTURE (Stress Mindset)"]
         P7["Position 7<br/>TRANSCENDENCE<br/>(Self-Actualization)"]
@@ -28,19 +28,19 @@ graph TD
     P4 --> P7
     P5 --> P8
     P6 --> P9
-```
+</div>
 
 ---
 
 ## 2. BANDWIDTH CONSTRAINT: SENSORY INPUT VS CONSCIOUS PROCESSING
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
-```
+</div>
 
 **Visual Chart:**
 ```
@@ -55,7 +55,7 @@ Ratio: 220,000:1 bottleneck
 
 ## 3. RESPONSE SPEED GAP: AMYGDALA VS PREFRONTAL CORTEX
 
-```mermaid
+<div class="mermaid">
 timeline
     title Neural Processing Speed Gap
     
@@ -70,7 +70,7 @@ timeline
              : INTENTION ARRIVES TOO LATE
     
     Gap: 2-3x speed advantage for amygdala
-```
+</div>
 
 **Timeline Visualization:**
 ```
@@ -92,7 +92,7 @@ Time (milliseconds)
 
 ## 4. POLYVAGAL THEORY: THREE-TIER AUTONOMIC HIERARCHY
 
-```mermaid
+<div class="mermaid">
 graph TD
     A["VENTRAL VAGAL<br/>(Safety/Social)"] -->|"Vagal Brake"| B["SYMPATHETIC<br/>(Mobilization)"]
     B -->|"Shutdown"| C["DORSAL VAGAL<br/>(Immobilization)"]
@@ -106,13 +106,13 @@ graph TD
     style C fill:#ff6b6b
     style D fill:#95e1d3
     style E fill:#ff6b6b
-```
+</div>
 
 ---
 
 ## 5. MOTOR LEARNING STAGES: PROCEDURAL MEMORY ACCESS
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["COGNITIVE STAGE<br/>(Explicit Learning)<br/>High cortical load<br/>Slow execution"] -->|"Myelination<br/>Practice<br/>Repetition"| B["ASSOCIATIVE STAGE<br/>(Refinement)<br/>Moderate load<br/>Improving speed"]
     
@@ -121,13 +121,13 @@ graph LR
     style A fill:#ff6b6b
     style B fill:#ffe66d
     style C fill:#4ecdc4
-```
+</div>
 
 ---
 
 ## 6. TEMPORAL CONSTRAINTS: BANDWIDTH HIERARCHY
 
-```mermaid
+<div class="mermaid">
 graph TD
     A["SUBCORTICAL (12-200ms)<br/>Threat Detection<br/>Autonomic Response<br/>FASTEST"] -->|"Bypass"| B["CORTICAL (300-500ms)<br/>Executive Function<br/>Cognitive Strategy<br/>SLOWER"]
     
@@ -136,13 +136,13 @@ graph TD
     style A fill:#ff6b6b
     style B fill:#4ecdc4
     style C fill:#95e1d3
-```
+</div>
 
 ---
 
 ## 7. ELEVATION GRID: BOTTOM-UP PROGRESSION
 
-```mermaid
+<div class="mermaid">
 graph TD
     L1["LAYER 1: AUTONOMIC<br/>Ground → Activation → Reset<br/>Parasympathetic stability<br/>Sympathetic mobilization<br/>Emotional regulation"]
     
@@ -156,13 +156,13 @@ graph TD
     style L1 fill:#ff6b6b
     style L2 fill:#ffe66d
     style L3 fill:#4ecdc4
-```
+</div>
 
 ---
 
 ## 8. NEURAL ACCESS METHOD (NAM): 4-STEP PROTOCOL
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["ACCESS<br/>Identify current<br/>autonomic state"] -->|"Subcortical<br/>12-200ms"| B["REFRAME<br/>Shift nervous<br/>system state"]
     
@@ -174,13 +174,13 @@ graph LR
     style B fill:#ffe66d
     style C fill:#95e1d3
     style D fill:#4ecdc4
-```
+</div>
 
 ---
 
 ## 9. HABIT RETENTION: ELEVATION GRID VS INDUSTRY BASELINE
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
     
@@ -190,7 +190,7 @@ graph LR
     style B fill:#ff6b6b
     style C fill:#4ecdc4
     style D fill:#4ecdc4
-```
+</div>
 
 **Retention Comparison Chart:**
 ```
@@ -204,7 +204,7 @@ Improvement: +45 percentage points (128% increase)
 
 ## 10. FIELD VALIDATION: 28-YEAR OUTCOMES
 
-```mermaid
+<div class="mermaid">
 timeline
     title Elevation Grid Field Validation (1997-2026)
     
@@ -220,13 +220,13 @@ timeline
              : Multi-population deployment
              : 250+ peer-reviewed studies
              : 80% habit retention documented
-```
+</div>
 
 ---
 
 ## 11. RESEARCH VALIDATION: PEER-REVIEWED SOURCES
 
-```mermaid
+<div class="mermaid">
 graph TD
     A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
     
@@ -241,7 +241,7 @@ graph TD
     style D fill:#ffe66d
     style E fill:#ffe66d
     style F fill:#ffe66d
-```
+</div>
 
 ---
 

@@ -41,13 +41,13 @@ Most mental performance coaching **fails by violating the bandwidth limits of th
 
 Traditional coaching operates on a **"top-down" model**, attempting to solve bandwidth constraints through cognitive strategies: willpower, positive thinking, goal-setting. This approach systematically degrades under pressure because it ignores the **temporal speed gap** between neural processing systems:
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
-```
+</div>
 
 **The subcortical threat response (amygdala) activates in 12-200ms.**  
 **The cortical executive response (prefrontal cortex) activates in 300-500ms.**
@@ -64,7 +64,7 @@ The Elevation Grid proposes a **bottom-up architecture** that regulates biologic
 
 **9 Positions Across 3 Neural Hierarchies:**
 
-```mermaid
+<div class="mermaid">
 graph TD
     subgraph Layer3["LAYER 3: IDENTITY ARCHITECTURE (Stress Mindset)"]
         P7["Position 7<br/>TRANSCENDENCE<br/>(Self-Actualization)"]
@@ -90,7 +90,7 @@ graph TD
     P4 --> P7
     P5 --> P8
     P6 --> P9
-```
+</div>
 
 **Bottom-Up Progression:** The system requires stable autonomic regulation (Hardware) before motor pattern refinement (Integration) before cognitive strategy application (Software).
 
@@ -100,7 +100,7 @@ graph TD
 
 The **Neural Access Method** is a 4-step protocol that bypasses cortical interference to restore procedural motor execution.
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["ACCESS<br/>Identify current<br/>autonomic state"] -->|"Subcortical<br/>12-200ms"| B["REFRAME<br/>Shift nervous<br/>system state"]
     
@@ -112,7 +112,7 @@ graph LR
     style B fill:#ffe66d
     style C fill:#95e1d3
     style D fill:#4ecdc4
-```
+</div>
 
 **Validated in stroke recovery and high-pressure performance contexts**, NAM demonstrates **immediate functional restoration in neurotrauma subjects where traditional therapeutic cueing failed**.
 
@@ -122,7 +122,7 @@ graph LR
 
 ### 28-Year Timeline (1997-2026)
 
-```mermaid
+<div class="mermaid">
 timeline
     title Elevation Grid Field Validation (1997-2026)
     
@@ -138,13 +138,13 @@ timeline
              : Multi-population deployment
              : 250+ peer-reviewed studies
              : 80% habit retention documented
-```
+</div>
 
 ### Success Metrics
 
 **Habit Retention Comparison:**
 
-```mermaid
+<div class="mermaid">
 graph LR
     A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
     
@@ -154,7 +154,7 @@ graph LR
     style B fill:#ff6b6b
     style C fill:#4ecdc4
     style D fill:#4ecdc4
-```
+</div>
 
 **+45 percentage points improvement (128% increase)**
 
@@ -170,7 +170,7 @@ graph LR
 
 ## Scientific Foundation
 
-```mermaid
+<div class="mermaid">
 graph TD
     A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
     
@@ -185,7 +185,7 @@ graph TD
     style D fill:#ffe66d
     style E fill:#ffe66d
     style F fill:#ffe66d
-```
+</div>
 
 The framework integrates research from:
 - **Polyvagal Theory** (Porges, 2011) — Autonomic nervous system regulation
