@@ -6,30 +6,11 @@ description: A Neurobiological Framework for High-Stakes Performance
 
 <div class="hero">
   <h1>The Elevation Grid</h1>
-  <p class="subtitle">A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations</p>
-  <p class="tagline">28 Years of Validated Performance Optimization</p>
-  
+  <p class="subtitle">Neurobiological Framework for High-Stakes Performance</p>
   <div class="hero-stats">
-    <div class="stat">
-      <span class="stat-value">80%</span>
-      <span class="stat-label">Habit Retention</span>
-      <span class="stat-context">vs. 35% industry baseline</span>
-    </div>
-    <div class="stat">
-      <span class="stat-value">Team USA</span>
-      <span class="stat-label">Gold Medals</span>
-      <span class="stat-context">2025 Sled Hockey</span>
-    </div>
-    <div class="stat">
-      <span class="stat-value">250+</span>
-      <span class="stat-label">Research Studies</span>
-      <span class="stat-context">Peer-reviewed foundation</span>
-    </div>
-  </div>
-  
-  <div class="cta-buttons">
-    <a href="elevation-grid-academic.html" class="btn btn-primary">Read the Paper</a>
-    <a href="#framework" class="btn btn-secondary">Explore the Framework</a>
+    <div class="stat"><span class="stat-value">80%</span><span class="stat-label">Habit Retention</span></div>
+    <div class="stat"><span class="stat-value">Team USA</span><span class="stat-label">Gold Medals</span></div>
+    <div class="stat"><span class="stat-value">250+</span><span class="stat-label">Research Studies</span></div>
   </div>
 </div>
 
@@ -212,41 +193,9 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 ## Documentation
 
 <div class="doc-grid">
-  <div class="doc-card">
-    <h3>📄 White Paper</h3>
-    <p>Complete framework specification with 250+ citations</p>
-    <a href="elevation-grid-academic.html" class="btn btn-sm">Read Paper</a>
-  </div>
-  
-  <div class="doc-card">
-    <h3>🔗 Cross References</h3>
-    <p>Connections to other frameworks and research</p>
-    <a href="elevation-grid-cross-references.html" class="btn btn-sm">View References</a>
-  </div>
-  
-  <div class="doc-card">
-    <h3>📚 Master Bibliography</h3>
-    <p>250+ peer-reviewed studies organized by topic</p>
-    <a href="elevation-grid-master-bibliography.html" class="btn btn-sm">Browse Studies</a>
-  </div>
-  
-  <div class="doc-card">
-    <h3>📊 Visualizations</h3>
-    <p>Interactive diagrams and charts</p>
-    <a href="elevation-grid-visualizations.html" class="btn btn-sm">Explore Visuals</a>
-  </div>
-  
-  <div class="doc-card">
-    <h3>🔄 Synoetic OS Overlay</h3>
-    <p>AI system translation and integration</p>
-    <a href="overlays/elevation-grid-synoetic-overlay.html" class="btn btn-sm">View Overlay</a>
-  </div>
-  
-  <div class="doc-card">
-    <h3>⛰️ CTS Overlay</h3>
-    <p>Climb to Summit integration</p>
-    <a href="overlays/elevation-grid-cts-overlay.html" class="btn btn-sm">View Overlay</a>
-  </div>
+  <div class="doc-card"><h3>📄 Academic Paper</h3><a href="elevation-grid-academic.html" class="btn btn-sm">Read Full Text</a></div>
+  <div class="doc-card"><h3>📊 Visualizations</h3><a href="eleavtion-grid-visualtions.html" class="btn btn-sm">View Charts</a></div>
+  <div class="doc-card"><h3>📚 Master Bibliography</h3><a href="elevation-grid-master-bibliography.html" class="btn btn-sm">Browse 250+ Studies</a></div>
 </div>
 
 ---
