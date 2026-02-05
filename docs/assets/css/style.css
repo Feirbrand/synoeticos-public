@@ -17,5 +17,9 @@ body {
 
 .vgs-standard {
     background: #f6f8fa;
-    min-height: 100vh;
+    color: #24292f;
+}
+
+.hero h1 {
+    color: #FFD700 !important;
 }
