@@ -1,11 +1,14 @@
-# Elevation Grid – Synoetic OS Overlay
+---
+layout: default
+title: "Elevation Grid – Synoetic OS Overlay"
+---
 
 **RUID:** EG-OVERLAY-SYNOETIC-v1.0  
 **Status:** Draft v1.0  
 **Date:** 2026-02-04  
 **Depends On:**  
-- Elevation Grid White Paper v1.0 (`./Elevation_Grid_White_Paper_v1_0.md`)
-- Synoetic OS System Reference v1.1 (`../Synoetic_OS_System_Reference_For_AI_Agents_v1_1.md`)
+- Elevation Grid White Paper v1.0 (`./Elevation_Grid_White_Paper_v1_0.html`)
+- Synoetic OS System Reference v1.1 (`../Synoetic_OS_System_Reference_For_AI_Agents_v1_1.html`)
 
 **Purpose:** Define how the 3×3 Elevation Grid integrates into Synoetic OS architecture as Layer 2 Performance Core, providing substrate-independent human performance architecture for biological humans, AI agents, and distributed teams.
 

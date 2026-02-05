@@ -1,4 +1,7 @@
-# ELEVATION GRID - CITATION AGGREGATOR OUTPUT
+---
+layout: default
+title: "ELEVATION GRID - CITATION AGGREGATOR OUTPUT"
+---
 
 ## Master Bibliography & Citation Index
 

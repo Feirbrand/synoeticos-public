@@ -1,4 +1,7 @@
-# ELEVATION GRID - CROSS-REFERENCE GENERATOR OUTPUT
+---
+layout: default
+title: "ELEVATION GRID - CROSS-REFERENCE GENERATOR OUTPUT"
+---
 
 ## Related VGS Frameworks
 
@@ -35,7 +38,7 @@ The Elevation Grid integrates with and extends multiple core VGS frameworks:
 
 ## Dependency Graph
 
-```mermaid
+<div class="mermaid">
 graph TD
     A["Elevation Grid<br/>3×3 Coordinate System"] -->|"Implements"| B["Polyvagal Theory<br/>Autonomic Regulation"]
     A -->|"Extends"| C["UTME<br/>Temporal Constraints"]
@@ -54,7 +57,7 @@ graph TD
     style D fill:#ffe66d
     style E fill:#ffe66d
     style F fill:#95e1d3
-```
+</div>
 
 ---
 

@@ -1,12 +1,15 @@
-# Elevation Grid – CTS (Climb to Summit) Overlay
+---
+layout: default
+title: "Elevation Grid – CTS (Climb to Summit) Overlay"
+---
 
 **RUID:** EG-OVERLAY-CTS-v1.0  
 **Status:** Draft v1.0  
 **Date:** 2026-02-04  
 **Brand:** APP (Achieve Peak Performance) → CTS Secular Track  
 **Depends On:**  
-- Elevation Grid White Paper v1.0 (`./Elevation_Grid_White_Paper_v1_0.md`)
-- CTS Program Documentation (`../CTS_Certification_Complete_Curriculum.md`)
+- Elevation Grid White Paper v1.0 (`./Elevation_Grid_White_Paper_v1_0.html`)
+- CTS Program Documentation (`../CTS_Certification_Complete_Curriculum.html`)
 
 **Purpose:** Define how CTS (Climb to Summit) implements the Elevation Grid for secular performance coaching contexts—translating technical 3×3 architecture into athlete-friendly language, drills, and measurement protocols.
 
@@ -18,7 +21,7 @@
 
 **Promise:** Translate the 3×3 Elevation Grid into athlete-friendly language and drills that work across combat sports (MMA, BJJ, boxing), high school/collegiate teams, adaptive athletics, and executive performance contexts.
 
-**Scope:** Secular track only (no faith-based language). For faith-integrated version, see `elevation-grid-ff-overlay.md`.
+**Scope:** Secular track only (no faith-based language). For faith-integrated version, see `elevation-grid-ff-overlay.html`.
 
 **Core Insight:** CTS is Elevation Grid in gym clothes. Same neuroscience, same 3×3 architecture, different vocabulary. An athlete learning "GROUND" is practicing Position 1-1 (Autonomic Stability). A fighter using "REAL-TIME" is executing Position 2-2 (Flow State). The Grid remains substrate-independent—it works identically for stroke survivors, elite athletes, and AI agents because all three operate under the same neurobiological constraints.
 

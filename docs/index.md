@@ -1,4 +1,7 @@
-# Synoetic OS Whitepapers
+---
+layout: default
+title: "Synoetic OS Whitepapers"
+---
 
 This site hosts a collection of whitepapers and research related to the Synoetic OS project.
 

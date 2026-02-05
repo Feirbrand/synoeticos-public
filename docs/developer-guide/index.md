@@ -1,4 +1,7 @@
-# SynoeticOS Developer's Guide
+---
+layout: default
+title: "SynoeticOS Developer's Guide"
+---
 
 ## Introduction
 This guide is intended for developers who want to understand, contribute to, or extend the SynoeticOS project. It provides an overview of the architecture, key components, and best practices for development.
@@ -46,8 +49,8 @@ cd synoeticos-public
 (Details on how to build documentation will go here.)
 
 ## Further Reading
--   [SynoeticOS Whitepaper](../whitepapers/synoetic-os/synoetic-os-v1.0.md)
--   [MI Agents Whitepaper](../whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md)
+-   [SynoeticOS Whitepaper](../whitepapers/synoetic-os/synoetic-os-v1.0.html)
+-   [MI Agents Whitepaper](../whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.html)
 -   [Published Research Papers](https://orcid.org/0009-0000-9923-3207)
 
 ---

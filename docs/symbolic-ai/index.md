@@ -1,2 +1,5 @@
-# Symbolic AI
+---
+layout: default
+title: "Symbolic AI"
+---
 Coming soon!
