@@ -41,6 +41,26 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      <section class="academic-citation">
+        <hr>
+        <h3>Cite this Research</h3>
+        <div class="citation-box" id="bibtex-block">
+          @article{slusher2026{{ page.title | slugify | remove: "-" }},
+            title={ {{ page.title }} },
+            author={Slusher, Aaron M.},
+            year={2026},
+            url={ {{ site.url }}{{ page.url }} },
+            orcid={0009-0000-9923-3207},
+            publisher={ValorGrid Solutions / Achieve Peak Performance}
+          }
+          <button class="copy-btn" onclick="copyBibtex('bibtex-block')">Copy BibTeX</button>
+        </div>
+        <p class="doi-link">
+          <strong>Zenodo DOI:</strong> 
+          <a href="https://doi.org/10.5281/zenodo.18318485">10.5281/zenodo.18318485</a>
+        </p>
+      </section>
+
       <footer class="site-footer">
         <div class="footer-links">
           <a href="{{ site.huggingface }}">Hugging Face Hub</a> | 
