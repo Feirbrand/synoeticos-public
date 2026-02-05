@@ -42,6 +42,12 @@
       {{ content }}
 
       <footer class="site-footer">
+        <div class="footer-links">
+          <a href="{{ site.huggingface }}">Hugging Face Hub</a> | 
+          <a href="{{ site.github.repository_url }}">GitHub Source</a> |
+          <a href="https://orcid.org/0009-0000-9923-3207">ORCID Profile</a> |
+          <a href="#">Zenodo (URL Missing)</a>
+        </div>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
