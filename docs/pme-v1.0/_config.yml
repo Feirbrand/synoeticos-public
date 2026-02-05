@@ -14,7 +14,7 @@ plugins:
 
 # Site URL (adjust based on deployment)
 url: "https://feirbrand.github.io/synoeticos-public/pme-v1.0"
-baseurl: "/synoeticos-public/pme-v1.0"
+baseurl: "/synoeticos-public"
 
 # Markdown processor
 markdown: kramdown

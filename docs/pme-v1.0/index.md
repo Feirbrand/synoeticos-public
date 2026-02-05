@@ -4,6 +4,7 @@ title: "PME v1.0: Predictive Myelination Engine"
 description: "Bio-inspired anticipatory pathway reinforcement for AI systems"
 author: "Aaron M. Slusher"
 date: "2026-01-30"
+custom_css: ../assets/css/style.css
 ---
 
 # PME v1.0: Predictive Myelination Engine
