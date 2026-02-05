@@ -23,6 +23,11 @@
   "keywords": "AI Resilience, Cognitive Architecture, Mythopoeic Intelligence, Elevation Grid"
 }
     </script>
+    <style>
+      .citation-box { background: #f4f4f4; padding: 15px; border-radius: 5px; position: relative; margin: 20px 0; font-family: monospace; font-size: 0.9em; }
+      .copy-btn { position: absolute; top: 10px; right: 10px; padding: 5px 10px; background: #001f3f; color: white; border: none; border-radius: 3px; cursor: pointer; }
+      .copy-btn:hover { background: #FFD700; color: #001f3f; }
+    </style>
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -77,5 +82,16 @@
     await mermaid.run();
   });
 </script>
+    <script>
+      function copyBibtex(id) {
+        const text = document.getElementById(id).textContent;
+        navigator.clipboard.writeText(text).then(() => {
+          const btn = event.target;
+          const originalText = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(() => { btn.textContent = originalText; }, 2000);
+        });
+      }
+    </script>
   </body>
 </html>
