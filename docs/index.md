@@ -17,6 +17,10 @@ title: "Synoetic OS Whitepapers"
   <div class="doc-grid">
     <div class="doc-card"><h3>🛡️ MI Arsenal</h3><p>77+ symbolic frameworks for cognitive defense.</p><a href="https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal" class="btn">Explore Arsenal</a></div>
     <div class="doc-card"><h3>📈 Elevation Grid</h3><p>Neurobiological performance framework (Paper #16).</p><a href="elevation-grid/index.html" class="btn">View Grid</a></div>
-    <div class="doc-card"><h3>🧠 PME v1.0</h3><p>Predictive Myelination Engine: 712x acceleration.</p><a href="pme-v-1-0-academic-paper.html" class="btn">Read PME Paper</a></div>
+    <div class="doc-card">
+     <h3>🧠 PME v1.0</h3>
+     <p>Predictive Myelination Engine: Bio-inspired pathway reinforcement (712× acceleration).</p>
+     <a href="pme-v1.0/" class="btn btn-sm">Explore PME</a>
+   </div>
   </div>
 </div>

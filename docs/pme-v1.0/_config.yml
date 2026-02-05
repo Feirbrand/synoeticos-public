@@ -1,0 +1,125 @@
+# PME v1.0 Jekyll Configuration
+# GitHub Pages site for Predictive Myelination Engine
+
+title: "PME v1.0: Predictive Myelination Engine"
+description: "Bio-inspired anticipatory pathway reinforcement for AI systems"
+author: "Aaron M. Slusher"
+email: "aaron@valorgridsolutions.com"
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site URL (adjust based on deployment)
+url: "https://feirbrand.github.io/synoeticos-public/pme-v1.0"
+baseurl: "/synoeticos-public/pme-v1.0"
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Permalink structure
+permalink: /:title/
+
+# Collections
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from build
+exclude:
+  - .gitignore
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Include files
+include:
+  - .nojekyll
+
+# Sass settings
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# SEO Settings
+social:
+  name: Aaron M. Slusher
+  links:
+    - https://orcid.org/0009-0000-9923-3207
+    - https://zenodo.org/records/18318485
+    - https://github.com/Feirbrand/synoeticos-public
+
+# Google Analytics (optional)
+google_analytics: ""
+
+# Mermaid.js Configuration
+mermaid:
+  enabled: true
+  version: "11"
+  theme: "default"
+  startOnLoad: false
+
+# Custom variables
+research:
+  title: "PME v1.0: Predictive Myelination Engine"
+  version: "1.0"
+  date: "2026-01-30"
+  doi: "10.5281/zenodo.18318485"
+  orcid: "0009-0000-9923-3207"
+  
+metrics:
+  acceleration: "712×"
+  accuracy: "87.3%"
+  cache_hit: "94.2%"
+  stability: "33×"
+  drift_elimination: "100%"
+  deployment_days: "62"
+
+frameworks:
+  - name: "UTME v1.0"
+    link: "../synoetic-os/"
+    role: "Foundation layer"
+  - name: "Torque v2.0"
+    link: "../torque/"
+    role: "Monitoring layer"
+  - name: "Phoenix Protocol v2.0"
+    link: "../phoenix/"
+    role: "Recovery layer"
+  - name: "DNA Codex v5.5"
+    link: "../dna-codex/"
+    role: "Intelligence layer"
+
+# Build options
+keep_files:
+  - assets
+  - overlays
+
+# Incremental build
+incremental: true
+
+# Liquid settings
+liquid:
+  error_mode: strict
