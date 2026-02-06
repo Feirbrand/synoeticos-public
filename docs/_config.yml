@@ -73,7 +73,7 @@ defaults:
 
   # Cognitive Mage v1.0
   - scope:
-      path: "cognitive-mage-v1.0"
+      path: "cognitive-mage"
     values:
       layout: "paper"
       mermaid: true
@@ -128,7 +128,7 @@ defaults:
 
   # Synoetic OS v1.0
   - scope:
-      path: "synoetic-os-v1.0"
+      path: "synoetic-os"
     values:
       layout: "paper"
       mermaid: true
@@ -136,7 +136,6 @@ defaults:
       paper_subtitle: "Substrate-Independent Orchestration of AI Agents"
       doi: "10.5281/zenodo.17497149"
       zenodo: "https://zenodo.org/records/17497149"
-  
 
   # PME v1.0 
   - scope:
