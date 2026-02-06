@@ -11,7 +11,7 @@ title: "PME v1.0: Predictive Myelination Engine"
 **Affiliation:** ValorGrid Solutions    
 **Publication Date:** January 30, 2026  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.18318485](https://zenodo.org/records/18318485)
+**DOI:** [10.5281/zenodo.18318485](https://zenodo.org/doi/10.5281/zenodo.18318485)
 
 ---
 

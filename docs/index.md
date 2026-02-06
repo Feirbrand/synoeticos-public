@@ -51,6 +51,20 @@ title: "Synoetic OS Research Hub"
       <a href="{{ site.baseurl }}/fce-v3.6/" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore FCE</a>
     </div>
     
+    <!-- Torque v2.0 Card -->
+    <div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #001f3f; margin-top: 0;">⚙️ Torque v2.0</h3>
+      <p>Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure.</p>
+      <a href="{{ site.baseurl }}/torque-v2.0/" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Torque</a>
+    </div>
+
+    <!-- MI Agents v1.0 Card -->
+    <div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #001f3f; margin-top: 0;">🧬 MI Agents v1.0</h3>
+      <p>Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention across 7 AI platforms.</p>
+      <a href="{{ site.baseurl }}/mi-agents-v1.0/" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore MI Agents</a>
+    </div>
+
   </div>
 
   <!-- Quick Links Section -->

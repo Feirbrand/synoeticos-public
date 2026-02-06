@@ -11,7 +11,7 @@ title: "FCE v3.6: Fractal Context Engineering"
 **Affiliation:** ValorGrid Solutions  
 **Publication Date:** October 9, 2025  
 **Version:** 3.6  
-**DOI:** [10.5281/zenodo.17309322](https://zenodo.org/records/17309322)
+**DOI:** [10.5281/zenodo.17309322](https://zenodo.org/doi/10.5281/zenodo.17309322)
 
 ---
 

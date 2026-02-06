@@ -68,8 +68,8 @@ defaults:
       mermaid: true
       paper_title: "Elevation Grid v1.0"
       paper_subtitle: "Neurobiological Framework for High-Stakes Performance"
-      doi: "10.5281/zenodo.placeholder"
-      zenodo: "https://zenodo.org/records/placeholder"
+      doi: "10.5281/zenodo.18489565"
+      zenodo: "https://zenodo.org/records/18489565"
 
  # UTME Paper
   - scope:
@@ -79,8 +79,8 @@ defaults:
       mermaid: true
       paper_title: "UTME v1.0: Universal Temporal Myelination Engine"
       paper_subtitle: "Substrate-independent pathway acceleration for AI systems"
-      doi: "10.5281/zenodo.XXXXXXX"  # Replace when available
-      zenodo: "https://zenodo.org/records/XXXXXXX"  # Replace when available
+      doi: "10.5281/ZENODO.17497149" 
+      zenodo: "https://zenodo.org/records/17497149"  
 
   # FCE 3.6 Paper  
   - scope:
@@ -90,8 +90,30 @@ defaults:
       mermaid: true
       paper_title: "FCE v3.6: Fractal Coherence Engine"
       paper_subtitle: "Self-similar pattern stability across scale transitions"
-      doi: "10.5281/zenodo.XXXXXXX"  # Replace when available
-      zenodo: "https://zenodo.org/records/XXXXXXX"  # Replace when available
+      doi: "10.5281/ZENODO.17309322"  
+      zenodo: "https://zenodo.org/records/17309322" 
+
+ # Torque v2.0
+  - scope:
+      path: "torque-v2.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "Torque v2.0"
+      paper_subtitle: "Measuring AI System Stability in Real-Time"
+      doi: "10.5281/ZENODO.17379750"
+      zenodo: "https://zenodo.org/records/17379750"
+
+  # MI Agents v1.0
+  - scope:
+      path: "mi-agents-v1.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "MI Agents v1.0"
+      paper_subtitle: "Mythopoeic Intelligence Agents - Narrative Identity Architecture"
+      doi: "10.5281/zenodo.17770533"
+      zenodo: "https://zenodo.org/records/17770533"
 
   # PME v1.0 (Paper #17)
   - scope:
