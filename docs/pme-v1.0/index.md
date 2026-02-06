@@ -146,10 +146,10 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](pme-v1.0-academic.md)** - Complete technical specification with implementation details
-- **[Visualizations](pme-v1.0-visualizations.md)** - Mermaid diagrams showing architecture and workflows
-- **[Cross-References](pme-v1.0-cross-references.md)** - Related frameworks and conceptual connections
-- **[Master Bibliography](pme-v1.0-master-bibliography.md)** - Complete citation list (250+ references)
+- **[Full Academic Paper](pme-v1.0-academic.html)** - Complete technical specification with implementation details
+- **[Visualizations](pme-v1.0-visualizations.html)** - Mermaid diagrams showing architecture and workflows
+- **[Cross-References](pme-v1.0-cross-references.html)** - Related frameworks and conceptual connections
+- **[Master Bibliography](pme-v1.0-master-bibliography.html)** - Complete citation list (250+ references)
 
 ---
 
@@ -201,7 +201,7 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 
 ## 🔗 Related Resources
 
-- **[Synoetic OS Research Hub](https://feirbrand.github.io/synoeticos-public/)** - Complete research documentation
+- **[Synoetic OS Research Hub]({{ site.baseurl }}/)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
 - **[Zenodo](https://zenodo.org/records/18318485)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
@@ -210,4 +210,4 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 
 **© 2025 Achieve Peak Performance. All rights reserved.**
 
-*Last updated: February 5, 2026*
+*Last updated: February 6, 2026*

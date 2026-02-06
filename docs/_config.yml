@@ -1,5 +1,98 @@
+# Synoetic OS Research Hub - GitHub Pages Configuration
+
+# Site Settings
 theme: jekyll-theme-minimal
-title: Synoetic OS Whitepapers
-description: A collection of whitepapers and research on Synoetic OS.
+title: Synoetic OS Research Hub
+description: Academic research papers on AI resilience, cognitive architecture, and mythopoeic intelligence
+author: Aaron M. Slusher
+email: aaron@valorgridsolutions.com
+
+# URLs
+url: https://feirbrand.github.io
+baseurl: /synoeticos-public
+
+# External Links
 huggingface: https://huggingface.co/Feirbrand/
 spaces: https://huggingface.co/Feirbrand/spaces
+orcid: https://orcid.org/0009-0000-9923-3207
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins (GitHub Pages default)
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+
+# Collections (if needed later)
+collections_dir: docs
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# ============================================
+# FRONT MATTER DEFAULTS - CRITICAL SECTION
+# ============================================
+# This makes all papers work automatically without per-file configuration
+
+defaults:
+  # All pages get default layout
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Aaron M. Slusher"
+
+  # Hub landing page
+  - scope:
+      path: "index.md"
+    values:
+      layout: "default"
+      title: "Synoetic OS Research Hub"
+
+  # Elevation Grid (Paper #16)
+  - scope:
+      path: "elevation-grid"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "Elevation Grid v1.0"
+      paper_subtitle: "Neurobiological Framework for High-Stakes Performance"
+      doi: "10.5281/zenodo.placeholder"
+      zenodo: "https://zenodo.org/records/placeholder"
+
+  # PME v1.0 (Paper #17)
+  - scope:
+      path: "pme-v1.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "PME v1.0: Predictive Myelination Engine"
+      paper_subtitle: "Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems"
+      doi: "10.5281/zenodo.18318485"
+      zenodo: "https://zenodo.org/records/18318485"
+
+  # ============================================
+  # ADD NEW PAPERS HERE (6 lines each)
+  # ============================================
+  
+  # Example for next paper:
+  # - scope:
+  #     path: "paper-name"
+  #   values:
+  #     layout: "paper"
+  #     mermaid: true
+  #     paper_title: "Paper Title"
+  #     paper_subtitle: "Paper Subtitle"
+  #     doi: "10.5281/zenodo.XXXXXXX"
+  #     zenodo: "https://zenodo.org/records/XXXXXXX"

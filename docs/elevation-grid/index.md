@@ -194,7 +194,7 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 <div class="doc-grid">
   <div class="doc-card"><h3>📄 Academic Paper</h3><a href="elevation-grid-academic.html" class="btn btn-sm">Read Full Text</a></div>
-  <div class="doc-card"><h3>📊 Visualizations</h3><a href="eleavtion-grid-visualtions.html" class="btn btn-sm">View Charts</a></div>
+  <div class="doc-card"><h3>📊 Visualizations</h3><a href="elevation-grid-visualizations.html" class="btn btn-sm">View Charts</a></div>
   <div class="doc-card"><h3>📚 Master Bibliography</h3><a href="elevation-grid-master-bibliography.html" class="btn btn-sm">Browse 250+ Studies</a></div>
 </div>
 
@@ -211,7 +211,7 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
   journal={Achieve Peak Performance White Papers},
   year={2026},
   doi={TBD},
-  url={https://valorgridsolutions.github.io/synoeticos-public/elevation-grid/}
+  url={https://feirbrand.github.io/synoeticos-public/elevation-grid/}
 }
 ```
 

@@ -4,29 +4,74 @@
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#001f3f">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
+    <!-- Schema.org structured data -->
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ResearchProject",
-  "name": "Synoetic OS",
+  "name": "Synoetic OS Research Hub",
   "alternateName": "Mythopoeic Intelligence Architecture",
-  "description": "A cognitive architecture for AI resilience and narrative sovereignty.",
-  "url": "https://feirbrand.github.io/synoeticos-public/",
+  "description": "{{ site.description }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
   "author": {
     "@type": "Person",
-    "name": "Aaron M. Slusher",
-    "identifier": "https://orcid.org/0009-0000-9923-3207"
+    "name": "{{ site.author }}",
+    "identifier": "{{ site.orcid }}"
   },
-  "keywords": "AI Resilience, Cognitive Architecture, Mythopoeic Intelligence, Elevation Grid"
+  "keywords": "AI Resilience, Cognitive Architecture, Mythopoeic Intelligence, Predictive Myelination"
 }
     </script>
+    
     <style>
-      .citation-box { background: #f4f4f4; padding: 15px; border-radius: 5px; position: relative; margin: 20px 0; font-family: monospace; font-size: 0.9em; }
-      .copy-btn { position: absolute; top: 10px; right: 10px; padding: 5px 10px; background: #001f3f; color: white; border: none; border-radius: 3px; cursor: pointer; }
-      .copy-btn:hover { background: #FFD700; color: #001f3f; }
+      /* Citation box styling */
+      .citation-box { 
+        background: #f4f4f4; 
+        padding: 15px; 
+        border-radius: 5px; 
+        position: relative; 
+        margin: 20px 0; 
+        font-family: monospace; 
+        font-size: 0.9em; 
+        border-left: 4px solid #001f3f;
+      }
+      .copy-btn { 
+        position: absolute; 
+        top: 10px; 
+        right: 10px; 
+        padding: 5px 10px; 
+        background: #001f3f; 
+        color: white; 
+        border: none; 
+        border-radius: 3px; 
+        cursor: pointer; 
+        font-size: 0.85em;
+      }
+      .copy-btn:hover { 
+        background: #FFD700; 
+        color: #001f3f; 
+      }
+      .copy-btn:active {
+        transform: scale(0.95);
+      }
+      
+      /* Mermaid diagram container */
+      .mermaid {
+        display: flex;
+        justify-content: center;
+        margin: 2rem 0;
+        background-color: #f8f9fa;
+        padding: 1.5rem;
+        border-radius: 8px;
+        border: 1px solid #e0e0e0;
+      }
+      
+      .mermaid svg {
+        max-width: 100%;
+        height: auto;
+      }
     </style>
   </head>
   <body>
@@ -36,86 +81,122 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
+      {% if page.paper_title %}
+        <a href="{{ site.baseurl }}/" class="btn">← Research Hub</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      <!-- Citation section (only show for papers) -->
+      {% if page.paper_title %}
       <section class="academic-citation">
         <hr>
         <h3>Cite this Research</h3>
         <div class="citation-box" id="bibtex-block">
-          @article{slusher2026{{ page.title | slugify | remove: "-" }},
-            title={ {{ page.title }} },
-            author={Slusher, Aaron M.},
-            year={2026},
-            url={ {{ site.url }}{{ page.url }} },
-            orcid={0009-0000-9923-3207},
-            publisher={ValorGrid Solutions / Achieve Peak Performance}
-          }
-          <button class="copy-btn" onclick="copyBibtex('bibtex-block')">Copy BibTeX</button>
+@article{slusher2026{{ page.paper_title | slugify | remove: "-" | truncate: 20, "" }},
+  title={ {{- page.paper_title -}} },
+  {% if page.paper_subtitle %}subtitle={ {{- page.paper_subtitle -}} },{% endif %}
+  author={Slusher, Aaron M.},
+  year={2026},
+  {% if page.doi %}doi={ {{- page.doi -}} },{% endif %}
+  url={ {{- site.url -}}{{- site.baseurl -}}{{- page.url -}} },
+  note={ORCID: 0009-0000-9923-3207}
+}
+          <button class="copy-btn" onclick="copyBibtex()">Copy BibTeX</button>
         </div>
+        
+        {% if page.zenodo %}
         <p class="doi-link">
           <strong>Zenodo DOI:</strong> 
-          <a href="https://doi.org/10.5281/zenodo.18318485">10.5281/zenodo.18318485</a>
+          <a href="{{ page.zenodo }}" target="_blank">{{ page.doi }}</a>
+        </p>
+        {% endif %}
+        
+        <p class="additional-links">
+          <a href="{{ site.huggingface }}" target="_blank">Hugging Face Hub</a> | 
+          <a href="{{ site.github.repository_url }}" target="_blank">GitHub Source</a> |
+          <a href="{{ site.orcid }}" target="_blank">ORCID Profile</a>
+          {% if page.zenodo %} | <a href="{{ page.zenodo }}" target="_blank">Zenodo Record</a>{% endif %}
         </p>
       </section>
+      {% endif %}
 
       <footer class="site-footer">
-        <div class="footer-links">
-          <a href="{{ site.huggingface }}">Hugging Face Hub</a> | 
-          <a href="{{ site.github.repository_url }}">GitHub Source</a> |
-          <a href="https://orcid.org/0009-0000-9923-3207">ORCID Profile</a> |
-          <a href="#">Zenodo (URL Missing)</a>
-        </div>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+        <span class="site-footer-credits">Generated by <a href="https://pages.github.com">GitHub Pages</a> | © 2026 Aaron M. Slusher, ValorGrid Solutions</span>
       </footer>
     </main>
 
+    <!-- CONDITIONAL MERMAID LOADING - Only load if page.mermaid is true -->
+    {% if page.mermaid %}
     <script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  
-  // 1. Initialize without auto-start to prevent clashing
-  mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'loose' });
-
-  // 2. The Universal Fix: Find EVERY possible mermaid block (divs and code fences)
-  document.addEventListener('DOMContentLoaded', async () => {
-    const selector = 'div.mermaid, pre code.language-mermaid';
-    const blocks = document.querySelectorAll(selector);
-
-    for (let i = 0; i < blocks.length; i++) {
-      const el = blocks[i];
-      const rawText = el.textContent.trim();
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
       
-      // Create a clean container for the SVG
-      const container = document.createElement('div');
-      container.className = 'mermaid';
-      container.id = `mermaid-render-${i}`;
-      container.textContent = rawText;
+      // Initialize without auto-start to prevent conflicts
+      mermaid.initialize({ 
+        startOnLoad: false, 
+        theme: 'neutral', 
+        securityLevel: 'loose',
+        fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+      });
 
-      // Replace the old messy tag (pre/code) with our clean div
-      if (el.tagName === 'CODE') {
-        el.parentElement.replaceWith(container);
-      } else {
-        el.replaceWith(container);
-      }
-    }
-    
-    // 3. Manually trigger the render on our new clean divs
-    await mermaid.run();
-  });
-</script>
+      // Universal Mermaid render: handles both <div class="mermaid"> and ```mermaid code blocks
+      document.addEventListener('DOMContentLoaded', async () => {
+        const selector = 'div.mermaid, pre code.language-mermaid';
+        const blocks = document.querySelectorAll(selector);
+
+        for (let i = 0; i < blocks.length; i++) {
+          const el = blocks[i];
+          const rawText = el.textContent.trim();
+          
+          // Create clean container for SVG
+          const container = document.createElement('div');
+          container.className = 'mermaid';
+          container.id = `mermaid-diagram-${i}`;
+          container.textContent = rawText;
+
+          // Replace old element with clean container
+          if (el.tagName === 'CODE') {
+            el.parentElement.replaceWith(container);
+          } else {
+            el.replaceWith(container);
+          }
+        }
+        
+        // Render all diagrams
+        try {
+          await mermaid.run();
+          console.log('Mermaid diagrams rendered successfully');
+        } catch (error) {
+          console.error('Mermaid rendering error:', error);
+        }
+      });
+    </script>
+    {% endif %}
+
+    <!-- BibTeX copy function -->
     <script>
-      function copyBibtex(id) {
-        const text = document.getElementById(id).textContent;
+      function copyBibtex() {
+        const block = document.getElementById('bibtex-block');
+        const text = block.textContent.replace('Copy BibTeX', '').trim();
+        
         navigator.clipboard.writeText(text).then(() => {
           const btn = event.target;
           const originalText = btn.textContent;
-          btn.textContent = 'Copied!';
-          setTimeout(() => { btn.textContent = originalText; }, 2000);
+          btn.textContent = '✓ Copied!';
+          btn.style.background = '#27ae60';
+          
+          setTimeout(() => { 
+            btn.textContent = originalText;
+            btn.style.background = '#001f3f';
+          }, 2000);
+        }).catch(err => {
+          console.error('Copy failed:', err);
+          alert('Failed to copy. Please select and copy manually.');
         });
       }
     </script>
