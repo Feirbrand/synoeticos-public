@@ -1,19 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this research or any frameworks from the MI Arsenal, please cite it as follows."
+message: "If you use this research or MI Arsenal frameworks, please cite it as follows."
 authors:
-- family-names: "Slusher"
-  given-names: "Aaron M."
-  orcid: "https://orcid.org/0009-0000-9923-3207"
+  - family-names: "Slusher"
+    given-names: "Aaron M."
+    orcid: "https://orcid.org/0009-0000-9923-3207"
 title: "Synoetic OS: Cognitive Architecture for AI Resilience"
 version: 1.2.0
 date-released: 2026-02-05
 url: "https://feirbrand.github.io/synoeticos-public/"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18318485"
-keywords:
-  - "AI Resilience"
-  - "Cognitive Architecture"
-  - "Mythopoeic Intelligence"
-  - "Elevation Grid"
-  - "PME"
+repository-code: "https://github.com/Feirbrand/synoeticos-public"
