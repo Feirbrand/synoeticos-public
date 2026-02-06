@@ -15,7 +15,7 @@ title: "FCE v3.6: Fractal Context Engineering"
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Key Performance Metrics
 
 | Metric | Baseline | FCE Improvement | Result |
 |--------|----------|-----------------|--------|
