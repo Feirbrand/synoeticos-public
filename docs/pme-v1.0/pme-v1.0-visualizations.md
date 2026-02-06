@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "PME v1.0 Visualizations"
-description: "Mermaid diagrams showing PME architecture, workflows, and integration"
 ---
 
 # PME v1.0 Visualizations
