@@ -36,6 +36,20 @@ title: "Synoetic OS Research Hub"
       <p>Predictive Myelination Engine: Bio-inspired pathway reinforcement achieving 712× acceleration.</p>
       <a href="{{ site.baseurl }}/pme-v1.0/" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore PME</a>
     </div>
+
+    <!-- UTME v1.0 Card -->
+    <div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #001f3f; margin-top: 0;">⚡ UTME v1.0</h3>
+      <p>Universal Temporal Myelination Engine: Substrate-independent pathway acceleration achieving 710× performance gains.</p>
+      <a href="{{ site.baseurl }}/utme-v1.0/" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore UTME</a>
+    </div>
+
+    <!-- FCE v3.6 Card -->
+    <div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #001f3f; margin-top: 0;">🔄 FCE v3.6</h3>
+      <p>Fractal Coherence Engine: Self-similar pattern stability across scale transitions with recursive validation.</p>
+      <a href="{{ site.baseurl }}/fce-v3.6/" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore FCE</a>
+    </div>
     
   </div>
 
