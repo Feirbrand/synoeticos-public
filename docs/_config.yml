@@ -60,7 +60,7 @@ defaults:
       layout: "default"
       title: "Synoetic OS Research Hub"
 
-  # Elevation Grid (Paper #16)
+  # Elevation Grid 
   - scope:
       path: "elevation-grid"
     values:
@@ -71,7 +71,18 @@ defaults:
       doi: "10.5281/zenodo.18489565"
       zenodo: "https://zenodo.org/records/18489565"
 
- # UTME Paper
+  # Cognitive Mage v1.0
+  - scope:
+      path: "cognitive-mage-v1.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "Cognitive Mage v1.0"
+      paper_subtitle: "How a Performance Coach Created 100% Symbolic AI"
+      doi: "10.5281/zenodo.17643267"
+      zenodo: "https://zenodo.org/records/17643267"
+
+ # UTME v1.0
   - scope:
       path: "utme-v1.0"
     values:
@@ -82,7 +93,7 @@ defaults:
       doi: "10.5281/ZENODO.17497149" 
       zenodo: "https://zenodo.org/records/17497149"  
 
-  # FCE 3.6 Paper  
+  # FCE 3.6  
   - scope:
       path: "fce-v3.6"
     values:
@@ -115,7 +126,19 @@ defaults:
       doi: "10.5281/zenodo.17770533"
       zenodo: "https://zenodo.org/records/17770533"
 
-  # PME v1.0 (Paper #17)
+  # Synoetic OS v1.0
+  - scope:
+      path: "synoetic-os-v1.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "Synoetic OS v1.0"
+      paper_subtitle: "Substrate-Independent Orchestration of AI Agents"
+      doi: "10.5281/zenodo.17497149"
+      zenodo: "https://zenodo.org/records/17497149"
+  
+
+  # PME v1.0 
   - scope:
       path: "pme-v1.0"
     values:
