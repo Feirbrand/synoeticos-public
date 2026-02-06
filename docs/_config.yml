@@ -71,6 +71,28 @@ defaults:
       doi: "10.5281/zenodo.placeholder"
       zenodo: "https://zenodo.org/records/placeholder"
 
+ # UTME Paper
+  - scope:
+      path: "utme-v1.0"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "UTME v1.0: Universal Temporal Myelination Engine"
+      paper_subtitle: "Substrate-independent pathway acceleration for AI systems"
+      doi: "10.5281/zenodo.XXXXXXX"  # Replace when available
+      zenodo: "https://zenodo.org/records/XXXXXXX"  # Replace when available
+
+  # FCE 3.6 Paper  
+  - scope:
+      path: "fce-v3.6"
+    values:
+      layout: "paper"
+      mermaid: true
+      paper_title: "FCE v3.6: Fractal Coherence Engine"
+      paper_subtitle: "Self-similar pattern stability across scale transitions"
+      doi: "10.5281/zenodo.XXXXXXX"  # Replace when available
+      zenodo: "https://zenodo.org/records/XXXXXXX"  # Replace when available
+
   # PME v1.0 (Paper #17)
   - scope:
       path: "pme-v1.0"

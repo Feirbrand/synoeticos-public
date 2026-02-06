@@ -10,21 +10,21 @@ title: "Elevation Grid Visualizations"
 <div class="mermaid">
 graph TD
     subgraph Layer3["LAYER 3: IDENTITY ARCHITECTURE (Stress Mindset)"]
-        P7["Position 7<br/>TRANSCENDENCE<br/>(Self-Actualization)"]
-        P8["Position 8<br/>INTEGRATION<br/>(Identity Coherence)"]
-        P9["Position 9<br/>LIBERATION<br/>(Stress-Enhancing Mindset)"]
+        P7["Position 7 <br/>TRANSCENDENCE<br/>(Self-Actualization)"]
+        P8["Position 8 <br/>INTEGRATION<br/>(Identity Coherence)"]
+        P9["Position 9 <br/>LIBERATION<br/>(Stress-Enhancing Mindset)"]
     end
     
     subgraph Layer2["LAYER 2: COGNITIVE ARCHITECTURE (Executive Function)"]
-        P4["Position 4<br/>ATTENTION<br/>(Cognitive Control)"]
-        P5["Position 5<br/>PRESENCE<br/>(Real-Time Awareness)"]
-        P6["Position 6<br/>INTENTION<br/>(Goal Clarity)"]
+        P4["Position 4 <br/>ATTENTION<br/>(Cognitive Control)"]
+        P5["Position 5 <br/>PRESENCE<br/>(Real-Time Awareness)"]
+        P6["Position 6 <br/>INTENTION<br/>(Goal Clarity)"]
     end
     
     subgraph Layer1["LAYER 1: AUTONOMIC ARCHITECTURE (Nervous System)"]
-        P1["Position 1<br/>GROUND<br/>(Parasympathetic Baseline)"]
-        P2["Position 2<br/>ACTIVATION<br/>(Sympathetic Mobilization)"]
-        P3["Position 3<br/>RESET<br/>(Emotional Regulation)"]
+        P1["Position 1 <br/>GROUND<br/>(Parasympathetic Baseline)"]
+        P2["Position 2 <br/>ACTIVATION<br/>(Sympathetic Mobilization)"]
+        P3["Position 3 <br/>RESET<br/>(Emotional Regulation)"]
     end
     
     P1 --> P4
@@ -149,11 +149,11 @@ graph TD
 
 <div class="mermaid">
 graph TD
-    L1["LAYER 1: AUTONOMIC<br/>Ground → Activation → Reset<br/>Parasympathetic stability<br/>Sympathetic mobilization<br/>Emotional regulation"]
+    L1["LAYER 1: AUTONOMIC <br/>Ground → Activation → Reset<br/>Parasympathetic stability<br/>Sympathetic mobilization<br/>Emotional regulation"]
     
-    L2["LAYER 2: COGNITIVE<br/>Attention → Presence → Intention<br/>Cognitive control<br/>Real-time awareness<br/>Goal clarity"]
+    L2["LAYER 2: COGNITIVE <br/>Attention → Presence → Intention<br/>Cognitive control<br/>Real-time awareness<br/>Goal clarity"]
     
-    L3["LAYER 3: IDENTITY<br/>Transcendence → Integration → Liberation<br/>Self-actualization<br/>Identity coherence<br/>Stress-enhancing mindset"]
+    L3["LAYER 3: IDENTITY <br/>Transcendence → Integration → Liberation<br/>Self-actualization<br/>Identity coherence<br/>Stress-enhancing mindset"]
     
     L1 -->|"Only after<br/>autonomic stability"| L2
     L2 -->|"Only after<br/>cognitive clarity"| L3
