@@ -73,7 +73,7 @@ defaults:
 
   # Cognitive Mage v1.0
   - scope:
-      path: "cognitive-mage"
+      path: "cognitive-mage-v1.0"
     values:
       layout: "paper"
       mermaid: true
@@ -128,7 +128,7 @@ defaults:
 
   # Synoetic OS v1.0
   - scope:
-      path: "synoetic-os"
+      path: "synoetic-os-v1.0"
     values:
       layout: "paper"
       mermaid: true
