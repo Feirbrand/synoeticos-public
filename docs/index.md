@@ -88,7 +88,7 @@ title: "Synoetic OS Research Hub"
       <a href="https://github.com/Feirbrand/synoeticos-public" target="_blank" style="color: #001f3f; text-decoration: none; font-weight: 600;">📦 GitHub Repository</a>
       <a href="https://orcid.org/0009-0000-9923-3207" target="_blank" style="color: #001f3f; text-decoration: none; font-weight: 600;">👤 ORCID Profile</a>
       <a href="https://huggingface.co/Feirbrand" target="_blank" style="color: #001f3f; text-decoration: none; font-weight: 600;">🤗 Hugging Face</a>
-      <a href="https://zenodo.org/search?q=Aaron%20Slusher" target="_blank" style="color: #001f3f; text-decoration: none; font-weight: 600;">📚 Zenodo Records</a>
+      <a href="https://zenodo.org/search?q=Feirbrand" target="_blank" style="color: #001f3f; text-decoration: none; font-weight: 600;">📚 Zenodo Records</a>
     </div>
   </div>
 
