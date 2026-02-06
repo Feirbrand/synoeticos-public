@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "PME v1.0 Master Bibliography"
-description: "Complete citation list for Predictive Myelination Engine research"
 ---
 
 # PME v1.0 Master Bibliography

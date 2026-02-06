@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "PME v1.0 Cross-References"
-description: "Related frameworks, conceptual connections, and integration points"
 ---
 
 # PME v1.0 Cross-References

@@ -20,7 +20,7 @@ title: "Synoetic OS Whitepapers"
     <div class="doc-card">
      <h3>🧠 PME v1.0</h3>
      <p>Predictive Myelination Engine: Bio-inspired pathway reinforcement (712× acceleration).</p>
-     <a href="pme-v1.0/" class="btn btn-sm">Explore PME</a>
+     <a href="pme-v1.0/index.html" class="btn btn-sm">Explore PME</a>
    </div>
   </div>
 </div>
