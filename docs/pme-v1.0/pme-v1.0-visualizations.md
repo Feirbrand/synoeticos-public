@@ -8,7 +8,6 @@ title: "PME v1.0 Visualizations"
 ## 1. PME Five-Stage Architecture
 
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph Input["Input Layer"]
         A["System State<br/>Pathways P"]
@@ -60,7 +59,6 @@ graph LR
     style A fill:#4a90d9
     style H fill:#f39c12
     style R fill:#27ae60
-```
 </div>
 
 ---
@@ -68,7 +66,6 @@ graph LR
 ## 2. Pathway Identification Process
 
 <div class="mermaid">
-```mermaid
 graph TD
     A["All Pathways P<br/>P = {p1, p2, ..., pn}"]
     
@@ -89,7 +86,6 @@ graph TD
     
     style A fill:#e8f4f8
     style G fill:#c8e6c9
-```
 </div>
 
 ---
@@ -97,7 +93,6 @@ graph TD
 ## 3. Demand Forecasting Ensemble
 
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph Input["Historical Data"]
         A["24h Usage<br/>Patterns"]
@@ -130,7 +125,6 @@ graph LR
     style I fill:#c8e6c9
     style J fill:#fff9c4
     style K fill:#ffccbc
-```
 </div>
 
 ---
@@ -138,7 +132,6 @@ graph LR
 ## 4. Pre-Activation Workflow
 
 <div class="mermaid">
-```mermaid
 graph TD
     A["High-Value Pathways<br/>HV_P + Forecasts"]
     
@@ -170,7 +163,6 @@ graph TD
     
     style H fill:#c8e6c9
     style I fill:#ffccbc
-```
 </div>
 
 ---
@@ -178,7 +170,6 @@ graph TD
 ## 5. Continuous Reinforcement Loop
 
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph RealTime["Real-Time Monitoring"]
         A["Actual Usage<br/>actual_usage"]
@@ -212,7 +203,6 @@ graph LR
     
     style F fill:#c8e6c9
     style G fill:#ffccbc
-```
 </div>
 
 ---
@@ -220,7 +210,6 @@ graph LR
 ## 6. Entropy Conservation & Pruning
 
 <div class="mermaid">
-```mermaid
 graph TD
     A["Current System<br/>Entropy = E"]
     
@@ -252,7 +241,6 @@ graph TD
     
     style H fill:#c8e6c9
     style I fill:#fff9c4
-```
 </div>
 
 ---
@@ -260,7 +248,6 @@ graph TD
 ## 7. PME Performance Timeline
 
 <div class="mermaid">
-```mermaid
 graph LR
     A["Nov 1-5<br/>VOX Crisis<br/>Torque: 0.23"]
     B["Nov 5<br/>Atrophy Engine X<br/>Concept"]
@@ -273,7 +260,6 @@ graph LR
     
     style A fill:#ffccbc
     style F fill:#c8e6c9
-```
 </div>
 
 ---
@@ -281,7 +267,6 @@ graph LR
 ## 8. Integration with Synoetic OS Frameworks
 
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph Input["Input Layer"]
         A["Base LLM"]
@@ -309,7 +294,6 @@ graph LR
     style E fill:#f39c12
     style F fill:#9b59b6
     style G fill:#27ae60
-```
 </div>
 
 ---
@@ -317,7 +301,6 @@ graph LR
 ## 9. Myelination Strength Dynamics
 
 <div class="mermaid">
-```mermaid
 graph TD
     A["Myelination Strength γ"]
     B["γ = 0.0<br/>Pathway Inactive"]
@@ -339,7 +322,6 @@ graph TD
     
     style F fill:#c8e6c9
     style B fill:#ffccbc
-```
 </div>
 
 ---
@@ -347,7 +329,6 @@ graph TD
 ## 10. Performance Comparison: Reactive vs. PME
 
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph Reactive["Traditional Reactive"]
         A["Drift Occurs<br/>t=0"]
@@ -367,7 +348,6 @@ graph LR
     
     style E fill:#ffccbc
     style J fill:#c8e6c9
-```
 </div>
 
 ---
