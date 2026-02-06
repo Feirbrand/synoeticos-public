@@ -853,7 +853,7 @@ Aaron M. Slusher is a performance coach with 28 years of continuous practice (19
 
 **Coaching Career:** Systematic mental performance outcome tracking began with Precision Nutrition Level 2 certification (2016), with formal Mental Performance Mastery training (Brian Cain, 2022) providing structure for methodologies developed through decades of applied practice. The Elevation Grid framework emerged from 28 years of pattern recognition across stroke recovery, Team USA gold medal outcomes (2025), combat sports, and adaptive athletics.
 
-**Professional Certifications (43 total):**
+**Professional Certifications:**
 - Certified Sports Performance Coach (NSPA)
 - Mental Performance Mastery (Brian Cain, November 2022)
 - Rehab-U Movement Performance Levels 1-2 (2024)

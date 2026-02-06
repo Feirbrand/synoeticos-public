@@ -228,11 +228,14 @@ Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High
 
 28-year performance coaching career (1997-2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. Founder of Achieve Peak Performance (1999) and co-founder of Achieve Performance Institute (501c3 nonprofit, 2022).
 
-**43 Professional Certifications** spanning performance coaching, movement therapy, mental skills training, and adaptive athletics including:
-- Mental Performance Mastery (Brian Cain, 2022)
+**Professional Certifications:**
+- Certified Sports Performance Coach (NSPA)
+- Mental Performance Mastery (Brian Cain, November 2022)
 - Rehab-U Movement Performance Levels 1-2 (2024)
-- Precision Nutrition Level 2 Behavior Change Specialist (2016)
+- PPSC Pain-Free Performance Mobility Certification (2022)
+- Precision Nutrition Level 2 Behavior Change Specialist (October 2016)
 - Adaptive Inclusive Trainer Level 2 (2024)
+- Complete certification portfolio spans performance coaching, movement therapy, mental skills training, and adaptive athletics
 
 **Contact:**  
 [aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net)  
