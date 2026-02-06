@@ -4,15 +4,11 @@ title: "PME v1.0: Predictive Myelination Engine"
 description: "Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems"
 ---
 
-<div class="hero-section">
-
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Publication Date:** January 30, 2026  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.18318485](https://zenodo.org/records/18318485)
-
-</div>
 
 ---
 
