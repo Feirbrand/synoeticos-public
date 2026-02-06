@@ -1,10 +1,8 @@
 ---
 layout: default
 title: "PME v1.0: Predictive Myelination Engine"
+description: "Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems"
 ---
-
-# PME v1.0: Predictive Myelination Engine
-## Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems
 
 <div class="hero-section">
 
