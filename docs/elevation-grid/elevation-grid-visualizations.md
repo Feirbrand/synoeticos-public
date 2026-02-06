@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "ELEVATION GRID - DATA VISUALIZATIONS"
+title: "Elevation Grid Visualizations"
 ---
+
+# Elevation Grid Visualizations
 
 ## 1. THE 3×3 GRID SYSTEM
 
@@ -78,7 +80,7 @@ timeline
 **Timeline Visualization:**
 ```
 Time (milliseconds)
-0ms ────────────────────────────────────────────────────────────────────
+0ms ────────────────────────────────────────────────────────────────
     │
     ├─ 12-200ms: AMYGDALA THREAT RESPONSE
     │            └─ Sympathetic activation
@@ -205,38 +207,42 @@ Improvement: +45 percentage points (128% increase)
 
 ---
 
-## 10. FIELD VALIDATION: 28-YEAR OUTCOMES
+## 10. FIELD VALIDATION: 28-YEAR TIMELINE (CORRECTED)
 
 <div class="mermaid">
 timeline
     title Elevation Grid Field Validation (1997-2026)
     
-    1997-2005 : Adaptive Athletics Foundation
-             : Initial framework development
+    1997-2005 : Initial Framework Development
+             : Early performance coaching
              : Neurotrauma recovery protocols
     
     2005-2015 : Combat Sports Validation
-             : MMA, Boxing, Sled Hockey
-             : Team USA gold medals
+             : MMA, Boxing, Elite Athletes
+             : Team USA competitive programs
     
-    2015-2026 : Elite Performance Integration
+    2015-2020 : Elite Performance Integration
              : Multi-population deployment
+             : Continued framework refinement
+    
+    2020-2026 : Adaptive Athletics Foundation
+             : Team USA sled hockey gold medals
              : 250+ peer-reviewed studies
              : 80% habit retention documented
 </div>
 
 ---
 
-## 11. RESEARCH VALIDATION: PEER-REVIEWED SOURCES
+## 11. RESEARCH VALIDATION: PEER-REVIEWED SOURCES (CORRECTED SPACING)
 
 <div class="mermaid">
 graph TD
     A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
     
-    B --> C["Neuroscience<br/>LeDoux, Porges, Libet<br/>Polyvagal Theory<br/>Threat Detection"]
-    B --> D["Motor Learning<br/>Fitts & Posner<br/>Myelination<br/>Procedural Memory"]
-    B --> E["Psychology<br/>Beilock, Csikszentmihalyi<br/>Flow State<br/>Explicit Monitoring"]
-    B --> F["Autonomic Regulation<br/>Menon, Bolte Taylor<br/>HRV, Vagal Tone<br/>Box Breathing"]
+    B --> C["Neuroscience:<br/>LeDoux, Porges, Libet<br/>Polyvagal Theory<br/>Threat Detection"]
+    B --> D["Motor Learning:<br/>Fitts & Posner<br/>Myelination<br/>Procedural Memory"]
+    B --> E["Psychology:<br/>Beilock, Csikszentmihalyi<br/>Flow State<br/>Explicit Monitoring"]
+    B --> F["Autonomic Regulation:<br/>Menon, Bolte Taylor<br/>HRV, Vagal Tone<br/>Box Breathing"]
     
     style A fill:#4ecdc4
     style B fill:#95e1d3
@@ -256,4 +262,23 @@ graph TD
 
 ---
 
+## CORRECTION NOTES
+
+**Timeline Corrections (Diagram 10):**
+- 1997-2005: Initial framework development (NOT Adaptive Athletics - that started 2020)
+- 2020-2026: Adaptive Athletics Foundation established
+
+**Spacing Corrections (Diagram 11):**
+- Added proper spacing and colons in research categories
+- Improved readability with line breaks
+
+**General Improvements:**
+- Consistent diagram styling
+- Proper alignment
+- Clear visual hierarchy
+
+---
+
 **All visualizations are ready for insertion into the Elevation Grid paper and GitHub Pages site.**
+
+*Last updated: February 6, 2026*
