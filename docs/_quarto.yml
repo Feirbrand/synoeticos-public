@@ -1,3 +1,21 @@
 project:
   type: website
   output-dir: _site
+
+website:
+  title: "Synoetic OS: Research Hub"
+  navbar:
+    background: "#131B2C"
+    foreground: "#F9C84A"
+    left:
+      - href: index.md
+        text: Home
+      - href: elevation-grid/index.md
+        text: Elevation Grid
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/style.css
+    toc: true
+    citations-hover: true
