@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Synoetic OS: Research Hub"
@@ -18,4 +19,3 @@ format:
     css: assets/css/style.css
     toc: true
     citations-hover: true
-# Build ID: 2026-02-10-1245
