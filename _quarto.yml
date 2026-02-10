@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Synoetic OS: Research Hub"
+  navbar:
+    background: "#001f3f"
+    foreground: "#FFD700"
+    left:
+      - href: index.md
+        text: Home
+      - href: elevation-grid/index.md
+        text: Elevation Grid
+      - href: pme-v1.0/index.md
+        text: PME v1.0
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Block 1: Cognitive Engineering"
+        contents:
+          - utme-v1.0/index.md
+          - fce-v3.6/index.md
+
+format:
+  html:
+    theme: cosmo
+    css: docs/assets/css/style.css
+    toc: true
+    citations-hover: true
+  pdf:
+    documentclass: scrreprt
+    papersize: letter
+
+bibliography: docs/assets/references.bib
+csl: apa.csl
