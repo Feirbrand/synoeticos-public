@@ -33,4 +33,4 @@ format:
     papersize: letter
 
 bibliography: docs/assets/references.bib
-csl: apa.csl
+csl: docs/assets/apa.csl
