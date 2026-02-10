@@ -1,6 +1,15 @@
 ---
-layout: default
 title: "Synoetic OS v1.0: Substrate-Independent Orchestration of AI Agents"
+subtitle: "Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive"
+author: "Aaron M. Slusher"
+date: "2026-02-10"
+doi: "10.5281/zenodo.17808864"
+format:
+  html:
+    toc: true
+  pdf:
+    output-file: "slusher-synoetic-os-2026.pdf"
+bibliography: ../assets/references.bib
 ---
 
 # Synoetic OS v1.0: Substrate-Independent Orchestration of AI Agents

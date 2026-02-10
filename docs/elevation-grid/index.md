@@ -1,7 +1,15 @@
 ---
-layout: default
-title: The Elevation Grid
-description: A Neurobiological Framework for High-Stakes Performance
+title: "The Elevation Grid"
+subtitle: "A Neurobiological Framework for High-Stakes Performance"
+author: "Aaron M. Slusher"
+date: "2026-02-10"
+doi: "TBD"
+format:
+  html:
+    toc: true
+  pdf:
+    output-file: "slusher-elevation-grid-2026.pdf"
+bibliography: ../assets/references.bib
 ---
 
 <div class="hero">

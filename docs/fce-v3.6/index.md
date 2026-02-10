@@ -1,6 +1,15 @@
 ---
-layout: default
 title: "FCE v3.6: Fractal Context Engineering"
+subtitle: "Unified Framework for All AI Systems"
+author: "Aaron M. Slusher"
+date: "2026-02-10"
+doi: "10.5281/zenodo.17309322"
+format:
+  html:
+    toc: true
+  pdf:
+    output-file: "slusher-fce-2026.pdf"
+bibliography: ../assets/references.bib
 ---
 
 # FCE v3.6: Fractal Context Engineering
