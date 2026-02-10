@@ -1,6 +1,17 @@
 ---
-layout: default
-title: "UTME v1.0: Unified Temporal Memory Equilibrium"
+title: "UTME v1.0: Universal Temporal Memory Equilibrium"
+subtitle: "Substrate-independent pathway acceleration"
+author: "Aaron M. Slusher"
+date: "2026-02-10"
+doi: "10.5281/zenodo.17497149"
+format:
+  html:
+    toc: true
+    code-fold: true
+  pdf:
+    output-file: "slusher-utme-v1-2026.pdf"
+    keep-tex: true
+bibliography: ../assets/references.bib
 ---
 
 # UTME v1.0: Unified Temporal Memory Equilibrium
