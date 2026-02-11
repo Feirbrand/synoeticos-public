@@ -1,7 +1,8 @@
 name: Deploy Quarto Site to GitHub Pages
+
 on:
   push:
-    branches: ["main"]
+    branches: ['main']
   workflow_dispatch:
 
 permissions:
@@ -10,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: false
 
 jobs:
@@ -22,15 +23,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Set up Quarto
+      - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render Quarto
+      - name: Render Quarto site
         run: quarto render
         working-directory: ./docs
-      - name: Upload Artifact
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v3
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "docs/_site"
-      - name: Deploy
+          path: 'docs/_site'
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
