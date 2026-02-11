@@ -1,0 +1,7 @@
+# Quarto output
+docs/_site/
+_site/
+docs/.quarto/
+.quarto/
+*.rdb
+*.rdx
