@@ -3,19 +3,31 @@ project:
   output-dir: _site
 
 website:
-  title: "Synoetic OS: Research Hub"
+  title: 'Synoetic OS™ Research Hub'
   navbar:
-    background: "#131B2C"
-    foreground: "#F9C84A"
+    background: '#131B2C'
+    foreground: '#F9C84A'
     left:
       - href: index.md
         text: Home
       - href: elevation-grid/index.md
         text: Elevation Grid
+      - href: pme-v1.0/index.md
+        text: PME v1.0
 
 format:
   html:
     theme: cosmo
     css: assets/css/style.css
     toc: true
+    toc-depth: 3
+    number-sections: false
     citations-hover: true
+    code-fold: false
+    
+  pdf:
+    documentclass: article
+    papersize: letter
+    toc: true
+    number-sections: true
+    colorlinks: true
