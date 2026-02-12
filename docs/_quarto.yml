@@ -14,6 +14,26 @@ website:
         text: Elevation Grid
       - href: pme-v1.0/index.md
         text: PME v1.0
+      - href: synoetic-os-v1.0/index.md
+        text: Synoetic OS
+      - text: More Papers
+        menu:
+          - href: utme-v1.0/index.md
+            text: UTME v1.0
+          - href: fce-v3.6/index.md
+            text: FCE v3.6
+          - href: torque-v2.0/index.md
+            text: Torque v2.0
+          - href: cognitive-mage-v1.0/index.md
+            text: Cognitive Mage
+          - href: mi-agents-v1.0/index.md
+            text: MI Agents
+      - text: Resources
+        menu:
+          - text: MI Arsenal
+            href: https://github.com/Feirbrand/mi-arsenal
+          - text: Source Code
+            href: https://github.com/Feirbrand/synoeticos-public
 
 format:
   html:
