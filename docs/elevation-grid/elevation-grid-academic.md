@@ -26,7 +26,7 @@ publisher:
   url: "https://achievepeakperformance.net"
 citation:
   type: "bibtex"
-    entry: |
+  entry: |
       @article{slusher2026elevationgrid,
         title={The Elevation Grid: A Neurobiological Framework for High-Stakes Performance},
         author={Slusher, Aaron M.},
