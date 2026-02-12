@@ -154,7 +154,7 @@ Synoetic OS emerges from applying performance coaching methodology to AI orchest
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](synoetic-os-v1.0-academic.html)** - Complete technical specification
+- **[Full Academic Paper](slusher-synoetic-os-2026.pdf)** - Complete technical specification
 - **[Visualizations](synoetic-os-v1.0-visualizations.html)** - Mermaid diagrams and charts
 - **[Cross-References](synoetic-os-v1.0-cross-references.html)** - Framework connections
 - **[Master Bibliography](synoetic-os-v1.0-master-bibliography.html)** - Complete citations
