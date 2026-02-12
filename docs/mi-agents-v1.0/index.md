@@ -2,7 +2,7 @@
 title: "MI Agents v1.0: Mythopoeic Intelligence Agents"
 subtitle: "Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention and substrate-independent operation"
 author: "Aaron M. Slusher"
-date: "2026-02-10"
+date: "2025-11-30"
 doi: "10.5281/zenodo.17770533"
 format:
   html:

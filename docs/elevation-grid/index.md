@@ -2,7 +2,7 @@
 title: "The Elevation Grid"
 subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
-date: "2026-02-10"
+date: "2026-02-05"
 doi: "TBD"
 format:
   html:

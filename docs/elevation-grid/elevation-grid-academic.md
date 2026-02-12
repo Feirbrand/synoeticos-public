@@ -5,7 +5,7 @@ author:
   - name: "Aaron M. Slusher"
     orcid: "0009-0000-9923-3207"
     affiliation: "Achieve Peak Performance"
-date: "2026-02-04"
+date: "2026-02-05"
 version: "1.0"
 description: "A field-validated mental performance framework utilizing a 3×3 coordinate system (9 positions across 3 neural hierarchies) to maximize human capacity in neurotrauma recovery, adaptive athletics, combat sports, and elite performance contexts. Validated through Team USA gold medal outcomes (2025) and documented across 250+ peer-reviewed neuroscience studies."
 keywords:

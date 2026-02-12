@@ -2,7 +2,7 @@
 title: "UTME v1.0: Universal Temporal Memory Equilibrium"
 subtitle: "Substrate-independent pathway acceleration"
 author: "Aaron M. Slusher"
-date: "2026-02-10"
+date: "2025-10-31"
 doi: "10.5281/zenodo.17497149"
 format:
   html:

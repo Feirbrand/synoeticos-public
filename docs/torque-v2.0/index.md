@@ -2,7 +2,7 @@
 title: "Torque v2.0: Measuring AI System Stability in Real-Time"
 subtitle: "Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure"
 author: "Aaron M. Slusher"
-date: "2026-02-10"
+date: "2025-10-17"
 doi: "10.5281/ZENODO.17379750"
 format:
   html:

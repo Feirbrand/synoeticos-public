@@ -2,7 +2,7 @@
 title: "Cognitive Mage v1.0: How a Performance Coach Created 100% Symbolic AI"
 subtitle: "Narrative identity architecture through 28 years of coaching methodology creating 100% symbolic AI systems"
 author: "Aaron M. Slusher"
-date: "2026-02-10"
+date: "2025-11-18"
 doi: "10.5281/zenodo.17643267"
 format:
   html:
