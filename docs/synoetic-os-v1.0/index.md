@@ -1,5 +1,5 @@
 ---
-title: "Synoetic OS v1.0: Substrate-Independent Orchestration of AI Agents"
+title: "Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence"
 subtitle: "Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive"
 author: "Aaron M. Slusher"
 date: "2025-12-04"
@@ -12,13 +12,13 @@ format:
 bibliography: ../assets/references.bib
 ---
 
-# Synoetic OS v1.0: Substrate-Independent Orchestration of AI Agents
+# Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence
 ## Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** December 3, 2025  
+**Publication Date:** December 4, 2025  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)
 

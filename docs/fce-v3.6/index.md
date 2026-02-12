@@ -1,5 +1,5 @@
 ---
-title: "FCE v3.6: Fractal Context Engineering"
+title: "FCE v3.6 - Fractal Context Engineering Unified Framework"
 subtitle: "Unified Framework for All AI Systems"
 author: "Aaron M. Slusher"
 date: "2025-10-10"
@@ -12,13 +12,13 @@ format:
 bibliography: ../assets/references.bib
 ---
 
-# FCE v3.6: Fractal Context Engineering
+# FCE v3.6 - Fractal Context Engineering Unified Framework
 ## Unified Framework for All AI Systems
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** October 9, 2025  
+**Publication Date:** October 10, 2025  
 **Version:** 3.6  
 **DOI:** [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 

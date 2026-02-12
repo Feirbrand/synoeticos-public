@@ -1,9 +1,9 @@
 ---
-title: "The Elevation Grid"
+title: "The Elevation Grid v1.0 - A Neurobiological Framework"
 subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-05"
-doi: "TBD"
+doi: "10.5281/zenodo.18489565"
 format:
   html:
     toc: true
@@ -13,7 +13,7 @@ bibliography: ../assets/references.bib
 ---
 
 <div class="hero">
-  <h1>The Elevation Grid</h1>
+  <h1>The Elevation Grid v1.0 - A Neurobiological Framework</h1>
   <p class="subtitle">Neurobiological Framework for High-Stakes Performance</p>
   <div class="hero-stats">
     <div class="stat"><span class="stat-value">80%</span><span class="stat-label">Habit Retention</span></div>
@@ -218,14 +218,14 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
   author={Slusher, Aaron M.},
   journal={Achieve Peak Performance White Papers},
   year={2026},
-  doi={TBD},
+  doi={10.5281/zenodo.18489565},
   url={https://feirbrand.github.io/synoeticos-public/elevation-grid/}
 }
 ```
 
 ### APA
 
-Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations*. Achieve Peak Performance White Papers. TBD
+Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations*. Achieve Peak Performance White Papers. doi.org/10.5281/zenodo.18489565
 
 ---
 

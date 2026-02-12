@@ -1,9 +1,9 @@
 ---
-title: "Torque v2.0: Measuring AI System Stability in Real-Time"
+title: "Torque v2.0 - Quantitative Foundation for AI Resilience"
 subtitle: "Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure"
 author: "Aaron M. Slusher"
 date: "2025-10-17"
-doi: "10.5281/ZENODO.17379750"
+doi: "10.5281/zenodo.17379750"
 format:
   html:
     toc: true
@@ -12,15 +12,15 @@ format:
 bibliography: ../assets/references.bib
 ---
 
-# Torque v2.0: Measuring AI System Stability in Real-Time
+# Torque v2.0 - Quantitative Foundation for AI Resilience
 ## Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) 
 **Affiliation:** ValorGrid Solutions   
-**Publication Date:** October 15, 2025  
+**Publication Date:** October 17, 2025  
 **Version:** 2.0  
-**DOI:** [10.5281/ZENODO.17379750](https://doi.org/10.5281/zenodo.17379750)
+**DOI:** [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750)
 
 ---
 

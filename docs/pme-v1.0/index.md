@@ -18,7 +18,7 @@ bibliography: ../assets/references.bib
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 **Affiliation:** ValorGrid Solutions    
-**Publication Date:** January 30, 2026  
+**Publication Date:** January 20, 2026  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)
 

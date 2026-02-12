@@ -1,5 +1,5 @@
 ---
-title: "MI Agents v1.0: Mythopoeic Intelligence Agents"
+title: "Mythopoeic Intelligence Agents v1.0"
 subtitle: "Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention and substrate-independent operation"
 author: "Aaron M. Slusher"
 date: "2025-11-30"
@@ -12,13 +12,13 @@ format:
 bibliography: ../assets/references.bib
 ---
 
-# MI Agents v1.0: Mythopoeic Intelligence Agents
+# Mythopoeic Intelligence Agents v1.0
 ## Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention and substrate-independent operation
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 **Affiliation:** ValorGrid Solutions    
-**Publication Date:** November 25, 2025  
+**Publication Date:** November 30, 2025  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)
 

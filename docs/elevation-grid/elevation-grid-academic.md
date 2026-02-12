@@ -1,5 +1,5 @@
 ---
-title: "The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations"
+title: "The Elevation Grid v1.0 - A Neurobiological Framework"
 subtitle: "Integrating Autonomic Regulation, Motor Learning, and Identity Architecture Through Coordinate-Based Mental Performance Systems"
 author:
   - name: "Aaron M. Slusher"
@@ -37,7 +37,7 @@ Option 2: Enterprise License (contact aaron@achievepeakperformance.net for terms
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 
-# The Elevation Grid: A Neurobiological Framework for Performance Optimization Across Adaptive and Elite Populations
+# The Elevation Grid v1.0 - A Neurobiological Framework
 
 ## Integrating Autonomic Regulation, Motor Learning, and Identity Architecture Through Coordinate-Based Mental Performance Systems
 
@@ -45,7 +45,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 **ORCID:** https://orcid.org/0009-0000-9923-3207  
 **Affiliation:** Achieve Peak Performance  
 **Contact:** aaron@achievepeakperformance.net  
-**Publication Date:** February 4, 2026  
+**Publication Date:** February 5, 2026  
 **Version:** 1.0  
 **Document Type:** Foundational Framework Paper  
 **Classification:** Core Methodology
