@@ -20,7 +20,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions   
 **Publication Date:** October 15, 2025  
 **Version:** 2.0  
-**DOI:** [10.5281/ZENODO.17379750](https://zenodo.org/records/17379750)
+**DOI:** [10.5281/ZENODO.17379750](https://doi.org/10.5281/zenodo.17379750)
 
 ---
 
@@ -179,7 +179,7 @@ Torque's foundation comes from real-time symbolic monitoring principles and cont
   volume={1},
   pages={1--35},
   year={2025},
-  doi={TBD}
+  doi={10.5281/zenodo.17379750}
 }
 ```
 

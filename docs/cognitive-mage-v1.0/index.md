@@ -19,7 +19,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions  
 **Publication Date:** November 18, 2025  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.17643267](https://zenodo.org/records/17643267)
+**DOI:** [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)
 
 ---
 

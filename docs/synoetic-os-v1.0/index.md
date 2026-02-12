@@ -20,7 +20,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions  
 **Publication Date:** December 3, 2025  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.17808864]((https://zenodo.org/records/17808864)
+**DOI:** [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)
 
 ---
 
@@ -200,7 +200,7 @@ Synoetic OS emerges from applying performance coaching methodology to AI orchest
   volume={1},
   pages={1--120},
   year={2025},
-  doi={TBD}
+  doi={10.5281/zenodo.17808864}
 }
 ```
 

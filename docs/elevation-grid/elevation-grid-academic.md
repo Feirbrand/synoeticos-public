@@ -6,6 +6,7 @@ author:
     orcid: "0009-0000-9923-3207"
     affiliation: "Achieve Peak Performance"
 date: "2026-02-05"
+doi: "10.5281/zenodo.18489565"
 version: "1.0"
 description: "A field-validated mental performance framework utilizing a 3×3 coordinate system (9 positions across 3 neural hierarchies) to maximize human capacity in neurotrauma recovery, adaptive athletics, combat sports, and elite performance contexts. Validated through Team USA gold medal outcomes (2025) and documented across 250+ peer-reviewed neuroscience studies."
 keywords:
@@ -835,9 +836,21 @@ No patents have been filed as of February 4, 2026. Rights are granted under the 
 
 ---
 
+## 📋 Citation
+
+```bibtex
+@article{slusher2026elevationgrid,
+  title={The Elevation Grid: A Neurobiological Framework for High-Stakes Performance},
+  author={Slusher, Aaron M.},
+  journal={Achieve Peak Performance White Papers},
+  year={2026},
+  doi={10.5281/zenodo.18489565}
+}
+```
+
 ## ABOUT THE AUTHOR
 
-**Aaron M. Slusher**  
+**Aaron M. Slusher**
 **ORCID:** https://orcid.org/0009-0000-9923-3207
 
 Aaron M. Slusher is a performance coach with 28 years of continuous practice (1997-2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. His work integrates autonomic nervous system regulation, motor learning principles, and identity architecture into systematic frameworks validated across diverse populations.

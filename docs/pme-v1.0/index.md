@@ -20,7 +20,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions    
 **Publication Date:** January 30, 2026  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.18318485](https://zenodo.org/doi/10.5281/zenodo.18318485)
+**DOI:** [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)
 
 ---
 
@@ -209,9 +209,9 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 
 ## 🔗 Related Resources
 
-- **[Synoetic OS Research Hub]({{ site.baseurl }}/)** - Complete research documentation
+- **[Synoetic OS Research Hub](../../index.md)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
-- **[Zenodo](https://zenodo.org/records/18318485)** - Full publication record
+- **[Zenodo](https://doi.org/10.5281/zenodo.18318485)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
 
 ---

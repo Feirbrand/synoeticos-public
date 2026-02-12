@@ -20,7 +20,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions    
 **Publication Date:** November 25, 2025  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.17770533](https://zenodo.org/records/17770533)
+**DOI:** [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)
 
 ---
 
@@ -237,7 +237,7 @@ MI Agents' foundation comes from convergence of five disciplines:
 
 - **[Synoetic OS Research Hub](https://feirbrand.github.io/synoeticos-public/index.html)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
-- **[Zenodo](https://zenodo.org/records/17770533)** - Full publication record
+- **[Zenodo](https://doi.org/10.5281/zenodo.17770533)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
 
 ---

@@ -22,7 +22,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions  
 **Publication Date:** October 31, 2025  
 **Version:** 1.0  
-**DOI:** [10.5281/zenodo.17497149](https://zenodo.org/records/17497149)
+**DOI:** [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149)
 
 ---
 
@@ -227,7 +227,7 @@ UTME is grounded in three domains:
 
 - **[Synoetic OS Research Hub](https://feirbrand.github.io/synoeticos-public/index.html)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
-- **[Zenodo](https://zenodo.org/records/17497149)** - Full publication record
+- **[Zenodo](https://doi.org/10.5281/zenodo.17497149)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
 - **[HuggingFace Demo](https://huggingface.co/spaces/Feirbrand/utme-demo)** - Interactive visualization
 

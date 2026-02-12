@@ -20,7 +20,7 @@ bibliography: ../assets/references.bib
 **Affiliation:** ValorGrid Solutions  
 **Publication Date:** October 9, 2025  
 **Version:** 3.6  
-**DOI:** [10.5281/zenodo.17309322](https://zenodo.org/doi/10.5281/zenodo.17309322)
+**DOI:** [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 
 ---
 
@@ -202,7 +202,7 @@ FCE v3.6 represents synthesis of:
 
 - **[Synoetic OS Research Hub](https://feirbrand.github.io/synoeticos-public/index.html)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
-- **[Zenodo](https://zenodo.org/records/17309322)** - Full publication record
+- **[Zenodo](https://doi.org/10.5281/zenodo.17309322)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
 - **[HuggingFace Demo](https://huggingface.co/spaces/Feirbrand/fce-compressor-demo)** - Interactive compression demo
 
