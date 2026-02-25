@@ -20,7 +20,7 @@ The Elevation Grid is a coordinate-based mental performance system integrating *
 
 ## Quick Links
 
-- **White Paper:** [EG_v1_1_final.md](EG_v1_1_final.md)
+- **White Paper:** [elevation-grid-academic-v1.1.md](elevation-grid-academic-v1.1.md)
 - **Synoetic OS Overlay:** [overlays/elevation-grid-synoetic-overlay.md](overlays/elevation-grid-synoetic-overlay.md)
 - **CTS Overlay:** [overlays/elevation-grid-cts-overlay.md](overlays/elevation-grid-cts-overlay.md)
 - **Cross References:** [Elevation_Grid_Cross_References.md](Elevation_Grid_Cross_References.md)
