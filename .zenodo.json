@@ -1,6 +1,5 @@
 {
-  "title": "The Elevation Grid v1.1: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations",
-  "description": "A coordinate-based mental performance system integrating autonomic nervous system regulation, motor learning principles, and identity architecture into a unified 3x3 coordinate system...",
+  "title": "UPDATE BEFORE RELEASE — see .zenodo.json instructions",
   "creators": [
     {
       "name": "Slusher, Aaron M.",
@@ -8,7 +7,8 @@
       "affiliation": "Achieve Peak Performance"
     }
   ],
-  "version": "1.1.0",
-  "license": "cc-by-nc-4.0",
-  "keywords": ["mental performance", "autonomic regulation", "neural access method"]
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "license": "cc-by-nc-4.0"
 }

@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use the code or infrastructure in this repo, cite it below. For individual papers, see their specific DOIs."
+title: "Synoetic OS: Research Repository & Code Substrate"
+message: "Update .zenodo.json with paper-specific metadata before each release."
 authors:
-  - family-names: "Slusher"
-    given-names: "Aaron M."
-    orcid: "https://orcid.org/0009-0000-9923-3207"
-title: "Synoetic OS: Open-Source Research Repository & Code Substrate"
-url: "https://feirbrand.github.io/synoeticos-public/"
-repository-code: "https://github.com/Feirbrand/synoeticos-public"
+  - family-names: Slusher
+    given-names: Aaron M.
+    orcid: https://orcid.org/0009-0000-9923-3207
+    affiliation: Achieve Peak Performance
+repository-code: https://github.com/Feirbrand/synoeticos-public
+license: CC-BY-NC-4.0
