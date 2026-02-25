@@ -1,11 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this research or MI Arsenal frameworks, please cite it as follows."
+message: "If you use the code or infrastructure in this repo, cite it below. For individual papers, see their specific DOIs."
 authors:
   - family-names: "Slusher"
     given-names: "Aaron M."
     orcid: "https://orcid.org/0009-0000-9923-3207"
-title: "Synoetic OS: Cognitive Architecture for AI Resilience"
-version: 1.2.0
-date-released: 2026-02-05
+title: "Synoetic OS: Open-Source Research Repository & Code Substrate"
 url: "https://feirbrand.github.io/synoeticos-public/"
 repository-code: "https://github.com/Feirbrand/synoeticos-public"
