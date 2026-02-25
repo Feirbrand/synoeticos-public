@@ -50,7 +50,7 @@ Comprehensive academic research, implementation guidance, and strategic intellig
 ```
 whitepapers/                             # The official canon – only flagship releases live here
 
-├── academic-research/                  # Peer-reviewed frameworks
+├── vgs-technical-papers/                  # Peer-reviewed frameworks
 │   ├── complete-ai-resilience-meta-analysis.md
 │   ├── dcn-v1-0-academic.md
 │   ├── fce-unified-framework.md

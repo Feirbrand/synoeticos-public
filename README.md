@@ -166,7 +166,7 @@ synoeticos-public/
 │   ├── synoetic-os/            # VGS: Synoetic OS™ v1.0
 │   ├── mythopoeic-intelligence/# VGS: MI Agents v1.0
 │   ├── cognitive-mage/         # VGS: Origin paper
-│   ├── academic-research/      # VGS: Academic writeups
+│   ├── vgs-technical-papers/      # VGS: Academic writeups
 │   ├── cognitive-engineering/  # VGS: Fractal context
 │   ├── symbolic-ai/            # VGS: Pre-MI research
 │   ├── examples/               # Code samples
