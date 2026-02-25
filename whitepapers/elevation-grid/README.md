@@ -2,7 +2,7 @@
 
 **A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations**
 
-![Status: Foundational](https://img.shields.io/badge/Status-Foundational-blue) ![Version: 1.0](https://img.shields.io/badge/Version-1.0-green) ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+![Status: Foundational](https://img.shields.io/badge/Status-Foundational-blue) ![Version: 1.1](https://img.shields.io/badge/Version-1.1-green) ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
 ---
 
@@ -20,7 +20,7 @@ The Elevation Grid is a coordinate-based mental performance system integrating *
 
 ## Quick Links
 
-- **White Paper:** [Elevation_Grid_White_Paper_v1_0.md](Elevation_Grid_White_Paper_v1_0.md)
+- **White Paper:** [EG_v1_1_final.md](EG_v1_1_final.md)
 - **Synoetic OS Overlay:** [overlays/elevation-grid-synoetic-overlay.md](overlays/elevation-grid-synoetic-overlay.md)
 - **CTS Overlay:** [overlays/elevation-grid-cts-overlay.md](overlays/elevation-grid-cts-overlay.md)
 - **Cross References:** [Elevation_Grid_Cross_References.md](Elevation_Grid_Cross_References.md)
@@ -31,11 +31,26 @@ The Elevation Grid is a coordinate-based mental performance system integrating *
 
 ## Status
 
-- **Version:** 1.0
+- **Version:** 1.1
 - **Status:** Foundational Framework
 - **Published:** February 4, 2026
+- **Updated:** February 25, 2026
 - **Validation:** 28 years applied practice (1997-2026), systematic tracking 2016-present
 - **Classification:** Core Methodology
+
+### v1.1 Changes (February 25, 2026)
+
+- **Polyvagal Theory position clarified** — PVT's practical language (ventral vagal, sympathetic, dorsal vagal) is useful for mapping nervous system states in plain language and is retained where noted. However, PVT's core anatomical and evolutionary claims are actively disputed in the neuroscience literature (Grossman, 2023; Taylor, 2022): the ventral/dorsal distinction does not map cleanly to actual nerve anatomy, and the hierarchical threat-response model lacks direct neurophysiological validation. v1.1 grounds the mechanistic foundation in the well-established sympathetic/parasympathetic model. PVT is cited as practical clinical language, not validated neuroscience.
+
+- **Corrected Chris Oats session description** — assessment context, wheelchair positioning, accurate NAM physical preparation sequence (scapula-as-doors technique)
+- **Corrected Rachel Steffen** — bridged two adaptive sports (seated track + sled hockey); no longer competes in wheelchair track
+- **Corrected Dina Grinberga** — coaching relationship 2023–present; pre- and postpartum programming noted accurately
+- **Added mental performance origin note** — integrated throughout all coaching sessions from the start; formalized as standalone service offering February 2026; that process produced the Elevation Grid as a named system
+- **Updated Iron Core student description** — PT, OT, AT, and occasionally Exercise Science/Kinesiology
+- **Removed Section 3.5** (Unit Architecture) — unvalidated content removed
+- **Fixed trademark symbols** — ™ throughout (not ™ circle)
+- **Fixed YAML front matter** — flat structure, `layout: default`, Jekyll-compatible for GitHub Pages
+- **Fixed reference numbering** — sequential [1]–[49], no duplicates
 
 ---
 
@@ -92,10 +107,17 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 ## Case Studies
 
-**Coming Soon:**
-- Chris Oates — Stroke recovery validation of Neural Access Method
-- Team USA Sled Hockey — Adaptive athlete performance optimization
-- Additional case studies documenting framework application across populations
+**Chris Oats — Stroke Recovery, Neural Access Method Validation**
+Former University of Kentucky linebacker (2018–2019). Suffered stroke May 2020 impairing left arm movement. During his first assessment session, NAM bypassed damaged conscious motor pathways by accessing intact procedural football memory through a single functional cue ("PUSH"). Immediate functional arm movement restored same session. Currently standing unassisted for first time since 2020. Founder, 22OatsStrong Foundation (22OatsStrong.org).
+
+**Jamie Benassi — Team USA Women's Sled Hockey, Gold Medalist**
+Born with sacral agenesis. Medical prognosis indicated progressive walker dependency. Trained 2021–2023 using metaphor-driven intent coaching. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Walks stairs without walker assistance — sustained 5+ years.
+
+**Rachel Steffen — Team USA Women's Sled Hockey, Gold Medalist**
+Seated athlete (wheelchair user). Bridged two adaptive sports simultaneously during training: seated track & field (2x Ohio State Champion, 400m and 800m) and sled hockey. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Named U.S. Player of the Game, opening round.
+
+**Dina Grinberga — Team World Para Ice Hockey**
+Left leg amputated 2005. Master's degree in orthotics-prosthetics; technical orthopedist. Coached 2023–present via fully remote delivery (Latvia–Ohio). Pre- and postpartum programming. Returned to international elite competition within one year postpartum (2025 Women's World Para Ice Hockey Championships, Team World forward).
 
 ---
 
@@ -105,10 +127,11 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 ```bibtex
 @article{slusher2026elevationgrid,
-  title={The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations},
+  title={The Elevation Grid: A Field-Developed Framework for High-Stakes Performance Across Adaptive and Elite Populations},
   author={Slusher, Aaron M.},
-  journal={Achieve Peak Performance White Papers},
+  journal={Achieve Peak Performance Technical Reports},
   year={2026},
+  version={1.1},
   doi={TBD},
   url={https://github.com/Feirbrand/synoeticos-public/tree/main/white-papers/elevation-grid}
 }
@@ -116,7 +139,7 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 ### APA
 
-Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations*. Achieve Peak Performance White Papers. TBD
+Slusher, A. M. (2026). *The Elevation Grid: A Field-Developed Framework for High-Stakes Performance Across Adaptive and Elite Populations* (v1.1). Achieve Peak Performance Technical Reports. TBD
 
 ---
 

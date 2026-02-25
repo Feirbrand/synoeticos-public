@@ -1714,6 +1714,8 @@ This work would not be possible without:
 
 ---
 
+## References
+
 ### Aaron’s Background \& Foundational Work
 
 Slusher, A. M. (2025). The Cognitive Mage: How a performance coach created 100% symbolic AI through narrative identity architecture. *Zenodo*. https://doi.org/10.5281/zenodo.17643267
