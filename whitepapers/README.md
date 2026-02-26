@@ -6,9 +6,9 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-Version: 1.2
+Version: 1.3
 Priority Date: 2025-10-20
-Enhancement Date: 2025-11-29
+Enhancement Date: 2026-02-26
 
 # Whitepapers Division
 
@@ -41,6 +41,8 @@ Comprehensive academic research, implementation guidance, and strategic intellig
 
 **Research Foundation**: Working parallel with academic research communities, building on contributions from systems thinking, cognitive science, and AI safety research. Documentation demonstrates convergent findings and independent validation of operational patterns.
 
+**GitHub Pages**: Complete framework documentation, visualizations, and bibliographies are being developed on [GitHub Pages](https://feirbrand.github.io/synoeticos-public/). The Whitepapers Division contains source papers; supporting materials are hosted on GitHub Pages.
+
 > "Research without implementation is sterile; implementation without research is blind."
 
 ---
@@ -50,18 +52,21 @@ Comprehensive academic research, implementation guidance, and strategic intellig
 ```
 whitepapers/                             # The official canon – only flagship releases live here
 
-├── vgs-technical-papers/                  # Peer-reviewed frameworks
+├── vgs-technical-papers/                  # Technical papers (17 total: 7 local + 10 MI Arsenal)
 │   ├── complete-ai-resilience-meta-analysis.md
 │   ├── dcn-v1-0-academic.md
-│   ├── fce-unified-framework.md
+│   ├── fce-v3-6-unified-framework.md
 │   ├── fractal-architecture-ai-coaching.md
 │   ├── hallucination-symbolic-raw.md
+│   ├── mbm-v1-0-academic.md
 │   ├── performance-coach-ai-rewrite.md
+│   ├── pme-v-1-0-academic-paper.md
 │   ├── recursive-patterns-ai-development.md
 │   ├── symbolic-hybrid-defense.md
 │   ├── symbolic-systems-mythogenic.md
 │   ├── systems-thinking-architecture.md
 │   ├── torque-measuring-ai-stability.md
+│   ├── utme-v1-0-academic-paper.md
 │   └── vgs-gaming-validation.md
 │
 ├── cognitive-engineering/              # Context Engineering frameworks
@@ -72,14 +77,7 @@ whitepapers/                             # The official canon – only flagship 
 │   └── cognitive-mage-v1.0.md
 │
 ├── elevation-grid/                     # Foundational performance framework
-│   ├── README.md
-│   ├── elevation-grid-academic.md
-│   ├── elevation-grid-cross-references.md
-│   ├── elevation-grid-master-bibliography.md
-│   ├── elevation-grid-visualizations.md
-│   └── overlays/
-│       ├── elevation-grid-cts-overlay.md
-│       └── elevation-grid-synoetic-overlay.md
+│   └── (documentation under development - see GitHub Pages)
 │
 ├── examples/                           # Implementation samples
 │   ├── behavioral-pattern.ipynb
@@ -151,10 +149,60 @@ Deep Cognitive Networks framework demonstrating convergent validation with acade
 **VGS Gaming Validation**
 Real-world validation through gaming industry deployment scenarios. Demonstrates framework applicability across diverse operational contexts.
 
-### Elevation Grid: Foundational Performance Framework
-**Status**: Foundational | **Version**: 1.0 | **Published**: February 4, 2026
+### Cross-Linked MI Arsenal Frameworks
+**Status**: Production-Validated with Implementation Resources
 
-**[The Elevation Grid: A Neurobiological Framework for High-Stakes Performance](elevation-grid/elevation-grid-academic.md)**
+**Overview**: The following frameworks are part of the official Whitepapers Division research canon, but their primary source files are stored in the MI Arsenal division alongside public implementation samples and validation assets. The Whitepapers Division remains the canonical index for citation, while MI Arsenal hosts operational code and framework deployments.
+
+**MI Arsenal Framework Papers:**
+
+- **CSFC v1.0** — Cascading Symbolic Failure Cycle — Unified Theory  
+  Location: `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md`  
+  DOI: 10.5281/ZENODO.17309239
+
+- **URA v1.5** — Unified Resilience Architecture  
+  Location: `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md`  
+  DOI: 10.5281/ZENODO.17309731
+
+- **RAY v2.1** — Recursive Adaptive Yield — Cognitive Physiology Defense  
+  Location: `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md`  
+  DOI: 10.5281/ZENODO.17399834
+
+- **SLV v2.1** — Symbolic Lock Vector — Runtime Identity Defense  
+  Location: `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md`  
+  DOI: 10.5281/ZENODO.17763377
+
+- **DNA Codex v5.5** — Mathematical Prophecy for AI Threat Cascades  
+  Location: `mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md`  
+  DOI: 10.5281/ZENODO.17451060
+
+- **Phoenix Protocol v2.0** — Neural Recovery for AI Systems  
+  Location: `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md`  
+  DOI: 10.5281/ZENODO.17350768
+
+- **Torque v2.0** — Quantitative Foundation for AI Resilience  
+  Location: `mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md`  
+  DOI: 10.5281/ZENODO.17379750
+
+- **UCA v3.1.1** — Security-Hardened Edition  
+  Location: `mi-arsenal/frameworks/tier-1-public/uca/`  
+  DOI: 10.5281/ZENODO.17416971
+
+### Repository Layout Policy
+
+- **Whitepapers Division** is the **canonical research catalog** for Synoetic OS and ValorGrid Solutions publications (Zenodo, ORCID, and citation metadata refer here first).
+- Papers **without** public implementation assets are stored directly under `whitepapers/vgs-technical-papers/`.
+- Papers **with** public implementation frameworks and validation examples are stored under `mi-arsenal/` and are cross-linked from this document with stable paths.
+- External repositories (Zenodo, ORCID) should treat the Whitepapers Division as the index of record; physical file locations may live in either `whitepapers/` or `mi-arsenal/` as defined above.
+- **Total Papers**: 17 (16 published on Zenodo + 1 pending DOI)
+  - 7 papers in `vgs-technical-papers/` (pure research)
+  - 8 papers in `mi-arsenal/frameworks/tier-1-public/` (with implementation)
+  - 2 papers in special locations (Cognitive Mage, Synoetic OS, Mythopoeic Intelligence, Elevation Grid)
+
+### Elevation Grid: Foundational Performance Framework
+**Status**: Foundational | **Version**: 1.1 | **Published**: February 2026
+
+**[The Elevation Grid: A Neurobiological Framework for High-Stakes Performance](https://doi.org/10.5281/zenodo.18489565)**
 
 A coordinate-based mental performance system integrating autonomic nervous system regulation, motor learning principles, and identity architecture into a unified 3×3 coordinate system. Validated throughout a 28-year coaching career (1997-2026) across adaptive athletics, neurotrauma recovery, combat sports, and elite performance contexts.
 
@@ -167,16 +215,10 @@ A coordinate-based mental performance system integrating autonomic nervous syste
 **Synoetic OS Integration:**  
 Foundational human performance methodology informing Climb to Summit (CTS) mental coaching, Identity Architecture, Resource Allocation, and Recovery Protocols through substrate-independent pattern recognition.
 
-**Documentation:**
-- [White Paper](elevation-grid/elevation-grid-academic.md) — Complete framework specification
-- [Synoetic OS Overlay](elevation-grid/overlays/elevation-grid-synoetic-overlay.md) — AI system translation
-- [CTS Overlay](elevation-grid/overlays/elevation-grid-cts-overlay.md) — Climb to Summit integration
-- [Cross References](elevation-grid/elevation-grid-cross-references.md) — Framework connections
-- [Master Bibliography](elevation-grid/elevation-grid-master-bibliography.md) — 250+ studies
-- [Visualizations](elevation-grid/elevation-grid-visualizations.md) — Grid diagrams and overlays
+**Research Hub:** [Elevation Grid GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) (documentation, visualizations, and bibliography under development)
 
 **Author:** Aaron M. Slusher | **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-**License:** CC BY-NC 4.0 + Enterprise | **DOI:** TBD
+**License:** CC BY-NC 4.0 + Enterprise | **DOI:** 10.5281/ZENODO.18489565
 
 ### Mythopoeic Intelligence Division
 **Status**: Production-Validated with Academic Publication
@@ -448,7 +490,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+© 2026 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
 Part of the **Synoetic OS™** research ecosystem — Building narrative sovereignty for autonomous intelligence.
 

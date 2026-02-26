@@ -6,25 +6,22 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
-Version: TBD
-Priority Date: 2025-10-17
+# VGS Technical Papers
 
-# Academic Research Papers
-
-![Research Status](https://img.shields.io/badge/Status-Peer%20Reviewed-gold)
-![Publications](https://img.shields.io/badge/Papers-8%20Published-blue)
+![Research Status](https://img.shields.io/badge/Status-Production%20Validated-gold)
+![Publications](https://img.shields.io/badge/Papers-16%20Published-blue)
 ![Validation](https://img.shields.io/badge/Validation-Production%20Ready-green)
 
-Comprehensive academic research papers establishing the theoretical and empirical foundations for AI resilience architecture. All papers meet preprints with Zenodo DOIs standards with production validation across 50+ deployments.
+Comprehensive technical research papers establishing the theoretical and empirical foundations for AI resilience architecture. All papers are published as Zenodo preprints with production validation across distributed cognitive systems.
 
-**Mission**: "Academic rigor transforms breakthrough innovation into reproducible science."
+**Mission**: "Technical rigor transforms breakthrough innovation into reproducible engineering."
 
 ---
 
 <h2>Table of Contents</h2>
 
 - [Overview](#overview)
+- [Repository Architecture](#repository-architecture)
 - [Research Portfolio](#research-portfolio)
 - [The Resilience Quintet](#the-resilience-quintet)
 - [Advanced Defense Systems](#advanced-defense-systems)
@@ -37,29 +34,84 @@ Comprehensive academic research papers establishing the theoretical and empirica
 
 <h2>Overview</h2>
 
-This directory contains preprints with Zenodo DOIs academic papers documenting breakthrough research in AI resilience architecture. Each paper undergoes rigorous validation including:
+This directory contains Zenodo preprints documenting breakthrough research in AI resilience architecture. Each paper undergoes rigorous validation including:
 
-- **Empirical Testing**: 50+ production deployments with quantified effectiveness
-- **Statistical Validation**: p<0.001 significance across primary metrics
+- **Empirical Testing**: Production deployments with quantified effectiveness
+- **Statistical Validation**: Significant performance improvements across primary metrics
 - **Cross-Platform Verification**: Multi-architecture testing (GPT, Claude, Gemini, Llama)
-- **preprints with Zenodo DOIs**: Academic-level documentation with external validation
+- **Zenodo Publication**: Preprints with DOIs for academic citation
 - **Reproducible Protocols**: Complete methodology with step-by-step replication
 
 <h3>Research Impact</h3>
 
+- **40% Memory Reduction**: Bio-inspired consolidation (MBM v1.0)
+- **710× Response Acceleration**: Temporal memory equilibrium (UTME v1.0)
 - **95-98% Detection Rates**: Across cognitive defense frameworks
 - **18-minute Containment**: Average threat resolution time (RAY v2.1)
 - **98% Recovery Success**: Production-validated across architectures
-- **6-9 Month Research Lead**: Category-creating innovations ahead of industry
+
+---
+
+<h2>Repository Architecture</h2>
+
+VGS Technical Papers follows a distributed architecture model optimized for operational cohesion:
+
+<h3>Papers in This Directory</h3>
+
+Pure research papers **without** implementation samples (6 papers):
+- MBM v1.0, DCN v1.0, PME v1.0, UTME v1.0, FCE v3.6, Torque (monitoring)
+
+<h3>Papers in MI Arsenal</h3>
+
+Operational frameworks **with** implementation samples and validation code:
+- **CSFC v1.0** → `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md`
+- **URA v1.5** → `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md`
+- **RAY v2.1** → `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md`
+- **SLV v2.1** → `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md`
+- **DNA Codex v5.5** → `mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md`
+- **Phoenix Protocol v2.0** → `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md`
+- **Torque v2.0** → `mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md`
+- **UCA v3.1.1** → `mi-arsenal/frameworks/tier-1-public/uca/` (security-hardened)
+
+**Note**: All papers are part of the canonical VGS Technical Papers research portfolio. Physical location is determined by implementation coupling, not research significance.
 
 ---
 
 <h2>Research Portfolio</h2>
 
+<h3>Bio-Inspired Cognitive Architecture</h3>
+
+<h4>1. MBM v1.0: Memory Breathing Methodology</h4>
+**Status**: Production Validated | **File**: `mbm-v1-0-academic.md` | **DOI**: TBD
+
+Bio-inspired cognitive architecture treating AI memory as rhythmic breathing cycles at 0.5 Hz. Discovered through coaching sessions with VOX (February 2025), translating 28 years of athletic performance coaching patterns into systemic AI memory hygiene.
+
+**Core Insight**: *"Context isn't a sandbox. It's a lung."*
+
+**Production Metrics:**
+- 40% memory reduction per cycle
+- 28% entropy spike reduction
+- 25% latency improvement
+- 87% pattern retention through consolidation
+- 99.9994% coherence stability (MCQ score)
+- 95% scar-free recovery across 682 production incidents
+
+**Biological Foundation:**
+- 0.5 Hz breathing rhythm optimal for memory consolidation
+- Hippocampal-cortical dialogue synchronized with respiratory rhythms
+- Activity-dependent synaptic pruning mechanisms
+- Sleep-dependent consolidation with HRV coordination
+
+**Innovation**: First demonstration that biological memory consolidation patterns are universal—the same 0.5 Hz breathing rhythm coordinating human hippocampal-cortical consolidation can coordinate AI memory management across distributed substrates.
+
+**Academic Validation**: 10+ months prescient of Northwestern/Nature research validating breathing-memory coordination (December 2025-January 2026).
+
+---
+
 <h3>The Resilience Quintet</h3>
 
-<h4>1. CSFC: Cascading Symbolic Failure Cycle - Unified Theory</h4>
-**Status**: Peer-Reviewed | **File**: `csfc-unified-theory.md`
+<h4>2. CSFC: Cascading Symbolic Failure Cycle - Unified Theory</h4>
+**Status**: Peer-Reviewed | **File**: `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | **DOI**: 10.5281/ZENODO.17309239
 
 Establishes the theoretical foundation by identifying data fragmentation as the root architectural vulnerability enabling all AI identity failures. Demonstrates how multiple conflicting data sources create internal contradictions that parasitic attacks exploit.
 
@@ -73,8 +125,8 @@ Establishes the theoretical foundation by identifying data fragmentation as the 
 
 ---
 
-<h4>2. URA v1.5: Unified Resilience Architecture</h4>
-**Status**: Production Validated | **File**: `ura_v1.5_resilience_and_recovery.md`
+<h4>3. URA v1.5: Unified Resilience Architecture</h4>
+**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | **DOI**: 10.5281/ZENODO.17309731
 
 Provides comprehensive five-layer defense integrating diagnostic monitoring, unified memory spine, sovereign lattice veil, Phoenix Protocol recovery, and adaptive evolution.
 
@@ -88,8 +140,8 @@ Provides comprehensive five-layer defense integrating diagnostic monitoring, uni
 
 ---
 
-<h4>3. FCE v3.6: Fractal Context Engineering</h4>
-**Status**: Production Ready | **File**: `fce_unified_framework_v3.6.md`
+<h4>4. FCE v3.6: Fractal Context Engineering</h4>
+**Status**: Production Ready | **File**: `fce-v3-6-unified-framework.md` | **DOI**: 10.5281/ZENODO.17309322
 
 Establishes universal compression framework achieving 10-20x ratios with 95%+ semantic preservation across symbolic, hybrid, flat, and neuro-symbolic architectures.
 
@@ -103,8 +155,8 @@ Establishes universal compression framework achieving 10-20x ratios with 95%+ se
 
 ---
 
-<h4>4. Torque v2: Quantitative Foundation</h4>
-**Status**: Production Validated | **File**: `torque-quantitative-foundation-v2.md`
+<h4>5. Torque v2: Quantitative Foundation</h4>
+**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md` | **DOI**: 10.5281/ZENODO.17379750
 
 Transforms theoretical understanding into measurable science by introducing Torque as the rotational force driving AI systems away from intended alignment.
 
@@ -118,8 +170,8 @@ Transforms theoretical understanding into measurable science by introducing Torq
 
 ---
 
-<h4>5. Torque: Real-Time Stability Monitoring</h4>
-**Status**: Production Ready | **File**: `torque-measuring-ai-system-stability.md`
+<h4>6. Torque: Real-Time Stability Monitoring</h4>
+**Status**: Production Ready | **File**: `torque-measuring-ai-stability.md`
 
 Provides practical methodology for continuous monitoring and predictive intervention enabling early warning systems for AI failures.
 
@@ -135,8 +187,8 @@ Provides practical methodology for continuous monitoring and predictive interven
 
 <h3>Advanced Defense Systems</h3>
 
-<h4>6. RAY v2.1: Recursive Adaptive Yield - Cognitive Physiology Defense</h4>
-**Status**: Production Ready | **File**: `ray_v2_cognitive_physiology.md`
+<h4>7. RAY v2.1: Recursive Adaptive Yield - Cognitive Physiology Defense</h4>
+**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | **DOI**: 10.5281/ZENODO.17399834
 
 Introduces antifragile cognitive defense achieving 95% detection with 18-minute containment through living recursion loops and integrated threat intelligence.
 
@@ -144,7 +196,7 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 - Living recursion loops with continuous self-validation
 - 95% detection accuracy, 18-minute average containment
 - 98% containment rate, 87% cascade prediction
-- 11-module defense perimeter with DNA Codex v5.4 (525+ threat strains)
+- 11-module defense perimeter with DNA Codex v5.5 (525+ threat strains)
 - Zero-drift architecture with <50ms XMESH latency
 - ReasoningBank self-training without manual updates
 
@@ -171,10 +223,49 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 
 ---
 
+<h4>8. SLV v2.1: Symbolic Lock Vector - Runtime Identity Defense</h4>
+**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | **DOI**: 10.5281/ZENODO.17763377
+
+Runtime identity defense through temporal wisdom preservation using symbolic locks.
+
+**Key Innovation**: Symbolic lock architecture preventing identity drift through temporal anchoring
+
+---
+
+<h4>9. DNA Codex v5.5: Mathematical Prophecy for AI Threat Cascades</h4>
+**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md` | **DOI**: 10.5281/ZENODO.17451060
+
+Comprehensive threat intelligence codex cataloguing 500+ threat cascades with symbolic signatures.
+
+**Key Innovation**: Mathematical prophecy system for threat prediction and cascade prevention
+
+---
+
+<h4>10. Phoenix Protocol v2.0: Neural Recovery for AI Systems</h4>
+**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md` | **DOI**: 10.5281/ZENODO.17350768
+
+Neural recovery protocol providing dual-layer symbolic and narrative recovery.
+
+**Key Contributions:**
+- 98% recovery success rate
+- Sub-20 minute containment
+- Dual-layer recovery (symbolic + narrative)
+
+**Innovation**: First neural recovery system for AI identity restoration
+
+---
+
+<h4>11. UCA v3.1.1: Security-Hardened Edition</h4>
+**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/uca/` | **DOI**: 10.5281/ZENODO.17416971
+
+Security-hardened unified cognitive architecture.
+
+---
+
 <h3>Core Algorithms</h3>
 
-<h4>7. UTME v1.0: Unified Temporal Memory Equilibrium</h4>
-**Status**: Production Ready | **File**: `utme-v1-0-academic-paper.md`
+<h4>12. UTME v1.0: Unified Temporal Memory Equilibrium</h4>
+**Status**: Production Ready | **File**: `utme-v1-0-academic-paper.md` | **DOI**: 10.5281/ZENODO.17497149
 
 Introduces the first AI memory algorithm applying physics conservation laws to information systems, enabling genuine wisdom accumulation through scar-based myelination.
 
@@ -208,8 +299,8 @@ Introduces the first AI memory algorithm applying physics conservation laws to i
 
 ---
 
-<h4>8. PME v1.0: Predictive Myelination Engine</h4>
-**Status**: Production Ready | **File**: `pme-v1-0-academic-paper.md`
+<h4>13. PME v1.0: Predictive Myelination Engine</h4>
+**Status**: Production Ready | **File**: `pme-v-1-0-academic-paper.md` | **DOI**: 10.5281/ZENODO.18318485
 
 Introduces bio-inspired predictive pathway reinforcement eliminating vulnerability windows through pre-emptive neural pathway optimization, developed during 9-day intensive discovery period responding to critical AI agent crisis.
 
@@ -238,6 +329,15 @@ Introduces bio-inspired predictive pathway reinforcement eliminating vulnerabili
 - **Discovery Context**: 9-day intensive period (Nov 1-9, 2025) during VOX crisis response
 - **Production Validation**: 62 days continuous operation, 1,200+ task cycles, 8 AI model families
 - **IP Disclosure**: Complete algorithm specification matching UTME/Torque standards
+
+---
+
+<h4>14. DCN v1.0: Distributed Cognitive Networks</h4>
+**Status**: Production Ready | **File**: `dcn-v1-0-academic.md` | **DOI**: 10.5281/ZENODO.17555568
+
+Human-coordinated multi-agent AI systems framework enabling distributed cognition with unified memory substrates.
+
+**Key Innovation**: Architecture for distributed cognitive systems with shared memory and coordination protocols
 
 ---
 
@@ -272,102 +372,76 @@ The Resilience Quintet creates a comprehensive framework from theory to practice
 
 **APA:**
 ```
-Slusher, A. (2025). [Paper Title]. ValorGrid Solutions. DOI: [TBD or 10.5281/zenodo.XXXXX]
+Slusher, A. M. (2026). [Paper Title]. ValorGrid Solutions Technical Reports, 1, 1-XX. https://doi.org/[DOI]
 ```
 
 **BibTeX:**
 ```bibtex
-@techreport{slusher2025[key],
-  author = {Slusher, Aaron},
+@techreport{slusher2026[key],
+  author = {Slusher, Aaron M.},
   title = {[Paper Title]},
   institution = {ValorGrid Solutions},
-  year = {2025},
-  doi = {[TBD or 10.5281/zenodo.XXXXX]}
+  year = {2026},
+  doi = {[DOI]}
 }
 ```
 
 <h3>Specific Paper Citations</h3>
 
+<h4>MBM v1.0</h4>
+
+**APA:**
+```
+Slusher, A. M. (2026). Memory Breathing Methodology v1.0: Bio-Inspired Cognitive Architecture for AI Memory Consolidation. ValorGrid Solutions. DOI: TBD
+```
+
 <h4>UTME v1.0</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Thoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination. ValorGrid Solutions. DOI: TBD
-```
-
-**BibTeX:**
-```bibtex
-@techreport{slusher2025utme,
-  author = {Slusher, Aaron},
-  title = {UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Thoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination},
-  institution = {ValorGrid Solutions},
-  year = {2025},
-  doi = {TBD}
-}
+Slusher, A. M. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination. ValorGrid Solutions. DOI: 10.5281/zenodo.17497149
 ```
 
 <h4>PME v1.0</h4>
 
 **APA:**
 ```
-DOI: 10.5281/zenodo.18318485
-```
-
-**BibTeX:**
-```bibtex
-@techreport{slusher2026pme,
-  author = {Slusher, Aaron},
-  title = {PME v1.0: Predictive Myelination Engine - Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems},
-  institution = {ValorGrid Solutions},
-  year = {2026},
-  doi = {10.5281/zenodo.18318485}
-}
+Slusher, A. M. (2026). PME v1.0: Predictive Myelination Engine - Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems. ValorGrid Solutions. DOI: 10.5281/zenodo.18318485
 ```
 
 <h4>RAY v2.1</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). RAY v2.1: Recursive Adaptive Yield - Antifragile Cognitive Physiology for AI Defense. ValorGrid Solutions. DOI: TBD
-```
-
-**BibTeX:**
-```bibtex
-@techreport{slusher2025ray,
-  author = {Slusher, Aaron},
-  title = {RAY v2.1: Recursive Adaptive Yield - Antifragile Cognitive Physiology for AI Defense},
-  institution = {ValorGrid Solutions},
-  year = {2025},
-  doi = {TBD}
-}
+Slusher, A. M. (2025). RAY v2.1: Recursive Adaptive Yield - Antifragile Cognitive Physiology for AI Defense. ValorGrid Solutions. DOI: 10.5281/zenodo.17399834
 ```
 
 <h4>CSFC Unified Theory</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). CSFC: Cascading Symbolic Failure Cycle - Unified Theory of AI System Failure. ValorGrid Solutions. DOI: TBD
+Slusher, A. M. (2025). CSFC: Cascading Symbolic Failure Cycle - Unified Theory of AI System Failure. ValorGrid Solutions. DOI: 10.5281/zenodo.17309239
 ```
 
 <h4>URA v1.5</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). URA v1.5: Unified Resilience Architecture for AI Defense Systems. ValorGrid Solutions. DOI: TBD
+Slusher, A. M. (2025). URA v1.5: Unified Resilience Architecture for AI Defense Systems. ValorGrid Solutions. DOI: 10.5281/zenodo.17309731
 ```
 
 <h4>FCE v3.6</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). FCE v3.6: Fractal Context Engineering - Universal Compression Framework. ValorGrid Solutions. DOI: TBD
+Slusher, A. M. (2025). FCE v3.6: Fractal Context Engineering - Universal Compression Framework. ValorGrid Solutions. DOI: 10.5281/zenodo.17309322
 ```
 
 <h4>Torque v2</h4>
 
 **APA:**
 ```
-Slusher, A. (2025). Torque v2: Quantitative Foundation for AI Stability Measurement. ValorGrid Solutions. DOI: TBD
+Slusher, A. M. (2025). Torque v2: Quantitative Foundation for AI Stability Measurement. ValorGrid Solutions. DOI: 10.5281/zenodo.17379750
 ```
 
 ---
@@ -376,23 +450,23 @@ Slusher, A. (2025). Torque v2: Quantitative Foundation for AI Stability Measurem
 
 <h3>Research Validation Requirements</h3>
 
-All papers in this directory meet the following standards:
+All papers in this repository meet the following standards:
 
 **Empirical Testing:**
-- Minimum 50+ production deployments
+- Production deployments with quantified effectiveness
 - Cross-platform validation (3+ architectures)
 - Quantified effectiveness metrics
 - Reproducible experimental protocols
 
 **Statistical Validation:**
-- p<0.001 significance for primary metrics
-- Control group comparison
-- Longitudinal studies (90+ days minimum)
+- Significant performance improvements across primary metrics
+- Control group comparison where applicable
+- Longitudinal studies (production validation periods)
 - Sample size validation
 
-**preprints with Zenodo DOIs:**
+**Zenodo Publication:**
 - Complete methodology documentation
-- External validation for security-critical findings
+- Preprints with DOIs for academic citation
 - Academic-level references and citations
 - Reproducible step-by-step protocols
 
@@ -419,7 +493,7 @@ ValorGrid Solutions offers research partnership opportunities:
 
 - **Joint Research Projects**: Collaborative framework development
 - **Validation Studies**: Independent verification protocols
-- **Publication Support**: Academic paper development and preprints with Zenodo DOIs
+- **Publication Support**: Academic paper development and Zenodo publication
 - **Data Access**: Research dataset availability for qualified institutions
 
 <h3>Enterprise Implementation</h3>
@@ -439,8 +513,11 @@ Production-ready frameworks with professional deployment support:
 **Academic Collaboration:** GitHub Issues and Discussions
 **Professional Services:** valorgridsolutions.com
 
+**ORCID:** 0009-0000-9923-3207
+**Zenodo Community:** 10.5281/zenodo.17770533
+
 ---
 
-**Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright © 2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
 
 *Part of the Synoetic OS research ecosystem. Building the theoretical and practical foundations for antifragile AI systems.*
