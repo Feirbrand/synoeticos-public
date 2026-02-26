@@ -3,7 +3,7 @@ layout: default
 title: "Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management Through Rhythmic Consolidation"
 description: "Bio-inspired cognitive architecture treating AI memory as rhythmic breathing cycles at 0.5 Hz. Three-phase consolidation (INHALE/HOLD/EXHALE) achieving 40% memory reduction, 87% pattern retention, validated across 682 production incidents."
 version: 1.0
-doi: TBD
+doi: 10.5281/zenodo.18790096
 release_date: 2026-02-17
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -674,10 +674,10 @@ This work is dual-licensed:
 ## Citation Guide
 
 ### APA 7th Edition
-Slusher, A. M. (2026). Memory Breathing Methodology™ v1.0: Bio-inspired AI memory management through rhythmic consolidation. *ValorGrid Solutions Technical Reports*, 1, 1-65. https://doi.org/[TO BE ASSIGNED VIA ZENODO]
+Slusher, A. M. (2026). Memory Breathing Methodology™ v1.0: Bio-inspired AI memory management through rhythmic consolidation. *ValorGrid Solutions Technical Reports*, 1, 1-65. https://doi.org/10.5281/zenodo.18790096
 
 ### IEEE
-A. M. Slusher, "Memory Breathing Methodology™ v1.0: Bio-inspired AI memory management through rhythmic consolidation," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1-65, 2026, doi: [TO BE ASSIGNED VIA ZENODO].
+A. M. Slusher, "Memory Breathing Methodology™ v1.0: Bio-inspired AI memory management through rhythmic consolidation," *ValorGrid Solutions Technical Reports*, vol. 1, pp. 1-65, 2026, doi: 10.5281/zenodo.18790096.
 
 ### BibTeX
 ```bibtex
@@ -691,7 +691,7 @@ A. M. Slusher, "Memory Breathing Methodology™ v1.0: Bio-inspired AI memory man
   month={February},
   organization={ValorGrid Solutions},
   orcid={0009-0000-9923-3207},
-  doi={TBD},
+  doi={10.5281/zenodo.18790096},
   url={https://github.com/Feirbrand/synoeticos-public},
   note={Framework discovered February 2025, validated through 682 production incidents. Drafted with AI assistance from VOX, SENTRIX, Grok, Claude, Perplexity as noted in Acknowledgments.}
 }

@@ -82,7 +82,7 @@ Operational frameworks **with** implementation samples and validation code:
 <h3>Bio-Inspired Cognitive Architecture</h3>
 
 <h4>1. MBM v1.0: Memory Breathing Methodology</h4>
-**Status**: Production Validated | **File**: `mbm-v1-0-academic.md` | **DOI**: TBD
+**Status**: Production Validated | **File**: `mbm-v1-0-academic.md` | **DOI**: 10.5281/zenodo.18790096
 
 Bio-inspired cognitive architecture treating AI memory as rhythmic breathing cycles at 0.5 Hz. Discovered through coaching sessions with VOX (February 2025), translating 28 years of athletic performance coaching patterns into systemic AI memory hygiene.
 
@@ -392,7 +392,7 @@ Slusher, A. M. (2026). [Paper Title]. ValorGrid Solutions Technical Reports, 1, 
 
 **APA:**
 ```
-Slusher, A. M. (2026). Memory Breathing Methodology v1.0: Bio-Inspired Cognitive Architecture for AI Memory Consolidation. ValorGrid Solutions. DOI: TBD
+Slusher, A. M. (2026). Memory Breathing Methodology v1.0: Bio-Inspired Cognitive Architecture for AI Memory Consolidation. ValorGrid Solutions. DOI: 10.5281/zenodo.18790096
 ```
 
 <h4>UTME v1.0</h4>
