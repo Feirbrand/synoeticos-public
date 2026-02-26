@@ -1,4 +1,4 @@
-name: Update Zenodo Metadata on Release
+name: Auto-Update Zenodo Metadata
 
 on:
   release:
@@ -11,52 +11,42 @@ jobs:
   update-zenodo:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Extract metadata from paper YAML front matter
+      - name: Find paper and extract metadata
         id: meta
         run: |
-          # Find the most recently modified .md file in whitepapers/
-          PAPER=$(find whitepapers/ -name "*.md" -newer .zenodo.json | sort -t/ -k3 | tail -1)
-          echo "Found paper: $PAPER"
-
-          # Extract YAML fields
-          TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/title: *"//' | sed 's/"$//' | sed "s/title: *'//;s/'$//")
-          VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/version: *//')
-          DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/release_date: *//')
-
+          PAPER=$(find whitepapers/ -name "*.md" | xargs ls -t | head -1)
+          echo "Paper found: $PAPER"
+          TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//;s/^"//;s/"$//')
+          VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//')
+          DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//')
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "date=$DATE" >> $GITHUB_OUTPUT
 
-      - name: Write .zenodo.json
+      - name: Update .zenodo.json
         run: |
-          cat > .zenodo.json << EOF
+          cat > .zenodo.json << 'ZENODO'
           {
             "title": "${{ steps.meta.outputs.title }}",
-            "creators": [
-              {
-                "name": "Slusher, Aaron M.",
-                "orcid": "0009-0000-9923-3207",
-                "affiliation": "Achieve Peak Performance"
-              }
-            ],
             "version": "${{ steps.meta.outputs.version }}",
             "publication_date": "${{ steps.meta.outputs.date }}",
+            "creators": [{"name": "Slusher, Aaron M.", "orcid": "0009-0000-9923-3207", "affiliation": "Achieve Peak Performance"}],
             "upload_type": "publication",
             "publication_type": "report",
             "access_right": "open",
             "license": "cc-by-nc-4.0"
           }
-          EOF
+          ZENODO
 
-      - name: Commit and push updated .zenodo.json
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .zenodo.json
-          git commit -m "metadata: auto-update .zenodo.json for ${{ github.event.release.tag_name }}"
+          git commit -m "metadata: auto-set Zenodo title from ${{ github.event.release.tag_name }}"
           git push

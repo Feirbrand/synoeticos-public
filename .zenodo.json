@@ -1,12 +1,6 @@
 {
-  "title": "UPDATE BEFORE RELEASE — see .zenodo.json instructions",
-  "creators": [
-    {
-      "name": "Slusher, Aaron M.",
-      "orcid": "0009-0000-9923-3207",
-      "affiliation": "Achieve Peak Performance"
-    }
-  ],
+  "title": "PLACEHOLDER — auto-updated by zenodo-metadata workflow on each release",
+  "creators": [{"name": "Slusher, Aaron M.", "orcid": "0009-0000-9923-3207", "affiliation": "Achieve Peak Performance"}],
   "upload_type": "publication",
   "publication_type": "report",
   "access_right": "open",
