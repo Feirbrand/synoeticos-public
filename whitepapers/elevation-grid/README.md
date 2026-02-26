@@ -132,14 +132,14 @@ Left leg amputated 2005. Master's degree in orthotics-prosthetics; technical ort
   journal={Achieve Peak Performance Technical Reports},
   year={2026},
   version={1.1},
-  doi={TBD},
+  doi={10.5281/zenodo.18489565},
   url={https://github.com/Feirbrand/synoeticos-public/tree/main/white-papers/elevation-grid}
 }
 ```
 
 ### APA
 
-Slusher, A. M. (2026). *The Elevation Grid: A Field-Developed Framework for High-Stakes Performance Across Adaptive and Elite Populations* (v1.1). Achieve Peak Performance Technical Reports. TBD
+Slusher, A. M. (2026). *The Elevation Grid: A Field-Developed Framework for High-Stakes Performance Across Adaptive and Elite Populations* (v1.1). Achieve Peak Performance Technical Reports. https://doi.org/10.5281/zenodo.18489565
 
 ---
 

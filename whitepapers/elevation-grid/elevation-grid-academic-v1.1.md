@@ -3,7 +3,7 @@ layout: default
 title: "The Elevation Grid™ v1.1: A Field-Developed Framework for High-Stakes Performance"
 description: "Coordinate-based mental performance system integrating autonomic regulation, motor learning, and identity architecture. Validated through Team USA gold medals (2025) and 28 years of field coaching."
 version: 1.1
-doi: TBD
+doi: 10.5281/zenodo.18489565
 release_date: 2026-02-25
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -892,10 +892,10 @@ Commercial licensing includes:
 ## Citation Guide
 
 ### APA 7th Edition
-Slusher, A. M. (2026). The Elevation Grid™: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance Technical Reports*, 1, 1-55. https://doi.org/[TO BE ASSIGNED VIA ZENODO]
+Slusher, A. M. (2026). The Elevation Grid™: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance Technical Reports*, 1, 1-55. https://doi.org/10.5281/zenodo.18489565
 
 ### IEEE
-A. M. Slusher, "The Elevation Grid™: A field-developed framework for high-stakes performance across adaptive and elite populations," *Achieve Peak Performance Technical Reports*, vol. 1, pp. 1-55, 2026, doi: [TO BE ASSIGNED VIA ZENODO].
+A. M. Slusher, "The Elevation Grid™: A field-developed framework for high-stakes performance across adaptive and elite populations," *Achieve Peak Performance Technical Reports*, vol. 1, pp. 1-55, 2026, doi: 10.5281/zenodo.18489565.
 
 ### BibTeX
 ```bibtex
@@ -906,7 +906,7 @@ A. M. Slusher, "The Elevation Grid™: A field-developed framework for high-stak
   volume={1},
   pages={1--55},
   year={2026},
-  doi={TBD},
+  doi={10.5281/zenodo.18489565},
   note={Framework developed across 28 years of field coaching (1997-2026). Drafted with AI assistance from Claude as noted in Acknowledgments.}
 }
 ```
