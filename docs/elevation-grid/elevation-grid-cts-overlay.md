@@ -1,3 +1,4 @@
+
 ---
 
 title: "Elevation Grid – CTS (Climb to Summit) Overlay"
@@ -183,7 +184,7 @@ title: "Elevation Grid – CTS (Climb to Summit) Overlay"
 - Position 1-2 (ACTIVATION): Arousal mobilization 5 min before walkout
 - Position 3-2 (IDENTITY): Identity statement rehearsal ("This is who I am")
 
-**Between Rounds (60 seconds):**
+**Between Rounds (60 seconds):
 - Position 1-3 (RESET): 30 sec emotional flush + breathing reset
 - Position 2-3 (SELF-CALIBRATE): 20 sec corner feedback integration
 - Position 2-1 (PATTERN): 10 sec pattern recognition for next round
