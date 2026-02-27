@@ -1,30 +1,37 @@
 ---
-layout: default
-title: "Elevation Grid Visualizations"
+title: "Elevation Grid — Visualizations"
+description: "Data visualizations for The Elevation Grid neurobiological framework"
+author: "Aaron M. Slusher"
 ---
 
 # Elevation Grid Visualizations
 
-## 1. THE 3×3 GRID SYSTEM
+[← Back to Paper](index.html) | [Cross-References →](elevation-grid-cross-references.html) | [Bibliography →](elevation-grid-master-bibliography.html)
 
-<div class="mermaid">
+---
+
+## 1. The 3×3 Grid System
+
+Nine positions across three neural hierarchies — each layer must be stable before the next can be accessed reliably.
+
+```{mermaid}
 graph TD
     subgraph Layer3["LAYER 3: IDENTITY ARCHITECTURE (Stress Mindset)"]
-        P7["Position 7 <br/>TRANSCENDENCE<br/>(Self-Actualization)"]
-        P8["Position 8 <br/>INTEGRATION<br/>(Identity Coherence)"]
-        P9["Position 9 <br/>LIBERATION<br/>(Stress-Enhancing Mindset)"]
+        P7["Position 7<br/>TRANSCENDENCE<br/>(Self-Actualization)"]
+        P8["Position 8<br/>INTEGRATION<br/>(Identity Coherence)"]
+        P9["Position 9<br/>LIBERATION<br/>(Stress-Enhancing Mindset)"]
     end
     
     subgraph Layer2["LAYER 2: COGNITIVE ARCHITECTURE (Executive Function)"]
-        P4["Position 4 <br/>ATTENTION<br/>(Cognitive Control)"]
-        P5["Position 5 <br/>PRESENCE<br/>(Real-Time Awareness)"]
-        P6["Position 6 <br/>INTENTION<br/>(Goal Clarity)"]
+        P4["Position 4<br/>ATTENTION<br/>(Cognitive Control)"]
+        P5["Position 5<br/>PRESENCE<br/>(Real-Time Awareness)"]
+        P6["Position 6<br/>INTENTION<br/>(Goal Clarity)"]
     end
     
     subgraph Layer1["LAYER 1: AUTONOMIC ARCHITECTURE (Nervous System)"]
-        P1["Position 1 <br/>GROUND<br/>(Parasympathetic Baseline)"]
-        P2["Position 2 <br/>ACTIVATION<br/>(Sympathetic Mobilization)"]
-        P3["Position 3 <br/>RESET<br/>(Emotional Regulation)"]
+        P1["Position 1<br/>GROUND<br/>(Parasympathetic Baseline)"]
+        P2["Position 2<br/>ACTIVATION<br/>(Sympathetic Mobilization)"]
+        P3["Position 3<br/>RESET<br/>(Emotional Regulation)"]
     end
     
     P1 --> P4
@@ -33,34 +40,34 @@ graph TD
     P4 --> P7
     P5 --> P8
     P6 --> P9
-</div>
+```
 
 ---
 
-## 2. BANDWIDTH CONSTRAINT: SENSORY INPUT VS CONSCIOUS PROCESSING
+## 2. Bandwidth Constraint: Sensory Input vs. Conscious Processing
 
-<div class="mermaid">
+The 200,000:1 bottleneck explains why cognitive strategies fail under pressure — the conscious executive function is simply outpaced by the nervous system.
+
+```{mermaid}
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
-</div>
+```
 
-**Visual Chart:**
 ```
 Sensory Processing Capacity:  ████████████████████████████████████████ 11,000,000 bits/sec
-                              
 Conscious Processing Capacity: ▓ 50 bits/sec
-                              
+
 Ratio: 220,000:1 bottleneck
 ```
 
 ---
 
-## 3. RESPONSE SPEED GAP: AMYGDALA VS PREFRONTAL CORTEX
+## 3. Response Speed Gap: Amygdala vs. Prefrontal Cortex
 
-<div class="mermaid">
+```{mermaid}
 timeline
     title Neural Processing Speed Gap
     
@@ -73,31 +80,15 @@ timeline
              : Cortical executive control
              : Emotional regulation
              : INTENTION ARRIVES TOO LATE
-    
-    Gap: 2-3x speed advantage for amygdala
-</div>
+```
 
-**Timeline Visualization:**
-```
-Time (milliseconds)
-0ms ────────────────────────────────────────────────────────────────
-    │
-    ├─ 12-200ms: AMYGDALA THREAT RESPONSE
-    │            └─ Sympathetic activation
-    │            └─ Fight/Flight/Freeze
-    │
-    ├─ 300-500ms: PREFRONTAL CORTEX RESPONSE
-    │             └─ Executive decision
-    │             └─ Emotional regulation
-    │
-    └─ GAP: Amygdala wins 2-3x faster
-```
+**The gap:** Amygdala wins by 2–3× speed advantage. In competition, the slower executive system is routinely overridden before it can intervene.
 
 ---
 
-## 4. POLYVAGAL THEORY: THREE-TIER AUTONOMIC HIERARCHY
+## 4. Polyvagal Theory: Three-Tier Autonomic Hierarchy
 
-<div class="mermaid">
+```{mermaid}
 graph TD
     A["VENTRAL VAGAL<br/>(Safety/Social)"] -->|"Vagal Brake"| B["SYMPATHETIC<br/>(Mobilization)"]
     B -->|"Shutdown"| C["DORSAL VAGAL<br/>(Immobilization)"]
@@ -111,13 +102,13 @@ graph TD
     style C fill:#ff6b6b
     style D fill:#95e1d3
     style E fill:#ff6b6b
-</div>
+```
 
 ---
 
-## 5. MOTOR LEARNING STAGES: PROCEDURAL MEMORY ACCESS
+## 5. Motor Learning Stages: Procedural Memory Access
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["COGNITIVE STAGE<br/>(Explicit Learning)<br/>High cortical load<br/>Slow execution"] -->|"Myelination<br/>Practice<br/>Repetition"| B["ASSOCIATIVE STAGE<br/>(Refinement)<br/>Moderate load<br/>Improving speed"]
     
@@ -126,13 +117,13 @@ graph LR
     style A fill:#ff6b6b
     style B fill:#ffe66d
     style C fill:#4ecdc4
-</div>
+```
 
 ---
 
-## 6. TEMPORAL CONSTRAINTS: BANDWIDTH HIERARCHY
+## 6. Temporal Constraints: Bandwidth Hierarchy
 
-<div class="mermaid">
+```{mermaid}
 graph TD
     A["SUBCORTICAL (12-200ms)<br/>Threat Detection<br/>Autonomic Response<br/>FASTEST"] -->|"Bypass"| B["CORTICAL (300-500ms)<br/>Executive Function<br/>Cognitive Strategy<br/>SLOWER"]
     
@@ -141,19 +132,19 @@ graph TD
     style A fill:#ff6b6b
     style B fill:#4ecdc4
     style C fill:#95e1d3
-</div>
+```
 
 ---
 
-## 7. ELEVATION GRID: BOTTOM-UP PROGRESSION
+## 7. Elevation Grid: Bottom-Up Progression
 
-<div class="mermaid">
+```{mermaid}
 graph TD
-    L1["LAYER 1: AUTONOMIC <br/>Ground → Activation → Reset<br/>Parasympathetic stability<br/>Sympathetic mobilization<br/>Emotional regulation"]
+    L1["LAYER 1: AUTONOMIC<br/>Ground → Activation → Reset<br/>Parasympathetic stability<br/>Sympathetic mobilization<br/>Emotional regulation"]
     
-    L2["LAYER 2: COGNITIVE <br/>Attention → Presence → Intention<br/>Cognitive control<br/>Real-time awareness<br/>Goal clarity"]
+    L2["LAYER 2: COGNITIVE<br/>Attention → Presence → Intention<br/>Cognitive control<br/>Real-time awareness<br/>Goal clarity"]
     
-    L3["LAYER 3: IDENTITY <br/>Transcendence → Integration → Liberation<br/>Self-actualization<br/>Identity coherence<br/>Stress-enhancing mindset"]
+    L3["LAYER 3: IDENTITY<br/>Transcendence → Integration → Liberation<br/>Self-actualization<br/>Identity coherence<br/>Stress-enhancing mindset"]
     
     L1 -->|"Only after<br/>autonomic stability"| L2
     L2 -->|"Only after<br/>cognitive clarity"| L3
@@ -161,13 +152,13 @@ graph TD
     style L1 fill:#ff6b6b
     style L2 fill:#ffe66d
     style L3 fill:#4ecdc4
-</div>
+```
 
 ---
 
-## 8. NEURAL ACCESS METHOD (NAM): 4-STEP PROTOCOL
+## 8. Neural Access Method (NAM): 4-Step Protocol
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["ACCESS<br/>Identify current<br/>autonomic state"] -->|"Subcortical<br/>12-200ms"| B["REFRAME<br/>Shift nervous<br/>system state"]
     
@@ -179,13 +170,13 @@ graph LR
     style B fill:#ffe66d
     style C fill:#95e1d3
     style D fill:#4ecdc4
-</div>
+```
 
 ---
 
-## 9. HABIT RETENTION: ELEVATION GRID VS INDUSTRY BASELINE
+## 9. Habit Retention: Elevation Grid vs. Industry Baseline
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
     
@@ -195,21 +186,20 @@ graph LR
     style B fill:#ff6b6b
     style C fill:#4ecdc4
     style D fill:#4ecdc4
-</div>
+```
 
-**Retention Comparison Chart:**
 ```
 Elevation Grid:    ████████████████████████████████████████ 80%
 Industry Baseline: ███████████████ 35%
-                   
+
 Improvement: +45 percentage points (128% increase)
 ```
 
 ---
 
-## 10. FIELD VALIDATION: 28-YEAR TIMELINE (CORRECTED)
+## 10. Field Validation: 28-Year Timeline (1997–2026)
 
-<div class="mermaid">
+```{mermaid}
 timeline
     title Elevation Grid Field Validation (1997-2026)
     
@@ -229,13 +219,13 @@ timeline
              : Team USA sled hockey gold medals
              : 250+ peer-reviewed studies
              : 80% habit retention documented
-</div>
+```
 
 ---
 
-## 11. RESEARCH VALIDATION: PEER-REVIEWED SOURCES (CORRECTED SPACING)
+## 11. Research Validation: Peer-Reviewed Sources
 
-<div class="mermaid">
+```{mermaid}
 graph TD
     A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
     
@@ -250,35 +240,10 @@ graph TD
     style D fill:#ffe66d
     style E fill:#ffe66d
     style F fill:#ffe66d
-</div>
+```
 
 ---
 
-## VISUALIZATION EXPORT FORMATS
+*[← Back to Paper](index.html) | [Cross-References →](elevation-grid-cross-references.html) | [Bibliography →](elevation-grid-master-bibliography.html)*
 
-**For GitHub Pages:** Interactive Mermaid diagrams (auto-render)  
-**For Medium/Substack:** PNG exports (static images)  
-**For Academic Paper:** High-res SVG (publication quality)
-
----
-
-## CORRECTION NOTES
-
-**Timeline Corrections (Diagram 10):**
-- 1997-2005: Initial framework development (NOT Adaptive Athletics - that started 2020)
-- 2020-2026: Adaptive Athletics Foundation established
-
-**Spacing Corrections (Diagram 11):**
-- Added proper spacing and colons in research categories
-- Improved readability with line breaks
-
-**General Improvements:**
-- Consistent diagram styling
-- Proper alignment
-- Clear visual hierarchy
-
----
-
-**All visualizations are ready for insertion into the Elevation Grid paper and GitHub Pages site.**
-
-*Last updated: February 6, 2026*
+**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**

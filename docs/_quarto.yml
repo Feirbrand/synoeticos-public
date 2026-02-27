@@ -24,6 +24,8 @@ website:
             text: FCE v3.6
           - href: torque-v2.0/index.md
             text: Torque v2.0
+          - href: mbm-v1.0/index.md
+            text: MBM v1.0
           - href: cognitive-mage-v1.0/index.md
             text: Cognitive Mage v1.0
           - href: mi-agents-v1.0/index.md

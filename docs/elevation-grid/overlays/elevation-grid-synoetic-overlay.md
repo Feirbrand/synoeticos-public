@@ -1,6 +1,10 @@
 ---
-layout: default
+
 title: "Elevation Grid – Synoetic OS Overlay"
+---
+
+[← Back to Paper](index.html) | [Visualizations →](elevation-grid-visualizations.html) | [CTS Overlay →](elevation-grid-cts-overlay.html)
+
 ---
 
 **RUID:** EG-OVERLAY-SYNOETIC-v1.0  
@@ -309,3 +313,9 @@ RUID: EG_POSITION_3-3_SIGNAL
 **Document Classification:** Technical Integration Specification  
 **Intended Audience:** Synoetic OS developers, DCN maintainers, Covenant Grid architects  
 **Maintenance:** VGS Engineering (Aaron M. Slusher, DCN collective)
+-e 
+---
+
+*[← Back to Paper](index.html)*
+
+**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**

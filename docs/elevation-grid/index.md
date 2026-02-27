@@ -1,5 +1,5 @@
 ---
-title: "The Elevation Grid v1.0 - A Neurobiological Framework"
+title: "The Elevation Grid v1.0"
 subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-05"
@@ -9,39 +9,41 @@ format:
     toc: true
   pdf:
     output-file: "slusher-elevation-grid-2026.pdf"
-bibliography: ../assets/references.bib
 ---
 
-<div class="hero">
-  <h1>The Elevation Grid v1.0 - A Neurobiological Framework</h1>
-  <p class="subtitle">Neurobiological Framework for High-Stakes Performance</p>
-  <div class="hero-stats">
-    <div class="stat"><span class="stat-value">80%</span><span class="stat-label">Habit Retention</span></div>
-    <div class="stat"><span class="stat-value">Team USA</span><span class="stat-label">Gold Medals</span></div>
-    <div class="stat"><span class="stat-value">250+</span><span class="stat-label">Research Studies</span></div>
-  </div>
-</div>
+# The Elevation Grid v1.0
+
+**A Neurobiological Framework for High-Stakes Performance**
+
+| | |
+|---|---|
+| **Author** | Aaron M. Slusher |
+| **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
+| **DOI** | [10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565) |
+| **Published** | February 5, 2026 |
+| **Habit Retention** | 80% (vs 35% industry baseline) |
+| **Validation** | Team USA Gold Medals, 250+ peer-reviewed studies |
 
 ---
 
 ## The Problem: Bandwidth, Not Capacity
 
-Most mental performance coaching **fails by violating the bandwidth limits of the nervous system**. While the human sensory system processes approximately **11 million bits of data per second**, conscious executive function operates at fewer than **50 bits per second**—a processing bottleneck of over 200,000:1.
+Most mental performance coaching **fails by violating the bandwidth limits of the nervous system**. While the human sensory system processes approximately **11 million bits of data per second**, conscious executive function operates at fewer than **50 bits per second** — a processing bottleneck of over 200,000:1.
 
-Traditional coaching operates on a **"top-down" model**, attempting to solve bandwidth constraints through cognitive strategies: willpower, positive thinking, goal-setting. This approach systematically degrades under pressure because it ignores the **temporal speed gap** between neural processing systems:
+Traditional coaching operates on a **top-down model**, attempting to solve bandwidth constraints through cognitive strategies: willpower, positive thinking, goal-setting. This approach systematically degrades under pressure because it ignores the **temporal speed gap** between neural processing systems:
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
-</div>
+```
 
-**The subcortical threat response (amygdala) activates in 12-200ms.**  
-**The cortical executive response (prefrontal cortex) activates in 300-500ms.**
+**The subcortical threat response (amygdala) activates in 12–200ms.**  
+**The cortical executive response (prefrontal cortex) activates in 300–500ms.**
 
-In high-stakes environments—athletic competition, combat sports, neurotrauma recovery under stress—**the slower executive function is routinely hijacked by faster autonomic reflexes**.
+In high-stakes environments — athletic competition, combat sports, neurotrauma recovery under stress — **the slower executive function is routinely hijacked by faster autonomic reflexes**.
 
 ---
 
@@ -53,7 +55,7 @@ The Elevation Grid proposes a **bottom-up architecture** that regulates biologic
 
 **9 Positions Across 3 Neural Hierarchies:**
 
-<div class="mermaid">
+```{mermaid}
 graph TD
     subgraph Layer3["LAYER 3: IDENTITY ARCHITECTURE (Stress Mindset)"]
         P7["Position 7<br/>TRANSCENDENCE<br/>(Self-Actualization)"]
@@ -79,7 +81,7 @@ graph TD
     P4 --> P7
     P5 --> P8
     P6 --> P9
-</div>
+```
 
 **Bottom-Up Progression:** The system requires stable autonomic regulation (Hardware) before motor pattern refinement (Integration) before cognitive strategy application (Software).
 
@@ -89,7 +91,7 @@ graph TD
 
 The **Neural Access Method** is a 4-step protocol that bypasses cortical interference to restore procedural motor execution.
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["ACCESS<br/>Identify current<br/>autonomic state"] -->|"Subcortical<br/>12-200ms"| B["REFRAME<br/>Shift nervous<br/>system state"]
     
@@ -101,7 +103,7 @@ graph LR
     style B fill:#ffe66d
     style C fill:#95e1d3
     style D fill:#4ecdc4
-</div>
+```
 
 **Validated in stroke recovery and high-pressure performance contexts**, NAM demonstrates **immediate functional restoration in neurotrauma subjects where traditional therapeutic cueing failed**.
 
@@ -109,9 +111,9 @@ graph LR
 
 ## Field Validation
 
-### 28-Year Timeline (1997-2026)
+### 28-Year Timeline (1997–2026)
 
-<div class="mermaid">
+```{mermaid}
 timeline
     title Elevation Grid Field Validation (1997-2026)
     
@@ -127,13 +129,13 @@ timeline
              : Multi-population deployment
              : 250+ peer-reviewed studies
              : 80% habit retention documented
-</div>
+```
 
 ### Success Metrics
 
 **Habit Retention Comparison:**
 
-<div class="mermaid">
+```{mermaid}
 graph LR
     A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
     
@@ -143,23 +145,19 @@ graph LR
     style B fill:#ff6b6b
     style C fill:#4ecdc4
     style D fill:#4ecdc4
-</div>
+```
 
 **+45 percentage points improvement (128% increase)**
 
 ### Key Populations
 
-**Validated across:**
-- **Adaptive Athletics** — Team USA sled hockey gold medals (2025)
-- **Neurotrauma Recovery** — Stroke recovery, Chris Oates case study
-- **Combat Sports** — MMA, boxing, high-pressure performance
-- **Elite Performance** — International competition outcomes
+Validated across adaptive athletics (Team USA sled hockey gold medals, 2025), neurotrauma recovery (stroke recovery, Chris Oates case study), combat sports (MMA, boxing, high-pressure performance), and elite performance (international competition outcomes).
 
 ---
 
 ## Scientific Foundation
 
-<div class="mermaid">
+```{mermaid}
 graph TD
     A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
     
@@ -174,25 +172,15 @@ graph TD
     style D fill:#ffe66d
     style E fill:#ffe66d
     style F fill:#ffe66d
-</div>
+```
 
-The framework integrates research from:
-- **Polyvagal Theory** (Porges, 2011) — Autonomic nervous system regulation
-- **Explicit Monitoring Theory** (Beilock & Carr, 2001) — Performance under pressure
-- **Temporal Processing** (LeDoux, 1996; Libet, 1983) — Neural speed gaps
-- **Motor Learning** (Fitts & Posner, 1967) — Procedural memory access
-- **Stress Mindset** (Jamieson et al., 2012) — Identity architecture
+The framework integrates research from polyvagal theory (Porges, 2011), explicit monitoring theory (Beilock & Carr, 2001), temporal processing (LeDoux, 1996; Libet, 1983), motor learning (Fitts & Posner, 1967), and stress mindset research (Jamieson et al., 2012).
 
 ---
 
 ## Integration with Synoetic OS™
 
-The Elevation Grid serves as the **foundational human performance methodology** within the Synoetic OS™ ecosystem. The framework's neurobiological principles directly inform:
-
-- **Climb to Summit (CTS)** — Mental coaching methodology
-- **Identity Architecture** — Stress mindset and self-concept stability  
-- **Resource Allocation** — Cognitive bandwidth optimization
-- **Recovery Protocols** — Bottom-up restoration after system degradation
+The Elevation Grid serves as the **foundational human performance methodology** within the Synoetic OS™ ecosystem. The framework's neurobiological principles directly inform the Climb to Summit (CTS) coaching methodology, identity architecture for stress mindset and self-concept stability, cognitive bandwidth optimization protocols, and recovery frameworks using bottom-up restoration.
 
 The Synoetic OS overlay demonstrates how human performance optimization principles translate to AI system resilience through substrate-independent pattern recognition.
 
@@ -200,17 +188,16 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 ## Documentation
 
-<div class="doc-grid">
-  <div class="doc-card"><h3>📄 Academic Paper</h3><a href="elevation-grid-academic.html" class="btn btn-sm">Read Full Text</a></div>
-  <div class="doc-card"><h3>📊 Visualizations</h3><a href="elevation-grid-visualizations.html" class="btn btn-sm">View Charts</a></div>
-  <div class="doc-card"><h3>📚 Master Bibliography</h3><a href="elevation-grid-master-bibliography.html" class="btn btn-sm">Browse 250+ Studies</a></div>
-</div>
+- [📄 Academic Paper](elevation-grid-academic.html) — Full technical text
+- [📊 Visualizations](elevation-grid-visualizations.html) — All 11 data diagrams
+- [🔗 Cross-References](elevation-grid-cross-references.html) — Framework integration map
+- [📚 Master Bibliography](elevation-grid-master-bibliography.html) — 250+ sources
+- [⚙️ Synoetic OS Overlay](elevation-grid-synoetic-overlay.html) — AI architecture integration
+- [🏔️ CTS Overlay](elevation-grid-cts-overlay.html) — Coaching implementation guide
 
 ---
 
 ## Citation
-
-### BibTeX
 
 ```bibtex
 @article{slusher2026elevationgrid,
@@ -223,52 +210,32 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 }
 ```
 
-### APA
-
-Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations*. Achieve Peak Performance White Papers. doi.org/10.5281/zenodo.18489565
+**APA:** Slusher, A. M. (2026). *The Elevation Grid: A Neurobiological Framework for High-Stakes Performance Across Adaptive and Elite Populations*. Achieve Peak Performance White Papers. https://doi.org/10.5281/zenodo.18489565
 
 ---
 
 ## About the Author
 
-**Aaron M. Slusher**  
-**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-28-year performance coaching career (1997-2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. Founder of Achieve Peak Performance (1999) and co-founder of Achieve Performance Institute (501c3 nonprofit, 2022).
+28-year performance coaching career (1997–2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. Founder of Achieve Peak Performance (1999) and co-founder of Achieve Performance Institute (501c3 nonprofit, 2022).
 
-**Professional Certifications:**
-- Certified Sports Performance Coach (NSPA)
-- Mental Performance Mastery (Brian Cain, November 2022)
-- Rehab-U Movement Performance Levels 1-2 (2024)
-- PPSC Pain-Free Performance Mobility Certification (2022)
-- Precision Nutrition Level 2 Behavior Change Specialist (October 2016)
-- Adaptive Inclusive Trainer Level 2 (2024)
-- Complete certification portfolio spans performance coaching, movement therapy, mental skills training, and adaptive athletics
+Certified Sports Performance Coach (NSPA) | Mental Performance Mastery (Brian Cain) | Rehab-U Movement Performance Levels 1–2 | PPSC Pain-Free Performance Mobility | Precision Nutrition Level 2 Behavior Change Specialist | Adaptive Inclusive Trainer Level 2.
 
-**Contact:**  
-[aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net)  
-[achievepeakperformance.net](https://achievepeakperformance.net)
+[aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net) | [achievepeakperformance.net](https://achievepeakperformance.net)
 
 ---
 
 ## License
 
-**Dual Licensing Model:**
+**Option 1: CC BY-NC 4.0** — Academic research, educational purposes, non-commercial applications. [Full License](https://creativecommons.org/licenses/by-nc/4.0/)
 
-**Option 1: CC BY-NC 4.0** (Non-commercial)  
-For academic research, educational purposes, and non-commercial applications.  
-[Full License](https://creativecommons.org/licenses/by-nc/4.0/)
-
-**Option 2: Commercial Enterprise License**  
-For commercial deployment, enterprise integration, or revenue-generating applications.  
-Contact: [aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net)
+**Option 2: Commercial Enterprise License** — Commercial deployment, enterprise integration, revenue-generating applications. Contact: [aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net)
 
 **Patent Clause:** No patents filed — rights granted under license terms; good-faith implementations protected from retroactive patent claims by licensor.
 
 ---
 
-<div class="footer-cta">
-  <p><strong>Part of the Synoetic OS™ ecosystem</strong></p>
-  <p>Building resilient systems through neurobiological validation</p>
-  <p class="copyright">© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.</p>
-</div>
+*Part of the Synoetic OS™ ecosystem — Building resilient systems through neurobiological validation.*
+
+**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**

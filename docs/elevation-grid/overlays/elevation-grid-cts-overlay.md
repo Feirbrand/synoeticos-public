@@ -1,6 +1,10 @@
 ---
-layout: default
+
 title: "Elevation Grid – CTS (Climb to Summit) Overlay"
+---
+
+[← Back to Paper](index.html) | [Visualizations →](elevation-grid-visualizations.html) | [Synoetic OS Overlay →](elevation-grid-synoetic-overlay.html)
+
 ---
 
 **RUID:** EG-OVERLAY-CTS-v1.0  
@@ -336,3 +340,9 @@ When CTS client expresses interest in faith integration:
 **Document Classification:** Brand Implementation Specification  
 **Intended Audience:** APP coaches, CTS practitioners, mental performance specialists  
 **Maintenance:** APP Education Team (Aaron M. Slusher, DCN coaching collective)
+-e 
+---
+
+*[← Back to Paper](index.html)*
+
+**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**
