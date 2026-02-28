@@ -10,7 +10,7 @@ website:
     left:
       - href: index.md
         text: Home
-      - href: elevation-grid/index.md
+      - href: elevation-grid/index.qmd
         text: Elevation Grid
       - href: synoetic-os-v1.0/index.md
         text: Synoetic OS
@@ -24,7 +24,7 @@ website:
             text: FCE v3.6
           - href: torque-v2.0/index.md
             text: Torque v2.0
-          - href: mbm-v1.0/index.md
+          - href: mbm-v1.0/index.qmd
             text: MBM v1.0
           - href: cognitive-mage-v1.0/index.md
             text: Cognitive Mage v1.0
