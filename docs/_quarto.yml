@@ -46,6 +46,7 @@ format:
     number-sections: false
     citations-hover: true
     code-fold: false
+    execute: false
     
   pdf:
     documentclass: article
