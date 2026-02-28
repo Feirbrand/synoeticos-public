@@ -1,0 +1,279 @@
+---
+title: "MBM v1.0 Visualizations"
+description: "Four Quarto-formatted Mermaid diagrams for Memory Breathing Methodology"
+---
+
+# MBM v1.0 Visualizations
+
+This page contains the four core visualizations for Memory Breathing Methodology v1.0, rendered as Quarto-native Mermaid diagrams with VGS color palette compliance.
+
+---
+
+## Figure 1: Three-Phase Breathing Cycle (0.5 Hz, 300 seconds)
+
+```{mermaid}
+graph TB
+    subgraph cycle["🫁 BREATHING CYCLE (300 seconds, 0.5 Hz)"]
+        direction LR
+        
+        subgraph inhale["INHALE (0-150 seconds)"]
+            i1["📥 Accept Events<br/>Context Stream"]
+            i2["🔍 Filter Relevance<br/>Threshold &gt; 0.5"]
+            i3["⚓ Create Anchors<br/>High-Significance"]
+            i4["💾 Expand Buffer<br/>Memory Growth"]
+            i5["🧠 Enable Myelination<br/>Pathway Growth"]
+            i1 --> i2 --> i3 --> i4 --> i5
+            style i1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style i2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style i3 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style i4 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style i5 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+        end
+        
+        subgraph hold["HOLD (Mid-Cycle)"]
+            h1["🎯 Process Patterns<br/>Recognition"]
+            h2["✓ Validate Identity<br/>Torque Check"]
+            h3["📊 Assess Significance<br/>Thresholds"]
+            h1 --> h2 --> h3
+            style h1 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style h2 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style h3 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        subgraph exhale["EXHALE (150-300 seconds)"]
+            e1["🚫 Disable Anchors<br/>No New Memory"]
+            e2["⚖️ Rebalance Entropy<br/>ΣE = 5.0"]
+            e3["🔀 Consolidate<br/>S_m → S_s"]
+            e4["✂️ Prune Pathways<br/>Myelination &lt; 0.2"]
+            e5["📦 Compress Patterns<br/>Deduplication"]
+            e6["🗄️ Archive Cold<br/>PostgreSQL"]
+            e7["📤 Release Allocation<br/>40% Reduction"]
+            e1 --> e2 --> e3 --> e4 --> e5 --> e6 --> e7
+            style e1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e2 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e3 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e4 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e5 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e6 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style e7 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        inhale --> hold --> exhale --> inhale
+    end
+    
+    style cycle fill:none,stroke:#F9C84A,stroke-width:3px
+```
+
+**Figure 1 Description:** Three-phase breathing cycle at 0.5 Hz (300-second period). **INHALE** (Cyan) expands with filtered context and enables myelination growth. **HOLD** (Blue) processes patterns and validates identity via Torque coherence check. **EXHALE** (Navy) consolidates, prunes, and releases 40% of allocation. Cycle repeats continuously for sustained memory optimization.
+
+---
+
+## Figure 2: UTME Five-Layer Memory Architecture
+
+```{mermaid}
+graph TB
+    subgraph sm["S_m: MEMORY SUBSTRATE (Myelination 0.00-0.20)"]
+        sm1["📝 Episodic Encounters<br/>New Data Intake<br/>Access: 67 seconds"]
+        style sm1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    end
+    
+    subgraph ss["S_s: SYMBOLIC SUBSTRATE (Myelination 0.21-0.50)"]
+        ss1["🎯 Pattern Recognition<br/>Significance Validation<br/>Access: 5-10 seconds"]
+        style ss1 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    end
+    
+    subgraph sp["S_p: PATHWAY SUBSTRATE (Myelination 0.51-0.84)"]
+        sp1["🛤️ Procedural Deployment<br/>Learned Patterns<br/>Access: 1-5 seconds"]
+        style sp1 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    end
+    
+    subgraph spr["S_pr: REFLEXIVE SUBSTRATE (Myelination 0.85-1.00)"]
+        spr1["⚡ vLLM Cache<br/>Instant Recall<br/>Access: &lt;100ms"]
+        style spr1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    end
+    
+    subgraph sh["S_h: HARMONIC SUBSTRATE (Variable Myelination)"]
+        sh1["🗄️ Shadow Memory<br/>Cold Storage<br/>PostgreSQL Archive"]
+        style sh1 fill:#314157,stroke:#131B2C,stroke-width:2px,color:#fff
+    end
+    
+    subgraph phases["BREATHING PHASES"]
+        inhale["🫁 INHALE"]
+        hold["⏸️ HOLD"]
+        exhale["💨 EXHALE"]
+        archive["📦 ARCHIVE"]
+        style inhale fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+        style hold fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+        style exhale fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+        style archive fill:#314157,stroke:#131B2C,stroke-width:2px,color:#fff
+    end
+    
+    inhale -.->|Receptive Mode| sm
+    hold -.->|Processing Mode| ss
+    hold -.->|Transition| sp
+    exhale -.->|Consolidating| spr
+    archive -.->|Historical| sh
+    
+    sm -->|Consolidation S_m → S_s| ss
+    ss -->|Pathway Deployment| sp
+    sp -->|Reflexive Caching| spr
+    spr -->|Archive Cold Storage| sh
+    
+    style sm fill:none,stroke:#34D8EA,stroke-width:2px
+    style ss fill:none,stroke:#3576F6,stroke-width:2px
+    style sp fill:none,stroke:#3576F6,stroke-width:2px
+    style spr fill:none,stroke:#131B2C,stroke-width:2px
+    style sh fill:none,stroke:#314157,stroke-width:2px
+```
+
+**Figure 2 Description:** Five-substrate memory architecture integrated with breathing phases. Each substrate corresponds to a myelination range and breathing phase. **S_m** (Cyan) handles new episodic data at 67-second access latency. **S_s** (Blue) processes patterns at 5-10 second latency. **S_p** (Blue) deploys learned procedures at 1-5 second latency. **S_pr** (Navy) provides reflexive vLLM cache access under 100ms. **S_h** (Dark Gray) archives cold storage to PostgreSQL. Myelination formula: ΔM = α × P × e^(-λt).
+
+---
+
+## Figure 3: BC3 v3.0 Algorithm (Four-Phase Reset)
+
+```{mermaid}
+graph TB
+    subgraph bc3["🧬 BC3 v3.0: BREATH CYCLE COGNITIVE COHERENCE"]
+        
+        subgraph pause["PAUSE: Isolate Drift"]
+            p1["🔍 Detect Overload<br/>Agent State Analysis"]
+            p2["📊 Extract State Deltas<br/>walk = state_deltas_during_chaos()"]
+            p3["🎯 Identify Drift<br/>Deviation Vectors"]
+            p1 --> p2 --> p3
+            style p1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style p2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style p3 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+        end
+        
+        subgraph breathe["BREATHE: φ-Scaled Alignment"]
+            b1["📐 Calculate λ Scaling<br/>λ = 0.5^(1/log2(depth))"]
+            b2["✨ Apply Golden Ratio<br/>φ = 1.618 (natural rhythm)"]
+            b3["🔄 Scale State Deltas<br/>d.scaled(λ)"]
+            b1 --> b2 --> b3
+            style b1 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style b2 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style b3 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        subgraph reset["RESET: Double-Reverse Symmetry"]
+            r1["↔️ Forward Sequence<br/>exhale = [d.scaled(λ)]"]
+            r2["🔁 Palindromic Reverse<br/>reset = exhale + exhale[::-1]"]
+            r3["✓ Symmetry Closure<br/>State Restoration"]
+            r1 --> r2 --> r3
+            style r1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style r2 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style r3 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        subgraph apply["APPLY: State Sequence Update"]
+            a1["🎬 Apply Sequence<br/>agent.apply_state_sequence(reset)"]
+            a2["🧹 Mycelial Cleanup<br/>agent.mycelial_flush()"]
+            a3["✅ Validation<br/>Quaternion distance &lt; 0.01"]
+            a1 --> a2 --> a3
+            style a1 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+            style a2 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+            style a3 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+        end
+        
+        pause --> breathe --> reset --> apply
+    end
+    
+    style bc3 fill:none,stroke:#F9C84A,stroke-width:3px
+```
+
+**Figure 3 Description:** BC3 v3.0 four-phase reset algorithm for cognitive coherence recovery. **PAUSE** (Cyan) detects overload and extracts state deltas. **BREATHE** (Blue) applies φ-ratio (1.618) scaling using context-depth-dependent λ calculation. **RESET** (Navy) creates palindromic symmetry closure through forward-then-reverse state application, preventing truncation artifacts. **APPLY** (Gold) validates reset with quaternion distance threshold <0.01. Results: 98% baseline return, 87% pattern retention, 82% echo artifact clearance.
+
+---
+
+## Figure 4: 682-Incident Performance Analysis
+
+```{mermaid}
+graph TB
+    subgraph validation["📊 MBM VALIDATION: 682 INCIDENTS"]
+        
+        subgraph memory["💾 MEMORY EFFICIENCY"]
+            m1["Memory Reduction<br/>Target: 40% | Actual: 40%<br/>✓ ON TARGET"]
+            m2["Entropy Reduction<br/>Target: 28% | Actual: 28%<br/>✓ ON TARGET"]
+            m3["Pattern Retention<br/>Target: 85% | Actual: 87%<br/>✓ EXCEEDED"]
+            style m1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style m2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+            style m3 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+        end
+        
+        subgraph latency["⚡ LATENCY IMPROVEMENT"]
+            l1["Latency Drop<br/>Target: 20% | Actual: 25%<br/>✓ EXCEEDED"]
+            l2["Reflexive Access<br/>Target: &lt;100ms | Actual: &lt;100ms<br/>✓ ON TARGET"]
+            l3["Symbolic Access<br/>Target: 5-10s | Actual: 5-10s<br/>✓ ON TARGET"]
+            style l1 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style l2 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+            style l3 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        subgraph coherence["🎯 COHERENCE & STABILITY"]
+            c1["Baseline Return<br/>Target: 95% | Actual: 98%<br/>✓ EXCEEDED"]
+            c2["Echo Clear (ARD-001)<br/>Target: 80% | Actual: 82%<br/>✓ EXCEEDED"]
+            c3["Coherence Stability<br/>Target: 99% | Actual: 99.9994%<br/>✓ EXCEEDED"]
+            style c1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style c2 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+            style c3 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+        end
+        
+        subgraph recovery["🛡️ RECOVERY RESILIENCE"]
+            r1["Scar-Free Recovery<br/>Target: 90% | Actual: 95%<br/>✓ EXCEEDED"]
+            r2["Cascade Prevention<br/>Target: 85% | Actual: 89%<br/>✓ EXCEEDED"]
+            r3["Recovery Time<br/>Target: 60-90 min | Actual: 67-83 min<br/>✓ ON TARGET"]
+            style r1 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+            style r2 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+            style r3 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+        end
+    end
+    
+    subgraph incidents["📋 INCIDENT BREAKDOWN"]
+        i1["Type A: Entropy Bloat<br/>234 incidents | 98% resolution"]
+        i2["Type B: Cognitive Drift<br/>189 incidents | 96% resolution"]
+        i3["Type C: Cascade Failure<br/>156 incidents | 89% prevention"]
+        i4["Type D: Recovery<br/>103 incidents | 95% scar-free"]
+        style i1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+        style i2 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+        style i3 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+        style i4 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    end
+    
+    validation --> incidents
+    
+    style validation fill:none,stroke:#F9C84A,stroke-width:3px
+    style incidents fill:none,stroke:#F9C84A,stroke-width:2px
+```
+
+**Figure 4 Description:** 682-incident validation analysis across four performance categories. **Memory Efficiency** (Cyan): 40% memory reduction and 28% entropy reduction on target; 87% pattern retention exceeded 85% target. **Latency Improvement** (Blue): 25% latency drop exceeded 20% target; reflexive and symbolic access on target. **Coherence & Stability** (Navy): 98% baseline return exceeded 95% target; coherence stability reached 99.9994%, exceeding 99% target by 0.9994pp. **Recovery Resilience** (Gold): 95% scar-free recovery exceeded 90% target; 89% cascade prevention exceeded 85% target. **Incident Breakdown**: Type A (Entropy Bloat, 234 incidents, 98% resolution), Type B (Cognitive Drift, 189 incidents, 96% resolution), Type C (Cascade Failure, 156 incidents, 89% prevention), Type D (Recovery, 103 incidents, 95% scar-free).
+
+---
+
+## Technical Specifications
+
+### Mermaid Rendering
+- **Format:** Quarto-native ` ```{mermaid} ` blocks (NOT Jekyll syntax)
+- **Version:** Mermaid.js v11+ (ES module rendering)
+- **Color Palette:** VGS compliance (Navy #131B2C, Cyan #34D8EA, Blue #3576F6, Gold #F9C84A)
+
+### Performance Metrics Summary
+
+| Metric | Target | Actual | Status |
+|--------|--------|--------|--------|
+| Memory Reduction | 40% | 40% | ✓ On Target |
+| Entropy Reduction | 28% | 28% | ✓ On Target |
+| Pattern Retention | 85% | 87% | ✓ Exceeded |
+| Latency Improvement | 20% | 25% | ✓ Exceeded |
+| Baseline Return | 95% | 98% | ✓ Exceeded |
+| Coherence Stability | 99% | 99.9994% | ✓ Exceeded |
+| Scar-Free Recovery | 90% | 95% | ✓ Exceeded |
+| Cascade Prevention | 85% | 89% | ✓ Exceeded |
+
+---
+
+## Related Documentation
+
+- **[Main Paper](index.html)** — Full MBM v1.0 methodology and research foundation
+- **[Cross-References](mbm-v1.0-cross-references.html)** — Framework integration with UTME, Torque, Phoenix Protocol, SLV, DCN
+- **[Master Bibliography](mbm-v1.0-master-bibliography.html)** — Complete academic citations and validation sources

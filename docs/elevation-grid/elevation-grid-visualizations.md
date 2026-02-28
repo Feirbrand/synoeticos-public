@@ -40,6 +40,19 @@ graph TD
     P4 --> P7
     P5 --> P8
     P6 --> P9
+    
+    style Layer1 fill:none,stroke:#34D8EA,stroke-width:2px
+    style Layer2 fill:none,stroke:#3576F6,stroke-width:2px
+    style Layer3 fill:none,stroke:#131B2C,stroke-width:2px
+    style P1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style P2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style P3 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style P4 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style P5 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style P6 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style P7 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style P8 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style P9 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -52,8 +65,8 @@ The 200,000:1 bottleneck explains why cognitive strategies fail under pressure â
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
+    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ```
@@ -97,11 +110,11 @@ graph TD
     B -->|"Arousal<br/>Mobilization<br/>HRV Elevated"| D
     C -->|"Shutdown<br/>Dissociation<br/>HRV Collapsed"| E["PERFORMANCE COLLAPSE"]
     
-    style A fill:#4ecdc4
-    style B fill:#ffe66d
-    style C fill:#ff6b6b
-    style D fill:#95e1d3
-    style E fill:#ff6b6b
+    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style E fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -114,9 +127,9 @@ graph LR
     
     B -->|"Automaticity<br/>Procedural Memory<br/>Myelinated pathways"| C["AUTONOMOUS STAGE<br/>(Automatic Execution)<br/>Minimal cortical load<br/>Fast, fluid execution"]
     
-    style A fill:#ff6b6b
-    style B fill:#ffe66d
-    style C fill:#4ecdc4
+    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
 ```
 
 ---
@@ -129,9 +142,9 @@ graph TD
     
     C["PROCEDURAL MEMORY<br/>(Myelinated)<br/>Automatic Execution<br/>FASTEST CORTICAL"] -->|"Respects"| B
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#95e1d3
+    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
 ```
 
 ---
@@ -149,9 +162,9 @@ graph TD
     L1 -->|"Only after<br/>autonomic stability"| L2
     L2 -->|"Only after<br/>cognitive clarity"| L3
     
-    style L1 fill:#ff6b6b
-    style L2 fill:#ffe66d
-    style L3 fill:#4ecdc4
+    style L1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style L2 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style L3 fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -166,10 +179,10 @@ graph LR
     
     C -->|"Bypass<br/>Conscious<br/>interference"| D["IGNITE<br/>Execute motor<br/>pattern"]
     
-    style A fill:#ff6b6b
-    style B fill:#ffe66d
-    style C fill:#95e1d3
-    style D fill:#4ecdc4
+    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -182,10 +195,10 @@ graph LR
     
     C["Elevation Grid<br/>80% Retention"] -->|"Autonomic-First<br/>Bottom-Up<br/>Hardware-Focused"| D["SUCCESS"]
     
-    style A fill:#ff6b6b
-    style B fill:#ff6b6b
-    style C fill:#4ecdc4
-    style D fill:#4ecdc4
+    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
 ```
@@ -234,13 +247,26 @@ graph TD
     B --> E["Psychology:<br/>Beilock, Csikszentmihalyi<br/>Flow State<br/>Explicit Monitoring"]
     B --> F["Autonomic Regulation:<br/>Menon, Bolte Taylor<br/>HRV, Vagal Tone<br/>Box Breathing"]
     
-    style A fill:#4ecdc4
-    style B fill:#95e1d3
-    style C fill:#ffe66d
-    style D fill:#ffe66d
-    style E fill:#ffe66d
-    style F fill:#ffe66d
+    style A fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style D fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style E fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style F fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
 ```
+
+---
+
+## Color Palette Reference
+
+All visualizations use the **VGS (ValorGrid Solutions) Design Palette** for consistency:
+
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Navy | #131B2C | Backgrounds, headers, deep states |
+| Cyan | #34D8EA | Autonomic layer, foundational elements |
+| Blue | #3576F6 | Cognitive layer, processing elements |
+| Gold | #F9C84A | Transition states, highlights, accents |
 
 ---
 
