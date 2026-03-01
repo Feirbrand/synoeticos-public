@@ -4,12 +4,7 @@ subtitle: "Substrate-independent orchestration of AI agents through narrative co
 author: "Aaron M. Slusher"
 date: "2025-12-04"
 doi: "10.5281/zenodo.17808864"
-format:
-  html:
-    toc: true
-  pdf:
-    output-file: "slusher-synoetic-os-2026.pdf"
-bibliography: ../assets/references.bib
+
 ---
 
 # Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence
@@ -154,7 +149,7 @@ Synoetic OS emerges from applying performance coaching methodology to AI orchest
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](slusher-synoetic-os-2026.pdf)** - Complete technical specification
+- **[Full Academic Paper](https://doi.org/10.5281/zenodo.17808864)** - Complete technical specification (Zenodo)
 - **[Visualizations](synoetic-os-v1.0-visualizations.html)** - Mermaid diagrams and charts
 - **[Cross-References](synoetic-os-v1.0-cross-references.html)** - Framework connections
 - **[Master Bibliography](synoetic-os-v1.0-master-bibliography.html)** - Complete citations

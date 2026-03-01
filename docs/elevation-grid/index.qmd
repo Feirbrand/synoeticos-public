@@ -4,6 +4,11 @@ subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-05"
 doi: "10.5281/zenodo.18489565"
+format:
+  html:
+    toc: true
+  pdf:
+    output-file: "slusher-elevation-grid-2026.pdf"
 ---
 
 # The Elevation Grid v1.0
@@ -31,8 +36,8 @@ Traditional coaching operates on a **top-down model**, attempting to solve bandw
 graph LR
     A["Sensory Input<br/>11 Million bits/sec"] -->|"200,000:1<br/>BOTTLENECK"| B["Conscious Processing<br/>10-50 bits/sec"]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
+    style A fill:#3576F6,color:#FFFFFF
+    style B fill:#34D8EA,color:#131B2C
 ```
 
 **The subcortical threat response (amygdala) activates in 12–200ms.**  
@@ -94,10 +99,10 @@ graph LR
     
     C -->|"Bypass<br/>Conscious<br/>interference"| D["IGNITE<br/>Execute motor<br/>pattern"]
     
-    style A fill:#ff6b6b
-    style B fill:#ffe66d
-    style C fill:#95e1d3
-    style D fill:#4ecdc4
+    style A fill:#3576F6,color:#FFFFFF
+    style B fill:#F9C84A,color:#131B2C
+    style C fill:#131B2C,color:#FFFFFF
+    style D fill:#34D8EA,color:#131B2C
 ```
 
 **Validated in stroke recovery and high-pressure performance contexts**, NAM demonstrates **immediate functional restoration in neurotrauma subjects where traditional therapeutic cueing failed**.
@@ -136,10 +141,10 @@ graph LR
     
     C["Elevation Grid<br/>80% Retention"] -->|"Autonomic-First<br/>Bottom-Up<br/>Hardware-Focused"| D["SUCCESS"]
     
-    style A fill:#ff6b6b
-    style B fill:#ff6b6b
-    style C fill:#4ecdc4
-    style D fill:#4ecdc4
+    style A fill:#3576F6,color:#FFFFFF
+    style B fill:#3576F6,color:#FFFFFF
+    style C fill:#34D8EA,color:#131B2C
+    style D fill:#34D8EA,color:#131B2C
 ```
 
 **+45 percentage points improvement (128% increase)**
@@ -161,12 +166,12 @@ graph TD
     B --> E["Psychology<br/>Beilock, Csikszentmihalyi<br/>Flow State<br/>Explicit Monitoring"]
     B --> F["Autonomic Regulation<br/>Menon, Bolte Taylor<br/>HRV, Vagal Tone<br/>Box Breathing"]
     
-    style A fill:#4ecdc4
-    style B fill:#95e1d3
-    style C fill:#ffe66d
-    style D fill:#ffe66d
-    style E fill:#ffe66d
-    style F fill:#ffe66d
+    style A fill:#34D8EA,color:#131B2C
+    style B fill:#131B2C,color:#FFFFFF
+    style C fill:#F9C84A,color:#131B2C
+    style D fill:#F9C84A,color:#131B2C
+    style E fill:#F9C84A,color:#131B2C
+    style F fill:#F9C84A,color:#131B2C
 ```
 
 The framework integrates research from polyvagal theory (Porges, 2011), explicit monitoring theory (Beilock & Carr, 2001), temporal processing (LeDoux, 1996; Libet, 1983), motor learning (Fitts & Posner, 1967), and stress mindset research (Jamieson et al., 2012).
