@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: 'Synoetic OS™ Research Hub'
@@ -8,27 +7,27 @@ website:
     background: '#131B2C'
     foreground: '#F9C84A'
     left:
-      - href: index.md
+      - href: index.qmd
         text: Home
       - href: elevation-grid/index.qmd
         text: Elevation Grid
-      - href: synoetic-os-v1.0/index.md
+      - href: synoetic-os-v1.0/index.qmd
         text: Synoetic OS
       - text: More Papers
         menu:
-          - href: pme-v1.0/index.md
+          - href: pme-v1.0/index.qmd
             text: PME v1.0
-          - href: utme-v1.0/index.md
+          - href: utme-v1.0/index.qmd
             text: UTME v1.0
-          - href: fce-v3.6/index.md
+          - href: fce-v3.6/index.qmd
             text: FCE v3.6
-          - href: torque-v2.0/index.md
+          - href: torque-v2.0/index.qmd
             text: Torque v2.0
           - href: mbm-v1.0/index.qmd
             text: MBM v1.0
-          - href: cognitive-mage-v1.0/index.md
+          - href: cognitive-mage-v1.0/index.qmd
             text: Cognitive Mage v1.0
-          - href: mi-agents-v1.0/index.md
+          - href: mi-agents-v1.0/index.qmd
             text: MI Agents v1.0
       - text: Resources
         menu:
@@ -44,13 +43,4 @@ format:
     toc: true
     toc-depth: 3
     number-sections: false
-    citations-hover: true
     code-fold: false
-    execute: false
-    
-  pdf:
-    documentclass: article
-    papersize: letter
-    toc: true
-    number-sections: true
-    colorlinks: true
