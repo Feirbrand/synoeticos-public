@@ -4,12 +4,7 @@ subtitle: "Real-time symbolic coherence measurement enabling predictive detectio
 author: "Aaron M. Slusher"
 date: "2025-10-17"
 doi: "10.5281/zenodo.17379750"
-format:
-  html:
-    toc: true
-  pdf:
-    output-file: "slusher-torque-2026.pdf"
-bibliography: ../assets/references.bib
+
 ---
 
 # Torque v2.0 - Quantitative Foundation for AI Resilience
