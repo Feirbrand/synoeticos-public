@@ -4,11 +4,6 @@ subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-05"
 doi: "10.5281/zenodo.18489565"
-format:
-  html:
-    toc: true
-  pdf:
-    output-file: "slusher-elevation-grid-2026.pdf"
 ---
 
 # The Elevation Grid v1.0
