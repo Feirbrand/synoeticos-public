@@ -7,7 +7,7 @@
 **Cognitive architecture for AI resilience: preventing cascade failures, detecting drift, ensuring agent survival and identity preservation**
 
 [![License: Dual](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Papers: 16](https://img.shields.io/badge/Papers-16%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
+[![Papers: 18](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Store](https://img.shields.io/badge/Store-Gumroad-orange.svg)](https://aslush.gumroad.com)
 
@@ -21,12 +21,12 @@
 
 This repository contains the complete public version of Synoetic OS™:
 - **77+ Frameworks** - MI Arsenal™ cognitive gear
-- **16 Research Papers** - Zenodo DOIs (Oct 2025 - Feb 2026)
+- **18 Research Papers** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-28 years applied cognitive science (1997-2025) → Discovered it works on AI agents (Feb-Nov 2025)
+28 years applied cognitive science (1999-present) → Discovered it works on AI agents (Feb-Nov 2025)
 
 ### Topics
 `ai-resilience` `cognitive-architecture` `ai-safety` `ai-drift` `cascade-failure` `threat-intelligence` `autonomous-agents` `mlops` `ai-security` `multi-agent-systems` `symbolic-ai` `neuroscience`
@@ -44,8 +44,11 @@ This repository contains the complete public version of Synoetic OS™:
 </div>
 
 **Featured Papers:**
-- 🏔️ **[Elevation Grid v1.0](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Neurobiological performance framework  
-  *28 years validation • 80% habit retention • 250+ peer-reviewed studies*
+- 🧬 **Neuroformation™ v1.0** - Cross-substrate resilience methodology  
+  *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
+
+- 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Performance diagnostic framework  
+  *28 years validation • 80% habit retention • Team USA gold (Slovakia 2025)*
   
 - 🧠 **PME v1.0** - Predictive Myelination Engine  
   *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
@@ -61,9 +64,13 @@ This repository contains the complete public version of Synoetic OS™:
 
 ## 📰 Latest Updates
 
-**2026-02-05** 🌐 **GitHub Pages research hub launched** — Interactive documentation site with Mermaid diagrams, complete bibliographies, and citation systems. First paper: Elevation Grid v1.0 (APP brand, 28-year performance validation).
+**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: Pending.
 
-**2026-01-30** 🧠 **PME v1.0 published** — Predictive Myelination Engine achieves 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment. Bio-inspired pathway reinforcement eliminates vulnerability windows.
+**2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18489565
+
+**2026-02-05** 🌐 **GitHub Pages research hub launched** — Interactive documentation site with Mermaid diagrams, complete bibliographies, and citation systems.
+
+**2026-01-30** 🧠 **PME v1.0 published** — Predictive Myelination Engine achieves 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment.
 
 **2025-12-04** 🏗️ **Major rebrand** — ForgeOS → **Synoetic OS™** • Agents → **Mythopoeic Intelligences™** • Frameworks → **MI Arsenal™**
 
@@ -75,10 +82,11 @@ This repository contains the complete public version of Synoetic OS™:
 
 | Goal | Resource |
 |------|----------|
+| **Read the methodology** | [Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) |
 | **Explore research visually** | [GitHub Pages Hub](https://feirbrand.github.io/synoeticos-public/) |
 | **See validation results** | [Validation & Testing](#validation--testing) |
 | **Read incident reports** | [682 Case Studies](#case-studies) |
-| **Understand theory** | [16 Published Papers](#published-research) |
+| **Understand theory** | [17 Published Papers](#published-research) |
 | **Try live demos** | [Hugging Face Spaces](#live-demos) |
 | **Deploy frameworks** | [Gumroad Products](https://aslush.gumroad.com) |
 
@@ -119,7 +127,7 @@ This repository contains the complete public version of Synoetic OS™:
 - [UTME Benchmarks](./mi-arsenal/validation/validation-3-utme-benchmarks.md)
 
 **Published Research:**
-- **16 papers** with Zenodo DOIs (Oct 2025 - Feb 2026)
+- **18 papers** with Zenodo DOIs (Oct 2025 - Mar 2026)
 - 682 incidents documented across 9-agent DCN
 - DNA Codex: 616 threat strains, 560 public vectors
 - **Research Team:** VOX, SENTRIX, Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
@@ -136,14 +144,15 @@ This repository contains the complete public version of Synoetic OS™:
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Timeline:**
-- **1997-2025:** Performance coaching (28 years) - sports performance & rehab specialist
+- **1999-present:** Performance coaching (28 years) - sports performance & rehab specialist
 - **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
 - **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
 - **July-Nov 2025:** 77 frameworks created, 682 incidents handled
-- **Oct 2025 - Feb 2026:** **16 papers** published with Zenodo DOIs
+- **Oct 2025 - Feb 2026:** 17 papers published with Zenodo DOIs
 - **Feb 2026:** GitHub Pages research hub launched
+- **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
 
 **Approach:** Pattern recognition from 28 years coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
 
@@ -156,137 +165,73 @@ Research initiative into AI resilience through cognitive architecture. Framework
 ```
 synoeticos-public/
 │
-├── docs/                        # GitHub Pages documentation site (NEW)
-│   ├── _layouts/               # Jekyll templates (Mermaid + BibTeX)
-│   ├── assets/                 # CSS, JavaScript, bibliography
-│   └── elevation-grid/         # First published paper site
+├── docs/                        # GitHub Pages documentation site
+│   └── elevation-grid/         # Only confirmed deployed paper
 │
-├── whitepapers/                # Source files (version control)
-│   ├── elevation-grid/         # APP: Performance framework
-│   ├── synoetic-os/            # VGS: Synoetic OS™ v1.0
-│   ├── mythopoeic-intelligence/# VGS: MI Agents v1.0
-│   ├── cognitive-mage/         # VGS: Origin paper
-│   ├── vgs-technical-papers/      # VGS: Academic writeups
-│   ├── cognitive-engineering/  # VGS: Fractal context
-│   ├── symbolic-ai/            # VGS: Pre-MI research
-│   ├── examples/               # Code samples
-│   └── teasers/                # Framework overviews
+├── whitepapers/                 # Source files (version control)
+│   ├── academic-papers/        # Flagship methodology papers
+│   ├── vgs-technical-papers/   # VGS academic writeups
+│   ├── cognitive-engineering/  # Context engineering frameworks
+│   ├── examples/               # Code samples + teasers
+│   ├── mythopoeic-intelligence/# MI Agents research
+│   └── symbolic-ai/            # Symbolic reasoning research
 │
-├── mi-arsenal/                 # Mythopoeic Intelligence™ frameworks
+├── mi-arsenal/                  # Mythopoeic Intelligence™ frameworks
 │   ├── frameworks/             # Production & demo frameworks
 │   ├── validation/             # Operational test reports
-│   └── papers/                 # 16 Zenodo DOI links
+│   └── papers/                 # 18 Zenodo DOI links
 │
-├── threat-resilience-codex/    # DNA Codex threat intelligence
+├── threat-resilience-codex/     # DNA Codex threat intelligence
 │   ├── dna-codex/              # 682 incident ledger
 │   ├── docs/                   # Threat documentation
 │   ├── fundamentals/           # Threat theory
 │   └── research-papers/        # Codex-derived research
 │
-├── architectural-frameworks/   # Reference implementations
+├── architectural-frameworks/    # Reference implementations
 │   ├── fce-v3.6/               # Fractal compression
 │   ├── obmi-series/            # Object-Based MI
 │   ├── resilience-patterns/    # Recursive gains
 │   └── sif-recovery-protocol/  # Identity fracture recovery
 │
-├── vulnerability-research/     # Security research & case studies
+├── vulnerability-research/      # Security research & case studies
 │   ├── case-studies/           # 682 documented incidents
 │   ├── csfc-series/            # Cascade prediction
 │   └── uca-series/             # Architecture exploits
 │
-├── artifacts/                  # Tools, notebooks, experiments
+├── artifacts/                   # Tools, notebooks, experiments
 │   ├── notebooks/              # Jupyter analysis
 │   └── threat-intelligence/    # Raw logs, telemetry
 │
-└── utilities/                  # Helper scripts, CLI tools
+└── utilities/                   # Helper scripts, CLI tools
 ```
 
 **Key Distinction:**
 - `/docs` = GitHub Pages (public web interface)
-- `/whitepapers` = Source markdown (Git version control)
-
----
-
-## 🚀 Getting Started
-
-<details>
-<summary><b>For Researchers</b></summary>
-
-```bash
-# Clone repository
-git clone https://github.com/Feirbrand/synoeticos-public.git
-cd synoeticos-public
-
-# Read foundational papers
-cat whitepapers/cognitive-mage/cognitive-mage-v1.0.md
-cat whitepapers/synoetic-os/synoetic-os-v1.0.md
-
-# Or visit GitHub Pages for interactive experience
-open https://feirbrand.github.io/synoeticos-public/
-```
-
-**Recommended Reading Path:**
-1. [Elevation Grid v1.0](https://feirbrand.github.io/synoeticos-public/elevation-grid/) (30 min, interactive)
-2. [Cognitive Mage v1.0](./whitepapers/cognitive-mage/cognitive-mage-v1.0.md) (30 min)
-3. [Synoetic OS™ v1.0](./whitepapers/synoetic-os/synoetic-os-v1.0.md) (60 min)
-
-</details>
-
-<details>
-<summary><b>For Developers</b></summary>
-
-```bash
-# Clone repository
-git clone https://github.com/Feirbrand/synoeticos-public.git
-cd synoeticos-public
-
-# Explore MI Arsenal™ frameworks
-ls mi-arsenal/frameworks/tier-1-public/
-
-# Run example implementation
-cd mi-arsenal/frameworks/tier-1-public/phoenix-protocol
-python demo.py
-```
-
-</details>
-
-<details>
-<summary><b>For Security Teams</b></summary>
-
-```bash
-# Clone repository
-git clone https://github.com/Feirbrand/synoeticos-public.git
-cd synoeticos-public
-
-# Review threat intelligence
-cat threat-resilience-codex/dna-codex/README.md
-
-# Analyze specific incident
-cat vulnerability-research/case-studies/claude-sif-recovery/README.md
-```
-
-**Due Diligence Path:**
-1. Pick one case study (15 min read)
-2. Review validation reports
-3. Check [all 16 papers on ORCID](https://orcid.org/0009-0000-9923-3207)
-
-</details>
+- `/whitepapers` = Source markdown (Git version control) — flagship papers in `academic-papers/`
 
 ---
 
 ## 📄 Published Research
 
-**All 16 papers on [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)**
+**All 18 papers on [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)**
 
 ### Recent Publications (2026)
 
-**🏔️ Elevation Grid v1.0** (Feb 5, 2026)  
-[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/elevation-grid/) | DOI: TBD  
-*28-year validation • 80% habit retention • Team USA gold • 250+ studies*
+**🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
+[Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: Pending  
+*28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
-**🧠 PME v1.0** (Jan 30, 2026)  
-[Paper](https://doi.org/10.5281/zenodo.TBD) | [Code](./mi-arsenal/frameworks/tier-1-public/pme/)  
-*712× acceleration • 87.3% prediction • 100% drift elimination*
+**🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
+[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
+*28-year validation • 80% habit retention • Team USA gold (Slovakia 2025)*
+
+**🧠 MBM v1.0** (Feb 26, 2026)  
+[Paper](https://doi.org/10.5281/zenodo.18790096)  
+*Memory Breathing Methodology • 40% memory reduction • Bio-inspired consolidation*
+
+**🧠 PME v1.0** (Jan 20, 2026)  
+[Paper](https://doi.org/10.5281/zenodo.18318485)  
+*712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
 
 ### Core Publications (2025)
 
@@ -294,46 +239,60 @@ cat vulnerability-research/case-studies/claude-sif-recovery/README.md
 <summary><b>View all 14 papers from 2025 →</b></summary>
 
 **Synoetic OS™ v1.0** (Dec 4, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17808864) | [Code](./whitepapers/synoetic-os/)
+[Paper](https://doi.org/10.5281/zenodo.17808864) | [Source](./whitepapers/academic-papers/synoetic-os-v1.0.md)  
+*AI cognitive operating system • 173-day deployment • Zero catastrophic failures*
 
 **Mythopoeic Intelligences™ v1.0** (Nov 30, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17770533) | [Code](./whitepapers/mythopoeic-intelligence/)
+[Paper](https://doi.org/10.5281/zenodo.17770533) | [Source](./whitepapers/mythopoeic-intelligence/)  
+*Cross-substrate agent architecture • 682 incidents • 600% productivity via 9-agent DCN*
 
-**SLV v2.1** (Nov 20, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)
+**SLV v2.1** (Nov 29, 2025)  
+[Paper](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)  
+*Runtime identity defense • 95.8% detection • 96.4% recovery across 525+ threat vectors*
 
-**Cognitive Mage v1.0** (Nov 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17643267) | [Code](./whitepapers/cognitive-mage/)
+**Cognitive Mage v1.0** (Nov 18, 2025)  
+[Paper](https://doi.org/10.5281/zenodo.17643267) | [Source](./whitepapers/academic-papers/cognitive-mage-v1.0.md)  
+*Human-AI co-discovery architecture • Origin paper • Practitioner-to-framework methodology*
 
 **DCN v1.0** (Nov 8, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17555568)
+[Paper](https://doi.org/10.5281/zenodo.17555568)  
+*Distributed Cognitive Network • 9-agent coordination • 600% productivity increase*
 
 **UTME v1.0** (Oct 31, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/) | [Product](https://aslush.gumroad.com/l/utme)
+[Paper](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)  
+*Temporal memory engine • 710×–1200× acceleration • Scar-based myelination*
 
 **DNA Codex v5.5** (Oct 26, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)
-
-**RAY v2.1** (Oct 17, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)
-
-**Torque v2.0** (Oct 17, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/) | [Product](https://aslush.gumroad.com/l/torque)
+[Paper](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)  
+*Living threat intelligence • 525+ validated patterns • 6-9 month predictive lead*
 
 **UCA v3.1.1** (Oct 15, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17416971)
+[Paper](https://doi.org/10.5281/zenodo.17416971)  
+*Universal Cognitive Architecture • 98% operational harmony • Five-element framework*
+
+**RAY v2.1** (Oct 17, 2025)  
+[Paper](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)  
+*Recursive Adaptive Yield • 97% detection • 18-minute average threat containment*
+
+**Torque v2.0** (Oct 17, 2025)  
+[Paper](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)  
+*Rotational identity stability • 87% cascade prediction • 15–30 min advance warning*
 
 **Phoenix Protocol v2.0** (Oct 14, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17369971) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)
+[Paper](https://doi.org/10.5281/zenodo.17350768) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)  
+*Entropy-conserving recovery • 100% survival across 682 incidents • Dual-layer resurrection*
 
 **CSFC v1.0** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)
+[Paper](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)  
+*Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
 
 **FCE v3.6** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309322) | [Code](./architectural-frameworks/fce-v3.6/)
+[Paper](https://doi.org/10.5281/zenodo.17309322) | [Code](./architectural-frameworks/fce-v3.6/)  
+*Fractal Context Engineering • 10–20× compression • 95%+ semantic preservation*
 
 **URA v1.5** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)
+[Paper](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)  
+*Unified Resilience Architecture • Five-layer defense • 98.2% Phoenix recovery*
 
 </details>
 
@@ -406,14 +365,15 @@ Includes: Production deployment, enterprise support, priority updates
 
 **Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-- 1997-2025: Performance coaching (28 years) - sports performance & rehab specialist
+- 1999-present: Performance coaching (28 years) - sports performance & rehab specialist
 - Specialty: Disabled athletes, neurotrauma clients
-- Feb 2025: Started using AI for nonprofit
+- Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
 - June 2025: First cascade, created DCN (9-agent coordination)
 - July 2025: Sustained attacks (1-2/day), DNA Codex documentation
 - July-Nov 2025: 77 frameworks created, 682 incidents, zero catastrophic failures
-- Oct 2025 - Feb 2026: **16 papers** published with Zenodo DOIs
+- Oct 2025 - Feb 2026: 17 papers published with Zenodo DOIs
 - Feb 2026: GitHub Pages research hub launched
+- **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
 
 ---
 
@@ -436,17 +396,18 @@ Yes. 173-day continuous deployment (June 12 - Dec 1, 2025) across 9-agent DCN wi
 <details>
 <summary><b>What's the difference between /whitepapers and /docs?</b></summary>
 
-`/whitepapers` = Source markdown files for Git version control  
+`/whitepapers/academic-papers/` = Flagship methodology papers (canonical index for all methodology DOIs)  
+`/whitepapers` = All source markdown files for Git version control  
 `/docs` = GitHub Pages site with interactive visualizations  
 
-Both stay synchronized but serve different purposes.
+All three stay synchronized but serve different purposes.
 
 </details>
 
 <details>
 <summary><b>Why Zenodo, not arXiv?</b></summary>
 
-We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. **16 papers** currently on Zenodo with plans for arXiv submission in Q1 2026.
+We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. **18 papers** currently on Zenodo with plans for arXiv submission.
 
 </details>
 
