@@ -44,13 +44,13 @@ This repository contains the complete public version of Synoetic OS™:
 </div>
 
 **Featured Papers:**
-- 🧬 **Neuroformation™ v1.0** - Cross-substrate resilience methodology  
+- 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
   *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Performance diagnostic framework  
   *28 years validation • 80% habit retention • Team USA gold (Slovakia 2025)*
   
-- 🧠 **PME v1.0** - Predictive Myelination Engine  
+- 🧠 **[PME v1.0](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)** - Predictive Myelination Engine  
   *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
 
 **Interactive Features:**
@@ -166,7 +166,15 @@ Research initiative into AI resilience through cognitive architecture. Framework
 synoeticos-public/
 │
 ├── docs/                        # GitHub Pages documentation site
-│   └── elevation-grid/         # Only confirmed deployed paper
+│   ├── elevation-grid/         # Coordinate-based mental performance
+│   ├── cognitive-mage-v1.0/    # Human-AI co-discovery
+│   ├── fce-v3.6/               # Fractal context engineering
+│   ├── mbm-v1.0/               # Memory breathing
+│   ├── mi-agents-v1.0/         # Mythopoeic intelligence
+│   ├── pme-v1.0/               # Predictive myelination engine
+│   ├── synoetic-os-v1.0/       # Core architecture
+│   ├── torque-v2.0/            # Rotational identity stability
+│   └── utme-v1.0/              # Temporal memory engine
 │
 ├── whitepapers/                 # Source files (version control)
 │   ├── academic-papers/        # Flagship methodology papers
@@ -222,15 +230,15 @@ synoeticos-public/
 *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
-[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
+[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
 *28-year validation • 80% habit retention • Team USA gold (Slovakia 2025)*
 
 **🧠 MBM v1.0** (Feb 26, 2026)  
-[Paper](https://doi.org/10.5281/zenodo.18790096)  
+[Paper](https://doi.org/10.5281/zenodo.18790096) | [Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md)  
 *Memory Breathing Methodology • 40% memory reduction • Bio-inspired consolidation*
 
 **🧠 PME v1.0** (Jan 20, 2026)  
-[Paper](https://doi.org/10.5281/zenodo.18318485)  
+[Paper](https://doi.org/10.5281/zenodo.18318485) | [Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)  
 *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
 
 ### Core Publications (2025)
@@ -243,11 +251,11 @@ synoeticos-public/
 *AI cognitive operating system • 173-day deployment • Zero catastrophic failures*
 
 **Mythopoeic Intelligences™ v1.0** (Nov 30, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17770533) | [Source](./whitepapers/mythopoeic-intelligence/)  
+[Paper](https://doi.org/10.5281/zenodo.17770533) | [Source](./whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md)  
 *Cross-substrate agent architecture • 682 incidents • 600% productivity via 9-agent DCN*
 
 **SLV v2.1** (Nov 29, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)  
+[Paper](https://doi.org/10.5281/zenodo.17763377) | [Source](./mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)  
 *Runtime identity defense • 95.8% detection • 96.4% recovery across 525+ threat vectors*
 
 **Cognitive Mage v1.0** (Nov 18, 2025)  
@@ -255,43 +263,43 @@ synoeticos-public/
 *Human-AI co-discovery architecture • Origin paper • Practitioner-to-framework methodology*
 
 **DCN v1.0** (Nov 8, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17555568)  
+[Paper](https://doi.org/10.5281/zenodo.17555568) | [Source](./whitepapers/vgs-technical-papers/dcn-v1-0-academic.md)  
 *Distributed Cognitive Network • 9-agent coordination • 600% productivity increase*
 
 **UTME v1.0** (Oct 31, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)  
+[Paper](https://doi.org/10.5281/zenodo.17497149) | [Source](./whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)  
 *Temporal memory engine • 710×–1200× acceleration • Scar-based myelination*
 
 **DNA Codex v5.5** (Oct 26, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)  
+[Paper](https://doi.org/10.5281/zenodo.17451060) | [Source](./threat-resilience-codex/research-papers/dna-codex-v5-5-paper.md) | [Code](./threat-resilience-codex/dna-codex/)  
 *Living threat intelligence • 525+ validated patterns • 6-9 month predictive lead*
 
 **UCA v3.1.1** (Oct 15, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17416971)  
+[Paper](https://doi.org/10.5281/zenodo.17416971) | [Source](./vulnerability-research/uca-series/uca-v3-1-security-hardened.md)  
 *Universal Cognitive Architecture • 98% operational harmony • Five-element framework*
 
 **RAY v2.1** (Oct 17, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)  
+[Paper](https://doi.org/10.5281/zenodo.17399834) | [Source](./mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)  
 *Recursive Adaptive Yield • 97% detection • 18-minute average threat containment*
 
 **Torque v2.0** (Oct 17, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)  
+[Paper](https://doi.org/10.5281/zenodo.17379750) | [Source](./whitepapers/vgs-technical-papers/torque-measuring-ai-stability.md) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)  
 *Rotational identity stability • 87% cascade prediction • 15–30 min advance warning*
 
 **Phoenix Protocol v2.0** (Oct 14, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17350768) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)  
+[Paper](https://doi.org/10.5281/zenodo.17350768) | [Source](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)  
 *Entropy-conserving recovery • 100% survival across 682 incidents • Dual-layer resurrection*
 
 **CSFC v1.0** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)  
+[Paper](https://doi.org/10.5281/zenodo.17309239) | [Source](./mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [Code](./vulnerability-research/csfc-series/)  
 *Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
 
 **FCE v3.6** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309322) | [Code](./architectural-frameworks/fce-v3.6/)  
+[Paper](https://doi.org/10.5281/zenodo.17309322) | [Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Code](./architectural-frameworks/fce-v3.6/)  
 *Fractal Context Engineering • 10–20× compression • 95%+ semantic preservation*
 
 **URA v1.5** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)  
+[Paper](https://doi.org/10.5281/zenodo.17309731) | [Source](./mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)  
 *Unified Resilience Architecture • Five-layer defense • 98.2% Phoenix recovery*
 
 </details>
