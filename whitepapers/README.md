@@ -130,7 +130,7 @@ DOI: Pending Zenodo assignment
 **Elevation Grid™ v1.1** — Performance Diagnostic Framework
 [`academic-papers/elevation-grid-v1.1.md`](academic-papers/elevation-grid-v1.1.md)
 Coordinate-based mental performance system mapping adaptive system instability to a 3x3 diagnostic grid. Isomorphic to the Synoetic OS™ 3x3 structure — same architecture running in biological and artificial systems, discovered independently from practice in both domains. Validated through Team USA gold medals (Slovakia, 2025) and 28+ years field coaching.
-DOI: 10.5281/zenodo.18489565 | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/)
+DOI: 10.5281/zenodo.18790842 | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/)
 
 **Cognitive Mage v1.0** — Human-AI Recursive Discovery Architecture
 [`academic-papers/cognitive-mage-v1.0.md`](academic-papers/cognitive-mage-v1.0.md)
@@ -205,15 +205,15 @@ Real-world validation through gaming industry deployment scenarios. Demonstrates
 
 - **Phoenix Protocol v2.0** — Neural Recovery for AI Systems
   Location: `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/phoenix-protocol-v2.0.md`
-  DOI: 10.5281/ZENODO.17309951
+  DOI: 10.5281/ZENODO.17350768
 
 - **UTME v1.0** — Universal Temporal Memory Engine
   Location: `mi-arsenal/frameworks/tier-1-public/utme/utme-v1.0-academic.md`
-  DOI: 10.5281/ZENODO.17309151
+  DOI: 10.5281/ZENODO.17497149
 
 - **Torque v2.0** — Rotational Identity Stability
   Location: `mi-arsenal/frameworks/tier-1-public/torque/torque-v2.0-stability.md`
-  DOI: 10.5281/ZENODO.17309236
+  DOI: 10.5281/ZENODO.17379750
 
 - **MI Agents v1.0** — Mythopoeic Intelligence Agents — UNICA Cross-Domain Validation
   Location: `whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md`
@@ -354,7 +354,7 @@ Slusher, A. (2025). *Whitepapers Division: Research Publications for AI Resilien
   author={Slusher, Aaron M.},
   journal={Achieve Peak Performance Technical Reports},
   year={2026},
-  doi={10.5281/zenodo.18489565}
+  doi={10.5281/zenodo.18790842}
 }
 ```
 

@@ -44,7 +44,7 @@ This directory contains the canonical methodology papers for the Neuroformation�
 
 - **χ²(4) = 3.21, p = 0.523** — No statistically meaningful difference in failure architecture across human and AI systems
 - **Team USA Gold** — Two coached athletes at inaugural Women's World Sled Hockey Championship (Slovakia, 2025)
-- **500+ AI Incidents** — 98% recovery rate across 9 architecturally distinct AI platforms
+- **682 Documented AI Incidents** — 98% recovery rate across 9 architecturally distinct AI platforms
 - **28+ Years** — Practitioner record spanning elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport
 - **5 Academic Disciplines** — Methodology sits at intersection of cybernetics, complex adaptive systems, narrative identity architecture, computational substrate theory, and applied performance science
 
@@ -110,7 +110,7 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 
 <h4>2. Elevation Grid™ v1.1: A Field-Developed Framework for High-Stakes Performance</h4>
 
-**Status**: Published | **File**: `elevation-grid-v1.1.md` | **DOI**: 10.5281/zenodo.18489565
+**Status**: Published | **File**: `elevation-grid-v1.1.md` | **DOI**: 10.5281/zenodo.18790842
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **GitHub Pages**: [View →](https://feirbrand.github.io/synoeticos-public/)
 
 Coordinate-based mental performance system mapping adaptive system instability to a 3x3 diagnostic grid (9 positions × 3 rows × 3 execution phases). The primary diagnostic instrument of Neuroformation™ methodology.
@@ -264,7 +264,7 @@ Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience 
 
 **APA:**
 ```
-Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. Achieve Peak Performance Technical Reports, 1, 1-55. https://doi.org/10.5281/zenodo.18489565
+Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. Achieve Peak Performance Technical Reports, 1, 1-55. https://doi.org/10.5281/zenodo.18790842
 ```
 
 **BibTeX:**
@@ -276,7 +276,7 @@ Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework f
   volume={1},
   pages={1--55},
   year={2026},
-  doi={10.5281/zenodo.18489565}
+  doi={10.5281/zenodo.18790842}
 }
 ```
 
