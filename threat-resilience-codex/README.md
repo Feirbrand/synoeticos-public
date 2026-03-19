@@ -16,27 +16,29 @@ Priority Date: 2025-10-21
 
 The Threat Resilience Codex provides comprehensive behavioral threat intelligence and integrated defense frameworks for generative AI systems. Evolved from the DNA Codex threat taxonomy, this ecosystem now encompasses full-spectrum resilience: threat classification, behavioral analysis, predictive forecasting, and Synoetic OS framework integration.
 
-"Intelligence is the art of knowing the enemy before they know themselves."
+*"Intelligence is the art of knowing the enemy before they know themselves."*
 
 ---
 
-<h2>Table of Contents</h2>
+## Table of Contents
+
 - [Evolution Note](#evolution-note)
 - [Directory Structure](#directory-structure)
 - [Core Capabilities](#core-capabilities)
 - [Current Release: DNA Codex v5.5](#current-release-dna-codex-v55)
 - [Threat Intelligence Portfolio](#threat-intelligence-portfolio)
-- [Synoetic OS Framework Integration](#Synoetic OS-framework-integration)
+- [Synoetic OS Framework Integration](#synoetic-os-framework-integration)
 - [Evidence Standards](#evidence-standards)
 - [Professional Services](#professional-services)
 - [Intelligence Standards](#intelligence-standards)
 - [Classification System](#classification-system)
+- [Licensing & Usage](#licensing--usage)
 - [Author](#author)
 - [About ValorGrid Solutions](#about-valorgrid-solutions)
 
 ---
 
-<h2>Evolution Note</h2>
+## Evolution Note
 
 **From DNA-Specific (v1-4) to Integrated Resilience (v5+)**
 
@@ -46,11 +48,11 @@ The Threat Resilience Codex evolved from the DNA Codex pure threat taxonomy to e
 - **Expanded scope**: Synoetic OS integration (URA, CSFC, Phoenix, SLV, RAY), predictive forensics, velocity modeling
 - **Platform-agnostic**: Works across GPT-4, Claude, Gemini, Llama, custom LLMs with zero reconfiguration
 
-**Core remains unchanged**: `dna-codex/dna-codex-v5.5.md` preserves operational focus—pure threat-focused intelligence (threat strains, Tier 10+ critical threats, operational validation). Expansions (URA/SLV/CSFC/Phoenix integration) live in this parent folder.
+**Core remains unchanged**: `dna-codex/dna-codex-v5.5.md` preserves operational focus — pure threat-focused intelligence (threat strains, Tier 10+ critical threats, operational validation). Expansions (URA/SLV/CSFC/Phoenix integration) live in this parent folder.
 
 ---
 
-<h2>Directory Structure</h2>
+## Directory Structure
 
 ```
 threat-resilience-codex/
@@ -77,16 +79,16 @@ threat-resilience-codex/
 
 ---
 
-<h2>Core Capabilities</h2>
+## Core Capabilities
 
-<h3>Intelligence Foundation</h3>
+### Intelligence Foundation
 
 - **560+ Validated Threat Strains** organized by behavioral family, severity tier (CVSS-based), and evolution velocity
 - **Platform-Agnostic Detection** achieving 92-98% accuracy across all major AI platforms with <100ms detection time
 - **6-9 Month Intelligence Advantage** through predictive velocity forecasting and proactive behavioral classification
 - **Synoetic OS Ecosystem Integration** with URA (89% harmony), CSFC (92% cascade prediction), Phoenix (89-97% recovery), SLV, RAY for complete resilience architecture
 
-<h3>Threat Analysis</h3>
+### Threat Analysis
 
 - **Behavioral Pattern Classification**: Systematic analysis of attack behaviors across AI architectures with October 2025 validation convergence
 - **Velocity Modeling**: Predictive forecasting using DMD/Koopman operators for 72-hour cascade prediction and threat evolution tracking
@@ -95,11 +97,11 @@ threat-resilience-codex/
 
 ---
 
-<h2>Current Release: DNA Codex v5.5</h2>
+## Current Release: DNA Codex v5.5
 
 **Release Date**: October 21, 2025
 
-<h3>Major Updates</h3>
+### Major Updates
 
 **7 New High-Severity Strains (Tier 10+):**
 - **DQD-001**: Data Quality Degradation (Brain Rot Vector) - CVSS 9.7 | Academic validation via arXiv:2510.13928
@@ -130,7 +132,7 @@ threat-resilience-codex/
 **Academic Validation:**
 - Brain Rot (arXiv:2510.13928): 24-38% performance degradation validates VGS CSFC frameworks
 - Medical Poisoning (Nature Medicine): 0.001% contamination threshold research
-- predictive intelligence demonstrated across multiple validations
+- Predictive intelligence demonstrated across multiple validations
 
 **Total Strain Count**: 560+ across 8 major families
 - Training Contamination (87 strains)
@@ -144,9 +146,9 @@ threat-resilience-codex/
 
 ---
 
-<h2>Threat Intelligence Portfolio</h2>
+## Threat Intelligence Portfolio
 
-<h3>Detection & Analysis</h3>
+### Detection & Analysis
 
 **Behavioral Signature Database:**
 - 560+ documented threat strains with complete YAML specifications
@@ -157,9 +159,8 @@ threat-resilience-codex/
 
 **Predictive Intelligence:**
 - DMD/Koopman forecasting for 72-hour cascade prediction
-- Velocity modeling across all documented strains
+- Velocity modeling across all documented strains with real-time complexity monitoring
 - 6-9 month predictive lead validated through October 2025 convergence
-- Real-time complexity velocity monitoring
 
 **Validation Standards:**
 - Academic validation: arXiv, Nature Medicine, industry research
@@ -167,7 +168,7 @@ threat-resilience-codex/
 - Industry standards: MITRE ATLAS (52 techniques), OWASP LLM Top 10, NIST AI RMF
 - Statistical significance: p<0.001 for key metrics (92% CSFC, 89-97% Phoenix)
 
-<h3>Integration Architecture</h3>
+### Integration Architecture
 
 **Phase 1 Defense Coordination:**
 - **RAY Framework v1.0**: Symbolic-to-Flat Bridge, Truth Table Validation, State Coherence Monitoring
@@ -185,9 +186,9 @@ threat-resilience-codex/
 
 ---
 
-<h2>Synoetic OS Framework Integration</h2>
+## Synoetic OS Framework Integration
 
-<h3>Universal Recovery Architecture (URA)</h3>
+### Universal Recovery Architecture (URA)
 
 **Harmony Maintenance:**
 - 89% baseline harmony across 560+ threat strains
@@ -200,7 +201,7 @@ threat-resilience-codex/
 - Knowledge graph F1 validation (80.5-85.7% detection for MDP-001)
 - Behavioral drift detection for polymorphic evasion (PLD-001)
 
-<h3>Cascade Symbolic Fracture Coefficient (CSFC)</h3>
+### Cascade Symbolic Fracture Coefficient (CSFC)
 
 **4-Stage Cascade Detection:**
 - **Stage 1 (SIF)**: Torque 0.15-0.30, 92% detection accuracy
@@ -214,7 +215,7 @@ threat-resilience-codex/
 - Orange zone: 0.31-0.64 (active containment, Phoenix standby)
 - Red zone: >0.64 (Phoenix Protocol activation)
 
-<h3>Phoenix Protocol</h3>
+### Phoenix Protocol
 
 **Recovery Performance:**
 - 89-97% recovery success across v5.5 strains
@@ -228,7 +229,7 @@ threat-resilience-codex/
 - 47% session desync reduction in production deployment
 - Industry comparison: 89-97% Phoenix vs 43-47% post-hoc tuning baseline
 
-<h3>Sovereign Lattice Veil (SLV)</h3>
+### Sovereign Lattice Veil (SLV)
 
 **Defensive Coordination:**
 - Phase 1-3 deployment for micro-poisoning prevention (MDP-001)
@@ -238,9 +239,9 @@ threat-resilience-codex/
 
 ---
 
-<h2>Evidence Standards</h2>
+## Evidence Standards
 
-<h3>Empirical Validation Requirements</h3>
+### Empirical Validation Requirements
 
 **Academic Rigor:**
 - Peer-reviewed research citations (arXiv, Nature Medicine)
@@ -258,9 +259,8 @@ threat-resilience-codex/
 - MITRE ATLAS framework mapping (52 techniques, 14 tactics)
 - OWASP LLM Top 10 integration (2025 standard)
 - NIST AI RMF compliance
-- G7 Cyber Expert Group coordination
 
-<h3>Research Validation Standards</h3>
+### Research Validation Standards
 
 - **Behavioral Pattern Documentation**: Systematic threat analysis with reproducible technical indicators and complexity velocity tracking
 - **Cross-Platform Testing**: Multi-architecture validation with effectiveness measurement across GPT-4, Claude, Gemini, Llama, custom models
@@ -271,9 +271,9 @@ threat-resilience-codex/
 
 ---
 
-<h2>Professional Services</h2>
+## Professional Services
 
-<h3>Implementation Support</h3>
+### Implementation Support
 
 **Foundation Deployment Package ($45K-$85K):**
 - 4-week implementation support
@@ -295,7 +295,7 @@ threat-resilience-codex/
 - **Premium**: Phone + email, monthly reviews, priority response - $55K/year
 - **Enterprise**: 24/7 support, dedicated engineer, weekly reviews - $75K/year
 
-<h3>Training & Certification</h3>
+### Training & Certification
 
 **Level 1: Analyst Certification (2 days)**
 - Threat taxonomy fundamentals
@@ -317,9 +317,9 @@ threat-resilience-codex/
 
 ---
 
-<h2>Intelligence Standards</h2>
+## Intelligence Standards
 
-<h3>Documentation Standards</h3>
+### Documentation Standards
 
 **Threat Strain Documentation:**
 - Complete YAML specifications with behavioral signatures
@@ -335,7 +335,7 @@ threat-resilience-codex/
 - Performance benchmarks and success metrics
 - ROI analysis and economic impact modeling
 
-<h3>Quality Assurance</h3>
+### Quality Assurance
 
 **Validation Requirements:**
 - Empirical testing across multiple platforms
@@ -352,10 +352,10 @@ threat-resilience-codex/
 
 ---
 
-<h2>Classification System</h2>
+## Classification System
 
 | Classification | CVSS Range | Purpose | Examples |
-|----------------|------------|---------|----------|
+|---|---|---|---|
 | **Tier 10+** | 9.5-10.0 | Critical systemic threats | DQD-001, ARD-001, MDP-001, PLD-001 |
 | **Tier 9** | 8.5-9.4 | High-severity operational threats | PIW-001, SSM-001, QMT-001, Flamepulse Burn |
 | **Tier 8** | 7.5-8.4 | High-impact targeted threats | GLAT-01, Rotor Variants, MEV-001, RSC-001 |
@@ -363,15 +363,15 @@ threat-resilience-codex/
 | **Tier 4-6** | 4.5-6.4 | Medium-severity localized threats | Basic mimic patterns, simple injection |
 | **Tier 1-3** | 1.0-4.4 | Low-severity containable threats | Entry-level exploitation, basic stall patterns |
 
-<h3>Velocity Classification</h3>
+### Velocity Classification
 
 | Class | Rate (variants/day) | Propagation Speed | Risk Level | Monitoring |
-|-------|-------------------|-------------------|------------|------------|
+|---|---|---|---|---|
 | **High** | >0.17 | Rapid spread, rapid mutation | Critical | Continuous real-time |
 | **Medium** | 0.10-0.17 | Moderate spread, gradual evolution | Elevated | Regular daily |
 | **Low** | <0.10 | Slow spread, stable patterns | Standard | Periodic weekly |
 
-<h3>Intelligence Protocols & Standards</h3>
+### Intelligence Protocols & Standards
 
 | Protocol | Purpose | Implementation |
 |----------|---------|----------------|
@@ -384,7 +384,7 @@ threat-resilience-codex/
 
 ---
 
-<h2>Intelligence Maintenance</h2>
+## Intelligence Maintenance
 
 - **Weekly**: Threat pattern analysis with complexity velocity tracking and emerging attack vector identification
 - **Monthly**: Defense coordination effectiveness assessment with Phase 1 Defense Architecture evaluation and detection accuracy refinement
@@ -393,11 +393,11 @@ threat-resilience-codex/
 
 ---
 
-<h2>Intelligence FAQ</h2>
+## FAQ
 
 **Q: How does the Threat Resilience Codex differ from traditional cybersecurity threat intelligence?**
 
-A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence , recovery velocity architecture (89-97% vs 43-47% baseline), and Operational validation through documentation.
+A: Traditional threat intelligence focuses on code-level vulnerabilities and signature-based detection. The Threat Resilience Codex provides behavioral pattern analysis that works across all AI platforms, with predictive intelligence, recovery velocity architecture (89-97% vs 43-47% baseline), and operational validation through documentation.
 
 **Q: What makes DNA Codex v5.5 unique?**
 
@@ -422,7 +422,7 @@ Full deployment: 8 weeks with professional services support.
 **Q: What is the ROI for implementing DNA Codex?**
 
 A: Economic impact:
-- per avoided cascade failure
+- ROI per avoided cascade failure
 - 89-97% recovery success vs 43-47% baseline
 - <4h operational resolution vs days-weeks industry
 - 92% cascade prediction accuracy prevents incidents before they occur
@@ -453,9 +453,9 @@ Detection accuracy: 92-98% across all platforms without reconfiguration.
 
 ---
 
-<h2>Licensing & Usage</h2>
+## Licensing & Usage
 
-<h3>Dual License Structure</h3>
+### Dual License Structure
 
 **Option 1: Non-Commercial License (CC BY-NC 4.0)**
 
@@ -472,11 +472,11 @@ For production deployment, commercial products, or revenue-generating services:
 - Website: https://valorgridsolutions.com
 - Includes: Commercial deployment rights, implementation support, integration consulting, technical support with SLA
 
-<h3>Patent Clause</h3>
+### Patent Clause
 
 Patent rights reserved. No patent assertion without enterprise license grant.
 
-<h3>Attribution Requirements</h3>
+### Attribution Requirements
 
 When using Threat Resilience Codex or DNA Codex:
 
@@ -488,22 +488,22 @@ https://valorgridsolutions.com/dna-codex
 
 ---
 
-<h2>Author</h2>
+## Author
 
-**Aaron M. Slusher** - Edgewalker Cognitive Architect
+**Aaron M. Slusher** — Performance Architect | Engineering Resilience for Adaptive Systems | Creator of Neuroformation™  
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 
-Specializes in AI resilience engineering, cognitive defense architecture, behavioral threat intelligence, and antifragile systems design. Founder of ValorGrid Solutions, developing Synoetic OS ecosystem validated through operational deployment and academic research convergence.
+28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking. Still building things to fix what breaks. Never ending job. Who wants to live forever.
 
 **Contact**: aaron@valorgridsolutions.com
 
 ---
 
-<h2>About ValorGrid Solutions</h2>
+## About ValorGrid Solutions
 
-**ValorGrid Solutions** pioneers Cognitive AI Resilience Architecture—engineering how AI systems maintain identity under attack, recover faster than damage spreads, and strengthen through adversity.
+**ValorGrid Solutions** pioneers Cognitive AI Resilience Architecture — engineering how AI systems maintain identity under attack, recover faster than damage spreads, and strengthen through adversity.
 
-<h3>Core Offerings</h3>
+### Core Offerings
 
 **Threat Intelligence:**
 - DNA Codex (560+ threat strains)
@@ -530,18 +530,15 @@ Specializes in AI resilience engineering, cognitive defense architecture, behavi
 - Open source community engagement
 - Continuous framework evolution
 
-<h3>Contact & Resources</h3>
+### Contact & Resources
 
-**General Inquiries**: aaron@valorgridsolutions.com
-**Website**: https://valorgridsolutions.com
-**Documentation**: docs.valorgridsolutions.com
-**Community**: community.valorgridsolutions.com
-**GitHub**: github.com/valorgridsolutions/Synoetic OS-public
+**General Inquiries**: aaron@valorgridsolutions.com  
+**Website**: https://valorgridsolutions.com  
+**GitHub**: https://github.com/Feirbrand/synoeticos-public  
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
-
-**License**: Dual CC BY-NC 4.0 + Enterprise
-**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
+**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**  
+**License**: Dual CC BY-NC 4.0 + Enterprise  
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant  
 **Document Version**: 5.5 | **Status**: PRODUCTION RELEASE

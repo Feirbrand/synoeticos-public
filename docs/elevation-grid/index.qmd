@@ -104,6 +104,22 @@ graph LR
 
 ---
 
+## Case Studies
+
+**Chris Oats — Stroke Recovery, Neural Access Method Validation**
+Former University of Kentucky linebacker (2018–2019). Suffered stroke May 2020 impairing left arm movement. During his first assessment session, NAM bypassed damaged conscious motor pathways by accessing intact procedural football memory through a single functional cue ("PUSH"). Immediate functional arm movement restored same session. Currently standing unassisted for first time since 2020. Founder, 22OatsStrong Foundation (22OatsStrong.org).
+
+**Jamie Benassi — Team USA Women's Sled Hockey, Gold Medalist**
+Born with sacral agenesis. Medical prognosis indicated progressive walker dependency. Trained 2021–2023 using metaphor-driven intent coaching. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Walks stairs without walker assistance — sustained 5+ years.
+
+**Rachel Steffen — Team USA Women's Sled Hockey, Gold Medalist**
+Seated athlete (wheelchair user). Bridged two adaptive sports simultaneously during training: seated track & field (2x Ohio State Champion, 400m and 800m) and sled hockey. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Named U.S. Player of the Game, opening round.
+
+**Dina Grinberga — Team World Para Ice Hockey**
+Left leg amputated 2005. Master's degree in orthotics-prosthetics; technical orthopedist. Coached 2023–present via fully remote delivery (Latvia–Ohio). Pre- and postpartum programming. Returned to international elite competition within one year postpartum (2025 Women's World Para Ice Hockey Championships, Team World forward).
+
+---
+
 ## Field Validation
 
 ### 28-Year Timeline (1997–2026)
@@ -143,10 +159,6 @@ graph LR
 ```
 
 **+45 percentage points improvement (128% increase)**
-
-### Key Populations
-
-Validated across adaptive athletics (Team USA sled hockey gold medals, 2025), neurotrauma recovery (stroke recovery, Chris Oates case study), combat sports (MMA, boxing, high-pressure performance), and elite performance (international competition outcomes).
 
 ---
 
@@ -192,6 +204,25 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 ---
 
+## v1.1 Changes (February 25, 2026)
+
+<details>
+<summary>View detailed change log</summary>
+
+- **Polyvagal Theory position clarified** — PVT's practical language is retained where noted, but mechanistic foundation is grounded in the established sympathetic/parasympathetic model due to lack of direct neurophysiological validation for PVT's core anatomical claims.
+- **Corrected Chris Oats session description** — assessment context, wheelchair positioning, accurate NAM physical preparation sequence.
+- **Corrected Rachel Steffen** — bridged two adaptive sports simultaneously; no longer competes in wheelchair track.
+- **Corrected Dina Grinberga** — coaching relationship 2023–present; pre- and postpartum programming noted accurately.
+- **Added mental performance origin note** — integrated throughout all coaching sessions; formalized as standalone service offering February 2026.
+- **Updated Iron Core student description** — PT, OT, AT, and Exercise Science/Kinesiology.
+- **Removed Section 3.5 (Unit Architecture)** — unvalidated content removed.
+- **Fixed trademark symbols** — ™ throughout.
+- **Fixed YAML front matter** and reference numbering.
+
+</details>
+
+---
+
 ## Citation
 
 ```bibtex
@@ -214,8 +245,6 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 **Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 28-year performance coaching career (1997–2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. Founder of Achieve Peak Performance (1999) and co-founder of Achieve Performance Institute (501c3 nonprofit, 2022).
-
-Certified Sports Performance Coach (NSPA) | Mental Performance Mastery (Brian Cain) | Rehab-U Movement Performance Levels 1–2 | PPSC Pain-Free Performance Mobility | Precision Nutrition Level 2 Behavior Change Specialist | Adaptive Inclusive Trainer Level 2.
 
 [aaron@achievepeakperformance.net](mailto:aaron@achievepeakperformance.net) | [achievepeakperformance.net](https://achievepeakperformance.net)
 
