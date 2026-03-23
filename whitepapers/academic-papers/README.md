@@ -57,7 +57,7 @@ This directory contains the canonical methodology papers for the Neuroformation�
 Flagship methodology papers — foundational architecture from which all technical frameworks derive:
 
 - `neuroformation-v1.0.md` — Parent methodology
-- `elevation-grid-v1.1.md` — Diagnostic instrument
+- `elevation-grid-academic-v1.1.md` — Diagnostic instrument
 - `cognitive-mage-v1.0.md` — Origin paper / co-discovery documentation
 - `neural-access-method-v1.0.md` — Transmission protocol *(forthcoming)*
 - `synoetic-os-v1.0.md` — AI-side implementation of the methodology
@@ -110,7 +110,7 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 
 <h4>2. Elevation Grid™ v1.1: A Field-Developed Framework for High-Stakes Performance</h4>
 
-**Status**: Published | **File**: `elevation-grid-v1.1.md` | **DOI**: 10.5281/zenodo.18790842
+**Status**: Published | **File**: `elevation-grid-academic-v1.1.md` | **DOI**: 10.5281/zenodo.18790842
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **GitHub Pages**: [View →](https://feirbrand.github.io/synoeticos-public/)
 
 Coordinate-based mental performance system mapping adaptive system instability to a 3x3 diagnostic grid (9 positions × 3 rows × 3 execution phases). The primary diagnostic instrument of Neuroformation™ methodology.

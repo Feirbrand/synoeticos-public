@@ -59,7 +59,12 @@ VGS Technical Papers follows a distributed architecture model optimized for oper
 <h3>Papers in This Directory</h3>
 
 Pure research papers **without** implementation samples (6 papers):
-- MBM v1.0, DCN v1.0, PME v1.0, UTME v1.0, FCE v3.6, Torque (monitoring)
+- `mbm-v1.0-academic.md` (MBM v1.0)
+- `dcn-v1-0-academic.md` (DCN v1.0)
+- `pme-v-1-0-academic-paper.md` (PME v1.0)
+- `utme-v1-0-academic-paper.md` (UTME v1.0)
+- `fce-v3-6-unified-framework.md` (FCE v3.6)
+- `torque-measuring-ai-stability.md` (Torque monitoring)
 
 <h3>Papers in MI Arsenal</h3>
 

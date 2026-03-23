@@ -56,7 +56,7 @@ whitepapers/                             # The official canon — only flagship 
 
 ├── academic-papers/                     # Flagship methodology papers (foundational mash)
 │   ├── neuroformation-v1.0.md          # Neuroformation™ — cross-substrate resilience methodology
-│   ├── elevation-grid-v1.1.md          # Elevation Grid™ — performance diagnostic framework
+│   ├── elevation-grid-academic-v1.1.md # Elevation Grid™ — performance diagnostic framework
 │   ├── cognitive-mage-v1.0.md          # Cognitive Mage — human-AI co-discovery architecture
 │   ├── neural-access-method-v1.0.md    # NAM™ — transmission protocol (forthcoming)
 │   └── synoetic-os-v1.0.md             # Synoetic OS™ — AI cognitive operating system
@@ -135,7 +135,7 @@ First formal publication of Neuroformation™ as a named methodology. Five-layer
 ---
 
 **Elevation Grid™ v1.1** — Performance Diagnostic Framework  
-[`academic-papers/elevation-grid-v1.1.md`](academic-papers/elevation-grid-v1.1.md)  
+[`academic-papers/elevation-grid-academic-v1.1.md`](academic-papers/elevation-grid-academic-v1.1.md)  
 Coordinate-based mental performance system mapping adaptive system instability to a 3×3 diagnostic grid. Isomorphic to the Synoetic OS™ 3×3 structure — same architecture running in biological and artificial systems, discovered independently from practice in both domains.  
 **DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
 
