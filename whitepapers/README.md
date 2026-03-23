@@ -24,6 +24,7 @@ Enhancement Date: 2026-03-18
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Research Portfolio](#research-portfolio)
+- [Recent Publications](#recent-publications)
 - [Publication Standards](#publication-standards)
 - [Research Applications](#research-applications)
 - [Citation](#citation)
@@ -234,6 +235,19 @@ Unified distributed defense with living recursion loop demonstrating 95% threat 
 
 **FCE v3.7** - Fractal Context Engineering
 Meta-layer framework orchestration achieving 35-50% context retention, 25-40% reasoning consistency with 4-20x compression at 95% semantic preservation and 45-82% latency reductions.
+
+---
+
+## Recent Publications
+
+### March 2026:
+
+**Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**
+
+**DOI:** TBD (pending release)  
+**Published:** March 2026  
+**Brand:** Achieve Peak Performance  
+28+ years human performance validation + 500+ AI incidents · χ²(4) = 3.21, p = 0.523 · Five-layer cross-substrate architecture
 
 ---
 
