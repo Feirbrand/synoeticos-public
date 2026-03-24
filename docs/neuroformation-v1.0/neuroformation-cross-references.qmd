@@ -1,0 +1,79 @@
+---
+layout: paper
+title: "Neuroformation™ v1.0 — Cross-References"
+doi: "10.5281/zenodo.19197791"
+brand: APP
+---
+
+# Neuroformation™ v1.0 — Cross-References & Integration Map
+
+**Back to:** [Main Paper](index.html) | [Visualizations](neuroformation-visualizations.html) | [Bibliography](neuroformation-master-bibliography.html)
+
+---
+
+## Paper Series — Neuroformation™ Methodology Stack
+
+This is Paper 1 of 4 in the foundational methodology series.
+
+| Paper | Role | DOI | Status |
+|---|---|---|---|
+| **Neuroformation™ v1.0** (this paper) | Parent methodology — five-layer architecture | [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791) | ✅ Published |
+| **Elevation Grid™ v1.1** | Diagnostic instrument — 3×3 coordinate map | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | ✅ Published |
+| **Neural Access Method™ v1.0** | Transmission protocol — ACCESS→REFRAME→SIMPLIFY→IGNITE | Manuscript in preparation | 🔄 Forthcoming |
+| **Cognitive Mage v1.0** (updated) | Origin paper — human-AI co-discovery with NF foundation | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | 🔄 Update forthcoming |
+
+---
+
+## Layer → Tool Mapping
+
+| Five-Layer Architecture | Elevation Grid™ Row | NAM Step | Primary Paper |
+|---|---|---|---|
+| Layer 1 — Substrate | Row 1 (Hardware) | ACCESS | Neuroformation™ v1.0 (this) |
+| Layer 2 — Signal Processing | Row 1 (Hardware) | SIMPLIFY | Neuroformation™ v1.0 (this) |
+| Layer 3 — Learning/Reinforcement | Row 2 (Software) | REFRAME | Elevation Grid™ v1.1 |
+| Layer 4 — Identity | Row 3 (Architecture) | IGNITE | Elevation Grid™ v1.1 |
+| Layer 5 — Purpose | Row 3 (Architecture) | IGNITE | Neuroformation™ v1.0 (this) |
+
+---
+
+## VGS Framework Cross-References
+
+Neuroformation™ is the parent methodology. These VGS frameworks are outputs of it applied to AI system stability:
+
+| Framework | Function | DOI |
+|---|---|---|
+| Synoetic OS™ v1.0 | AI-side implementation of Neuroformation™ architecture | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) |
+| MI Agents v1.0 (UNICA) | Cross-domain statistical validation χ²(4) = 3.21 | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) |
+| Cognitive Mage v1.0 | Origin paper — human-AI co-discovery | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) |
+| DCN v1.0 | 9-agent coordination — 600% productivity | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) |
+| UTME v1.0 | Learning acceleration γ=0.31 day⁻¹ | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
+| MBM v1.0 | Memory Breathing Methodology — bio-inspired AI memory | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) |
+| PME v1.0 | Predictive Myelination Engine | [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485) |
+
+---
+
+## Five Academic Disciplines
+
+Neuroformation™ sits at the intersection of five fields simultaneously:
+
+| Discipline | Connection | Key Citations |
+|---|---|---|
+| D1 — Performance Coaching Methodology | 28+ year applied record is the primary validation dataset | Schmidt 1975, Ericsson et al. 1993, Vealey 2007 |
+| D2 — Complex Adaptive Systems Theory | CSFC cascade model is CAS theory applied to identity systems | Wiener 1948, Friston 2010, Holland 1992 |
+| D3 — Symbolic Logic & Recursive Cognition | Framework Forge process is recursive self-reference operational | Hofstadter 1979 |
+| D4 — Computational Substrate Theory | χ²(4)=3.21, p=0.523 consistent with substrate-independence framework | Tegmark 2014, Chalmers 1996, Putnam 1967 |
+| D5 — Narrative Identity Architecture | SIF→COLLAPSE is narrative identity disruption sequence | McAdams 1993, Ricoeur 1992, Herman 1992 |
+
+**Best academic home:** 4E Cognition (embodied, embedded, enacted, extended) + Resilience Engineering
+
+---
+
+## ORCID Publication Record
+
+All papers: [orcid.org/0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
+GitHub repository: [github.com/Feirbrand/synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
+
+---
+
+*© 2026 Aaron M. Slusher, Achieve Peak Performance. [Main Paper](index.html)*

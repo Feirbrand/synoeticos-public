@@ -3,7 +3,7 @@
 <div align="center">
 
 [![License: Dual](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Papers: 18](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
+[![Papers: 19](https://img.shields.io/badge/Papers-19%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Store](https://img.shields.io/badge/Store-Gumroad-orange.svg)](https://aslush.gumroad.com)
 [![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
@@ -76,7 +76,7 @@ That's what this repo is.
 |------|------------|
 | Understand the methodology | [Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) |
 | Deploy a framework now | [MI Arsenal — Framework Loadouts](#mi-arsenal--framework-loadouts) |
-| Read the research | [18 Published Papers](#published-research) |
+| Read the research | [19 Published Papers](#published-research) |
 | Understand the threat landscape | [DNA Codex](./threat-resilience-codex/dna-codex/) |
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
@@ -110,9 +110,9 @@ It runs under everything in this repo. The frameworks are the gear. Neuroformati
 | **Read the methodology** | [Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) |
 | **Explore research visually** | [GitHub Pages Hub](https://feirbrand.github.io/synoeticos-public/) |
 | **See validation results** | [Validation & Testing](#validation--testing) |
-| **Read incident reports** | [682 Case Studies](#case-studies) |
-| **Understand theory** | [17 Published Papers](#published-research) |
-| **Try live demos** | [Hugging Face Spaces](#live-demos) |
+| **Read incident reports** | [682 Case Studies](./vulnerability-research/case-studies/) |
+| **Understand theory** | [19 Published Papers](#published-research) |
+| **Try live demos** | [Hugging Face Spaces](https://huggingface.co/Feirbrand) |
 | **Deploy frameworks** | [Gumroad Products](https://aslush.gumroad.com) |
 
 ---

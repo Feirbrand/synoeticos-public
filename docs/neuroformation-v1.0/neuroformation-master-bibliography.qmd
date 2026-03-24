@@ -1,0 +1,162 @@
+---
+layout: paper
+title: "Neuroformation™ v1.0 — Master Bibliography"
+doi: "10.5281/zenodo.19197791"
+brand: APP
+---
+
+# Neuroformation™ v1.0 — Master Bibliography
+
+**Back to:** [Main Paper](index.html) | [Visualizations](neuroformation-visualizations.html) | [Cross-References](neuroformation-cross-references.html)
+
+*References contextualize observed patterns across neuroscience, performance science, and AI systems research. The Neuroformation™ architecture derives from practitioner observation and cross-domain application, not any single theoretical framework.*
+
+---
+
+## Cybernetics and Systems Theory
+
+Altman, D. G., & Bland, J. M. (1995). Absence of evidence is not evidence of absence. *BMJ*, 311(7003), 485. https://doi.org/10.1136/bmj.311.7003.485
+
+Beer, S. (1972). *Brain of the firm: The managerial cybernetics of organization*. Allen Lane.
+
+Calabrese, E. J. (2008). Hormesis: Why it is important to toxicology and toxicologists. *Environmental Toxicology and Chemistry*, 27(7), 1451–1474. https://doi.org/10.1897/07-541.1
+
+Friston, K. J. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138. https://doi.org/10.1038/nrn2787
+
+Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct fit to nature: An evolutionary perspective on biological and artificial neural networks. *Neuron*, 105(3), 416–434. https://doi.org/10.1016/j.neuron.2019.12.002
+
+Holland, J. H. (1992). *Adaptation in natural and artificial systems*. MIT Press.
+
+Kauffman, S. A. (1993). *The origins of order: Self-organization and selection in evolution*. Oxford University Press.
+
+McChrystal, S. (2015). *Team of teams: New rules of engagement for a complex world*. Portfolio/Penguin.
+
+Perrow, C. (1984). *Normal accidents: Living with high-risk technologies*. Basic Books.
+
+Reason, J. (1997). *Managing the risks of organizational accidents*. Ashgate.
+
+Snowden, D. J., & Boone, M. E. (2007). A leader's framework for decision making. *Harvard Business Review*, 85(11), 68–76.
+
+Taleb, N. N. (2012). *Antifragile: Things that gain from disorder*. Random House.
+
+von Bertalanffy, L. (1968). *General system theory*. George Braziller.
+
+Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. John Wiley & Sons.
+
+---
+
+## Computational Substrate Theory
+
+Chalmers, D. J. (1996). *The conscious mind: In search of a fundamental theory*. Oxford University Press.
+
+Dennett, D. C. (1991). *Consciousness explained*. Little, Brown.
+
+Putnam, H. (1967). Psychological predicates. In W. H. Capitan & D. D. Merrill (Eds.), *Art, mind, and religion*. University of Pittsburgh Press.
+
+Tegmark, M. (2014). *Our mathematical universe*. Knopf.
+
+---
+
+## Narrative Identity Architecture
+
+Bruner, J. (1986). *Actual minds, possible worlds*. Harvard University Press.
+
+Herman, J. L. (1992). *Trauma and recovery*. Basic Books.
+
+McAdams, D. P. (1993). *The stories we live by: Personal myths and the making of the self*. William Morrow.
+
+Ricoeur, P. (1992). *Oneself as another*. University of Chicago Press.
+
+---
+
+## Applied Performance Science and Motor Learning
+
+Agresti, A., & Franklin, C. (2013). *Statistics: The art and science of learning from data* (3rd ed.). Pearson.
+
+Akerlof, G. A., & Kranton, R. E. (2000). Economics and identity. *Quarterly Journal of Economics*, 115(3), 715–753. https://doi.org/10.1162/003355300554881
+
+Arnsten, A. F. T. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature Reviews Neuroscience*, 10(6), 410–422. https://doi.org/10.1038/nrn2648
+
+Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. https://doi.org/10.1037/0096-3445.130.4.701
+
+Berardi, J. M., & Andrews, R. (2019). *The essentials of sport and exercise nutrition* (3rd ed.). Precision Nutrition.
+
+Brown, B. (2010). *The gifts of imperfection*. Hazelden.
+
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363–406. https://doi.org/10.1037/0033-295X.100.3.363
+
+Eysenck, M. W., Derakshan, N., Santos, R., & Calvo, M. G. (2007). Anxiety and cognitive performance: Attentional control theory. *Emotion*, 7(2), 336–353. https://doi.org/10.1037/1528-3542.7.2.336
+
+Fitts, P. M., & Posner, M. I. (1967). *Human performance*. Brooks/Cole.
+
+Grossman, P., Ackland, G. L., Allen, A. M., Berntson, G. G., Booth, L. C., Burghardt, G. M., et al. (2026). Challenging claims in the field of heart rate variability. *Clinical Neuropsychiatry*, 23(1), 100–112. https://doi.org/10.36131/cnfioritieditore20260110
+
+Gütlin, D., & Auksztulewicz, R. (2025). Predictive coding algorithms induce brain-like responses in artificial neural networks. *PLOS Complex Systems*, 2(11), e0000076. https://doi.org/10.1371/journal.pcsy.0000076
+
+Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998–1009. https://doi.org/10.1002/ejsp.674
+
+LeDoux, J. E. (1996). *The emotional brain*. Simon & Schuster.
+
+Markus, H. (1977). Self-schemata and processing information about the self. *Journal of Personality and Social Psychology*, 35(2), 63–78. https://doi.org/10.1037/0022-3514.35.2.63
+
+McKenzie, I. A., et al. (2014). Motor skill learning requires active central myelination. *Science*, 346(6207), 318–322. https://doi.org/10.1126/science.1254960
+
+Nørretranders, T. (1998). *The user illusion: Cutting consciousness down to size*. Viking.
+
+Pfaff, D., & McMillan, S. (2019). *The ALTIS performance therapy course*. ALTIS.
+
+Schmidt, R. A. (1975). A schema theory of discrete motor skill learning. *Psychological Review*, 82(4), 225–260. https://doi.org/10.1037/h0076770
+
+Thayer, J. F., Hansen, A. L., Saus-Rose, E., & Johnsen, B. H. (2009). Heart rate variability, prefrontal neural function, and cognitive performance. *Annals of Behavioral Medicine*, 37(2), 141–153. https://doi.org/10.1007/s12160-009-9101-z
+
+Vealey, R. S. (2007). Mental skills training in sport. In G. Tenenbaum & R. C. Eklund (Eds.), *Handbook of sport psychology* (3rd ed., pp. 285–309). Wiley.
+
+Wulf, G., McNevin, N., & Shea, C. H. (2001). The automaticity of complex motor skill learning as a function of attentional focus. *Quarterly Journal of Experimental Psychology*, 54A(4), 1143–1154. https://doi.org/10.1080/713756012
+
+Xiao, L., et al. (2016). Rapid production of new oligodendrocytes is required in the earliest stages of motor-skill learning. *Nature Neuroscience*, 19(9), 1210–1217. https://doi.org/10.1038/nn.4351
+
+Zheng, J., & Meister, M. (2025). Revealing the computational structure of the human visual cortex with a deep neural network. *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+
+---
+
+## Cognitive Neuroscience
+
+Gallagher, S. (2017). *Enactivist interventions: Rethinking the mind*. Oxford University Press.
+
+Gallagher, S. (2023). *Embodied and enactive approaches to cognition*. Cambridge University Press.
+
+Hofstadter, D. R. (1979). *Gödel, Escher, Bach: An eternal golden braid*. Basic Books.
+
+Hollnagel, E., Woods, D. D., & Leveson, N. (Eds.). (2006). *Resilience engineering: Concepts and precepts*. Ashgate.
+
+Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+
+Varela, F. J., Thompson, E., & Rosch, E. (1991). *The embodied mind*. MIT Press.
+
+---
+
+## APP Published Papers
+
+Slusher, A. M. (2026a). Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.18490842
+
+Slusher, A. M. (2026b). Neural Access Method™: Transmission protocol for high-pressure intervention. *Achieve Peak Performance*. Manuscript in preparation.
+
+Slusher, A. M. (2026c). Memory Breathing Methodology (MBM) v1.0. *ValorGrid Solutions*. https://doi.org/10.5281/zenodo.18790096
+
+## VGS Published Papers
+
+Slusher, A. M. (2025a). Cognitive Mage v1.0. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.17643267
+
+Slusher, A. M. (2025b). Complete Symbolic Fracture Cascade v1.0. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.17309239
+
+Slusher, A. M. (2025c). Distributed Cognitive Network v1.0. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.17555568
+
+Slusher, A. M. (2025d). Mythopoeic Intelligence Agents v1.0. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.17770533
+
+Slusher, A. M. (2025e). Synoetic OS v1.0. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.17808864
+
+Slusher, A. M. (2026d). PME v1.0: Predictive Myelination Engine. *ValorGrid Solutions Technical Reports*. https://doi.org/10.5281/zenodo.18318485
+
+---
+
+*© 2026 Aaron M. Slusher, Achieve Peak Performance. [Main Paper](index.html)*

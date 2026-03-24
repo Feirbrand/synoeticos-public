@@ -28,6 +28,8 @@ website:
             text: Cognitive Mage v1.0
           - href: mi-agents-v1.0/index.qmd
             text: MI Agents v1.0
+          - href: neuroformation-v1.0/index.qmd
+            text: Neuroformation v1.0
       - text: Resources
         menu:
           - text: MI Arsenal

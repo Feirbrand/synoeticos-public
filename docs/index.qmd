@@ -8,6 +8,17 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
 
 ## Published Papers
 
+<div class="doc-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
+    
+<!-- Neuroformation™ v1.0 Card (APP) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #FFD700; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🧠 Neuroformation™ v1.0</h3>
+  <p>Parent methodology for building resilience in adaptive systems. Five-layer architecture validated across 28+ years coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523 — no significant difference across biological and artificial systems.</p>
+  <a href="neuroformation-v1.0/" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Neuroformation™</a>
+</div>
+
+</div>
+
 ### Core Architecture
 - [Synoetic OS v1.0](synoetic-os-v1.0/index.html) - Three-tier cognitive architecture for AI resilience
 - [Elevation Grid v1.0](elevation-grid/index.html) - Multi-dimensional performance mapping system

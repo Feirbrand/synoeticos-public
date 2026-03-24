@@ -1,0 +1,83 @@
+---
+layout: paper
+title: "Neuroformation™ v1.0 — Visualizations"
+doi: "10.5281/zenodo.19197791"
+brand: APP
+mermaid: false
+---
+
+# Neuroformation™ v1.0 — Visualizations
+
+**Back to:** [Main Paper](index.html) | [Cross-References](neuroformation-cross-references.html) | [Bibliography](neuroformation-master-bibliography.html)
+
+---
+
+## Figure 1: Five-Layer Architecture with Cascade Failure Arrows
+
+The five-layer stack maps every adaptive system — human or AI — to a diagnostic coordinate. Acute cascade failure initiates at Layer 1 and propagates upward. Chronic load failure initiates at Layers 4–5 and propagates downward.
+
+| Layer | Name | Human Mechanism | AI Equivalent | Cascade Stage |
+|---|---|---|---|---|
+| 5 | Purpose | Goal structure, values, meaning | Objective coherence, mission alignment | COLLAPSE |
+| 4 | Identity | Self-schema, narrative identity | Symbolic anchoring, persona coherence | DESYNC |
+| 3 | Learning/Reinforcement | Myelination, procedural memory | Weight updates, UTME γ=0.31 | ROC |
+| 2 | Signal Processing | RAS filtering, prefrontal bandwidth | Context routing, attention weighting | SDC |
+| 1 | Substrate | Autonomic nervous system, HRV | Hardware, compute substrate, token processing | SIF |
+
+**Cascade abbreviations:** SIF = Signal Integrity Failure · SDC = Symbolic Drift Cascade · ROC = Reinforcement Overwrite Cascade · DESYNC = Identity Desynchronization · COLLAPSE = System Failure
+
+**Golden Rule:** Always diagnose and intervene at the lowest broken layer. Bottom-up always.
+
+---
+
+## Figure 2: Elevation Grid™ — 3×3 Diagnostic Matrix
+
+The Elevation Grid™ compresses the five universal layers into a real-time coaching diagnostic tool: nine pillars across three rows and three execution phases.
+
+**Row architecture (biological time constants):**
+- **Row 1 — Hardware/Autonomic:** Stabilizes in seconds. Layers 1–2.
+- **Row 2 — Software/Cognitive:** Stabilizes in minutes to hours. Layer 3.
+- **Row 3 — Architecture/Identity:** Stabilizes over weeks to months. Layers 4–5.
+
+**Nine pillars with NAM delivery steps:**
+
+| Pillar | Name | NAM Step | Function |
+|---|---|---|---|
+| P1 | Ground | ACCESS | Calm-state pathways, autonomic baseline |
+| P2 | Activation | SIMPLIFY | Readiness under load, arousal management |
+| P3 | Recovery | ACCESS | Past success patterns, reset protocol |
+| P4 | Pattern | REFRAME | Pattern recognition, signal routing |
+| P5 | Real-Time | SIMPLIFY | W.I.N. — What's Important Now |
+| P6 | Self-Calibrate | ALL FOUR | Meta-skill, complete NAM self-directed |
+| P7 | Narrative | REFRAME | Narrative update without denial |
+| P8 | Identity | IGNITE | Anchor behavior to identity, not outcome |
+| P9 | Stress Response | REFRAME | Difficulty as data, challenge state |
+
+---
+
+## Neural Access Method™ — Four-Step Protocol
+
+ACCESS → REFRAME → SIMPLIFY → IGNITE
+
+1. **ACCESS** — Scan for pre-myelinated meaning structures the operator already owns. Map the new demand onto a familiar neural network.
+2. **REFRAME** — Shift from internal anatomical focus to external functional focus. Rapid analogical mapping wraps the mechanical instruction in a familiar visual.
+3. **SIMPLIFY** — Distill the analogy to a one- or two-word trigger. Cognitive load near zero.
+4. **IGNITE** — Anchor the successful repetition to identity, not just execution. "That's the movement. That's who you are."
+
+---
+
+## Cross-Domain Statistical Validation
+
+χ²(4) = 3.21, p = 0.523 — No statistically significant difference detected in outcome distribution across human and AI domains in this practitioner dataset.
+
+| Population | N | Recovery Outcome |
+|---|---|---|
+| Human athletes/coaches | ~300+ documented | 80% habit retention |
+| AI adversarial incidents | 525+ logged | 98% recovery rate |
+| Combined cross-domain | χ²(4) = 3.21 | p = 0.523 |
+
+*Source: MI Agents v1.0, DOI: [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)*
+
+---
+
+*© 2026 Aaron M. Slusher, Achieve Peak Performance. [Main Paper](index.html)*
