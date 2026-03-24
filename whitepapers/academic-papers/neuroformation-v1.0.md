@@ -2,7 +2,7 @@
 title: "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems"
 description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 500+ documented AI system incidents with no statistically significant difference in outcome distribution detected across domains."
 version: 1.0
-doi: TBD
+doi: 10.5281/zenodo.19197791
 release_date: 2026-03-18
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -513,7 +513,7 @@ The third population is included because it provides the clearest illustration t
 
 **Interpretation:** A significant result (p < 0.05) would indicate the methodology operates differently across human and AI systems -- that it is domain-specific, not universal. The results are not significant. No statistically detectable difference was found in outcome distributions across either domain in this dataset. This is consistent with the cross-domain claim and with Tegmark's substrate-independence thesis (2014), while recognizing that non-rejection of a null hypothesis is not confirmation of it -- as Altman & Bland (1995) established, absence of evidence is not evidence of absence. The finding indicates the claim cannot be ruled out on this evidence, and that the pattern is stable enough to warrant the replication required to strengthen or falsify it.
 
-This paper does not claim to have proven the cross-domain thesis through statistical certainty. It claims to have produced an early practitioner-documented dataset showing no significant difference in outcome distribution across human and AI domains — to the author's knowledge, the first of its kind, pending confirmation through literature review. That is the correct starting point for a research program, not the conclusion of one. Independent replication across datasets collected outside this practice is the appropriate next step. Researchers working with AI systems, adaptive athletes, or human performance populations who wish to test these patterns against independent data are invited to do so. Replications can be indexed against this paper's Zenodo DOI upon publication.
+This paper does not claim to have proven the cross-domain thesis through statistical certainty. It claims to have produced an early practitioner-documented dataset showing no significant difference in outcome distribution across human and AI domains — to the author's knowledge, the first of its kind, pending confirmation through literature review. That is the correct starting point for a research program, not the conclusion of one. Independent replication across datasets collected outside this practice is the appropriate next step. Researchers working with AI systems, adaptive athletes, or human performance populations who wish to test these patterns against independent data are invited to do so. Replications can be indexed against this paper's Zenodo DOI: [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791).
 
 In plain terms: in this practitioner dataset, no statistically significant difference was detected in outcome distributions when a structurally similar intervention architecture was applied across human and AI systems. These results are compatible with, but do not establish, a cross-domain architectural hypothesis.
 
@@ -1079,17 +1079,17 @@ Commercial licensing includes:
 - **Statistical validation data:** Available in the published MI Agents paper, DOI: 10.5281/zenodo.17770533.
 - **Framework documentation:** achievepeakperformance.net
 - **Published works:** GitHub → Zenodo → ORCID. All published papers follow open discovery flow: github.com/Feirbrand/synoeticos-public → Zenodo community (Aaron M. Slusher) → ORCID: orcid.org/0009-0000-9923-3207
-- **This paper:** DOI pending Zenodo assignment upon publication.
+- **This paper:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)
 
 ---
 
 ## Citation Guide
 
 ### APA 7th Edition
-Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience in adaptive systems. *Achieve Peak Performance*. https://doi.org/TBD
+Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience in adaptive systems. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.19197791
 
 ### IEEE
-A. M. Slusher, "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems," *Achieve Peak Performance*, 2026, doi: TBD.
+A. M. Slusher, "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems," *Achieve Peak Performance*, 2026, doi: 10.5281/zenodo.19197791.
 
 ### BibTeX
 ```bibtex
@@ -1098,7 +1098,7 @@ A. M. Slusher, "Neuroformation™: A Methodology for Building Resilience in Adap
   author={Slusher, Aaron M.},
   journal={Achieve Peak Performance},
   year={2026},
-  doi={TBD},
+  doi={10.5281/zenodo.19197791},
   note={Drafted with AI assistance as noted in Acknowledgments.}
 }
 ```
