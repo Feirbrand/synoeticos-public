@@ -2,7 +2,6 @@
 layout: paper
 title: "Neuroformation™ v1.0 — Cross-References"
 doi: "10.5281/zenodo.19197791"
-brand: APP
 ---
 
 # Neuroformation™ v1.0 — Cross-References & Integration Map

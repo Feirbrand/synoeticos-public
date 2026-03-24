@@ -2,7 +2,6 @@
 layout: paper
 title: "Neuroformation™ v1.0 — Visualizations"
 doi: "10.5281/zenodo.19197791"
-brand: APP
 mermaid: false
 ---
 
