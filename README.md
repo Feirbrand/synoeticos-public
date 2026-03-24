@@ -81,7 +81,7 @@ That's what this repo is.
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: Pending.
+**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197791.
 
 **2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18489565
 
@@ -272,11 +272,11 @@ synoeticos-public/
 Interactive research documentation with Mermaid diagram visualizations, BibTeX citation tools, and complete bibliographies. Currently in early access — papers are being deployed progressively. Not all 18 are live yet.
 
 **🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
-[Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: Pending  
+[Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197791  
 *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
-[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
+[GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565)  
 *28-year validation • 80% habit retention • Team USA gold (Slovakia 2025)*
 
 **🧠 MBM v1.0** (Feb 26, 2026)  
@@ -298,11 +298,11 @@ All on [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 ### 2026
 
-**🧬 Neuroformation™ v1.0** (Mar 2026) — DOI: Pending  
+**🧬 Neuroformation™ v1.0** (Mar 2026) — DOI: 10.5281/zenodo.19197791  
 Five-layer cross-substrate resilience methodology. The paper that names what everything else was already doing.  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md)
 
-**🏔️ Elevation Grid™ v1.1** (Feb 2026) — [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
+**🏔️ Elevation Grid™ v1.1** (Feb 2026) — [DOI: 10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565)  
 Coordinate-based performance diagnostic. Isomorphic to Synoetic OS™ 3×3 structure — same architecture in biological and artificial systems, discovered independently.  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) • [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md)
 

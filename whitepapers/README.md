@@ -130,14 +130,14 @@ The `academic-papers/` folder is the mash — the foundational methodology paper
 **Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology  
 [`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)  
 First formal publication of Neuroformation™ as a named methodology. Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years of human performance coaching and 500+ documented AI incidents. χ²(4) = 3.21, p = 0.523 — no statistically meaningful difference in how the architecture operates across human and AI domains. Coined March 14, 2026.  
-**DOI:** Pending Zenodo assignment
+**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
 
 ---
 
 **Elevation Grid™ v1.1** — Performance Diagnostic Framework  
 [`academic-papers/elevation-grid-academic-v1.1.md`](academic-papers/elevation-grid-academic-v1.1.md)  
 Coordinate-based mental performance system mapping adaptive system instability to a 3×3 diagnostic grid. Isomorphic to the Synoetic OS™ 3×3 structure — same architecture running in biological and artificial systems, discovered independently from practice in both domains.  
-**DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
+**DOI:** [10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
 
 ---
 
@@ -244,7 +244,7 @@ Meta-layer framework orchestration achieving 35-50% context retention, 25-40% re
 
 **Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**
 
-**DOI:** TBD (pending release)  
+**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
 **Published:** March 2026  
 **Brand:** Achieve Peak Performance  
 28+ years human performance validation + 500+ AI incidents · χ²(4) = 3.21, p = 0.523 · Five-layer cross-substrate architecture
@@ -314,7 +314,7 @@ ValorGrid Solutions provides comprehensive research support, implementation cons
   title={Neuroformation™: A Methodology for Building Resilience in Adaptive Systems},
   author={Slusher, Aaron M.},
   year={2026},
-  doi={TBD},
+  doi={10.5281/zenodo.19197791},
   note={Coined March 14, 2026.}
 }
 ```
@@ -325,7 +325,7 @@ ValorGrid Solutions provides comprehensive research support, implementation cons
   title={The Elevation Grid™: A Field-Developed Framework for High-Stakes Performance},
   author={Slusher, Aaron M.},
   year={2026},
-  doi={10.5281/zenodo.18790842}
+  doi={10.5281/zenodo.18489565}
 }
 ```
 

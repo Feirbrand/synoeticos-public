@@ -81,7 +81,7 @@ These papers establish the architecture. The other divisions implement it:
 
 <h4>1. Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems</h4>
 
-**Status**: Draft — Ready for Publication | **File**: `neuroformation-v1.0.md` | **DOI**: Pending Zenodo assignment
+**Status**: Draft — Ready for Publication | **File**: `neuroformation-v1.0.md` | **DOI**: 10.5281/zenodo.19197791
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **ORCID**: 0009-0000-9923-3207
 **Coined**: March 14, 2026 | **Priority Date**: March 14, 2026
 
@@ -110,7 +110,7 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 
 <h4>2. Elevation Grid™ v1.1: A Field-Developed Framework for High-Stakes Performance</h4>
 
-**Status**: Published | **File**: `elevation-grid-academic-v1.1.md` | **DOI**: 10.5281/zenodo.18790842
+**Status**: Published | **File**: `elevation-grid-academic-v1.1.md` | **DOI**: 10.5281/zenodo.18489565
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **GitHub Pages**: [View →](https://feirbrand.github.io/synoeticos-public/)
 
 Coordinate-based mental performance system mapping adaptive system instability to a 3x3 diagnostic grid (9 positions × 3 rows × 3 execution phases). The primary diagnostic instrument of Neuroformation™ methodology.
@@ -245,7 +245,7 @@ Slusher, A. M. (2026). [Paper Title]. Achieve Peak Performance. https://doi.org/
 
 **APA:**
 ```
-Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience in adaptive systems. Achieve Peak Performance. DOI: Pending Zenodo assignment
+Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience in adaptive systems. Achieve Peak Performance. DOI: 10.5281/zenodo.19197791
 ```
 
 **BibTeX:**
@@ -255,7 +255,7 @@ Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience 
   author={Slusher, Aaron M.},
   journal={Achieve Peak Performance},
   year={2026},
-  doi={TBD},
+  doi={10.5281/zenodo.19197791},
   note={Coined March 14, 2026. Common law trademark in effect.}
 }
 ```
@@ -264,7 +264,7 @@ Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience 
 
 **APA:**
 ```
-Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. Achieve Peak Performance Technical Reports, 1, 1-55. https://doi.org/10.5281/zenodo.18790842
+Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. Achieve Peak Performance Technical Reports, 1, 1-55. https://doi.org/10.5281/zenodo.18489565
 ```
 
 **BibTeX:**
@@ -276,7 +276,7 @@ Slusher, A. M. (2026). The Elevation Grid™ v1.1: A field-developed framework f
   volume={1},
   pages={1--55},
   year={2026},
-  doi={10.5281/zenodo.18790842}
+  doi={10.5281/zenodo.18489565}
 }
 ```
 
