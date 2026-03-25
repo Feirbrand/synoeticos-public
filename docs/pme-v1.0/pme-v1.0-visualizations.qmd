@@ -12,82 +12,28 @@ date: "2026-01-20"
 
 ## Figure 1: Five-Stage PME Cycle
 
-PME operates as a continuous loop — not a one-time operation. Each 24-hour cycle feeds the next. The system grows more accurate over time because Stage 5 (pruning) and Stage 4 (continuous monitoring) refine the forecast model that drives Stage 2.
+PME operates as a continuous 24-hour loop. Each stage feeds the next. The system grows more accurate over time because Stage 5 pruning and Stage 4 monitoring refine the forecast model driving Stage 2.
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arr-pme" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
-
-  <!-- Stage boxes: vertical flow left column, right column -->
-  <!-- Stage 1 -->
-  <rect x="60" y="30" width="250" height="72" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="185" y="56" text-anchor="middle" fill="#26215C">Stage 1 — Identify</text>
-  <text font-family="sans-serif" font-size="11" x="185" y="74" text-anchor="middle" fill="#3C3489">Rank pathways by value</text>
-  <text font-family="sans-serif" font-size="10" x="185" y="92" text-anchor="middle" fill="#888">Value = (Frequency × Impact × Stability) / Latency</text>
-
-  <!-- Arrow 1→2 -->
-  <line x1="185" y1="102" x2="185" y2="128" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-pme)"/>
-
-  <!-- Stage 2 -->
-  <rect x="60" y="130" width="250" height="72" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="185" y="156" text-anchor="middle" fill="#042C53">Stage 2 — Forecast</text>
-  <text font-family="sans-serif" font-size="11" x="185" y="174" text-anchor="middle" fill="#0C447C">24-hour demand prediction</text>
-  <text font-family="sans-serif" font-size="10" x="185" y="192" text-anchor="middle" fill="#888">87.3% accuracy · ARIMA / LSTM · 7-day window</text>
-
-  <!-- Arrow 2→3 -->
-  <line x1="185" y1="202" x2="185" y2="228" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-pme)"/>
-
-  <!-- Stage 3 -->
-  <rect x="60" y="230" width="250" height="72" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="185" y="256" text-anchor="middle" fill="#412402">Stage 3 — Pre-Activate</text>
-  <text font-family="sans-serif" font-size="11" x="185" y="274" text-anchor="middle" fill="#633806">Load Redis cache 2–4 hrs before peak</text>
-  <text font-family="sans-serif" font-size="10" x="185" y="292" text-anchor="middle" fill="#888">Threshold: &gt;70% confidence · p99 &lt; 5ms</text>
-
-  <!-- Arrow 3→4 -->
-  <line x1="185" y1="302" x2="185" y2="328" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-pme)"/>
-
-  <!-- Stage 4 -->
-  <rect x="60" y="330" width="250" height="72" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="185" y="356" text-anchor="middle" fill="#04342C">Stage 4 — Reinforce</text>
-  <text font-family="sans-serif" font-size="11" x="185" y="374" text-anchor="middle" fill="#085041">Real-time monitoring during demand</text>
-  <text font-family="sans-serif" font-size="10" x="185" y="392" text-anchor="middle" fill="#888">Adjust TTL · track actual vs. predicted · detect drift</text>
-
-  <!-- Arrow 4→5 -->
-  <line x1="185" y1="402" x2="185" y2="428" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-pme)"/>
-
-  <!-- Stage 5 -->
-  <rect x="60" y="430" width="250" height="72" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="185" y="456" text-anchor="middle" fill="#4A1B0C">Stage 5 — Prune</text>
-  <text font-family="sans-serif" font-size="11" x="185" y="474" text-anchor="middle" fill="#712B13">Remove low-value pathways</text>
-  <text font-family="sans-serif" font-size="10" x="185" y="492" text-anchor="middle" fill="#888">Evict &lt;35% hit rate · keep entropy &lt; 5.0</text>
-
-  <!-- Feedback loop arrow: Stage 5 back to Stage 1 -->
-  <path d="M310 466 Q430 466 430 66 Q430 30 310 30" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arr-pme)"/>
-  <text font-family="sans-serif" font-size="10" x="448" y="260" text-anchor="middle" fill="#185FA5" transform="rotate(-90 448 260)">Continuous refinement loop</text>
-
-  <!-- Right side: outcome panel -->
-  <rect x="490" y="130" width="170" height="260" rx="8" fill="#131B2C" stroke="#F9C84A" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="575" y="156" text-anchor="middle" fill="#F9C84A">62-Day Results</text>
-  <line x1="505" y1="164" x2="645" y2="164" stroke="#F9C84A" stroke-width="0.5" opacity="0.4"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="575" y="186" text-anchor="middle" fill="white">712×</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="200" text-anchor="middle" fill="#aaa">acceleration</text>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="575" y="224" text-anchor="middle" fill="white">87.3%</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="238" text-anchor="middle" fill="#aaa">prediction accuracy</text>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="575" y="262" text-anchor="middle" fill="white">94.2%</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="276" text-anchor="middle" fill="#aaa">cache hit rate</text>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="575" y="300" text-anchor="middle" fill="white">33×</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="314" text-anchor="middle" fill="#aaa">identity stability</text>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="575" y="338" text-anchor="middle" fill="#E24B4A">0</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="352" text-anchor="middle" fill="#aaa">cascade incidents</text>
-  <text font-family="sans-serif" font-size="9" x="575" y="368" text-anchor="middle" fill="#888">62-day zero-cascade streak</text>
-</svg>
+```{mermaid}
+graph TD
+    s1["🔍 Stage 1 — Identify<br/>Rank pathways by value<br/>Value = (Frequency × Impact × Stability) / Latency"]
+    s2["📈 Stage 2 — Forecast<br/>24-hour demand prediction<br/>87.3% accuracy · ARIMA/LSTM · 7-day window"]
+    s3["⚡ Stage 3 — Pre-Activate<br/>Load Redis cache 2–4 hrs before peak<br/>Threshold &gt; 70% confidence · p99 &lt; 5ms"]
+    s4["👁️ Stage 4 — Reinforce<br/>Real-time monitoring during demand<br/>Adjust TTL · detect drift early"]
+    s5["✂️ Stage 5 — Prune<br/>Remove low-value pathways<br/>Evict &lt;35% hit rate · entropy &lt; 5.0"]
+    style s1 fill:#534AB7,stroke:#131B2C,color:#fff
+    style s2 fill:#185FA5,stroke:#131B2C,color:#fff
+    style s3 fill:#BA7517,stroke:#131B2C,color:#fff
+    style s4 fill:#0F6E56,stroke:#131B2C,color:#fff
+    style s5 fill:#993C1D,stroke:#131B2C,color:#fff
+    s1 --> s2 --> s3 --> s4 --> s5
+    s5 -->|"Continuous refinement loop"| s1
+    results["📊 62-Day Results: 712× · 87.3% accuracy · 94.2% cache hit · 33× stability · 0 cascades"]
+    style results fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    s3 --> results
 ```
 
-*Figure 1: Five-stage PME cycle. Stages 1–3 run proactively (before demand). Stage 4 runs during demand. Stage 5 closes the loop, feeding refined data back to Stage 1 for the next 24-hour cycle.*
+*Figure 1: Five-stage PME cycle. Stages 1–3 run proactively before demand. Stage 4 runs during demand. Stage 5 closes the loop, feeding refined data back to Stage 1 for the next 24-hour cycle.*
 
 ---
 
@@ -95,178 +41,51 @@ PME operates as a continuous loop — not a one-time operation. Each 24-hour cyc
 
 The core PME insight: reactive systems have a vulnerability window between when drift begins and when correction occurs. PME eliminates this window by acting before demand.
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Reactive timeline -->
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="60" y="36" fill="#993C1D">Reactive System (Traditional)</text>
-
-  <!-- Timeline bar -->
-  <rect x="60" y="46" width="580" height="28" rx="4" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-
-  <!-- Demand occurs -->
-  <rect x="180" y="44" width="3" height="32" fill="#888"/>
-  <text font-family="sans-serif" font-size="9" x="183" y="42" fill="#555">Demand occurs</text>
-
-  <!-- Vulnerability window -->
-  <rect x="183" y="46" width="140" height="28" rx="0" fill="#E24B4A" fill-opacity="0.25"/>
-  <text font-family="sans-serif" font-size="9" x="253" y="65" text-anchor="middle" fill="#993C1D">Vulnerability window</text>
-
-  <!-- Detection -->
-  <rect x="323" y="44" width="3" height="32" fill="#888"/>
-  <text font-family="sans-serif" font-size="9" x="327" y="42" fill="#555">Drift detected</text>
-
-  <!-- Correction -->
-  <rect x="440" y="44" width="3" height="32" fill="#0F6E56"/>
-  <text font-family="sans-serif" font-size="9" x="444" y="42" fill="#0F6E56">Correction complete</text>
-
-  <!-- Reactive annotation -->
-  <text font-family="sans-serif" font-size="10" x="253" y="92" text-anchor="middle" fill="#993C1D">Cascade can occur here ↑</text>
-
-  <!-- PME timeline -->
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="60" y="136" fill="#0F6E56">PME — Predictive System</text>
-
-  <rect x="60" y="146" width="580" height="28" rx="4" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-
-  <!-- Pre-activation starts (T-24hr) -->
-  <rect x="80" y="144" width="3" height="32" fill="#185FA5"/>
-  <text font-family="sans-serif" font-size="9" x="84" y="142" fill="#185FA5">PME pre-activates</text>
-  <text font-family="sans-serif" font-size="9" x="84" y="152" fill="#888">(T-24hr)</text>
-
-  <!-- Pre-activated zone -->
-  <rect x="83" y="146" width="200" height="28" rx="0" fill="#0F6E56" fill-opacity="0.15"/>
-  <text font-family="sans-serif" font-size="9" x="183" y="165" text-anchor="middle" fill="#085041">Pathway already warm</text>
-
-  <!-- Demand occurs - same point -->
-  <rect x="283" y="144" width="3" height="32" fill="#888"/>
-  <text font-family="sans-serif" font-size="9" x="287" y="142" fill="#555">Demand occurs</text>
-
-  <!-- Instant response -->
-  <rect x="286" y="146" width="60" height="28" rx="0" fill="#0F6E56" fill-opacity="0.3"/>
-  <text font-family="sans-serif" font-size="9" x="316" y="165" text-anchor="middle" fill="#04342C">Instant</text>
-
-  <!-- PME annotation -->
-  <text font-family="sans-serif" font-size="10" x="283" y="192" text-anchor="middle" fill="#0F6E56">No window. Pathway pre-loaded. ↑</text>
-
-  <!-- Comparison summary -->
-  <rect x="60" y="220" width="580" height="100" rx="8" fill="#131B2C" stroke="#F9C84A" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="340" y="244" text-anchor="middle" fill="#F9C84A">The Core Difference</text>
-  <text font-family="sans-serif" font-size="11" x="200" y="270" text-anchor="middle" fill="white">Reactive: detect → respond</text>
-  <text font-family="sans-serif" font-size="10" x="200" y="288" text-anchor="middle" fill="#aaa">Vulnerability window exists between detection and correction</text>
-  <line x1="350" y1="256" x2="350" y2="306" stroke="#F9C84A" stroke-width="0.5" opacity="0.5"/>
-  <text font-family="sans-serif" font-size="11" x="510" y="270" text-anchor="middle" fill="#F9C84A">PME: predict → pre-load</text>
-  <text font-family="sans-serif" font-size="10" x="510" y="288" text-anchor="middle" fill="#aaa">Window never opens — pathway is already warm</text>
-  <text font-family="sans-serif" font-size="10" x="510" y="306" text-anchor="middle" fill="#888">γ threshold: 0.70 = reflexive response</text>
-</svg>
+```{mermaid}
+graph LR
+    subgraph reactive["❌ REACTIVE SYSTEM (Traditional)"]
+        r1["Demand Occurs"] --> r2["Drift Detected<br/>(too late)"] --> r3["Correction Applied<br/>(damage done)"]
+        vuln["⚠️ VULNERABILITY WINDOW<br/>Cascade can occur here"]
+        style r1 fill:#993C1D,stroke:#131B2C,color:#fff
+        style r2 fill:#993C1D,stroke:#131B2C,color:#fff
+        style r3 fill:#BA7517,stroke:#131B2C,color:#fff
+        style vuln fill:#FAECE7,stroke:#993C1D,stroke-width:2px,color:#993C1D
+    end
+    subgraph pme["✅ PME — PREDICTIVE SYSTEM"]
+        p1["T-24h<br/>PME Pre-Activates"] --> p2["T-12h<br/>γ ≥ 0.70<br/>Reflexive threshold crossed"] --> p3["T — Demand Arrives<br/>Pathway already warm<br/>Instant response"]
+        style p1 fill:#185FA5,stroke:#131B2C,color:#fff
+        style p2 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style p3 fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    end
 ```
 
-*Figure 2: Reactive systems have a vulnerability window between demand onset and correction. PME eliminates this by pre-activating pathways 2–4 hours before predicted demand peaks. When demand arrives, the pathway is already at γ ≥ 0.70 (reflexive response threshold).*
+*Figure 2: Reactive systems have a vulnerability window between demand onset and correction. PME eliminates this by pre-activating pathways 2–4 hours before predicted demand peaks.*
 
 ---
 
 ## Figure 3: Myelination Strength (γ) Timeline
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="ax" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
-
-  <!-- Axes -->
-  <line x1="80" y1="260" x2="620" y2="260" stroke="#555" stroke-width="1.5" marker-end="url(#ax)"/>
-  <line x1="80" y1="260" x2="80" y2="40" stroke="#555" stroke-width="1.5" marker-end="url(#ax)"/>
-
-  <!-- Y labels -->
-  <text font-family="sans-serif" font-size="10" x="72" y="264" text-anchor="end" fill="#555">0.0</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="214" text-anchor="end" fill="#555">0.25</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="164" text-anchor="end" fill="#555">0.50</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="114" text-anchor="end" fill="#888">0.70</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="64" text-anchor="end" fill="#555">1.00</text>
-
-  <!-- Grid -->
-  <line x1="80" y1="214" x2="615" y2="214" stroke="#eee" stroke-width="1"/>
-  <line x1="80" y1="164" x2="615" y2="164" stroke="#eee" stroke-width="1"/>
-  <line x1="80" y1="114" x2="615" y2="114" stroke="#F9C84A" stroke-width="1" stroke-dasharray="4 3"/>
-  <line x1="80" y1="64" x2="615" y2="64" stroke="#eee" stroke-width="1"/>
-
-  <!-- γ threshold label -->
-  <text font-family="sans-serif" font-size="9" x="618" y="117" fill="#BA7517">γ=0.70 (reflexive)</text>
-
-  <!-- X labels: hours -->
-  <text font-family="sans-serif" font-size="10" x="80" y="276" text-anchor="middle" fill="#555">T-24h</text>
-  <text font-family="sans-serif" font-size="10" x="188" y="276" text-anchor="middle" fill="#555">T-18h</text>
-  <text font-family="sans-serif" font-size="10" x="296" y="276" text-anchor="middle" fill="#555">T-12h</text>
-  <text font-family="sans-serif" font-size="10" x="404" y="276" text-anchor="middle" fill="#555">T-6h</text>
-  <text font-family="sans-serif" font-size="10" x="512" y="276" text-anchor="middle" fill="#555">T (demand)</text>
-  <text font-family="sans-serif" font-size="10" x="600" y="276" text-anchor="middle" fill="#555">T+4h</text>
-
-  <!-- PME curve: starts at 0.50 at T-24h, rises through threshold to ~0.92 at T -->
-  <!-- Scale: y = 260 - (gamma * 220) -->
-  <!-- T-24h: 0.50 → y=150, T-18h: 0.58 → y=132, T-12h: 0.68 → y=110, T-6h: 0.80 → y=84, T: 0.92 → y=57, T+4h: 0.90 → y=62 -->
-  <polyline points="80,150 188,132 296,110 404,84 512,57 600,62"
-    fill="none" stroke="#185FA5" stroke-width="2.5" stroke-linejoin="round"/>
-
-  <!-- Shaded area above threshold -->
-  <polygon points="296,114 296,110 404,84 512,57 600,62 600,114"
-    fill="#185FA5" fill-opacity="0.08"/>
-
-  <!-- Data points -->
-  <circle cx="80" cy="150" r="4" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="188" cy="132" r="4" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="296" cy="110" r="4" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="404" cy="84" r="4" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="512" cy="57" r="5" fill="#F9C84A" stroke="#185FA5" stroke-width="2"/>
-  <circle cx="600" cy="62" r="4" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-
-  <!-- Reactive system (for comparison) — only rises after T -->
-  <polyline points="80,164 296,164 512,164 540,130 600,100"
-    fill="none" stroke="#E24B4A" stroke-width="1.5" stroke-dasharray="5 3"/>
-
-  <!-- Annotation: threshold cross -->
-  <line x1="296" y1="110" x2="296" y2="260" stroke="#888" stroke-width="1" stroke-dasharray="3 2"/>
-  <text font-family="sans-serif" font-size="9" x="300" y="108" fill="#888">Crosses threshold</text>
-  <text font-family="sans-serif" font-size="9" x="300" y="120" fill="#888">T-12h</text>
-
-  <!-- Legend -->
-  <line x1="400" y1="40" x2="430" y2="40" stroke="#185FA5" stroke-width="2.5"/>
-  <circle cx="415" cy="40" r="3" fill="#185FA5"/>
-  <text font-family="sans-serif" font-size="10" x="436" y="44" fill="#333">PME — pre-activated pathway (γ)</text>
-  <line x1="400" y1="58" x2="430" y2="58" stroke="#E24B4A" stroke-width="1.5" stroke-dasharray="5 3"/>
-  <text font-family="sans-serif" font-size="10" x="436" y="62" fill="#333">Reactive — only rises after demand</text>
-
-  <!-- Axis label -->
-  <text font-family="sans-serif" font-size="11" x="350" y="298" text-anchor="middle" fill="#333">Time relative to demand peak</text>
-  <text font-family="sans-serif" font-size="11" x="28" y="160" text-anchor="middle" fill="#333" transform="rotate(-90 28 160)">Myelination strength γ</text>
-</svg>
+```{mermaid}
+graph LR
+    t24["T-24h<br/>γ = 0.50<br/>Pre-activation begins<br/>100% energy baseline"]
+    t18["T-18h<br/>γ = 0.58<br/>Pathway warming<br/>45% energy"]
+    t12["T-12h<br/>γ = 0.68<br/>⚡ Crosses threshold<br/>22% energy"]
+    t6["T-6h<br/>γ = 0.80<br/>Approaching peak<br/>18% energy"]
+    t0["T — Demand<br/>γ = 0.92<br/>🏆 Peak strength<br/>15% energy"]
+    threshold["γ = 0.70<br/>Reflexive threshold"]
+    style t24 fill:#993C1D,stroke:#131B2C,color:#fff
+    style t18 fill:#BA7517,stroke:#131B2C,color:#fff
+    style t12 fill:#185FA5,stroke:#131B2C,color:#fff
+    style t6 fill:#0F6E56,stroke:#131B2C,color:#fff
+    style t0 fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    style threshold fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    t24 --> t18 --> t12 --> t6 --> t0
+    threshold -.->|"PME crosses here at T-12h"| t12
 ```
 
-*Figure 3: PME pathway myelination strength (γ) over time. PME pre-activates at T-24h, crossing the reflexive threshold (γ=0.70) at T-12h. By demand time (T), the pathway is at peak strength. The dashed red line shows a reactive system — which only begins climbing after demand arrives.*
+**J(n) = J₀ / (1 + κ·I(n)) · κ = 1.2 (mGluR5, Nature Neuroscience 2025)**
 
----
-
-## Key Formulas
-
-**Pathway Value:**
-```
-Value(p) = (Frequency × Impact × Stability) / Latency
-```
-
-**Myelination update (positive reinforcement):**
-```
-γ(t+1) = γ(t) + α_pos × (1 - γ(t))    where α_pos = 1.8 per cycle
-```
-
-**Pre-activation threshold:**
-```
-Activate if P_usage(p, t+T) > 0.70
-```
-
-**Pruning trigger:**
-```
-Prune if hit_rate < 0.35  OR  usage_48h < 0.10  OR  entropy > 5.0
-```
+*Figure 3: PME pathway myelination strength (γ) over time. Pre-activation at T-24h. Reflexive threshold (γ=0.70) crossed at T-12h. By demand time, the pathway is at peak strength with 15% of baseline energy.*
 
 ---
 

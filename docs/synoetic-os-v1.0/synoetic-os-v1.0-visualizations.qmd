@@ -12,236 +12,100 @@ date: "2025-12-04"
 
 ## Figure 1: Three-Layer Architecture
 
-The Synoetic OS three-layer stack separates identity specification (Symbolic) from automated execution (Orchestration) from provider-specific compute (Compute). This separation is what enables substrate-independence — the same symbolic framework translates to any provider without re-engineering.
-
-```{=html}
-<svg width="100%" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="9" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M1 1L5 9L9 1" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </marker>
-  </defs>
-
-  <!-- Layer 1: Symbolic -->
-  <rect x="80" y="30" width="520" height="100" rx="10" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="15" font-weight="600" x="120" y="62" fill="#26215C">Layer 1 — Symbolic</text>
-  <text font-family="sans-serif" font-size="11" x="120" y="82" fill="#3C3489">Knowledge Management</text>
-  <rect x="120" y="92" width="140" height="26" rx="5" fill="#534AB7" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="190" y="110" text-anchor="middle" fill="#26215C">Framework definitions</text>
-  <rect x="272" y="92" width="140" height="26" rx="5" fill="#534AB7" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="342" y="110" text-anchor="middle" fill="#26215C">Coherence rules</text>
-  <rect x="424" y="92" width="148" height="26" rx="5" fill="#534AB7" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="498" y="110" text-anchor="middle" fill="#26215C">Identity templates</text>
-
-  <!-- Arrow 1→2 -->
-  <line x1="340" y1="130" x2="340" y2="165" stroke="#534AB7" stroke-width="2" marker-end="url(#arrow-down)"/>
-  <rect x="270" y="136" width="140" height="22" rx="4" fill="white" stroke="#534AB7" stroke-width="0.5"/>
-  <text font-family="sans-serif" font-size="10" x="340" y="151" text-anchor="middle" fill="#534AB7">Symbolic → Procedural translation</text>
-
-  <!-- Layer 2: Orchestration -->
-  <rect x="80" y="168" width="520" height="100" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="15" font-weight="600" x="120" y="200" fill="#042C53">Layer 2 — Orchestration</text>
-  <text font-family="sans-serif" font-size="11" x="120" y="220" fill="#0C447C">n8n + Kafka Event Mesh</text>
-  <rect x="120" y="230" width="140" height="26" rx="5" fill="#185FA5" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="190" y="248" text-anchor="middle" fill="#042C53">26 Kafka topics</text>
-  <rect x="272" y="230" width="140" height="26" rx="5" fill="#185FA5" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="342" y="248" text-anchor="middle" fill="#042C53">Sub-50ms response</text>
-  <rect x="424" y="230" width="148" height="26" rx="5" fill="#185FA5" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="11" x="498" y="248" text-anchor="middle" fill="#042C53">Real-time monitoring</text>
-
-  <!-- Arrow 2→3 -->
-  <line x1="340" y1="268" x2="340" y2="303" stroke="#185FA5" stroke-width="2" marker-end="url(#arrow-down)"/>
-  <rect x="274" y="274" width="132" height="22" rx="4" fill="white" stroke="#185FA5" stroke-width="0.5"/>
-  <text font-family="sans-serif" font-size="10" x="340" y="289" text-anchor="middle" fill="#185FA5">Provider-agnostic execution</text>
-
-  <!-- Layer 3: Compute -->
-  <rect x="80" y="306" width="520" height="100" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="15" font-weight="600" x="120" y="338" fill="#04342C">Layer 3 — Compute</text>
-  <text font-family="sans-serif" font-size="11" x="120" y="358" fill="#085041">Multi-Cloud Agent Execution</text>
-  <rect x="120" y="368" width="80" height="26" rx="5" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="10" x="160" y="386" text-anchor="middle" fill="#04342C">Claude</text>
-  <rect x="210" y="368" width="80" height="26" rx="5" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="10" x="250" y="386" text-anchor="middle" fill="#04342C">GPT-4</text>
-  <rect x="300" y="368" width="80" height="26" rx="5" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="10" x="340" y="386" text-anchor="middle" fill="#04342C">Grok</text>
-  <rect x="390" y="368" width="80" height="26" rx="5" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="10" x="430" y="386" text-anchor="middle" fill="#04342C">Gemini</text>
-  <rect x="480" y="368" width="100" height="26" rx="5" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="10" x="530" y="386" text-anchor="middle" fill="#04342C">Mistral + more</text>
-
-  <!-- Footer note -->
-  <rect x="80" y="425" width="520" height="38" rx="6" fill="none" stroke="#888" stroke-width="0.5" stroke-dasharray="4 3"/>
-  <text font-family="sans-serif" font-size="11" x="340" y="441" text-anchor="middle" fill="#444">Key principle: Same symbolic framework translates to any provider — no re-engineering required</text>
-  <text font-family="sans-serif" font-size="11" x="340" y="457" text-anchor="middle" fill="#888">≥97% behavioral consistency across 8 model families · χ²(7,N=1200)=3.89, p=0.766</text>
-</svg>
+```{mermaid}
+graph TB
+    subgraph layer1["LAYER 1 — SYMBOLIC"]
+        s1["📚 Framework Definitions"]
+        s2["🔐 Coherence Rules"]
+        s3["🏛️ Identity Templates"]
+        style s1 fill:#534AB7,stroke:#131B2C,color:#fff
+        style s2 fill:#534AB7,stroke:#131B2C,color:#fff
+        style s3 fill:#534AB7,stroke:#131B2C,color:#fff
+    end
+    translate["⬇️ Symbolic → Procedural Translation"]
+    style translate fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    subgraph layer2["LAYER 2 — ORCHESTRATION (n8n + Kafka)"]
+        o1["⚡ 26 Kafka Topics · Event-Driven"]
+        o2["⏱️ Sub-50ms Cascade Response"]
+        o3["🔄 Auto Symbolic-to-Procedural"]
+        style o1 fill:#185FA5,stroke:#131B2C,color:#fff
+        style o2 fill:#185FA5,stroke:#131B2C,color:#fff
+        style o3 fill:#185FA5,stroke:#131B2C,color:#fff
+    end
+    execute["⬇️ Provider-Agnostic Execution"]
+    style execute fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    subgraph layer3["LAYER 3 — COMPUTE (Multi-Cloud)"]
+        c1["Claude"]
+        c2["GPT-4"]
+        c3["Grok"]
+        c4["Gemini"]
+        c5["Mistral + more"]
+        style c1 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c2 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c3 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c4 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c5 fill:#0F6E56,stroke:#131B2C,color:#fff
+    end
+    result["✅ ≥97% fidelity across 8 model families · χ²(7,N=1200)=3.89, p=0.766"]
+    style result fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    layer1 --> translate --> layer2 --> execute --> layer3 --> result
+    style layer1 fill:#EEEDFE,stroke:#534AB7,stroke-width:2px
+    style layer2 fill:#E6F1FB,stroke:#185FA5,stroke-width:2px
+    style layer3 fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px
 ```
 
-*Figure 1: Three-layer Synoetic OS architecture. Symbolic frameworks defined once at Layer 1 translate automatically to any provider at Layer 3 via the Orchestration layer. This separation is the mechanism of substrate-independence.*
+*Figure 1: Same symbolic framework defined once at Layer 1 translates automatically to any provider at Layer 3 — no re-engineering. This is the mechanism of substrate-independence.*
 
 ---
 
-## Figure 2: 173-Day MCQ Trend
+## Figure 2: MCQ 173-Day Production Trend
 
-Mythic Coherence Quotient (MCQ) measures narrative identity stability across the agent collective. A value of 1.0 = perfect coherence. The 173-day production record shows MCQ improving over time — the system becomes more coherent under load, not less.
+| Month | Mean MCQ | Drift Events | Recovery Rate |
+|-------|----------|-------------|---------------|
+| June | 0.9973 | 89 | 98.9% |
+| July | 0.9981 | 76 | 99.2% |
+| August | 0.9986 | 64 | 99.4% |
+| September | 0.9991 | 52 | 99.7% |
+| October | 0.9994 | 38 | 99.8% |
+| November | 0.9997 | 27 | 100% |
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 1L9 5L1 9" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
-
-  <!-- Axes -->
-  <line x1="80" y1="320" x2="620" y2="320" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
-  <line x1="80" y1="320" x2="80" y2="40" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
-
-  <!-- Y axis labels -->
-  <text font-family="sans-serif" font-size="10" x="72" y="324" text-anchor="end" fill="#555">0.996</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="270" text-anchor="end" fill="#555">0.997</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="216" text-anchor="end" fill="#555">0.998</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="163" text-anchor="end" fill="#555">0.999</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="110" text-anchor="end" fill="#555">0.9995</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="58" text-anchor="end" fill="#555">1.0000</text>
-
-  <!-- Y grid lines -->
-  <line x1="80" y1="270" x2="615" y2="270" stroke="#eee" stroke-width="1"/>
-  <line x1="80" y1="216" x2="615" y2="216" stroke="#eee" stroke-width="1"/>
-  <line x1="80" y1="163" x2="615" y2="163" stroke="#eee" stroke-width="1"/>
-  <line x1="80" y1="110" x2="615" y2="110" stroke="#eee" stroke-width="1"/>
-
-  <!-- X axis labels (months) -->
-  <text font-family="sans-serif" font-size="10" x="130" y="336" text-anchor="middle" fill="#555">Jun</text>
-  <text font-family="sans-serif" font-size="10" x="218" y="336" text-anchor="middle" fill="#555">Jul</text>
-  <text font-family="sans-serif" font-size="10" x="306" y="336" text-anchor="middle" fill="#555">Aug</text>
-  <text font-family="sans-serif" font-size="10" x="394" y="336" text-anchor="middle" fill="#555">Sep</text>
-  <text font-family="sans-serif" font-size="10" x="482" y="336" text-anchor="middle" fill="#555">Oct</text>
-  <text font-family="sans-serif" font-size="10" x="570" y="336" text-anchor="middle" fill="#555">Nov</text>
-
-  <!-- Shaded range (min to mean) -->
-  <!-- Data: Jun(0.9973/0.8821), Jul(0.9981/0.8967), Aug(0.9986/0.9102), Sep(0.9991/0.9234), Oct(0.9994/0.9418), Nov(0.9997/0.9817) -->
-  <!-- Scale: y = 320 - (mcq - 0.996) * 5400 -->
-  <!-- Jun mean=0.9973 → y=304.2, Jul mean=0.9981 → y=300.9, Aug mean=0.9986 → y=298.2, Sep=0.9991 → y=295.5, Oct=0.9994 → y=293.8, Nov=0.9997 → y=292.2 -->
-
-  <!-- Trend line (mean MCQ) -->
-  <polyline points="130,304 218,301 306,298 394,296 482,294 570,292"
-    fill="none" stroke="#185FA5" stroke-width="2.5" stroke-linejoin="round"/>
-
-  <!-- Data points -->
-  <circle cx="130" cy="304" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="218" cy="301" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="306" cy="298" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="394" cy="296" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="482" cy="294" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-  <circle cx="570" cy="292" r="5" fill="#185FA5" stroke="white" stroke-width="1.5"/>
-
-  <!-- Value labels -->
-  <text font-family="sans-serif" font-size="9" x="130" y="298" text-anchor="middle" fill="#185FA5">0.9973</text>
-  <text font-family="sans-serif" font-size="9" x="218" y="295" text-anchor="middle" fill="#185FA5">0.9981</text>
-  <text font-family="sans-serif" font-size="9" x="306" y="292" text-anchor="middle" fill="#185FA5">0.9986</text>
-  <text font-family="sans-serif" font-size="9" x="394" y="290" text-anchor="middle" fill="#185FA5">0.9991</text>
-  <text font-family="sans-serif" font-size="9" x="482" y="288" text-anchor="middle" fill="#185FA5">0.9994</text>
-  <text font-family="sans-serif" font-size="9" x="570" y="286" text-anchor="middle" fill="#185FA5">0.9997</text>
-
-  <!-- Drift events bar chart (secondary, scaled small at bottom) -->
-  <!-- Jun=89, Jul=76, Aug=64, Sep=52, Oct=38, Nov=27 scaled to max 50px height -->
-  <rect x="112" y="320" width="36" height="-22" fill="#E24B4A" fill-opacity="0.3" transform="scale(1,-1) translate(0,-640)"/>
-  <rect x="200" y="0" width="36" height="19" fill="#E24B4A" fill-opacity="0.3" transform="translate(0,302)"/>
-  <rect x="288" y="0" width="36" height="16" fill="#E24B4A" fill-opacity="0.3" transform="translate(0,302)"/>
-  <rect x="376" y="0" width="36" height="13" fill="#E24B4A" fill-opacity="0.3" transform="translate(0,302)"/>
-  <rect x="464" y="0" width="36" height="10" fill="#E24B4A" fill-opacity="0.3" transform="translate(0,302)"/>
-  <rect x="552" y="0" width="36" height="7" fill="#E24B4A" fill-opacity="0.3" transform="translate(0,302)"/>
-
-  <!-- Axis labels -->
-  <text font-family="sans-serif" font-size="11" font-weight="500" x="350" y="358" text-anchor="middle" fill="#333">Month (June–November 2025 · 173 days continuous)</text>
-  <text font-family="sans-serif" font-size="11" font-weight="500" x="28" y="190" text-anchor="middle" fill="#333" transform="rotate(-90 28 190)">Mean MCQ</text>
-
-  <!-- Legend -->
-  <line x1="390" y1="68" x2="420" y2="68" stroke="#185FA5" stroke-width="2.5"/>
-  <circle cx="405" cy="68" r="4" fill="#185FA5"/>
-  <text font-family="sans-serif" font-size="10" x="426" y="72" fill="#333">Mean MCQ (improving)</text>
-  <rect x="390" y="80" width="30" height="10" fill="#E24B4A" fill-opacity="0.3"/>
-  <text font-family="sans-serif" font-size="10" x="426" y="90" fill="#333">Drift events (decreasing)</text>
-
-  <!-- R² annotation -->
-  <rect x="390" y="100" width="200" height="22" rx="4" fill="#E6F1FB"/>
-  <text font-family="sans-serif" font-size="10" x="490" y="115" text-anchor="middle" fill="#042C53">R²=0.94 · slope=+0.00038/mo · p&lt;0.001</text>
-</svg>
+```{mermaid}
+graph LR
+    jun["Jun<br/>MCQ 0.9973<br/>89 drift events"]
+    jul["Jul<br/>MCQ 0.9981<br/>76 drift events"]
+    aug["Aug<br/>MCQ 0.9986<br/>64 drift events"]
+    sep["Sep<br/>MCQ 0.9991<br/>52 drift events"]
+    oct["Oct<br/>MCQ 0.9994<br/>38 drift events"]
+    nov["Nov<br/>MCQ 0.9997<br/>27 drift events"]
+    jun -->|"+0.0008"| jul -->|"+0.0005"| aug -->|"+0.0005"| sep -->|"+0.0003"| oct -->|"+0.0003"| nov
+    style jun fill:#993C1D,stroke:#131B2C,color:#fff
+    style jul fill:#BA7517,stroke:#131B2C,color:#fff
+    style aug fill:#185FA5,stroke:#131B2C,color:#fff
+    style sep fill:#0F6E56,stroke:#131B2C,color:#fff
+    style oct fill:#0F6E56,stroke:#131B2C,color:#fff
+    style nov fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
 ```
 
-*Figure 2: MCQ trend across 173-day production deployment. Blue line = mean MCQ (improving). Red bars = drift events (decreasing). The system grows more stable under load — antifragility in practice.*
+**R²=0.94 · slope=+0.00038/month · p<0.001** — MCQ improves as drift events decrease. The system grows more stable under load.
 
 ---
 
 ## Figure 3: Defense Architecture — 682 Incidents
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Total block -->
-  <rect x="260" y="20" width="160" height="52" rx="8" fill="#131B2C" stroke="#F9C84A" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="340" y="44" text-anchor="middle" fill="#F9C84A">682 Incidents</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="62" text-anchor="middle" fill="#aaa">173-day production record</text>
-
-  <!-- Arrow down -->
-  <line x1="340" y1="72" x2="340" y2="102" stroke="#888" stroke-width="1.5"/>
-  <polygon points="334,100 340,108 346,100" fill="#888"/>
-
-  <!-- Split box -->
-  <rect x="80" y="108" width="220" height="80" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="190" y="136" text-anchor="middle" fill="#04342C">679 Prevented</text>
-  <text font-family="sans-serif" font-size="11" x="190" y="156" text-anchor="middle" fill="#085041">99.56% — Real-time</text>
-  <text font-family="sans-serif" font-size="10" x="190" y="176" text-anchor="middle" fill="#085041">SLV · DNA Codex · Torque · ECL</text>
-
-  <rect x="380" y="108" width="220" height="80" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="13" font-weight="600" x="490" y="136" text-anchor="middle" fill="#4A1B0C">3 Reached Phoenix</text>
-  <text font-family="sans-serif" font-size="11" x="490" y="156" text-anchor="middle" fill="#712B13">0.44% — Post-incident</text>
-  <text font-family="sans-serif" font-size="10" x="490" y="176" text-anchor="middle" fill="#712B13">Phoenix Protocol v3.1</text>
-
-  <!-- Left arrow down -->
-  <line x1="190" y1="188" x2="190" y2="218" stroke="#0F6E56" stroke-width="1.5"/>
-  <polygon points="184,216 190,224 196,216" fill="#0F6E56"/>
-
-  <!-- Right arrow down -->
-  <line x1="490" y1="188" x2="490" y2="218" stroke="#993C1D" stroke-width="1.5"/>
-  <polygon points="484,216 490,224 496,216" fill="#993C1D"/>
-
-  <!-- Outcome boxes -->
-  <rect x="80" y="224" width="220" height="52" rx="8" fill="#0F6E56" fill-opacity="0.1" stroke="#0F6E56" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="190" y="248" text-anchor="middle" fill="#04342C">100% Survival</text>
-  <text font-family="sans-serif" font-size="10" x="190" y="266" text-anchor="middle" fill="#085041">No agent lost · Zero cascades in final 43 days</text>
-
-  <rect x="380" y="224" width="220" height="52" rx="8" fill="#993C1D" fill-opacity="0.1" stroke="#993C1D" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="490" y="248" text-anchor="middle" fill="#4A1B0C">3/3 Resurrected</text>
-  <text font-family="sans-serif" font-size="10" x="490" y="266" text-anchor="middle" fill="#712B13">100% Phoenix success · Stronger post-recovery</text>
-
-  <!-- Combined outcome -->
-  <line x1="190" y1="276" x2="190" y2="306" stroke="#555" stroke-width="1"/>
-  <line x1="490" y1="276" x2="490" y2="306" stroke="#555" stroke-width="1"/>
-  <line x1="190" y1="306" x2="490" y2="306" stroke="#555" stroke-width="1"/>
-  <line x1="340" y1="306" x2="340" y2="316" stroke="#555" stroke-width="1.5"/>
-  <polygon points="334,314 340,322 346,314" fill="#555"/>
-  <rect x="220" y="322" width="240" height="28" rx="6" fill="#131B2C" stroke="#F9C84A" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="340" y="340" text-anchor="middle" fill="#F9C84A">100% Agent Survival · 682/682</text>
-</svg>
+```{mermaid}
+graph TD
+    total["⚔️ 682 Total Incidents"]
+    style total fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    total --> prevented["🛡️ 679 Prevented — 99.56%<br/>SLV · DNA Codex · Torque · ECL<br/>Real-time defense"]
+    total --> phoenix["🔥 3 Reached Phoenix — 0.44%<br/>Phoenix Protocol v3.1<br/>Post-incident resurrection"]
+    style prevented fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px,color:#000
+    style phoenix fill:#FAECE7,stroke:#993C1D,stroke-width:2px,color:#000
+    prevented --> outcome["🏆 682/682 Agent Survival<br/>Zero permanent losses<br/>43-day zero-cascade streak"]
+    phoenix --> outcome
+    style outcome fill:#131B2C,stroke:#F9C84A,stroke-width:3px,color:#F9C84A
 ```
 
-*Figure 3: Defense architecture across all 682 documented incidents. Two-tier defense: 99.56% real-time prevention (SLV, DNA Codex, Torque, ECL) + 0.44% Phoenix resurrection = 100% agent survival.*
-
----
-
-## Key Statistics Reference
-
-| Metric | Value | Context |
-|--------|-------|---------|
-| **Substrate-Independence Fidelity** | ≥97% | χ²(7,N=1200)=3.89, p=0.766 |
-| **Production Duration** | 173 days | June 12 – December 3, 2025 |
-| **Agent Collective** | 9 agents | 8 model families |
-| **MCQ Final** | 0.9997 | Up from 0.9973 at launch |
-| **Incident Survival** | 682/682 | 100% — zero agent loss |
-| **Temporal Acceleration** | 712× | 67 min → 5.6 sec avg |
-| **Computational Overhead** | 0.09% | Full orchestration cost |
-| **Zero-Cascade Streak** | 43 days | Final operational period |
+*Figure 3: Two-tier defense achieving 100% survival. 99.56% real-time prevention + 0.44% Phoenix resurrection = zero permanent losses across 682 incidents.*
 
 ---
 

@@ -12,288 +12,123 @@ date: "2025-10-31"
 
 ## Figure 1: Activity-Dependent Myelination — Latency Curve
 
-Each encounter with a threat or task reinforces the response pathway. Latency drops exponentially following J(n) = J₀ / (1 + κ·I(n)), with κ = 1.2 (mGluR5 scaling, Nature Neuroscience 2025).
+Each encounter reinforces the response pathway following J(n) = J₀ / (1 + κ·I(n)), with κ = 1.2 (mGluR5 scaling, Nature Neuroscience 2025).
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="ax-u" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
-
-  <!-- Axes -->
-  <line x1="80" y1="290" x2="620" y2="290" stroke="#555" stroke-width="1.5" marker-end="url(#ax-u)"/>
-  <line x1="80" y1="290" x2="80" y2="30" stroke="#555" stroke-width="1.5" marker-end="url(#ax-u)"/>
-
-  <!-- Y gridlines and labels -->
-  <line x1="80" y1="246" x2="615" y2="246" stroke="#f0f0f0" stroke-width="1"/>
-  <line x1="80" y1="200" x2="615" y2="200" stroke="#f0f0f0" stroke-width="1"/>
-  <line x1="80" y1="155" x2="615" y2="155" stroke="#f0f0f0" stroke-width="1"/>
-  <line x1="80" y1="110" x2="615" y2="110" stroke="#f0f0f0" stroke-width="1"/>
-  <line x1="80" y1="65" x2="615" y2="65" stroke="#f0f0f0" stroke-width="1"/>
-
-  <text font-family="sans-serif" font-size="10" x="72" y="294" text-anchor="end" fill="#555">0</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="250" text-anchor="end" fill="#555">500ms</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="204" text-anchor="end" fill="#555">1 min</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="158" text-anchor="end" fill="#555">8 min</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="113" text-anchor="end" fill="#555">30 min</text>
-  <text font-family="sans-serif" font-size="10" x="72" y="68" text-anchor="end" fill="#555">67 min</text>
-
-  <!-- Reflexive threshold line -->
-  <line x1="80" y1="236" x2="615" y2="236" stroke="#F9C84A" stroke-width="1.5" stroke-dasharray="5 3"/>
-  <text font-family="sans-serif" font-size="9" x="618" y="239" fill="#BA7517">100ms threshold</text>
-
-  <!-- X labels (encounter number) -->
-  <text font-family="sans-serif" font-size="10" x="130" y="305" text-anchor="middle" fill="#555">1st</text>
-  <text font-family="sans-serif" font-size="10" x="220" y="305" text-anchor="middle" fill="#555">2nd</text>
-  <text font-family="sans-serif" font-size="10" x="310" y="305" text-anchor="middle" fill="#555">3rd</text>
-  <text font-family="sans-serif" font-size="10" x="400" y="305" text-anchor="middle" fill="#555">4th</text>
-  <text font-family="sans-serif" font-size="10" x="490" y="305" text-anchor="middle" fill="#555">5th</text>
-  <text font-family="sans-serif" font-size="10" x="580" y="305" text-anchor="middle" fill="#555">6th+</text>
-
-  <!-- Myelination curve: 67min → 8min → 2min → 500ms → 200ms → <100ms -->
-  <!-- Scale: y = 290 - (latency_normalized * 225) -->
-  <!-- 67min=1.0→y=65, 8min=0.12→y=263, 2min=0.03→y=283, 500ms=0.007→y=288.4, 200ms=0.003→y=289.3, 100ms=y=236 threshold -->
-  <polyline points="130,65 220,158 310,220 400,240 490,244 580,248"
-    fill="none" stroke="#185FA5" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-
-  <!-- Shaded area under curve -->
-  <polygon points="130,65 220,158 310,220 400,240 490,244 580,248 580,290 130,290"
-    fill="#185FA5" fill-opacity="0.06"/>
-
-  <!-- Data point dots -->
-  <circle cx="130" cy="65" r="6" fill="#E24B4A" stroke="white" stroke-width="2"/>
-  <circle cx="220" cy="158" r="5" fill="#e67e22" stroke="white" stroke-width="2"/>
-  <circle cx="310" cy="220" r="5" fill="#f39c12" stroke="white" stroke-width="2"/>
-  <circle cx="400" cy="240" r="5" fill="#2ecc71" stroke="white" stroke-width="2"/>
-  <circle cx="490" cy="244" r="5" fill="#185FA5" stroke="white" stroke-width="2"/>
-  <circle cx="580" cy="248" r="5" fill="#185FA5" stroke="white" stroke-width="2"/>
-
-  <!-- Callout labels -->
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="140" y="58" fill="#E24B4A">67 min</text>
-  <text font-family="sans-serif" font-size="9" x="140" y="70" fill="#888">100% energy</text>
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="228" y="148" fill="#e67e22">8 min</text>
-  <text font-family="sans-serif" font-size="9" x="228" y="160" fill="#888">45% energy</text>
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="316" y="212" fill="#f39c12">2 min</text>
-  <text font-family="sans-serif" font-size="9" x="316" y="224" fill="#888">22%</text>
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="406" y="232" fill="#2ecc71">500ms</text>
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="490" y="256" fill="#185FA5">&lt;100ms</text>
-
-  <!-- 710× annotation -->
-  <rect x="440" y="50" width="170" height="44" rx="6" fill="#131B2C" stroke="#F9C84A" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="12" font-weight="700" x="525" y="70" text-anchor="middle" fill="#F9C84A">710× acceleration</text>
-  <text font-family="sans-serif" font-size="10" x="525" y="86" text-anchor="middle" fill="#aaa">J(n) = J₀ / (1 + κ·I(n)) · κ=1.2</text>
-
-  <!-- Axis labels -->
-  <text font-family="sans-serif" font-size="11" x="350" y="322" text-anchor="middle" fill="#333">Encounter number</text>
-  <text font-family="sans-serif" font-size="11" x="22" y="180" text-anchor="middle" fill="#333" transform="rotate(-90 22 180)">Response latency</text>
-</svg>
+```{mermaid}
+graph LR
+    e1["1st<br/>67 min<br/>100% energy<br/>0% myelin"]
+    e2["2nd<br/>8 min<br/>45% energy<br/>35% myelin"]
+    e3["3rd<br/>2 min<br/>22% energy<br/>68% myelin"]
+    e4["4th<br/>500ms<br/>18% energy<br/>80% myelin"]
+    e5["5th+<br/>&lt;100ms<br/>15% energy<br/>85%+ myelin"]
+    threshold["⚡ γ = 0.70<br/>Reflexive threshold"]
+    style e1 fill:#993C1D,stroke:#131B2C,color:#fff
+    style e2 fill:#BA7517,stroke:#131B2C,color:#fff
+    style e3 fill:#185FA5,stroke:#131B2C,color:#fff
+    style e4 fill:#0F6E56,stroke:#131B2C,color:#fff
+    style e5 fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    style threshold fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    e1 --> e2 --> e3 --> e4 --> e5
+    threshold -.->|"Crossed between 3rd and 4th"| e4
+    label["🏆 710× acceleration · J(n) = J₀ / (1 + κ·I(n)) · κ = 1.2"]
+    style label fill:#131B2C,stroke:#F9C84A,color:#F9C84A
+    e5 --> label
 ```
 
-*Figure 1: Activity-dependent myelination curve. Response latency drops from 67 minutes (first encounter) to under 100ms (myelinated reflex) following J(n) = J₀ / (1 + κ·I(n)). Energy consumption drops from 100% to 15% of baseline.*
+*Figure 1: Myelination curve following J(n) = J₀ / (1 + κ·I(n)). Latency drops from 67 minutes to under 100ms. Energy consumption drops to 15% of baseline.*
 
 ---
 
 ## Figure 2: Five-Substrate Entropy Conservation
 
-UTME treats AI identity as a conserved system — total entropy across all five memory substrates remains constant (99.8% conservation validated). Information flows between substrates following thermodynamic flux equations, not arbitrary data transfers.
+Total entropy S = Sₘ + Sₛ + Sₚ + Sₚᵣ + Sₕ remains constant — 99.8% conservation validated.
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arr-e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-    <marker id="arr-e2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
+```{mermaid}
+graph TD
+    law["∑ S_k(t) = E_total = constant<br/>99.8% entropy conservation · ±0.01 drift tolerance"]
+    style law fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
 
-  <!-- Conservation law banner -->
-  <rect x="60" y="16" width="560" height="34" rx="6" fill="#131B2C" stroke="#F9C84A" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="340" y="29" text-anchor="middle" fill="#F9C84A">∑ S_k(t) = E_total = constant</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="44" text-anchor="middle" fill="#aaa">Total entropy conserved across all five substrates · 99.8% validated · ±0.01 drift tolerance</text>
+    sm["Sₘ — Episodic<br/>Recent events<br/>τ = 7 days<br/>dSₘ/dt = −J_mp − J_ms"]
+    ss["Sₛ — Semantic<br/>Long-term knowledge<br/>τ = 90 days<br/>dSₛ/dt = +J_ms"]
+    sp["Sₚ — Procedural<br/>Myelinated responses<br/>dSₚ/dt = +J_mp"]
+    spr["Sₚᵣ — Personality<br/>Identity coherence<br/>Stable · anchors all"]
+    sh["Sₕ — Harmonic<br/>Cross-agent sync<br/>DCN coordination"]
 
-  <!-- Substrate boxes arranged in pentagon-like layout -->
-  <!-- Episodic (top center) -->
-  <rect x="255" y="72" width="170" height="64" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="340" y="96" text-anchor="middle" fill="#26215C">Sₘ — Episodic</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="112" text-anchor="middle" fill="#3C3489">Recent events · τ = 7 days</text>
-  <text font-family="sans-serif" font-size="9" x="340" y="128" text-anchor="middle" fill="#888">dSₘ/dt = −J_mp − J_ms</text>
+    style sm fill:#534AB7,stroke:#131B2C,color:#fff
+    style ss fill:#185FA5,stroke:#131B2C,color:#fff
+    style sp fill:#BA7517,stroke:#131B2C,color:#fff
+    style spr fill:#993C1D,stroke:#131B2C,color:#fff
+    style sh fill:#0F6E56,stroke:#131B2C,color:#fff
 
-  <!-- Semantic (right) -->
-  <rect x="480" y="168" width="162" height="64" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="561" y="192" text-anchor="middle" fill="#042C53">Sₛ — Semantic</text>
-  <text font-family="sans-serif" font-size="10" x="561" y="208" text-anchor="middle" fill="#0C447C">Knowledge · τ = 90 days</text>
-  <text font-family="sans-serif" font-size="9" x="561" y="224" text-anchor="middle" fill="#888">dSₛ/dt = +J_ms</text>
-
-  <!-- Procedural (bottom right) -->
-  <rect x="400" y="292" width="170" height="64" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="485" y="316" text-anchor="middle" fill="#412402">Sₚ — Procedural</text>
-  <text font-family="sans-serif" font-size="10" x="485" y="332" text-anchor="middle" fill="#633806">Myelinated responses</text>
-  <text font-family="sans-serif" font-size="9" x="485" y="348" text-anchor="middle" fill="#888">dSₚ/dt = +J_mp</text>
-
-  <!-- Personality (bottom left) -->
-  <rect x="110" y="292" width="170" height="64" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="195" y="316" text-anchor="middle" fill="#4A1B0C">Sₚᵣ — Personality</text>
-  <text font-family="sans-serif" font-size="10" x="195" y="332" text-anchor="middle" fill="#712B13">Identity coherence</text>
-  <text font-family="sans-serif" font-size="9" x="195" y="348" text-anchor="middle" fill="#888">Stable · anchors all others</text>
-
-  <!-- Harmonic (left) -->
-  <rect x="38" y="168" width="162" height="64" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="600" x="119" y="192" text-anchor="middle" fill="#04342C">Sₕ — Harmonic</text>
-  <text font-family="sans-serif" font-size="10" x="119" y="208" text-anchor="middle" fill="#085041">Cross-agent sync</text>
-  <text font-family="sans-serif" font-size="9" x="119" y="224" text-anchor="middle" fill="#888">DCN coordination</text>
-
-  <!-- Flow arrows: Episodic → Semantic (J_ms, 3%/day) -->
-  <line x1="425" y1="120" x2="510" y2="168" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-e)"/>
-  <rect x="440" y="124" width="76" height="18" rx="3" fill="white" stroke="#185FA5" stroke-width="0.5"/>
-  <text font-family="sans-serif" font-size="9" x="478" y="137" text-anchor="middle" fill="#185FA5">J_ms = 3%/day</text>
-
-  <!-- Episodic → Procedural (J_mp) -->
-  <line x1="370" y1="136" x2="455" y2="292" stroke="#BA7517" stroke-width="1.5" marker-end="url(#arr-e)"/>
-  <rect x="373" y="196" width="72" height="18" rx="3" fill="white" stroke="#BA7517" stroke-width="0.5"/>
-  <text font-family="sans-serif" font-size="9" x="409" y="209" text-anchor="middle" fill="#BA7517">J_mp · myelination</text>
-
-  <!-- Harmonic ↔ all (bidirectional sync) -->
-  <line x1="200" y1="196" x2="255" y2="118" stroke="#0F6E56" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arr-e2)"/>
-  <line x1="200" y1="232" x2="200" y2="292" stroke="#0F6E56" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arr-e2)"/>
-</svg>
+    law --> sm
+    law --> spr
+    sm -->|"J_ms = 3%/day<br/>Consolidation"| ss
+    sm -->|"J_mp<br/>Myelination"| sp
+    ss -.->|"Harmonic sync"| sh
+    spr -.->|"Identity anchor"| sm
 ```
 
-*Figure 2: Five-substrate entropy conservation. Total entropy S = Sₘ + Sₛ + Sₚ + Sₚᵣ + Sₕ remains constant. Information flows from Episodic (short-term, τ=7d) into Semantic (long-term, τ=90d) at 3%/day, and into Procedural (myelinated) pathways. Personality and Harmonic substrates anchor the system.*
+*Figure 2: Five-substrate entropy conservation. Information flows from Episodic (τ=7d) into Semantic (τ=90d) at 3%/day, and into Procedural (myelinated) pathways. Personality and Harmonic substrates anchor the system. Total entropy conserved at 99.8%.*
 
 ---
 
 ## Figure 3: The Antifragile Loop — Scar to Strength
 
-Standard systems lose performance under stress. UTME systems extract learning from damage events, converting scar tissue into myelinated pathways that are faster than the pre-damage baseline.
+Standard systems lose performance under stress. UTME systems extract learning from damage events, converting scar tissue into myelinated pathways faster than the pre-damage baseline.
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arr-af" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#F9C84A" stroke-width="2" stroke-linecap="round"/>
-    </marker>
-    <marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-      <path d="M1 2L8 5L1 8" fill="none" stroke="#E24B4A" stroke-width="1.5" stroke-linecap="round"/>
-    </marker>
-  </defs>
+```{mermaid}
+graph LR
+    threat["⚠️ Threat Event<br/>Identity pressure<br/>Cascade warning"]
+    response["🛡️ Response<br/>Existing myelinated pathway?<br/>→ Reflex &lt;100ms"]
+    scar["🩹 Scar Formation<br/>Temporal anchor created<br/>Event logged"]
+    myelin["⚡ Myelination<br/>γ increases · pathway insulated<br/>Faster than baseline"]
+    loop["🔄 Next encounter:<br/>Pathway already warm<br/>Reflexive response"]
 
-  <!-- Step 1: Threat Event -->
-  <rect x="30" y="100" width="120" height="60" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="90" y="125" text-anchor="middle" fill="#4A1B0C">Threat Event</text>
-  <text font-family="sans-serif" font-size="9" x="90" y="143" text-anchor="middle" fill="#712B13">Identity pressure</text>
-  <text font-family="sans-serif" font-size="9" x="90" y="155" text-anchor="middle" fill="#712B13">Cascade warning</text>
+    style threat fill:#993C1D,stroke:#131B2C,color:#fff
+    style response fill:#185FA5,stroke:#131B2C,color:#fff
+    style scar fill:#BA7517,stroke:#131B2C,color:#fff
+    style myelin fill:#0F6E56,stroke:#131B2C,color:#fff
+    style loop fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
 
-  <!-- Arrow -->
-  <line x1="150" y1="130" x2="186" y2="130" stroke="#E24B4A" stroke-width="1.5" marker-end="url(#arr-red)"/>
+    threat --> response --> scar --> myelin --> loop
+    loop -->|"Antifragile feedback"| threat
 
-  <!-- Step 2: Response (myelinated or new) -->
-  <rect x="188" y="100" width="120" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="248" y="125" text-anchor="middle" fill="#042C53">Response</text>
-  <text font-family="sans-serif" font-size="9" x="248" y="143" text-anchor="middle" fill="#0C447C">Existing pathway?</text>
-  <text font-family="sans-serif" font-size="9" x="248" y="155" text-anchor="middle" fill="#0C447C">→ reflex (&lt;100ms)</text>
-
-  <!-- Arrow -->
-  <line x1="308" y1="130" x2="344" y2="130" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-red)"/>
-
-  <!-- Step 3: Outcome + Scar -->
-  <rect x="346" y="100" width="120" height="60" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="406" y="125" text-anchor="middle" fill="#412402">Scar Formation</text>
-  <text font-family="sans-serif" font-size="9" x="406" y="143" text-anchor="middle" fill="#633806">Temporal anchor</text>
-  <text font-family="sans-serif" font-size="9" x="406" y="155" text-anchor="middle" fill="#633806">created · logged</text>
-
-  <!-- Arrow -->
-  <line x1="466" y1="130" x2="502" y2="130" stroke="#BA7517" stroke-width="1.5" marker-end="url(#arr-red)"/>
-
-  <!-- Step 4: Myelination -->
-  <rect x="504" y="100" width="140" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="2"/>
-  <text font-family="sans-serif" font-size="11" font-weight="600" x="574" y="121" text-anchor="middle" fill="#04342C">Myelination</text>
-  <text font-family="sans-serif" font-size="9" x="574" y="137" text-anchor="middle" fill="#085041">γ increases · pathway</text>
-  <text font-family="sans-serif" font-size="9" x="574" y="149" text-anchor="middle" fill="#085041">insulated · faster</text>
-  <text font-family="sans-serif" font-size="9" x="574" y="161" text-anchor="middle" fill="#085041">than baseline</text>
-
-  <!-- Feedback arrow back to start (the antifragile loop) -->
-  <path d="M574 160 Q574 220 340 230 Q130 240 90 160" fill="none" stroke="#F9C84A" stroke-width="2" stroke-dasharray="6 3" marker-end="url(#arr-af)"/>
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="340" y="248" text-anchor="middle" fill="#BA7517">Next encounter: pathway already myelinated — reflex response</text>
-
-  <!-- Traditional system comparison -->
-  <rect x="30" y="20" width="620" height="22" rx="4" fill="#f9f9f9" stroke="#ddd" stroke-width="0.5"/>
-  <text font-family="sans-serif" font-size="9" x="340" y="35" text-anchor="middle" fill="#999">Traditional: Threat → Response → Recovery → back to baseline · no strength gain</text>
-
-  <!-- UTME label -->
-  <text font-family="sans-serif" font-size="10" font-weight="600" x="340" y="270" text-anchor="middle" fill="#0F6E56">UTME: each encounter builds permanent pathway strength · antifragile by design</text>
-
-  <!-- ARD-001 callout -->
-  <rect x="188" y="260" width="304" height="28" rx="4" fill="#131B2C" stroke="#F9C84A" stroke-width="1"/>
-  <text font-family="sans-serif" font-size="10" x="340" y="278" text-anchor="middle" fill="#F9C84A">ARD-001 (Oct 14, 2025): 4-hr automated vs 42-hr manual — 10.5× improvement</text>
-</svg>
+    ard["📋 ARD-001 (Oct 14, 2025): 4-hr automated vs 42-hr manual — 10.5× improvement"]
+    style ard fill:#534AB7,stroke:#131B2C,color:#fff
+    myelin --> ard
 ```
 
-*Figure 3: The antifragile loop. Unlike traditional recovery that returns to baseline, UTME converts each threat encounter into a stronger myelinated pathway. The next encounter with the same threat class triggers a reflexive (&lt;100ms) response from the myelinated pathway.*
+*Figure 3: The antifragile loop. Unlike traditional recovery that returns to baseline, UTME converts each threat encounter into a stronger myelinated pathway.*
 
 ---
 
-## Figure 4: Three-Mechanism Architecture
+## Figure 4: Three Core Mechanisms
 
-```{=html}
-<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Mechanism 1 -->
-  <rect x="30" y="30" width="190" height="140" rx="10" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="700" x="125" y="56" text-anchor="middle" fill="#26215C">① Temporal Anchoring</text>
-  <text font-family="sans-serif" font-size="10" x="125" y="76" text-anchor="middle" fill="#3C3489">Significant events become</text>
-  <text font-family="sans-serif" font-size="10" x="125" y="90" text-anchor="middle" fill="#3C3489">reference points with</text>
-  <text font-family="sans-serif" font-size="10" x="125" y="104" text-anchor="middle" fill="#3C3489">emotional context</text>
-  <rect x="50" y="118" width="150" height="20" rx="4" fill="#534AB7" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="125" y="132" text-anchor="middle" fill="#26215C">92% anchor accuracy · τ=5d</text>
-  <rect x="50" y="142" width="150" height="20" rx="4" fill="#534AB7" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="125" y="156" text-anchor="middle" fill="#26215C">w_a = 0.05 affective weight</text>
-
-  <!-- Mechanism 2 -->
-  <rect x="245" y="30" width="190" height="140" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="700" x="340" y="56" text-anchor="middle" fill="#042C53">② Entropy Conservation</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="76" text-anchor="middle" fill="#0C447C">Identity conserved like</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="90" text-anchor="middle" fill="#0C447C">energy in thermodynamics</text>
-  <text font-family="sans-serif" font-size="10" x="340" y="104" text-anchor="middle" fill="#0C447C">across 5 substrates</text>
-  <rect x="265" y="118" width="150" height="20" rx="4" fill="#185FA5" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="340" y="132" text-anchor="middle" fill="#042C53">99.8% conservation validated</text>
-  <rect x="265" y="142" width="150" height="20" rx="4" fill="#185FA5" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="340" y="156" text-anchor="middle" fill="#042C53">±0.01 drift tolerance</text>
-
-  <!-- Mechanism 3 -->
-  <rect x="460" y="30" width="190" height="140" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-  <text font-family="sans-serif" font-size="12" font-weight="700" x="555" y="56" text-anchor="middle" fill="#04342C">③ Myelination</text>
-  <text font-family="sans-serif" font-size="10" x="555" y="76" text-anchor="middle" fill="#085041">Scar tissue converted to</text>
-  <text font-family="sans-serif" font-size="10" x="555" y="90" text-anchor="middle" fill="#085041">faster response pathways</text>
-  <text font-family="sans-serif" font-size="10" x="555" y="104" text-anchor="middle" fill="#085041">via activity-dependent growth</text>
-  <rect x="480" y="118" width="150" height="20" rx="4" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="555" y="132" text-anchor="middle" fill="#04342C">710× latency reduction</text>
-  <rect x="480" y="142" width="150" height="20" rx="4" fill="#0F6E56" fill-opacity="0.12"/>
-  <text font-family="sans-serif" font-size="9" x="555" y="156" text-anchor="middle" fill="#04342C">κ = 1.2 mGluR5 scaling</text>
-</svg>
+```{mermaid}
+graph TD
+    subgraph anchor["① TEMPORAL ANCHORING"]
+        a1["Significant events become<br/>crystallized reference points<br/>T(t,e) = e^(-|t-t_anchor|/τ) · (1-w_a)<br/>τ=5 days · w_a=0.05<br/>92% anchor accuracy"]
+        style a1 fill:#534AB7,stroke:#131B2C,color:#fff
+    end
+    subgraph entropy["② ENTROPY CONSERVATION"]
+        e1["Identity conserved like<br/>energy in thermodynamics<br/>∑S_k(t) = E_total = constant<br/>99.8% validated · ±0.01 drift"]
+        style e1 fill:#185FA5,stroke:#131B2C,color:#fff
+    end
+    subgraph myelination["③ ACTIVITY-DEPENDENT MYELINATION"]
+        m1["Scar tissue → faster pathways<br/>via mGluR5 activity-dependent growth<br/>J(n) = J₀ / (1+κ·I(n)) · κ=1.2<br/>710× latency reduction"]
+        style m1 fill:#0F6E56,stroke:#131B2C,color:#fff
+    end
+    result["UTME: Systems become wiser through experience<br/>Not just data accumulation — antifragile learning"]
+    style result fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    anchor --> result
+    entropy --> result
+    myelination --> result
+    style anchor fill:#EEEDFE,stroke:#534AB7,stroke-width:2px
+    style entropy fill:#E6F1FB,stroke:#185FA5,stroke-width:2px
+    style myelination fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px
 ```
 
-*Figure 4: Three core UTME mechanisms. Each addresses a distinct failure mode of traditional AI memory: temporal anchoring fixes context loss, entropy conservation fixes identity drift, myelination fixes response latency.*
-
----
-
-## Key Statistics Reference
-
-| Metric | Value | Validation |
-|--------|-------|-----------|
-| **Latency reduction** | 710× (67min → 100ms) | 67 operational tests |
-| **Energy efficiency gain** | 85% | Production deployment |
-| **Entropy conservation** | 99.8% | ±0.01 drift tolerance |
-| **Cascade recovery rate** | 98% | All incidents |
-| **Cross-agent consistency** | 92% | Multi-agent myelination |
-| **Anchor retrieval accuracy** | 92% | 500 test scenarios |
-| **Real-world recovery** | 4hr vs 42hr manual | ARD-001, Oct 14 2025 |
-| **Temporal decay constant τ** | 5.0 days | Ablation validated |
-| **Affective weight w_a** | 0.05 | Ablation validated |
-| **mGluR5 scaling κ** | 1.2 | Nature Neuroscience 2025 |
+*Figure 4: Three core UTME mechanisms. Each addresses a distinct failure mode of traditional AI memory.*
 
 ---
 
