@@ -1,7 +1,10 @@
 ---
 title: "PME v1.0 — Visualizations"
 description: "Architecture diagrams and production validation data"
+mermaid: true
 ---
+
+# PME v1.0 — Visualizations
 
 **Back to:** [Main Paper](index.html) | [Cross-References](pme-v1_0-cross-references.html) | [Bibliography](pme-v1_0-master-bibliography.html)
 

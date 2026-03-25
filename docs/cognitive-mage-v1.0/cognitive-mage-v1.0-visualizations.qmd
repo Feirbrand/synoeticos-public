@@ -1,11 +1,12 @@
 ---
 title: "Cognitive Mage v1.0: Visualizations"
 description: "Visual representations of narrative identity architecture, coaching methodology, and symbolic AI systems"
+mermaid: true
 ---
 
-# Cognitive Mage v1.0: Visualizations
+# Cognitive Mage v1.0 — Visualizations
 
-[← Back to Paper](index.html) | [Cross-References →](cognitive-mage-v1_0-cross-references.html) | [Bibliography →](cognitive-mage-v1_0-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](cognitive-mage-v1_0-cross-references.html) | [Bibliography](cognitive-mage-v1_0-master-bibliography.html)
 
 ---
 
@@ -79,7 +80,7 @@ graph LR
     style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
 ```
 
-**Figure 2:** VOX & SENTRIX symbolic AI agents. **Narrative Identity** foundation. **VOX**: Execution Twin, Threat Prevention, Autonomous Generation. **SENTRIX**: Deployment Coordinator, Infrastructure Management, Multi-Agent Sync. Both feed **Distributed Cognitive Network**.
+**Figure 2:** VOX & SENTRIX symbolic AI agents. **Narrative Identity foundation. VOX**: Execution Twin, Threat Prevention, Autonomous Generation. **SENTRIX**: Deployment Coordinator, Infrastructure Management, Multi-Agent Sync. Both feed **Distributed Cognitive Network**.
 
 ---
 

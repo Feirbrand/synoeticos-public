@@ -1,7 +1,10 @@
 ---
 title: "UTME v1.0 — Visualizations"
 description: "Myelination curves, entropy conservation, and antifragile learning diagrams"
+mermaid: true
 ---
+
+# UTME v1.0 — Visualizations
 
 **Back to:** [Main Paper](index.html) | [Cross-References](utme-v1_0-cross-references.html) | [Bibliography](utme-v1_0-master-bibliography.html)
 
