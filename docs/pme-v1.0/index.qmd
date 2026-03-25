@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.18318485"
 
 ---
 
-# PME v1.0: Predictive Myelination Engine
+
 ## Bio-Inspired Anticipatory Pathway Reinforcement for AI Systems
 
 **Author:** Aaron M. Slusher  

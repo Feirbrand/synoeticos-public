@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.17379750"
 
 ---
 
-# Torque v2.0 - Quantitative Foundation for AI Resilience
+
 ## Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure
 
 **Author:** Aaron M. Slusher  

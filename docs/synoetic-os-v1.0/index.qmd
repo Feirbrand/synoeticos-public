@@ -12,7 +12,7 @@ format:
 bibliography: ../assets/references.bib
 ---
 
-# Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence
+
 ## Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive
 
 **Author:** Aaron M. Slusher  

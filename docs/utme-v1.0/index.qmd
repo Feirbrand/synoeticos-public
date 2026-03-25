@@ -7,7 +7,7 @@ doi: "10.5281/zenodo.17497149"
 
 ---
 
-# UTME v1.0: Unified Temporal Memory Equilibrium
+
 ## An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination
 
 **Author:** Aaron M. Slusher  
