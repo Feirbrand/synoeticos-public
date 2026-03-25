@@ -3,13 +3,8 @@ layout: paper
 title: "Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems"
 description: "Cross-substrate resilience architecture validated across 28+ years human performance coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523."
 doi: "10.5281/zenodo.19197791"
-zenodo: "https://zenodo.org/records/19197791"
 author: Aaron M. Slusher
-orcid: 0009-0000-9923-3207
-version: 1.0
-priority_date: 2026-03-14
-release_date: 2026-03-23
-license: CC-BY-NC-4.0
+date: 2026-03-23
 ---
 
 # Neuroformation™: A Methodology for Building Resilience in Adaptive Systems
