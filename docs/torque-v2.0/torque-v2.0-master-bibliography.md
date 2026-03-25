@@ -74,7 +74,7 @@ description: "Complete citations and references for Torque v2.0 real-time AI sta
   volume={1},
   pages={1--35},
   year={2025},
-  doi={TBD}
+  doi={10.5281/zenodo.17379750}
 }
 ```
 

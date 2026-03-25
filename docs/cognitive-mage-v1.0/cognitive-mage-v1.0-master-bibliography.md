@@ -137,7 +137,7 @@ Hofstadter, D. R. (1979). *Gödel, Escher, Bach: An eternal golden braid*. Basic
 
 ### Related Synoetic OS Frameworks
 
-Slusher, A. M. (2025a). Synoetic OS v1.0: Substrate-independent orchestration of AI agents through narrative coherence. *ValorGrid Solutions Technical Reports*, 1, 1-120. https://zenodo.org/records/17770533
+Slusher, A. M. (2025a). Synoetic OS v1.0: Substrate-independent orchestration of AI agents through narrative coherence. *ValorGrid Solutions Technical Reports*, 1, 1-120. https://zenodo.org/records/17808864
 
 Slusher, A. M. (2025b). Mythopoeic Intelligence Agents v1.0: Narrative identity architecture for autonomous cognitive systems. *ValorGrid Solutions Technical Reports*, 1, 1-75. https://zenodo.org/records/17770533
 
@@ -145,7 +145,7 @@ Slusher, A. M. (2025c). Unified Temporal Memory Equilibrium v1.0: Five-substrate
 
 Slusher, A. M. (2025d). Predictive Myelination Engine v1.0: Five-stage cognitive acceleration framework. *ValorGrid Solutions Technical Reports*, 1, 1-42. https://zenodo.org/records/18318485
 
-Slusher, A. M. (2025e). Torque v2.0: Measuring AI system stability in real-time. *ValorGrid Solutions Technical Reports*, 1, 1-35. https://zenodo.org/records/17309322
+Slusher, A. M. (2025e). Torque v2.0: Measuring AI system stability in real-time. *ValorGrid Solutions Technical Reports*, 1, 1-35. https://zenodo.org/records/17379750
 
 Slusher, A. M. (2025f). Fractal Context Engineering v3.6: Universal framework for all AI systems. *ValorGrid Solutions Technical Reports*, 1, 1-50. https://zenodo.org/records/17309322
 

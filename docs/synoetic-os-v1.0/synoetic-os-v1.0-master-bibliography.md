@@ -119,11 +119,11 @@ Slusher, A. M. (2025c). Unified Temporal Memory Equilibrium v1.0: Five-substrate
 
 Slusher, A. M. (2025d). Predictive Myelination Engine v1.0: Five-stage cognitive acceleration framework. *ValorGrid Solutions Technical Reports*, 1, 1-42. https://zenodo.org/records/18318485
 
-Slusher, A. M. (2025e). Torque v2.0: Measuring AI system stability in real-time. *ValorGrid Solutions Technical Reports*, 1, 1-35. https://zenodo.org/records/17309322
+Slusher, A. M. (2025e). Torque v2.0: Measuring AI system stability in real-time. *ValorGrid Solutions Technical Reports*, 1, 1-35. https://zenodo.org/records/17379750
 
 Slusher, A. M. (2025f). Fractal Context Engineering v3.6: Universal framework for all AI systems. *ValorGrid Solutions Technical Reports*, 1, 1-50. https://zenodo.org/records/17309322
 
-Slusher, A. M. (2025g). Elevation Grid v1.0: Three-dimensional performance visualization framework. *ValorGrid Solutions Technical Reports*, 1, 1-45. https://zenodo.org/records/17309322
+Slusher, A. M. (2025g). Elevation Grid v1.0: Three-dimensional performance visualization framework. *ValorGrid Solutions Technical Reports*, 1, 1-45. https://zenodo.org/records/18790842
 
 ---
 
