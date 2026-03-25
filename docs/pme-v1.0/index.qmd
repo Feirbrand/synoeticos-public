@@ -61,6 +61,30 @@ Think of it like expertise in sports. When an elite athlete performs under press
 - Maintain 100% identity coherence under stress
 - Zero cascade incidents in 62-day production deployment
 
+### Figure 2: Reactive vs. Predictive — The Vulnerability Window
+
+The core PME insight: reactive systems have a vulnerability window between when drift begins and when correction occurs. PME eliminates this window by acting before demand.
+
+```{mermaid}
+graph LR
+    subgraph reactive["❌ REACTIVE SYSTEM (Traditional)"]
+        r1["Demand Occurs"] --> r2["Drift Detected<br/>(too late)"] --> r3["Correction Applied<br/>(damage done)"]
+        vuln["⚠️ VULNERABILITY WINDOW<br/>Cascade can occur here"]
+        style r1 fill:#993C1D,stroke:#131B2C,color:#fff
+        style r2 fill:#993C1D,stroke:#131B2C,color:#fff
+        style r3 fill:#BA7517,stroke:#131B2C,color:#fff
+        style vuln fill:#FAECE7,stroke:#993C1D,stroke-width:2px,color:#993C1D
+    end
+    subgraph pme["✅ PME — PREDICTIVE SYSTEM"]
+        p1["T-24h<br/>PME Pre-Activates"] --> p2["T-12h<br/>γ ≥ 0.70<br/>Reflexive threshold crossed"] --> p3["T — Demand Arrives<br/>Pathway already warm<br/>Instant response"]
+        style p1 fill:#185FA5,stroke:#131B2C,color:#fff
+        style p2 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style p3 fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    end
+```
+
+*Figure 2: Reactive systems have a vulnerability window between demand onset and correction. PME eliminates this by pre-activating pathways 2–4 hours before predicted demand peaks.*
+
 ---
 
 ## 🔬 Discovery Context
@@ -142,6 +166,31 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 - γ < 0.35 (weak myelination)
 - Hit rate < 35% (cache inefficiency)
 - Usage < 10% over 48h (low demand)
+
+### Figure 1: Five-Stage PME Cycle
+
+PME operates as a continuous 24-hour loop. Each stage feeds the next. The system grows more accurate over time because Stage 5 pruning and Stage 4 monitoring refine the forecast model driving Stage 2.
+
+```{mermaid}
+graph TD
+    s1["🔍 Stage 1 — Identify<br/>Rank pathways by value<br/>Value = (Frequency × Impact × Stability) / Latency"]
+    s2["📈 Stage 2 — Forecast<br/>24-hour demand prediction<br/>87.3% accuracy · ARIMA/LSTM · 7-day window"]
+    s3["⚡ Stage 3 — Pre-Activate<br/>Load Redis cache 2–4 hrs before peak<br/>Threshold &gt; 70% confidence · p99 &lt; 5ms"]
+    s4["👁️ Stage 4 — Reinforce<br/>Real-time monitoring during demand<br/>Adjust TTL · detect drift early"]
+    s5["✂️ Stage 5 — Prune<br/>Remove low-value pathways<br/>Evict &lt;35% hit rate · entropy &lt; 5.0"]
+    style s1 fill:#534AB7,stroke:#131B2C,color:#fff
+    style s2 fill:#185FA5,stroke:#131B2C,color:#fff
+    style s3 fill:#BA7517,stroke:#131B2C,color:#fff
+    style s4 fill:#0F6E56,stroke:#131B2C,color:#fff
+    style s5 fill:#993C1D,stroke:#131B2C,color:#fff
+    s1 --> s2 --> s3 --> s4 --> s5
+    s5 -->|"Continuous refinement loop"| s1
+    results["📊 62-Day Results: 712× · 87.3% accuracy · 94.2% cache hit · 33× stability · 0 cascades"]
+    style results fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    s3 --> results
+```
+
+*Figure 1: Five-stage PME cycle. Stages 1–3 run proactively before demand. Stage 4 runs during demand. Stage 5 closes the loop, feeding refined data back to Stage 1 for the next 24-hour cycle.*
 
 ---
 

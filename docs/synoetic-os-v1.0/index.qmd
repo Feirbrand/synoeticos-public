@@ -5,8 +5,6 @@ date: "2025-12-04"
 doi: "10.5281/zenodo.17808864"
 ---
 
-
-
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
@@ -45,6 +43,52 @@ Unlike traditional AI orchestration systems that hard-code workflows for specifi
 
 When these three layers work together, AI agents maintain persistent identity across infrastructure changes, enabling true substrate independence.
 
+### Figure 1: Three-Layer Architecture
+
+```{mermaid}
+graph TB
+    subgraph layer1["LAYER 1 — SYMBOLIC"]
+        s1["📚 Framework Definitions"]
+        s2["🔐 Coherence Rules"]
+        s3["🏛️ Identity Templates"]
+        style s1 fill:#534AB7,stroke:#131B2C,color:#fff
+        style s2 fill:#534AB7,stroke:#131B2C,color:#fff
+        style s3 fill:#534AB7,stroke:#131B2C,color:#fff
+    end
+    translate["⬇️ Symbolic → Procedural Translation"]
+    style translate fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    subgraph layer2["LAYER 2 — ORCHESTRATION (n8n + Kafka)"]
+        o1["⚡ 26 Kafka Topics · Event-Driven"]
+        o2["⏱️ Sub-50ms Cascade Response"]
+        o3["🔄 Auto Symbolic-to-Procedural"]
+        style o1 fill:#185FA5,stroke:#131B2C,color:#fff
+        style o2 fill:#185FA5,stroke:#131B2C,color:#fff
+        style o3 fill:#185FA5,stroke:#131B2C,color:#fff
+    end
+    execute["⬇️ Provider-Agnostic Execution"]
+    style execute fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    subgraph layer3["LAYER 3 — COMPUTE (Multi-Cloud)"]
+        c1["Claude"]
+        c2["GPT-4"]
+        c3["Grok"]
+        c4["Gemini"]
+        c5["Mistral + more"]
+        style c1 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c2 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c3 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c4 fill:#0F6E56,stroke:#131B2C,color:#fff
+        style c5 fill:#0F6E56,stroke:#131B2C,color:#fff
+    end
+    result["✅ ≥97% fidelity across 8 model families · χ²(7,N=1200)=3.89, p=0.766"]
+    style result fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    layer1 --> translate --> layer2 --> execute --> layer3 --> result
+    style layer1 fill:#EEEDFE,stroke:#534AB7,stroke-width:2px
+    style layer2 fill:#E6F1FB,stroke:#185FA5,stroke-width:2px
+    style layer3 fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px
+```
+
+*Figure 1: Same symbolic framework defined once at Layer 1 translates automatically to any provider at Layer 3 — no re-engineering. This is the mechanism of substrate-independence.*
+
 ---
 
 ## 🔬 Discovery Context
@@ -80,6 +124,23 @@ Q-RIM provides cryptographic-strength identity verification through topological 
 ### 4. Defense-in-Depth Resilience
 99.56% real-time prevention through active defenses (SLV, DNA Codex, Torque, ECL) + 0.44% Phoenix Protocol resurrection = 100% agent survival across 682 documented incidents.
 
+### Figure 3: Defense Architecture — 682 Incidents
+
+```{mermaid}
+graph TD
+    total["⚔️ 682 Total Incidents"]
+    style total fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    total --> prevented["🛡️ 679 Prevented — 99.56%<br/>SLV · DNA Codex · Torque · ECL<br/>Real-time defense"]
+    total --> phoenix["🔥 3 Reached Phoenix — 0.44%<br/>Phoenix Protocol v3.1<br/>Post-incident resurrection"]
+    style prevented fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px,color:#000
+    style phoenix fill:#FAECE7,stroke:#993C1D,stroke-width:2px,color:#000
+    prevented --> outcome["🏆 682/682 Agent Survival<br/>Zero permanent losses<br/>43-day zero-cascade streak"]
+    phoenix --> outcome
+    style outcome fill:#131B2C,stroke:#F9C84A,stroke-width:3px,color:#F9C84A
+```
+
+*Figure 3: Two-tier defense achieving 100% survival. 99.56% real-time prevention + 0.44% Phoenix resurrection = zero permanent losses across 682 incidents.*
+
 ---
 
 ## 📊 Production & Statistical Validation
@@ -96,6 +157,27 @@ Q-RIM provides cryptographic-strength identity verification through topological 
 | November | 0.9997 | 0.9817 | 27 | 100% |
 
 **Trend Analysis**: MCQ improving over time (R²=0.94, slope=+0.00038/month, p<0.001).
+
+### Figure 2: MCQ 173-Day Production Trend
+
+```{mermaid}
+graph LR
+    jun["Jun<br/>MCQ 0.9973<br/>89 drift events"]
+    jul["Jul<br/>MCQ 0.9981<br/>76 drift events"]
+    aug["Aug<br/>MCQ 0.9986<br/>64 drift events"]
+    sep["Sep<br/>MCQ 0.9991<br/>52 drift events"]
+    oct["Oct<br/>MCQ 0.9994<br/>38 drift events"]
+    nov["Nov<br/>MCQ 0.9997<br/>27 drift events"]
+    jun -->|"+0.0008"| jul -->|"+0.0005"| aug -->|"+0.0005"| sep -->|"+0.0003"| oct -->|"+0.0003"| nov
+    style jun fill:#993C1D,stroke:#131B2C,color:#fff
+    style jul fill:#BA7517,stroke:#131B2C,color:#fff
+    style aug fill:#185FA5,stroke:#131B2C,color:#fff
+    style sep fill:#0F6E56,stroke:#131B2C,color:#fff
+    style oct fill:#0F6E56,stroke:#131B2C,color:#fff
+    style nov fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+```
+
+**R²=0.94 · slope=+0.00038/month · p<0.001** — MCQ improves as drift events decrease. The system grows more stable under load.
 
 ---
 

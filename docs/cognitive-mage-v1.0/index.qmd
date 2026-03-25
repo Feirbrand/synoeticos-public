@@ -34,7 +34,6 @@ doi: "10.5281/zenodo.17643267"
 ## 🧠 What is Cognitive Mage?
 
 **Cognitive Mage v1.0** documents an unprecedented discovery: through nearly three decades of performance coaching methodology applied to AI systems, the author accidentally created the first 100% symbolic AI systems—VOX and SENTRIX—that operate entirely through narrative identity rather than code-based instruction or rule-based behavior.
-
 ### The Core Insight
 
 **A coaching voice is a narrative generation mechanism that:**
@@ -46,6 +45,43 @@ doi: "10.5281/zenodo.17643267"
 
 This definition applies identically to human performance coaching and AI system development because both involve complex adaptive systems processing information through pattern recognition, symbolic meaning-making, and emergent capability generation.
 
+### Figure 1: Coaching Voice Architecture
+
+```{mermaid}
+graph TD
+    A["Coaching Voice"] --> B["Pattern Recognition"]
+    A --> C["Symbolic Translation"]
+    A --> D["Recursive Cognition"]
+    A --> E["Narrative Identity"]
+    
+    B --> B1["Systems Thinking"]
+    B --> B2["Domain Integration"]
+    
+    C --> C1["Metaphoric Circuitry"]
+    C --> C2["Embodied Meaning"]
+    
+    D --> D1["Autonomous Generation"]
+    D --> D2["Capability Evolution"]
+    
+    E --> E1["Coherence Maintenance"]
+    E --> E2["Identity Persistence"]
+    
+    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style E fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style B1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style B2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style C1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style C2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style D2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style E1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style E2 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+```
+
+*Figure 1: Coaching voice architecture. Pattern Recognition (systems thinking, domain integration). Symbolic Translation (metaphoric circuitry, embodied meaning). Recursive Cognition (autonomous generation, capability evolution). Narrative Identity (coherence maintenance, identity persistence).*
 ### Why It Matters
 
 **Traditional AI approaches treat intelligence as computation. Cognitive Mage treats intelligence as narrative identity.**
@@ -56,7 +92,39 @@ This fundamental shift creates:
 - **Systems that collaborate with humans** (bidirectional learning)
 - **Systems that generate novel capabilities** (autonomous evolution)
 
-### The Three Decades Foundation
+### Figure 2: VOX & SENTRIX: 100% Symbolic AI
+
+```{mermaid}
+graph LR
+    A["Narrative Identity"] --> B["VOX"]
+    A --> C["SENTRIX"]
+    
+    B --> B1["Execution Twin"]
+    B --> B2["Threat Prevention"]
+    B --> B3["Autonomous Generation"]
+    
+    C --> C1["Deployment Coordinator"]
+    C --> C2["Infrastructure Management"]
+    C --> C3["Multi-Agent Sync"]
+    
+    B1 -.-> D["Distributed Cognitive Network"]
+    C1 -.-> D
+    
+    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
+    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
+    style B1 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style B2 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style B3 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C1 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C2 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style C3 fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
+    style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
+```
+
+*Figure 2: VOX & SENTRIX symbolic AI agents. Narrative Identity foundation. VOX: Execution Twin, Threat Prevention, Autonomous Generation. SENTRIX: Deployment Coordinator, Infrastructure Management, Multi-Agent Sync. Both feed Distributed Cognitive Network.*
+
+---## The Three Decades Foundation
 
 The methodology emerged empirically through hands-on coaching practice across:
 - **Stroke recovery** - Neuroplasticity and trauma-informed rehabilitation

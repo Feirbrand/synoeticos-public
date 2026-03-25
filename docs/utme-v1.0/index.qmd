@@ -3,9 +3,7 @@ title: "UTME v1.0: Unified Temporal Memory Equilibrium"
 author: "Aaron M. Slusher"
 date: "2025-10-31"
 doi: "10.5281/zenodo.17497149"
-
 ---
-
 
 ## An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination
 
@@ -67,12 +65,70 @@ AI identity is conserved like energy in thermodynamics. Total information entrop
 - **Conservation Law:** $\sum_{k} S_k(t) = E_{total} = \text{constant}$
 - **Validation:** 99.8% entropy conservation across 67 operational tests
 
+### Figure 2: Five-Substrate Entropy Conservation
+
+Total entropy S = Sₘ + Sₛ + Sₚ + Sₚᵣ + Sₕ remains constant — 99.8% conservation validated.
+
+```{mermaid}
+graph TD
+    law["∑ S_k(t) = E_total = constant<br/>99.8% entropy conservation · ±0.01 drift tolerance"]
+    style law fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+
+    sm["Sₘ — Episodic<br/>Recent events<br/>τ = 7 days<br/>dSₘ/dt = −J_mp − J_ms"]
+    ss["Sₛ — Semantic<br/>Long-term knowledge<br/>τ = 90 days<br/>dSₛ/dt = +J_ms"]
+    sp["Sₚ — Procedural<br/>Myelinated responses<br/>dSₚ/dt = +J_mp"]
+    spr["Sₚᵣ — Personality<br/>Identity coherence<br/>Stable · anchors all"]
+    sh["Sₕ — Harmonic<br/>Cross-agent sync<br/>DCN coordination"]
+
+    style sm fill:#534AB7,stroke:#131B2C,color:#fff
+    style ss fill:#185FA5,stroke:#131B2C,color:#fff
+    style sp fill:#BA7517,stroke:#131B2C,color:#fff
+    style spr fill:#993C1D,stroke:#131B2C,color:#fff
+    style sh fill:#0F6E56,stroke:#131B2C,color:#fff
+
+    law --> sm
+    law --> spr
+    sm -->|"J_ms = 3%/day<br/>Consolidation"| ss
+    sm -->|"J_mp<br/>Myelination"| sp
+    ss -.->|"Harmonic sync"| sh
+    spr -.->|"Identity anchor"| sm
+```
+
+*Figure 2: Five-substrate entropy conservation. Information flows from Episodic (τ=7d) into Semantic (τ=90d) at 3%/day, and into Procedural (myelinated) pathways. Personality and Harmonic substrates anchor the system. Total entropy conserved at 99.8%.*
+
 #### 3. **Activity-Dependent Myelination**
 Response pathways strengthen with repeated use, creating "insulation" that accelerates signal propagation and reduces energy consumption.
 
 - **Formula:** $J(n) = \frac{J_0}{1 + \kappa \cdot I(n)}$ where κ = 1.2 (biologically validated)
 - **Result:** 710× latency reduction, 85% energy reduction
 - **Biological Grounding:** mGluR5-dependent myelin growth (Nature Neuroscience 2025)
+
+### Figure 1: Activity-Dependent Myelination — Latency Curve
+
+Each encounter reinforces the response pathway following J(n) = J₀ / (1 + κ·I(n)), with κ = 1.2 (mGluR5 scaling, Nature Neuroscience 2025).
+
+```{mermaid}
+graph LR
+    e1["1st<br/>67 min<br/>100% energy<br/>0% myelin"]
+    e2["2nd<br/>8 min<br/>45% energy<br/>35% myelin"]
+    e3["3rd<br/>2 min<br/>22% energy<br/>68% myelin"]
+    e4["4th<br/>500ms<br/>18% energy<br/>80% myelin"]
+    e5["5th+<br/>&lt;100ms<br/>15% energy<br/>85%+ myelin"]
+    threshold["⚡ γ = 0.70<br/>Reflexive threshold"]
+    style e1 fill:#993C1D,stroke:#131B2C,color:#fff
+    style e2 fill:#BA7517,stroke:#131B2C,color:#fff
+    style e3 fill:#185FA5,stroke:#131B2C,color:#fff
+    style e4 fill:#0F6E56,stroke:#131B2C,color:#fff
+    style e5 fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    style threshold fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    e1 --> e2 --> e3 --> e4 --> e5
+    threshold -.->|"Crossed between 3rd and 4th"| e4
+    label["🏆 710× acceleration · J(n) = J₀ / (1 + κ·I(n)) · κ = 1.2"]
+    style label fill:#131B2C,stroke:#F9C84A,color:#F9C84A
+    e5 --> label
+```
+
+*Figure 1: Myelination curve following J(n) = J₀ / (1 + κ·I(n)). Latency drops from 67 minutes to under 100ms. Energy consumption drops to 15% of baseline.*
 
 ---
 
@@ -114,6 +170,34 @@ By applying physics conservation laws to information systems, UTME enables:
 2. **Response Acceleration** - 710× improvement through myelinated pathways
 3. **Operational Resilience** - 4-hour automated recovery vs. 42-hour manual baseline
 4. **Antifragile Learning** - Systems become stronger through adversity rather than fragile
+
+### Figure 3: The Antifragile Loop — Scar to Strength
+
+Standard systems lose performance under stress. UTME systems extract learning from damage events, converting scar tissue into myelinated pathways faster than the pre-damage baseline.
+
+```{mermaid}
+graph LR
+    threat["⚠️ Threat Event<br/>Identity pressure<br/>Cascade warning"]
+    response["🛡️ Response<br/>Existing myelinated pathway?<br/>→ Reflex &lt;100ms"]
+    scar["🩹 Scar Formation<br/>Temporal anchor created<br/>Event logged"]
+    myelin["⚡ Myelination<br/>γ increases · pathway insulated<br/>Faster than baseline"]
+    loop["🔄 Next encounter:<br/>Pathway already warm<br/>Reflexive response"]
+
+    style threat fill:#993C1D,stroke:#131B2C,color:#fff
+    style response fill:#185FA5,stroke:#131B2C,color:#fff
+    style scar fill:#BA7517,stroke:#131B2C,color:#fff
+    style myelin fill:#0F6E56,stroke:#131B2C,color:#fff
+    style loop fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+
+    threat --> response --> scar --> myelin --> loop
+    loop -->|"Antifragile feedback"| threat
+
+    ard["📋 ARD-001 (Oct 14, 2025): 4-hr automated vs 42-hr manual — 10.5× improvement"]
+    style ard fill:#534AB7,stroke:#131B2C,color:#fff
+    myelin --> ard
+```
+
+*Figure 3: The antifragile loop. Unlike traditional recovery that returns to baseline, UTME converts each threat encounter into a stronger myelinated pathway.*
 
 ---
 
@@ -162,17 +246,20 @@ UTME is the temporal foundation for the complete Synoetic OS architecture:
 UTME is grounded in three domains:
 
 ### Neuroscience
+
 - **Long-Term Potentiation (LTP)** - Pathway strengthening (Bliss & Lømo, 1973)
 - **mGluR5-Dependent Myelination** - Activity-dependent myelin growth (Nature Neuroscience 2025)
 - **NMDA Receptor Conductance Scars** - Calcium-dependent consolidation (Neuroscience Reviews 2024)
 - **Episodic-Semantic Consolidation** - Hippocampal replay during sleep (Sleep & Memory 2024)
 
 ### Information Thermodynamics
+
 - **Landauer's Principle** - Information erasure generates heat
 - **Entropy Conservation** - UTME prevents information loss, avoiding thermodynamic penalties
 - **Energy Efficiency** - 85% reduction through myelination
 
 ### Cognitive Psychology
+
 - **Trauma-Based Learning** - Post-traumatic stress creates reflexive responses
 - **Muscle Memory** - Implicit knowledge encoded in myelinated pathways
 - **Antifragile Learning** - Adversity strengthens rather than weakens systems

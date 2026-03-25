@@ -34,9 +34,7 @@ doi: "10.5281/zenodo.17309322"
 
 ## 🧠 What is FCE?
 
-**FCE (Fractal Context Engineering) v3.6** is a unified advanced context management framework that works across all AI system types—symbolic, hybrid, flat, and neuro-symbolic.
-
-### The Universal Adapter Paradigm
+**FCE (Fractal Context Engineering) v3.6** is a unified advanced context management framework that works across all AI system types—symbolic, hybrid, flat, and neuro-symbolic### The Universal Adapter Paradigm
 
 Unlike architecture-specific solutions, FCE delivers consistent enhancements through adaptive pattern replication. It's like a universal adapter that optimizes behavior across:
 
@@ -45,7 +43,42 @@ Unlike architecture-specific solutions, FCE delivers consistent enhancements thr
 - **Flat Systems** - Sequential unfolding with fractal characteristics
 - **Neuro-Symbolic Systems** - Integrated concept embeddings (2× KV reduction)
 
-### Core Innovations
+### Figure 1: Universal Adapter — FCE Across All Architecture Types
+
+FCE operates as a universal adapter — same methodology, consistent improvements, every AI architecture type.
+
+```{mermaid}
+graph TD
+    fce["⚙️ FCE v3.6<br/>Fractal Context Engineering<br/>Universal Adapter<br/>Pattern replication · Compression · Optimization"]
+    style fce fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+
+    symbolic["🔵 Symbolic<br/>Recursive fractal processing<br/>Depth-optimized traversal<br/>30–40% performance gain"]
+    hybrid["🟢 Hybrid<br/>Torque-gated bridging<br/>Neural ↔ Symbolic flow<br/>Seamless cross-layer context"]
+    flat["🟡 Flat<br/>Sequential unfolding<br/>Simulates recursion<br/>Fractal behavior in linear arch"]
+    neuro["🔴 Neuro-Symbolic<br/>Concept embeddings<br/>2× KV cache reduction<br/>Symbolic anchoring + reasoning"]
+
+    style symbolic fill:#185FA5,stroke:#131B2C,color:#fff
+    style hybrid fill:#0F6E56,stroke:#131B2C,color:#fff
+    style flat fill:#BA7517,stroke:#131B2C,color:#fff
+    style neuro fill:#993C1D,stroke:#131B2C,color:#fff
+
+    fce --> symbolic
+    fce --> hybrid
+    fce --> flat
+    fce --> neuro
+
+    validated["✅ Validated across 50+ scenarios · p&lt;0.001<br/>Consistent improvements across ALL four architecture types"]
+    style validated fill:#534AB7,stroke:#131B2C,color:#fff
+
+    symbolic --> validated
+    hybrid --> validated
+    flat --> validated
+    neuro --> validated
+```
+
+*Figure 1: FCE as universal adapter. One methodology delivers consistent improvements regardless of AI architecture type — no architecture-specific modifications required.*
+
+---### Core Innovations
 
 #### 1. **Fractal Pattern Replication**
 Achieves recursive-like behavior in non-recursive systems through intelligent pattern replication.
@@ -70,7 +103,31 @@ First framework demonstrating consistent performance improvements across all maj
 - **Meta-Context** - Pattern tracking with performance metrics
 - **Episodic Management** - Reusable episodes with integrity validation
 
-### Architecture-Specific Adaptations
+### Figure 3: Four-Layer Context Architecture
+
+```{mermaid}
+graph TB
+    meta["🌐 META-CONTEXT — Outermost<br/>Pattern tracking · Performance metrics<br/>Learns from all layers"]
+    secondary["📚 SECONDARY LAYERS<br/>Abstraction-organized background context<br/>Long-term knowledge base"]
+    episodic["🗂️ EPISODIC MANAGEMENT<br/>Reusable episodes + integrity validation<br/>4–6× compression · 95% accuracy"]
+    primary["⚡ PRIMARY LAYER — Innermost<br/>Immediate context · Optimized access<br/>Fastest retrieval · Highest priority<br/>50% token reduction · p99 &lt; 5ms"]
+
+    style meta fill:#534AB7,stroke:#131B2C,color:#fff
+    style secondary fill:#185FA5,stroke:#131B2C,color:#fff
+    style episodic fill:#BA7517,stroke:#131B2C,color:#fff
+    style primary fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+
+    meta --> secondary --> episodic --> primary
+    primary -->|"Adaptive feedback"| meta
+
+    note["Same structure applies across all four architecture types<br/>Adapts dynamically to system load and task complexity"]
+    style note fill:#0F6E56,stroke:#131B2C,color:#fff
+    primary --> note
+```
+
+*Figure 3: Four-layer FCE context architecture. Primary layer (innermost) has fastest access. Meta-Context (outermost) tracks patterns across all layers. Structure adapts dynamically to system load.*
+
+--- Architecture-Specific Adaptations
 
 #### Symbolic Systems
 - Recursive fractal processing

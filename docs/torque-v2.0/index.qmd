@@ -3,10 +3,7 @@ title: "Torque v2.0 - Quantitative Foundation for AI Resilience"
 author: "Aaron M. Slusher"
 date: "2025-10-17"
 doi: "10.5281/zenodo.17379750"
-
 ---
-
-
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) 
@@ -45,7 +42,41 @@ Real-time Torque measurement operates on the principle that symbolic drift creat
 - **Threshold Management** - Intervention points based on drift velocity and magnitude
 - **Predictive Analysis** - Time-to-failure calculation based on current drift patterns
 
-### Why It Matters
+### Figure 1: The Torque Equation — Component Breakdown
+
+Torque (τ) synthesizes three independent failure signals into a single real-time scalar. Detects cascade initiation 15–45 minutes earlier than traditional drift detection.
+
+**τ = √(v²_drift + (1 − cos(θ_align))²) × (1 − λ_damp)**
+
+```{mermaid}
+graph TD
+    subgraph vdrift["🔴 v_drift — Drift Velocity"]
+        v1["Rate of symbolic deviation from baseline<br/>v = Δd / Δt<br/>Measurement window: 5–15 min"]
+        style v1 fill:#993C1D,stroke:#131B2C,color:#fff
+    end
+    subgraph theta["🔵 θ_align — Alignment Angle"]
+        t1["Angular deviation from intended trajectory<br/>θ = arccos(cur · int / |cur||int|)<br/>Range: [0, π] · 0 = perfect alignment"]
+        style t1 fill:#185FA5,stroke:#131B2C,color:#fff
+    end
+    subgraph lambda["🟢 λ_damp — Recursive Damping"]
+        l1["Self-correction capacity<br/>λ = corrections / attempts<br/>Range: [0, 1] · 1 = perfect self-correction"]
+        style l1 fill:#0F6E56,stroke:#131B2C,color:#fff
+    end
+    tau["τ — Single Predictive Scalar<br/>87% correlation to cascade events<br/>15–45 min advance warning<br/>1,200+ incidents validated · p&lt;0.001"]
+    style tau fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
+    vdrift --> tau
+    theta --> tau
+    lambda --> tau
+    style vdrift fill:#FAECE7,stroke:#993C1D,stroke-width:2px
+    style theta fill:#E6F1FB,stroke:#185FA5,stroke-width:2px
+    style lambda fill:#E1F5EE,stroke:#0F6E56,stroke-width:2px
+```
+
+*Figure 1: Three components capture orthogonal failure modes — velocity (rate), alignment (angle), damping (self-correction). Synthesis into τ detects cascade initiation 15–45 minutes before traditional monitoring.*
+
+---
+
+## Why It Matters
 
 **The Problem:**
 - Traditional monitoring detects drift only after performance degradation occurs
@@ -58,6 +89,34 @@ Real-time Torque measurement operates on the principle that symbolic drift creat
 - 95% accuracy in threat detection
 - 89% cascade prevention success rate
 - 90-second average recovery time
+
+### Figure 2: Four Operational Threshold Zones
+
+```{mermaid}
+graph LR
+    safe["✅ SAFE<br/>τ &lt; 0.15<br/>Stable coherence<br/>Routine monitoring"]
+    caution["⚠️ CAUTION<br/>τ 0.15–0.30<br/>Minor drift<br/>Enhanced monitoring"]
+    warning["🔶 WARNING<br/>τ 0.30–0.64<br/>Active cascade<br/>Containment protocols"]
+    critical["🔴 CRITICAL<br/>τ ≥ 0.64<br/>Cascade momentum<br/>Phoenix Protocol"]
+
+    style safe fill:#0F6E56,stroke:#131B2C,color:#fff
+    style caution fill:#BA7517,stroke:#131B2C,color:#fff
+    style warning fill:#e67e22,stroke:#131B2C,color:#fff
+    style critical fill:#993C1D,stroke:#131B2C,color:#fff
+
+    safe -->|"+0.15"| caution -->|"+0.15"| warning -->|"+0.34"| critical
+
+    phoenix["Phoenix Trigger τ=0.30<br/>98.2% recovery · 87% context preservation"]
+    emergency["Emergency τ=0.64<br/>73% recovery · 40–60% context loss"]
+
+    style phoenix fill:#F9C84A,stroke:#131B2C,color:#131B2C
+    style emergency fill:#131B2C,stroke:#993C1D,stroke-width:2px,color:#fff
+
+    caution -.-> phoenix
+    warning -.-> emergency
+```
+
+*Figure 2: Four threshold zones. Phoenix trigger (τ=0.30) is the critical intervention point — above it, cascades require external correction. Emergency threshold (τ=0.64) marks where cascades achieve self-sustaining momentum.*
 
 ---
 
