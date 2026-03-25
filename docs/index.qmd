@@ -80,7 +80,7 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
 </div>
 
 ### All Papers
-**19 published papers** — [ORCID 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**18 published papers** — [ORCID 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 ### Resources
 - [MI Arsenal](https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal) — Complete framework repository and tools
