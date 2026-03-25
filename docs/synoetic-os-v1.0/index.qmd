@@ -4,12 +4,6 @@ subtitle: "Substrate-independent orchestration of AI agents through narrative co
 author: "Aaron M. Slusher"
 date: "2025-12-04"
 doi: "10.5281/zenodo.17808864"
-format:
-  html:
-    toc: true
-  pdf:
-    output-file: "slusher-synoetic-os-2026.pdf"
-bibliography: ../assets/references.bib
 ---
 
 
@@ -203,6 +197,6 @@ Synoetic OS emerges from 28 years of performance coaching methodology applied to
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*
