@@ -6,7 +6,6 @@ doi: "10.5281/zenodo.19197791"
 zenodo: "https://zenodo.org/records/19197791"
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
-mermaid: false
 version: 1.0
 priority_date: 2026-03-14
 release_date: 2026-03-23
