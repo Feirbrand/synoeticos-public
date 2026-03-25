@@ -1,296 +1,211 @@
 ---
-title: "FCE v3.6 Visualizations"
-description: "Fractal Context Engineering visualizations and performance diagrams"
+title: "FCE v3.6 — Visualizations"
+description: "Architecture diagrams and performance metrics for Fractal Context Engineering"
+doi: "10.5281/zenodo.17309322"
+author: "Aaron M. Slusher"
+date: "2025-10-09"
 ---
 
-# FCE v3.6 Visualizations
-
-[← Back to Paper](index.html) | [Cross-References →](fce-v3.6-cross-references.html) | [Bibliography →](fce-v3.6-master-bibliography.html)
-
----
-
-## 1. Universal Architecture Across All AI Systems
-
-```{mermaid}
-graph LR
-    A["Fractal Context<br/>Engineering"]
-    
-    B["Symbolic<br/>Systems"]
-    C["Hybrid<br/>Systems"]
-    D["Flat<br/>Systems"]
-    E["Neuro-Symbolic<br/>Systems"]
-    
-    A --> B & C & D & E
-    
-    B --> B1["30-40%<br/>Performance Gain"]
-    C --> C1["Torque-Gated<br/>Bridging"]
-    D --> D1["Fractal<br/>Unfolding"]
-    E --> E1["2× KV<br/>Reduction"]
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style E1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
-
-**Figure 1:** FCE v3.6 universal architecture. **Fractal Context Engineering** applies to four system types: **Symbolic** (30-40% performance gain), **Hybrid** (Torque-gated bridging), **Flat** (fractal unfolding), **Neuro-Symbolic** (2× KV reduction). Universal approach enables optimization across all AI architectures.
+**Back to:** [Main Paper](index.html) | [Cross-References](fce-v3.6-cross-references.html) | [Bibliography](fce-v3.6-master-bibliography.html)
 
 ---
 
-## 2. Universal Layer Architecture
+## Figure 1: Universal Adapter — FCE Across All Architecture Types
 
-```{mermaid}
-graph TD
-    A["Meta-Context<br/>Pattern Tracking"]
-    B["Primary Layer<br/>Immediate Context"]
-    C["Secondary Layers<br/>Background Context"]
-    D["Episodic Management<br/>Reusable Episodes"]
-    
-    A --> B
-    B --> C
-    C --> D
-    
-    style A fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-```
+FCE operates as a universal adapter — the same methodology delivers consistent improvements across every AI architecture type without modification.
 
-**Figure 2:** Universal layer architecture. **Meta-Context** tracks patterns across all layers. **Primary Layer** handles immediate context. **Secondary Layers** manage background context. **Episodic Management** reuses patterns across sessions. Hierarchical structure enables efficient compression.
+<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr-fce" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M1 2L8 5L1 8" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+  </defs>
 
----
+  <!-- FCE core (center) -->
+  <rect x="240" y="170" width="200" height="80" rx="10" fill="#131B2C" stroke="#F9C84A" stroke-width="2"/>
+  <text font-family="sans-serif" font-size="14" font-weight="700" x="340" y="198" text-anchor="middle" fill="#F9C84A">FCE v3.6</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="216" text-anchor="middle" fill="#aaa">Fractal Context Engineering</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="232" text-anchor="middle" fill="#aaa">Universal Adapter</text>
+  <text font-family="sans-serif" font-size="9" x="340" y="246" text-anchor="middle" fill="#888">Pattern replication · Compression · Optimization</text>
 
-## 3. Context Compression Pipeline
+  <!-- Architecture 1: Symbolic (top left) -->
+  <rect x="30" y="30" width="168" height="100" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="114" y="56" text-anchor="middle" fill="#26215C">Symbolic</text>
+  <text font-family="sans-serif" font-size="10" x="114" y="74" text-anchor="middle" fill="#3C3489">Recursive processing</text>
+  <text font-family="sans-serif" font-size="10" x="114" y="88" text-anchor="middle" fill="#3C3489">Depth-optimized traversal</text>
+  <rect x="50" y="96" width="128" height="18" rx="3" fill="#534AB7" fill-opacity="0.15"/>
+  <text font-family="sans-serif" font-size="9" x="114" y="109" text-anchor="middle" fill="#26215C">30–40% performance gain</text>
 
-```{mermaid}
-graph LR
-    A["Raw Context<br/>100% tokens"]
-    B["LLMLingua<br/>Compression"]
-    C["EpiCache<br/>KV Management"]
-    D["CompLLM<br/>Concept Embedding"]
-    E["Compressed Context<br/>4-6× Reduction<br/>95% Accuracy"]
-    
-    A --> B --> C --> D --> E
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Architecture 2: Hybrid (top right) -->
+  <rect x="482" y="30" width="168" height="100" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="566" y="56" text-anchor="middle" fill="#042C53">Hybrid</text>
+  <text font-family="sans-serif" font-size="10" x="566" y="74" text-anchor="middle" fill="#0C447C">Torque-gated bridging</text>
+  <text font-family="sans-serif" font-size="10" x="566" y="88" text-anchor="middle" fill="#0C447C">Neural ↔ Symbolic flow</text>
+  <rect x="502" y="96" width="128" height="18" rx="3" fill="#185FA5" fill-opacity="0.15"/>
+  <text font-family="sans-serif" font-size="9" x="566" y="109" text-anchor="middle" fill="#042C53">Seamless cross-layer context</text>
 
-**Figure 3:** Context compression pipeline. **LLMLingua** compresses raw context. **EpiCache** manages KV cache efficiently. **CompLLM** embeds concepts. Result: **4-6× token reduction** with **95% accuracy** maintained.
+  <!-- Architecture 3: Flat (bottom left) -->
+  <rect x="30" y="290" width="168" height="100" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="114" y="316" text-anchor="middle" fill="#412402">Flat</text>
+  <text font-family="sans-serif" font-size="10" x="114" y="334" text-anchor="middle" fill="#633806">Sequential unfolding</text>
+  <text font-family="sans-serif" font-size="10" x="114" y="348" text-anchor="middle" fill="#633806">Simulates recursion</text>
+  <rect x="50" y="356" width="128" height="18" rx="3" fill="#BA7517" fill-opacity="0.15"/>
+  <text font-family="sans-serif" font-size="9" x="114" y="369" text-anchor="middle" fill="#412402">Fractal behavior in linear arch</text>
 
----
+  <!-- Architecture 4: Neuro-Symbolic (bottom right) -->
+  <rect x="482" y="290" width="168" height="100" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="566" y="316" text-anchor="middle" fill="#04342C">Neuro-Symbolic</text>
+  <text font-family="sans-serif" font-size="10" x="566" y="334" text-anchor="middle" fill="#085041">Concept embeddings</text>
+  <text font-family="sans-serif" font-size="10" x="566" y="348" text-anchor="middle" fill="#085041">2× KV cache reduction</text>
+  <rect x="502" y="356" width="128" height="18" rx="3" fill="#0F6E56" fill-opacity="0.15"/>
+  <text font-family="sans-serif" font-size="9" x="566" y="369" text-anchor="middle" fill="#04342C">Symbolic anchoring + reasoning</text>
 
-## 4. Performance Improvements
+  <!-- Connection arrows (all point to/from FCE center) -->
+  <line x1="198" y1="80" x2="240" y2="190" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arr-fce)"/>
+  <line x1="482" y1="190" x2="450" y2="100" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr-fce)"/>
+  <line x1="198" y1="340" x2="240" y2="230" stroke="#BA7517" stroke-width="1.5" marker-end="url(#arr-fce)"/>
+  <line x1="482" y1="230" x2="450" y2="320" stroke="#0F6E56" stroke-width="1.5" marker-end="url(#arr-fce)"/>
 
-```{mermaid}
-graph LR
-    A["Context Retention"]
-    B["Reasoning Consistency"]
-    C["Response Quality"]
-    D["TTFT Speedups"]
-    E["Memory Efficiency"]
-    
-    A -->|+35-50%| A1["90%+ accuracy"]
-    B -->|+25-40%| B1["85%+ consistency"]
-    C -->|+20-30%| C1["90%+ scores"]
-    D -->|4×| D1["Faster"]
-    E -->|50%| E1["Token reduction"]
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style E fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style A1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style E1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Stat: p<0.001 -->
+  <rect x="240" y="360" width="200" height="30" rx="5" fill="#f5f5f5" stroke="#ddd" stroke-width="0.5"/>
+  <text font-family="sans-serif" font-size="10" x="340" y="379" text-anchor="middle" fill="#555">Validated across 50+ scenarios · p&lt;0.001</text>
+</svg>
 
-**Figure 4:** FCE performance improvements. **Context Retention**: +35-50% (90%+ accuracy). **Reasoning Consistency**: +25-40% (85%+ consistency). **Response Quality**: +20-30% (90%+ scores). **TTFT Speedups**: 4× faster. **Memory Efficiency**: 50% token reduction.
+*Figure 1: FCE as universal adapter. The same framework delivers consistent performance improvements across all four AI architecture types — no architecture-specific modifications required.*
 
 ---
 
-## 5. Symbolic System Optimization
+## Figure 2: Performance Improvements by Metric
 
-```{mermaid}
-graph TD
-    A["Symbolic System"]
-    B["Recursive Fractal<br/>Processing"]
-    C["Pattern-Based<br/>Organization"]
-    D["Depth-Optimized<br/>Traversal"]
-    E["30-40%<br/>Performance Gain"]
-    
-    A --> B --> C --> D --> E
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="ax-f" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M1 2L8 5L1 8" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+  </defs>
 
-**Figure 5:** Symbolic system optimization. **Recursive Fractal Processing** applies FCE principles. **Pattern-Based Organization** structures context hierarchically. **Depth-Optimized Traversal** minimizes computation. Result: **30-40% performance gain**.
+  <!-- Axis -->
+  <line x1="200" y1="290" x2="640" y2="290" stroke="#555" stroke-width="1.5" marker-end="url(#ax-f)"/>
+  <line x1="200" y1="290" x2="200" y2="30" stroke="#555" stroke-width="1" marker-end="url(#ax-f)"/>
 
----
+  <!-- X axis labels (0%, 25%, 50%) -->
+  <text font-family="sans-serif" font-size="10" x="200" y="305" text-anchor="middle" fill="#555">0%</text>
+  <text font-family="sans-serif" font-size="10" x="310" y="305" text-anchor="middle" fill="#555">25%</text>
+  <text font-family="sans-serif" font-size="10" x="420" y="305" text-anchor="middle" fill="#555">50%</text>
+  <text font-family="sans-serif" font-size="10" x="530" y="305" text-anchor="middle" fill="#555">75%</text>
+  <text font-family="sans-serif" font-size="10" x="630" y="305" text-anchor="middle" fill="#888">Improvement</text>
 
-## 6. Hybrid System Bridging
+  <!-- Grid lines -->
+  <line x1="310" y1="30" x2="310" y2="290" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="420" y1="30" x2="420" y2="290" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="530" y1="30" x2="530" y2="290" stroke="#f0f0f0" stroke-width="1"/>
 
-```{mermaid}
-graph LR
-    A["Neural Layer"]
-    B["Torque-Gated<br/>Bridge"]
-    C["Symbolic Layer"]
-    
-    A -->|Coherence Check| B
-    B -->|Seamless Flow| C
-    B -->|Resource Allocation| B
-    
-    style A fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-```
+  <!-- Bars: scale 100% = 440px width from x=200 -->
+  <!-- Context Retention: 50% max = 220px -->
+  <rect x="200" y="38" width="220" height="24" rx="3" fill="#185FA5"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="55" text-anchor="end" fill="#333">Context Retention</text>
+  <text font-family="sans-serif" font-size="10" x="428" y="55" fill="#185FA5">up to 50%</text>
 
-**Figure 6:** Hybrid system bridging. **Neural Layer** provides embeddings. **Torque-Gated Bridge** (Gold) performs coherence checks and seamless flow between layers. **Symbolic Layer** provides logical reasoning. Torque gating enables efficient resource allocation.
+  <!-- Reasoning Consistency: 40% = 176px -->
+  <rect x="200" y="72" width="176" height="24" rx="3" fill="#534AB7"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="89" text-anchor="end" fill="#333">Reasoning Consistency</text>
+  <text font-family="sans-serif" font-size="10" x="384" y="89" fill="#534AB7">up to 40%</text>
 
----
+  <!-- Response Quality: 30% = 132px -->
+  <rect x="200" y="106" width="132" height="24" rx="3" fill="#0F6E56"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="123" text-anchor="end" fill="#333">Response Quality</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="123" fill="#0F6E56">up to 30%</text>
 
-## 7. Flat System Unfolding
+  <!-- Memory Efficiency: 50% = 220px -->
+  <rect x="200" y="140" width="220" height="24" rx="3" fill="#BA7517"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="157" text-anchor="end" fill="#333">Memory Efficiency</text>
+  <text font-family="sans-serif" font-size="10" x="428" y="157" fill="#BA7517">up to 50% token reduction</text>
 
-```{mermaid}
-graph TD
-    A["Flat System<br/>Linear Processing"]
-    B["Sequential Unfolding<br/>Simulates Recursion"]
-    C["Fractal Characteristics<br/>Maintained"]
-    D["Efficient Memory<br/>Utilization"]
-    
-    A --> B --> C --> D
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Deployment Iteration: 50% = 220px -->
+  <rect x="200" y="174" width="220" height="24" rx="3" fill="#993C1D"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="191" text-anchor="end" fill="#333">Deployment Iteration</text>
+  <text font-family="sans-serif" font-size="10" x="428" y="191" fill="#993C1D">up to 50% reduction</text>
 
-**Figure 7:** Flat system unfolding. **Linear Processing** unfolded sequentially. **Sequential Unfolding** simulates recursive structure. **Fractal Characteristics** maintained despite flat architecture. **Efficient Memory Utilization** achieved without recursion overhead.
+  <!-- Throughput: 25% = 110px -->
+  <rect x="200" y="208" width="110" height="24" rx="3" fill="#3498db"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="225" text-anchor="end" fill="#333">Throughput</text>
+  <text font-family="sans-serif" font-size="10" x="318" y="225" fill="#3498db">15–25%</text>
 
----
+  <!-- TTFT (4x faster — separate label) -->
+  <rect x="200" y="242" width="264" height="24" rx="3" fill="#e67e22"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="259" text-anchor="end" fill="#333">TTFT Speedup</text>
+  <text font-family="sans-serif" font-size="10" x="472" y="259" fill="#e67e22">up to 4× faster</text>
 
-## 8. Neuro-Symbolic Integration
+  <!-- Context Compression (4-6x) -->
+  <rect x="200" y="276" width="308" height="8" rx="2" fill="#E24B4A"/>
+  <text font-family="sans-serif" font-size="11" x="192" y="284" text-anchor="end" fill="#333">Context Compression</text>
+  <text font-family="sans-serif" font-size="10" x="516" y="284" fill="#E24B4A">4–6× ratio</text>
+</svg>
 
-```{mermaid}
-graph LR
-    A["Neural<br/>Embeddings"]
-    B["Concept<br/>Compression"]
-    C["KV Cache<br/>Reduction"]
-    D["Symbolic<br/>Anchoring"]
-    E["2× Efficiency<br/>Enhanced Reasoning"]
-    
-    A --> B --> C --> D --> E
-    
-    style A fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
-
-**Figure 8:** Neuro-symbolic integration. **Neural Embeddings** provide semantic understanding. **Concept Compression** reduces dimensionality. **KV Cache Reduction** optimizes memory. **Symbolic Anchoring** grounds reasoning. Result: **2× efficiency** with **enhanced reasoning**.
+*Figure 2: FCE performance improvements across key metrics. All results from preliminary simulation across 50+ test scenarios (p&lt;0.001). Context Retention and Memory Efficiency show the highest absolute gains.*
 
 ---
 
-## 9. Validation Across Architectures
+## Figure 3: Four-Layer Context Architecture
 
-```{mermaid}
-graph LR
-    A["50+ Test<br/>Scenarios"]
-    B["Symbolic"]
-    C["Hybrid"]
-    D["Flat"]
-    E["Neuro-Symbolic"]
-    
-    A --> B & C & D & E
-    
-    B --> B1["✓ Validated"]
-    C --> C1["✓ Validated"]
-    D --> D1["✓ Validated"]
-    E --> E1["✓ Validated"]
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style E1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+FCE organizes context into four hierarchical layers that apply universally across all architecture types.
 
-**Figure 9:** Validation across 50+ test scenarios. **Symbolic**, **Hybrid**, **Flat**, and **Neuro-Symbolic** architectures all validated. FCE v3.6 demonstrates universal applicability across diverse AI system types.
+<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
 
----
+  <!-- Layer 1: Meta-Context (top, outermost) -->
+  <rect x="40" y="20" width="600" height="300" rx="12" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-dasharray="6 3"/>
+  <text font-family="sans-serif" font-size="11" font-weight="600" x="340" y="44" text-anchor="middle" fill="#534AB7">META-CONTEXT — Pattern tracking + performance metrics</text>
 
-## 10. Ecosystem Integration
+  <!-- Layer 2: Secondary (episodic) -->
+  <rect x="70" y="56" width="540" height="228" rx="10" fill="#EEEDFE" fill-opacity="0.3" stroke="#534AB7" stroke-width="1" stroke-dasharray="4 2"/>
+  <text font-family="sans-serif" font-size="11" font-weight="600" x="340" y="78" text-anchor="middle" fill="#3C3489">SECONDARY LAYERS — Abstraction-organized background context</text>
 
-```{mermaid}
-graph LR
-    A["FCE v3.6<br/>Context Engine"]
-    
-    B["UTME<br/>Temporal"]
-    C["Torque<br/>Coherence"]
-    D["Phoenix<br/>Recovery"]
-    E["PME<br/>Prediction"]
-    
-    A --> B & C & D & E
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Layer 3: Episodic Management -->
+  <rect x="100" y="90" width="480" height="168" rx="8" fill="#E6F1FB" fill-opacity="0.5" stroke="#185FA5" stroke-width="1"/>
+  <text font-family="sans-serif" font-size="11" font-weight="600" x="340" y="112" text-anchor="middle" fill="#042C53">EPISODIC MANAGEMENT — Reusable episodes + integrity validation</text>
 
-**Figure 10:** FCE v3.6 ecosystem integration. **Context Engine** provides foundation for **UTME** (temporal), **Torque** (coherence), **Phoenix** (recovery), and **PME** (prediction). FCE enables efficient context management across all downstream frameworks.
+  <!-- Layer 4: Primary (innermost) -->
+  <rect x="130" y="124" width="420" height="110" rx="8" fill="#185FA5" fill-opacity="0.12" stroke="#185FA5" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="700" x="340" y="150" text-anchor="middle" fill="#042C53">PRIMARY LAYER</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="168" text-anchor="middle" fill="#0C447C">Immediate context · Optimized access patterns</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="184" text-anchor="middle" fill="#0C447C">Fastest retrieval · Highest priority</text>
+
+  <!-- Compression stats -->
+  <rect x="150" y="200" width="120" height="24" rx="4" fill="#185FA5" fill-opacity="0.2"/>
+  <text font-family="sans-serif" font-size="9" x="210" y="216" text-anchor="middle" fill="#042C53">4–6× compression</text>
+  <rect x="290" y="200" width="130" height="24" rx="4" fill="#185FA5" fill-opacity="0.2"/>
+  <text font-family="sans-serif" font-size="9" x="355" y="216" text-anchor="middle" fill="#042C53">50% token reduction</text>
+  <rect x="440" y="200" width="90" height="24" rx="4" fill="#185FA5" fill-opacity="0.2"/>
+  <text font-family="sans-serif" font-size="9" x="485" y="216" text-anchor="middle" fill="#042C53">95% accuracy</text>
+
+  <!-- Access arrows (showing priority direction) -->
+  <text font-family="sans-serif" font-size="10" x="60" y="180" text-anchor="middle" fill="#888" transform="rotate(-90 60 180)">← access priority</text>
+  <text font-family="sans-serif" font-size="10" x="620" y="180" text-anchor="middle" fill="#888" transform="rotate(90 620 180)">context depth →</text>
+
+  <!-- Footer note -->
+  <rect x="40" y="332" width="600" height="22" rx="4" fill="#f9f9f9" stroke="#ddd" stroke-width="0.5"/>
+  <text font-family="sans-serif" font-size="10" x="340" y="347" text-anchor="middle" fill="#555">Same layer structure applies to all four architecture types · Adaptive optimization per system load</text>
+</svg>
+
+*Figure 3: Four-layer FCE context architecture. Layers are nested concentrically — Primary (innermost) has fastest access, Meta-Context (outermost) tracks patterns across all layers. The structure adapts dynamically to system load and task complexity.*
 
 ---
 
-## Performance Metrics Summary
+## Key Statistics Reference
 
-| Metric | Value | Status |
-|--------|-------|--------|
-| Context Retention Improvement | +35-50% | ✅ 90%+ accuracy |
-| Reasoning Consistency Improvement | +25-40% | ✅ 85%+ consistency |
-| Response Quality Improvement | +20-30% | ✅ 90%+ scores |
-| TTFT Speedup | 4× | ✅ Faster |
-| Token Reduction | 50% | ✅ Memory efficient |
-| Symbolic System Gain | 30-40% | ✅ Validated |
-| Neuro-Symbolic Efficiency | 2× | ✅ Enhanced reasoning |
+| Metric | Baseline | FCE Result | Method |
+|--------|----------|------------|--------|
+| **Context Retention** | 60–75% | 90%+ | Up to 50% uplift |
+| **Reasoning Consistency** | 65–80% | 85%+ | Up to 40% uplift |
+| **Response Quality** | 70–85% | 90%+ | Up to 30% uplift |
+| **TTFT** | Standard | 4× faster | Concept embedding compression |
+| **Context Compression** | N/A | 4–6× ratio | Episodic KV management |
+| **Memory Efficiency** | Standard | 50% token reduction | LLMLingua · 95% accuracy |
+| **Deployment Speed** | Standard | 50% faster | No-code frameworks |
+| **Throughput** | Baseline | 15–25% uplift | Hybrid MoE quantization |
 
----
-
-## Color Palette Reference
-
-All visualizations use the **VGS (ValorGrid Solutions) Design Palette** for consistency:
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Navy | #131B2C | Baseline, deep states, symbolic anchoring |
-| Cyan | #34D8EA | Output, results, foundational elements |
-| Blue | #3576F6 | Processing, systems, analysis |
-| Gold | #F9C84A | Compression, decision points, highlights |
+**Statistical validation:** p&lt;0.001 across controlled simulations · 50+ test scenarios · consistent across all four architecture types
 
 ---
 
-*[← Back to Paper](index.html) | [Cross-References →](fce-v3.6-cross-references.html) | [Bibliography →](fce-v3.6-master-bibliography.html)*
-
-**© 2025 Achieve Peak Performance. All rights reserved.**
+*© 2025 Aaron M. Slusher, ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)*

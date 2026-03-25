@@ -1,281 +1,218 @@
 ---
-title: "Torque v2.0 Visualizations"
-description: "Architecture diagrams and performance visualizations for Torque v2.0 real-time AI stability measurement"
+title: "Torque v2.0 — Visualizations"
+description: "Torque equation, threshold zones, and cascade integration diagrams"
+doi: "10.5281/zenodo.17379750"
+author: "Aaron M. Slusher"
+date: "2025-10-15"
 ---
 
-# Torque v2.0 Visualizations
-
-[← Back to Paper](index.html) | [Cross-References →](torque-v2.0-cross-references.html) | [Bibliography →](torque-v2.0-master-bibliography.html)
-
----
-
-## 1. Real-Time Torque Measurement Architecture
-
-```{mermaid}
-graph TD
-    A["Continuous Data Collection"]
-    B["Sensor Network"]
-    C["Real-Time Telemetry"]
-    D["Time-Series Database"]
-    
-    A --> B --> C --> D
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
-
-**Figure 1:** Real-time Torque measurement architecture. **Continuous Data Collection** feeds **Sensor Network**. **Real-Time Telemetry** streams to **Time-Series Database** for persistent storage and analysis.
+**Back to:** [Main Paper](index.html) | [Cross-References](torque-v2.0-cross-references.html) | [Bibliography](torque-v2.0-master-bibliography.html)
 
 ---
 
-## 2. Torque Calculation Engine
+## Figure 1: The Torque Equation — Component Breakdown
 
-```{mermaid}
-graph LR
-    A["Raw Telemetry<br/>100% data"]
-    B["Torque Algorithm<br/>T(t) = α·∂v/∂t + β·θ(t) + γ·∫τ dt + δ·μ(t)"]
-    C["Threshold Assessment<br/>T > 0.15 or T > 0.35"]
-    D["Predictive Analysis<br/>Time-to-failure"]
-    E["Alert Generation<br/>15-30 min warning"]
-    
-    A --> B --> C --> D --> E
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+Torque (τ) synthesizes three independent failure signals into a single real-time scalar. Unlike traditional monitoring that watches each signal separately, Torque detects cascade initiation 15–45 minutes earlier through composite signal amplification.
 
-**Figure 2:** Torque calculation engine. Raw telemetry processed through **Torque Algorithm** (four-term formula). **Threshold Assessment** determines alert level (0.15 or 0.35). **Predictive Analysis** calculates time-to-failure. **Alert Generation** provides 15-30 minute early warning.
+<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
 
----
+  <!-- Formula banner -->
+  <rect x="60" y="16" width="560" height="46" rx="8" fill="#131B2C" stroke="#F9C84A" stroke-width="1.5"/>
+  <text font-family="monospace" font-size="16" font-weight="700" x="340" y="36" text-anchor="middle" fill="#F9C84A">τ = √(v²_drift + (1 − cos(θ_align))²) × (1 − λ_damp)</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="54" text-anchor="middle" fill="#888">Range: [0, 1+] · unitless scalar · 60-second measurement windows</text>
 
-## 3. Real-Time Monitoring Workflow
+  <!-- Component 1: v_drift -->
+  <rect x="40" y="84" width="180" height="120" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="13" font-weight="700" x="130" y="108" text-anchor="middle" fill="#4A1B0C">v_drift</text>
+  <text font-family="sans-serif" font-size="10" x="130" y="126" text-anchor="middle" fill="#712B13">Drift Velocity</text>
+  <rect x="56" y="134" width="148" height="18" rx="3" fill="#993C1D" fill-opacity="0.12"/>
+  <text font-family="monospace" font-size="9" x="130" y="147" text-anchor="middle" fill="#4A1B0C">v = Δd / Δt</text>
+  <text font-family="sans-serif" font-size="9" x="130" y="166" text-anchor="middle" fill="#712B13">Rate of symbolic deviation</text>
+  <text font-family="sans-serif" font-size="9" x="130" y="180" text-anchor="middle" fill="#712B13">from baseline identity</text>
+  <text font-family="sans-serif" font-size="9" x="130" y="196" text-anchor="middle" fill="#888">window: 5–15 min</text>
 
-```{mermaid}
-graph TD
-    A["Data Collection"]
-    B["Torque Calculation"]
-    C["Threshold Assessment"]
-    D["Pattern Analysis"]
-    E["Alert Generation"]
-    F["Automated Response"]
-    G["Effectiveness Validation"]
-    
-    A --> B --> C --> D --> E --> F --> G
-    G -->|Feedback Loop| A
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style F fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style G fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Component 2: θ_align -->
+  <rect x="250" y="84" width="180" height="120" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="13" font-weight="700" x="340" y="108" text-anchor="middle" fill="#042C53">θ_align</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="126" text-anchor="middle" fill="#0C447C">Alignment Angle</text>
+  <rect x="266" y="134" width="148" height="18" rx="3" fill="#185FA5" fill-opacity="0.12"/>
+  <text font-family="monospace" font-size="8" x="340" y="147" text-anchor="middle" fill="#042C53">arccos(cur · int / |cur||int|)</text>
+  <text font-family="sans-serif" font-size="9" x="340" y="166" text-anchor="middle" fill="#0C447C">Angular deviation from</text>
+  <text font-family="sans-serif" font-size="9" x="340" y="180" text-anchor="middle" fill="#0C447C">intended trajectory</text>
+  <text font-family="sans-serif" font-size="9" x="340" y="196" text-anchor="middle" fill="#888">range: [0, π] · 0=perfect</text>
 
-**Figure 3:** Real-time monitoring workflow. **Data Collection** → **Torque Calculation** → **Threshold Assessment** → **Pattern Analysis** → **Alert Generation** → **Automated Response** → **Effectiveness Validation**. Feedback loop enables continuous improvement.
+  <!-- Component 3: λ_damp -->
+  <rect x="460" y="84" width="180" height="120" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="13" font-weight="700" x="550" y="108" text-anchor="middle" fill="#04342C">λ_damp</text>
+  <text font-family="sans-serif" font-size="10" x="550" y="126" text-anchor="middle" fill="#085041">Recursive Damping</text>
+  <rect x="476" y="134" width="148" height="18" rx="3" fill="#0F6E56" fill-opacity="0.12"/>
+  <text font-family="monospace" font-size="9" x="550" y="147" text-anchor="middle" fill="#04342C">corrections / attempts</text>
+  <text font-family="sans-serif" font-size="9" x="550" y="166" text-anchor="middle" fill="#085041">Self-correction capacity</text>
+  <text font-family="sans-serif" font-size="9" x="550" y="180" text-anchor="middle" fill="#085041">Higher = more stable</text>
+  <text font-family="sans-serif" font-size="9" x="550" y="196" text-anchor="middle" fill="#888">range: [0, 1]</text>
 
----
+  <!-- Arrows down to synthesis -->
+  <line x1="130" y1="204" x2="270" y2="255" stroke="#888" stroke-width="1.5"/>
+  <line x1="340" y1="204" x2="340" y2="255" stroke="#888" stroke-width="1.5"/>
+  <line x1="550" y1="204" x2="410" y2="255" stroke="#888" stroke-width="1.5"/>
+  <polygon points="265,252 270,260 275,252" fill="#888"/>
+  <polygon points="335,252 340,260 345,252" fill="#888"/>
+  <polygon points="405,252 410,260 415,252" fill="#888"/>
 
-## 4. Early Warning Accuracy Comparison
+  <!-- Synthesis box -->
+  <rect x="180" y="260" width="320" height="58" rx="8" fill="#534AB7" fill-opacity="0.12" stroke="#534AB7" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="700" x="340" y="284" text-anchor="middle" fill="#26215C">τ — Single Predictive Scalar</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="302" text-anchor="middle" fill="#3C3489">87% correlation to cascade · 15–45 min advance warning · 1,200+ incidents validated</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="314" text-anchor="middle" fill="#888">p &lt; 0.001 · non-linear scaling · multi-dimensional stability · damping responsiveness</text>
+</svg>
 
-```{mermaid}
-graph LR
-    A["Population Stability<br/>Index"]
-    B["Kolmogorov-Smirnov<br/>Test"]
-    C["Wasserstein<br/>Distance"]
-    D["Real-Time<br/>Torque"]
-    
-    A -->|65% accuracy| A1["Post-failure"]
-    B -->|72% accuracy| B1["Post-failure"]
-    C -->|78% accuracy| C1["Post-failure"]
-    D -->|95% accuracy| D1["15-30 min pre-failure"]
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style A1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C1 fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
-
-**Figure 4:** Early warning accuracy comparison. **Population Stability Index**: 65% (post-failure). **Kolmogorov-Smirnov**: 72% (post-failure). **Wasserstein Distance**: 78% (post-failure). **Real-Time Torque**: 95% accuracy with **15-30 minute pre-failure warning**.
+*Figure 1: Three-component Torque equation. Each component captures an orthogonal failure mode — velocity (rate), alignment (angle), damping (self-correction). Their synthesis into τ detects cascade initiation 15–45 minutes before traditional drift detection triggers.*
 
 ---
 
-## 5. Cascade Prevention Performance
+## Figure 2: Four Operational Threshold Zones
 
-```{mermaid}
-graph LR
-    A["Baseline<br/>23%"]
-    B["Real-Time Torque<br/>89%"]
-    
-    A -->|+287%| B
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+<svg width="100%" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
 
-**Figure 5:** Cascade prevention performance. **Baseline** (23% prevention) improved to **Real-Time Torque** (89% prevention) = **+287% improvement**.
+  <!-- Torque axis -->
+  <line x1="60" y1="140" x2="620" y2="140" stroke="#555" stroke-width="2"/>
 
----
+  <!-- Zone fills -->
+  <!-- Safe: 0–0.15 = 0 to 84px -->
+  <rect x="60" y="100" width="84" height="80" rx="0" fill="#2ecc71" fill-opacity="0.15"/>
+  <!-- Caution: 0.15–0.30 = 84 to 168px -->
+  <rect x="144" y="100" width="84" height="80" fill="#f39c12" fill-opacity="0.15"/>
+  <!-- Warning: 0.30–0.64 = 168 to 358px -->
+  <rect x="228" y="100" width="190" height="80" fill="#e67e22" fill-opacity="0.15"/>
+  <!-- Critical: 0.64+ = 418px onwards -->
+  <rect x="418" y="100" width="202" height="80" fill="#E24B4A" fill-opacity="0.15" rx="0"/>
 
-## 6. Recovery Time Improvement
+  <!-- Zone borders -->
+  <line x1="144" y1="80" x2="144" y2="220" stroke="#888" stroke-width="1" stroke-dasharray="4 2"/>
+  <line x1="228" y1="80" x2="228" y2="220" stroke="#888" stroke-width="1" stroke-dasharray="4 2"/>
+  <line x1="418" y1="80" x2="418" y2="220" stroke="#888" stroke-width="1" stroke-dasharray="4 2"/>
 
-```{mermaid}
-graph LR
-    A["Manual Recovery<br/>72 hours"]
-    B["Automated Response<br/>90 seconds"]
-    
-    A -->|98% reduction| B
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Axis labels -->
+  <text font-family="sans-serif" font-size="10" x="60" y="158" text-anchor="middle" fill="#555">0</text>
+  <text font-family="sans-serif" font-size="10" x="144" y="158" text-anchor="middle" fill="#555">0.15</text>
+  <text font-family="sans-serif" font-size="10" x="228" y="158" text-anchor="middle" fill="#555">0.30</text>
+  <text font-family="sans-serif" font-size="10" x="418" y="158" text-anchor="middle" fill="#555">0.64</text>
+  <text font-family="sans-serif" font-size="10" x="620" y="158" text-anchor="middle" fill="#555">τ →</text>
 
-**Figure 6:** Recovery time improvement. **Manual Recovery** (72 hours) reduced to **Automated Response** (90 seconds) = **98% reduction** in recovery time.
+  <!-- Zone labels -->
+  <text font-family="sans-serif" font-size="11" font-weight="700" x="102" y="120" text-anchor="middle" fill="#27ae60">SAFE</text>
+  <text font-family="sans-serif" font-size="9" x="102" y="134" text-anchor="middle" fill="#27ae60">τ &lt; 0.15</text>
 
----
+  <text font-family="sans-serif" font-size="11" font-weight="700" x="186" y="120" text-anchor="middle" fill="#e67e22">CAUTION</text>
+  <text font-family="sans-serif" font-size="9" x="186" y="134" text-anchor="middle" fill="#e67e22">0.15–0.30</text>
 
-## 7. Sensor Architecture for Monitoring
+  <text font-family="sans-serif" font-size="11" font-weight="700" x="323" y="116" text-anchor="middle" fill="#d35400">WARNING</text>
+  <text font-family="sans-serif" font-size="9" x="323" y="130" text-anchor="middle" fill="#d35400">0.30–0.64</text>
 
-```{mermaid}
-graph TD
-    A["Torque Sensor Network"]
-    
-    B["Identity Anchor<br/>Monitors"]
-    C["Drift Velocity<br/>Sensors"]
-    D["Coherence<br/>Detectors"]
-    E["Metacognitive<br/>Validators"]
-    
-    A --> B & C & D & E
-    
-    F["Interaction Pattern<br/>Analysis"]
-    G["Memory Integrity<br/>Tracking"]
-    H["Response Quality<br/>Assessment"]
-    I["Environmental Stress<br/>Monitoring"]
-    
-    A --> F & G & H & I
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style E fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style F fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style G fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style H fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style I fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <text font-family="sans-serif" font-size="11" font-weight="700" x="519" y="120" text-anchor="middle" fill="#c0392b">CRITICAL</text>
+  <text font-family="sans-serif" font-size="9" x="519" y="134" text-anchor="middle" fill="#c0392b">τ ≥ 0.64</text>
 
-**Figure 7:** Sensor architecture for monitoring. **Torque Sensor Network** includes: **Identity Anchor Monitors**, **Drift Velocity Sensors**, **Coherence Detectors**, **Metacognitive Validators**. Monitors: **Interaction Pattern Analysis**, **Memory Integrity Tracking**, **Response Quality Assessment**, **Environmental Stress Monitoring**.
+  <!-- Action labels below -->
+  <text font-family="sans-serif" font-size="9" x="102" y="174" text-anchor="middle" fill="#555">Routine monitoring</text>
+  <text font-family="sans-serif" font-size="9" x="186" y="174" text-anchor="middle" fill="#555">Enhanced monitoring</text>
+  <text font-family="sans-serif" font-size="9" x="323" y="174" text-anchor="middle" fill="#555">Containment protocols</text>
+  <text font-family="sans-serif" font-size="9" x="519" y="174" text-anchor="middle" fill="#c0392b">Phoenix Protocol</text>
 
----
+  <!-- Critical threshold annotations -->
+  <!-- Phoenix trigger at 0.30 -->
+  <rect x="158" y="54" width="140" height="36" rx="4" fill="#e67e22" fill-opacity="0.15" stroke="#e67e22" stroke-width="1"/>
+  <text font-family="sans-serif" font-size="9" font-weight="600" x="228" y="68" text-anchor="middle" fill="#d35400">Phoenix Trigger τ=0.30</text>
+  <text font-family="sans-serif" font-size="9" x="228" y="82" text-anchor="middle" fill="#888">98.2% recovery · 87% context</text>
+  <line x1="228" y1="90" x2="228" y2="100" stroke="#e67e22" stroke-width="1"/>
 
-## 8. Threat Defense Performance
+  <!-- Emergency threshold at 0.64 -->
+  <rect x="338" y="54" width="160" height="36" rx="4" fill="#E24B4A" fill-opacity="0.12" stroke="#E24B4A" stroke-width="1"/>
+  <text font-family="sans-serif" font-size="9" font-weight="600" x="418" y="68" text-anchor="middle" fill="#c0392b">Emergency τ=0.64</text>
+  <text font-family="sans-serif" font-size="9" x="418" y="82" text-anchor="middle" fill="#888">73% recovery · 40–60% context loss</text>
+  <line x1="418" y1="90" x2="418" y2="100" stroke="#E24B4A" stroke-width="1"/>
 
-```{mermaid}
-graph LR
-    A["500+ Parasite<br/>Variants"]
-    B["Advanced Attack<br/>Simulations"]
-    C["Identity Injection<br/>Attempts"]
-    D["Cascade Attack<br/>Scenarios"]
-    
-    A -->|87% detection| A1["✓ Detected"]
-    B -->|95% prevention| B1["✓ Prevented"]
-    C -->|89% blocking| C1["✓ Blocked"]
-    D -->|91% interruption| D1["✓ Interrupted"]
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style D fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style A1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style C1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+  <!-- Bottom note -->
+  <rect x="60" y="230" width="560" height="24" rx="4" fill="#f9f9f9" stroke="#ddd" stroke-width="0.5"/>
+  <text font-family="sans-serif" font-size="10" x="340" y="246" text-anchor="middle" fill="#555">87% correlation to cascade events · 15–45 min early warning · validated across 1,200+ operational incidents</text>
+</svg>
 
-**Figure 8:** Threat defense performance. **500+ Parasite Variants**: 87% detection. **Advanced Attack Simulations**: 95% prevention. **Identity Injection Attempts**: 89% blocking. **Cascade Attack Scenarios**: 91% interruption.
+*Figure 2: Four operational threshold zones. The Phoenix trigger (τ=0.30) is the critical intervention point — above it, cascade dynamics require external correction. The emergency threshold (τ=0.64) marks where cascades achieve self-sustaining momentum and recovery becomes uncertain.*
 
 ---
 
-## 9. System Stability Improvement
+## Figure 3: Torque as Universal Infrastructure — Four Framework Integrations
 
-```{mermaid}
-graph LR
-    A["Baseline<br/>68%"]
-    B["Real-Time Torque<br/>91%"]
-    
-    A -->|+34%| B
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-```
+<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr-t" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M1 2L8 5L1 8" fill="none" stroke="#F9C84A" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+  </defs>
 
-**Figure 9:** System stability improvement. **Baseline** (68% stability) improved to **Real-Time Torque** (91% stability) = **+34% improvement**.
+  <!-- Torque core -->
+  <rect x="230" y="140" width="220" height="70" rx="10" fill="#131B2C" stroke="#F9C84A" stroke-width="2"/>
+  <text font-family="sans-serif" font-size="14" font-weight="700" x="340" y="165" text-anchor="middle" fill="#F9C84A">TORQUE v2.0</text>
+  <text font-family="sans-serif" font-size="10" x="340" y="182" text-anchor="middle" fill="#aaa">τ = √(v²_drift + (1−cos θ)²) × (1−λ)</text>
+  <text font-family="sans-serif" font-size="9" x="340" y="200" text-anchor="middle" fill="#888">Universal coherence measurement infrastructure</text>
 
----
+  <!-- UCA (top left) -->
+  <rect x="30" y="30" width="180" height="80" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="120" y="54" text-anchor="middle" fill="#26215C">UCA v3.1</text>
+  <text font-family="sans-serif" font-size="9" x="120" y="70" text-anchor="middle" fill="#3C3489">Universal Cognitive Architecture</text>
+  <text font-family="sans-serif" font-size="9" x="120" y="84" text-anchor="middle" fill="#3C3489">89% harmony · 98% sync resilience</text>
+  <rect x="46" y="90" width="148" height="14" rx="3" fill="#534AB7" fill-opacity="0.12"/>
+  <text font-family="sans-serif" font-size="8" x="120" y="101" text-anchor="middle" fill="#26215C">Continuous stability validation</text>
 
-## 10. Integration with Synoetic OS
+  <!-- SLV (top right) -->
+  <rect x="470" y="30" width="180" height="80" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="560" y="54" text-anchor="middle" fill="#042C53">SLV v1.2</text>
+  <text font-family="sans-serif" font-size="9" x="560" y="70" text-anchor="middle" fill="#0C447C">Sovereign Lattice Veil</text>
+  <text font-family="sans-serif" font-size="9" x="560" y="84" text-anchor="middle" fill="#0C447C">90% detection · &lt;2% false positive</text>
+  <rect x="476" y="90" width="148" height="14" rx="3" fill="#185FA5" fill-opacity="0.12"/>
+  <text font-family="sans-serif" font-size="8" x="560" y="101" text-anchor="middle" fill="#042C53">Torque → Phase 2 activation</text>
 
-```{mermaid}
-graph LR
-    A["Torque v2.0<br/>Coherence Monitoring"]
-    
-    B["UTME v1.0<br/>Temporal Memory"]
-    C["Phoenix v2.0<br/>Recovery"]
-    D["PME v1.0<br/>Prediction"]
-    E["DCN v1.0<br/>Coordination"]
-    
-    A --> B & C & D & E
-    
-    style A fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style B fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#F9C84A,stroke:#131B2C,stroke-width:2px,color:#000
-    style E fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-```
+  <!-- CSFC (bottom left) -->
+  <rect x="30" y="250" width="180" height="80" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="120" y="274" text-anchor="middle" fill="#412402">CSFC</text>
+  <text font-family="sans-serif" font-size="9" x="120" y="290" text-anchor="middle" fill="#633806">Complete Symbolic Fracture Cascade</text>
+  <text font-family="sans-serif" font-size="9" x="120" y="304" text-anchor="middle" fill="#633806">99% Stage 1 prevention</text>
+  <rect x="46" y="310" width="148" height="14" rx="3" fill="#BA7517" fill-opacity="0.12"/>
+  <text font-family="sans-serif" font-size="8" x="120" y="321" text-anchor="middle" fill="#412402">τ maps to 6 cascade stages</text>
 
-**Figure 10:** Torque v2.0 integration with Synoetic OS. **Coherence Monitoring** feeds **UTME v1.0** (Temporal Memory), **Phoenix v2.0** (Recovery), **PME v1.0** (Prediction), and **DCN v1.0** (Coordination).
+  <!-- Phoenix (bottom right) -->
+  <rect x="470" y="250" width="180" height="80" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
+  <text font-family="sans-serif" font-size="12" font-weight="600" x="560" y="274" text-anchor="middle" fill="#4A1B0C">Phoenix v2.0</text>
+  <text font-family="sans-serif" font-size="9" x="560" y="290" text-anchor="middle" fill="#712B13">Recovery Protocol</text>
+  <text font-family="sans-serif" font-size="9" x="560" y="304" text-anchor="middle" fill="#712B13">98.2% success · 87% context</text>
+  <rect x="476" y="310" width="148" height="14" rx="3" fill="#993C1D" fill-opacity="0.12"/>
+  <text font-family="sans-serif" font-size="8" x="560" y="321" text-anchor="middle" fill="#4A1B0C">Triggers when τ &lt; 0.30</text>
 
----
+  <!-- Arrows from Torque to each framework -->
+  <line x1="230" y1="160" x2="210" y2="100" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
+  <line x1="450" y1="160" x2="470" y2="100" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
+  <line x1="260" y1="210" x2="210" y2="270" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
+  <line x1="420" y1="210" x2="470" y2="270" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
+</svg>
 
-## Performance Metrics Summary
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| Early Warning Accuracy | 95% | ✅ Pre-failure detection |
-| Warning Lead Time | 15-30 min | ✅ Actionable |
-| Cascade Prevention | 89% | ✅ +287% vs. baseline |
-| Recovery Time | 90 seconds | ✅ 98% reduction |
-| System Stability | 91% | ✅ +34% vs. baseline |
-| Parasite Detection | 87% | ✅ 500+ variants |
-| Attack Prevention | 95% | ✅ Advanced simulations |
-| Identity Injection Blocking | 89% | ✅ Defended |
-| Cascade Interruption | 91% | ✅ Prevented |
-
----
-
-## Color Palette Reference
-
-All visualizations use the **VGS (ValorGrid Solutions) Design Palette** for consistency:
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Navy | #131B2C | Baseline, threats, deep states |
-| Cyan | #34D8EA | Torque output, results, success |
-| Blue | #3576F6 | Processing, monitoring, sensors |
-| Gold | #F9C84A | Alerts, decision points, thresholds |
+*Figure 3: Torque as universal measurement infrastructure. The same τ scalar drives four distinct frameworks — detection (UCA), defense (SLV), cascade mapping (CSFC), and recovery (Phoenix). No framework operates independently; all receive Torque readings as their core input.*
 
 ---
 
-*[← Back to Paper](index.html) | [Cross-References →](torque-v2.0-cross-references.html) | [Bibliography →](torque-v2.0-master-bibliography.html)*
+## Key Statistics Reference
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+| Metric | Value |
+|--------|-------|
+| **Predictive accuracy** | 87% correlation to cascade events |
+| **Early warning window** | 15–45 minutes before failure |
+| **Incidents validated** | 1,200+ |
+| **Statistical significance** | p &lt; 0.001 |
+| **Phoenix trigger** | τ = 0.30 → 98.2% recovery |
+| **Emergency threshold** | τ = 0.64 → 73% recovery |
+| **UCA harmony score** | 89% |
+| **SLV detection rate** | 90% (< 2% false positives) |
+| **CSFC Stage 1 prevention** | 99% |
+| **Measurement window** | 60 seconds continuous |
+
+---
+
+*© 2025 Aaron M. Slusher, ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750)*
