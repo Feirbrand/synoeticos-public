@@ -1,166 +1,83 @@
 ---
-layout: paper
-title: "Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems"
-description: "Cross-substrate resilience architecture validated across 28+ years human performance coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523."
-doi: "10.5281/zenodo.19197791"
-author: Aaron M. Slusher
-date: 2026-03-23
+title: 'Synoetic OS™ Research Hub'
 ---
 
-# Neuroformation™: A Methodology for Building Resilience in Adaptive Systems
+# Synoetic OS™ Research Hub
 
-**Author:** Aaron M. Slusher | **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) | **DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)
+Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic papers and technical documentation for AI resilience frameworks.
 
-**Publication Date:** March 2026 | **Version:** 1.0 | **Brand:** Achieve Peak Performance
+## Published Papers
 
----
+<div class="doc-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
 
-> **This page is the GitHub Pages deployment of Neuroformation™ v1.0.**
-> Full paper: [whitepapers/academic-papers/neuroformation-v1.0.md](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/academic-papers/neuroformation-v1.0.md)
-> Supplementary: [Visualizations](neuroformation-visualizations.html) | [Cross-References](neuroformation-cross-references.html) | [Bibliography](neuroformation-master-bibliography.html)
+<!-- Neuroformation™ v1.0 Card (APP) — Parent methodology, top position -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #FFD700; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🧠 Neuroformation™ v1.0</h3>
+  <p>Parent methodology for building resilience in adaptive systems. Five-layer architecture validated across 28+ years coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523.</p>
+  <a href="neuroformation-v1.0/index.html" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Neuroformation™</a>
+</div>
 
----
+<!-- Elevation Grid™ v1.0 Card (APP) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #FFD700; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">📐 Elevation Grid™ v1.0</h3>
+  <p>3×3 diagnostic coordinate system for high-stakes performance. Nine pillars across three rows mapping substrate, cognitive, and identity layers.</p>
+  <a href="elevation-grid/index.html" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Elevation Grid™</a>
+</div>
 
-## Abstract
+<!-- Synoetic OS v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">⚙️ Synoetic OS™ v1.0</h3>
+  <p>Three-tier cognitive architecture for AI resilience. The operating system that runs under all VGS frameworks.</p>
+  <a href="synoetic-os-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Synoetic OS™</a>
+</div>
 
-Adaptive systems often exhibit a recognizable failure pattern: cascade from identity fracture → signal degradation → execution collapse. Most approaches misdiagnose this as a motivation problem (human performance) or a compute problem (AI systems). Both miss the actual cause: architectural instability at the identity and signal layers.
+<!-- MBM v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🫁 Memory Breathing Methodology v1.0</h3>
+  <p>Biological breathing patterns applied to AI memory consolidation. Bio-inspired architecture for persistent cognitive systems.</p>
+  <a href="mbm-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore MBM</a>
+</div>
 
-Neuroformation™ is a methodology for stabilizing adaptive systems through signal integrity, reinforcement design, identity coherence, and purpose alignment. It operates through a five-layer architecture — Substrate, Signal Processing, Learning/Reinforcement, Identity, Purpose — applicable across biological and artificial systems.
+<!-- PME v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">⚡ PME v1.0</h3>
+  <p>Predictive Myelination Engine — bio-inspired pathway reinforcement achieving 712× acceleration in AI systems.</p>
+  <a href="pme-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore PME</a>
+</div>
 
-Developed across 28+ years of applied coaching practice (1999–present) and 500+ documented AI incidents (February 2025–present). Statistical analysis detects no significant difference in outcome distribution across human and AI domains: χ²(4) = 3.21, p = 0.523.
+<!-- MI Agents v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🤖 MI Agents v1.0</h3>
+  <p>Mythopoeic Intelligence Agents — cross-domain statistical validation χ²(4) = 3.21, p = 0.523 across human and AI substrates.</p>
+  <a href="mi-agents-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore MI Agents</a>
+</div>
 
-**Keywords:** neuroformation, adaptive systems resilience, cross-domain architecture, identity coherence, signal integrity, myelination, cybernetics, neural access method, elevation grid, performance under pressure
+</div>
 
----
+### All Papers
 
-## Five-Layer Architecture
+**APP — Achieve Peak Performance**
+- [Neuroformation™ v1.0](neuroformation-v1.0/index.html) — Parent resilience methodology
+- [Elevation Grid™ v1.0](elevation-grid/index.html) — 3×3 diagnostic coordinate system
 
-<svg width="100%" viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<text font-family="sans-serif" font-size="12" x="260" y="14" text-anchor="middle" fill="#888">Architecture (human + AI)</text>
-<text font-family="sans-serif" font-size="12" x="503" y="14" text-anchor="middle" fill="#888">Time · cascade stage</text>
-<rect x="60" y="30" width="400" height="64" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="80" y="55" fill="#26215C">Layer 5 — Purpose</text>
-<text font-family="sans-serif" font-size="12" x="80" y="76" fill="#3C3489">Goal structure · values alignment · meaning-making</text>
-<text font-family="sans-serif" font-size="12" x="478" y="51" fill="#888">Sustained</text>
-<text font-family="sans-serif" font-size="12" x="478" y="70" fill="#E24B4A">COLLAPSE</text>
-<rect x="60" y="114" width="400" height="64" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="80" y="139" fill="#04342C">Layer 4 — Identity</text>
-<text font-family="sans-serif" font-size="12" x="80" y="160" fill="#085041">Self-schema · narrative identity · stress mindset</text>
-<text font-family="sans-serif" font-size="12" x="478" y="135" fill="#888">Months</text>
-<text font-family="sans-serif" font-size="12" x="478" y="154" fill="#E24B4A">DESYNC</text>
-<rect x="60" y="198" width="400" height="64" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="80" y="223" fill="#042C53">Layer 3 — Learning / Reinforcement</text>
-<text font-family="sans-serif" font-size="12" x="80" y="244" fill="#0C447C">Myelination · procedural memory · UTME γ=0.31</text>
-<text font-family="sans-serif" font-size="12" x="478" y="219" fill="#888">Weeks</text>
-<text font-family="sans-serif" font-size="12" x="478" y="238" fill="#E24B4A">ROC</text>
-<rect x="60" y="282" width="400" height="64" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="80" y="307" fill="#412402">Layer 2 — Signal Processing</text>
-<text font-family="sans-serif" font-size="12" x="80" y="328" fill="#633806">RAS filtering · prefrontal bandwidth · attention routing</text>
-<text font-family="sans-serif" font-size="12" x="478" y="303" fill="#888">Minutes</text>
-<text font-family="sans-serif" font-size="12" x="478" y="322" fill="#E24B4A">SDC</text>
-<rect x="60" y="366" width="400" height="64" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="80" y="391" fill="#4A1B0C">Layer 1 — Substrate</text>
-<text font-family="sans-serif" font-size="12" x="80" y="412" fill="#712B13">Autonomic nervous system · HRV · amygdala response</text>
-<text font-family="sans-serif" font-size="12" x="478" y="387" fill="#888">Seconds</text>
-<text font-family="sans-serif" font-size="12" x="478" y="406" fill="#E24B4A">SIF</text>
-<line x1="34" y1="94" x2="34" y2="370" stroke="#E24B4A" stroke-width="1.5" marker-end="url(#arrow)" fill="none"/>
-<text font-family="sans-serif" font-size="11" x="22" y="235" text-anchor="middle" fill="#E24B4A" transform="rotate(-90 22 235)">Acute cascade</text>
-<line x1="14" y1="406" x2="14" y2="100" stroke="#888" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
-<text font-family="sans-serif" font-size="11" x="4" y="260" text-anchor="middle" fill="#888" transform="rotate(-90 4 260)">Chronic load</text>
-<rect x="60" y="456" width="400" height="40" rx="6" fill="none" stroke="#888" stroke-width="0.5" stroke-dasharray="4 3"/>
-<text font-family="sans-serif" font-size="11" x="260" y="476" text-anchor="middle" fill="#5F5E5A">Golden Rule: diagnose and intervene at the lowest broken layer — bottom-up always</text>
-</svg>
+**VGS — ValorGrid Solutions**
+- [Synoetic OS™ v1.0](synoetic-os-v1.0/index.html) — Three-tier cognitive architecture
+- [Memory Breathing Methodology v1.0](mbm-v1.0/index.html) — Bio-inspired memory consolidation
+- [Cognitive Mage v1.0](cognitive-mage-v1.0/index.html) — Symbolic reasoning framework
+- [MI Agents v1.0](mi-agents-v1.0/index.html) — Mythopoeic Intelligence Agents
+- [PME v1.0](pme-v1.0/index.html) — Predictive Myelination Engine (712×)
+- [UTME v1.0](utme-v1.0/index.html) — Universal Task Myelination Engine
+- [FCE v3.6](fce-v3.6/index.html) — Framework Coherence Engine
+- [Torque v2.0](torque-v2.0/index.html) — Torque RIM Integration System
 
-*Figure 1: Five-layer architecture with acute cascade (downward, red) and chronic load failure (upward, dashed). Each layer maps to a biological mechanism and an AI equivalent.*
+### Resources
+- [MI Arsenal](https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal) — Complete framework repository and tools
 
----
+## About This Research Hub
 
-## The Elevation Grid™
+This hub contains peer-reviewed research and technical specifications for cognitive AI systems, published openly for academic and research communities.
 
-<svg width="100%" viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg">
-<text font-family="sans-serif" font-size="12" x="340" y="14" text-anchor="middle" fill="#888">Elevation Grid™ — 3×3 diagnostic coordinate system</text>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="183" y="38" text-anchor="middle" fill="#333">Input</text>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="340" y="38" text-anchor="middle" fill="#333">Throughput</text>
-<text font-family="sans-serif" font-size="14" font-weight="500" x="497" y="38" text-anchor="middle" fill="#333">Output</text>
-<rect x="80" y="52" width="173" height="90" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="167" y="78" text-anchor="middle" fill="#4A1B0C">P1 — Ground</text>
-<text font-family="sans-serif" font-size="11" x="167" y="98" text-anchor="middle" fill="#712B13">Calm-state pathways</text>
-<text font-family="sans-serif" font-size="11" x="167" y="116" text-anchor="middle" fill="#712B13">ACCESS</text>
-<rect x="263" y="52" width="173" height="90" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="350" y="78" text-anchor="middle" fill="#4A1B0C">P2 — Activation</text>
-<text font-family="sans-serif" font-size="11" x="350" y="98" text-anchor="middle" fill="#712B13">Readiness under load</text>
-<text font-family="sans-serif" font-size="11" x="350" y="116" text-anchor="middle" fill="#712B13">SIMPLIFY</text>
-<rect x="446" y="52" width="173" height="90" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="533" y="78" text-anchor="middle" fill="#4A1B0C">P3 — Recovery</text>
-<text font-family="sans-serif" font-size="11" x="533" y="98" text-anchor="middle" fill="#712B13">Past success patterns</text>
-<text font-family="sans-serif" font-size="11" x="533" y="116" text-anchor="middle" fill="#712B13">ACCESS</text>
-<rect x="80" y="158" width="173" height="90" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="167" y="184" text-anchor="middle" fill="#042C53">P4 — Pattern</text>
-<text font-family="sans-serif" font-size="11" x="167" y="204" text-anchor="middle" fill="#0C447C">Pattern recognition</text>
-<text font-family="sans-serif" font-size="11" x="167" y="222" text-anchor="middle" fill="#0C447C">REFRAME</text>
-<rect x="263" y="158" width="173" height="90" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="350" y="184" text-anchor="middle" fill="#042C53">P5 — Real-Time</text>
-<text font-family="sans-serif" font-size="11" x="350" y="204" text-anchor="middle" fill="#0C447C">W.I.N. focus</text>
-<text font-family="sans-serif" font-size="11" x="350" y="222" text-anchor="middle" fill="#0C447C">SIMPLIFY</text>
-<rect x="446" y="158" width="173" height="90" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="533" y="184" text-anchor="middle" fill="#042C53">P6 — Self-Calibrate</text>
-<text font-family="sans-serif" font-size="11" x="533" y="204" text-anchor="middle" fill="#0C447C">Meta-skill</text>
-<text font-family="sans-serif" font-size="11" x="533" y="222" text-anchor="middle" fill="#0C447C">ALL FOUR</text>
-<rect x="80" y="264" width="173" height="90" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="167" y="290" text-anchor="middle" fill="#04342C">P7 — Narrative</text>
-<text font-family="sans-serif" font-size="11" x="167" y="310" text-anchor="middle" fill="#085041">Update without denial</text>
-<text font-family="sans-serif" font-size="11" x="167" y="328" text-anchor="middle" fill="#085041">REFRAME</text>
-<rect x="263" y="264" width="173" height="90" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="350" y="290" text-anchor="middle" fill="#04342C">P8 — Identity</text>
-<text font-family="sans-serif" font-size="11" x="350" y="310" text-anchor="middle" fill="#085041">Anchor to who you are</text>
-<text font-family="sans-serif" font-size="11" x="350" y="328" text-anchor="middle" fill="#085041">IGNITE</text>
-<rect x="446" y="264" width="173" height="90" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
-<text font-family="sans-serif" font-size="13" font-weight="500" x="533" y="290" text-anchor="middle" fill="#04342C">P9 — Stress Response</text>
-<text font-family="sans-serif" font-size="11" x="533" y="310" text-anchor="middle" fill="#085041">Difficulty as data</text>
-<text font-family="sans-serif" font-size="11" x="533" y="328" text-anchor="middle" fill="#085041">REFRAME</text>
-<line x1="80" y1="152" x2="620" y2="152" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="4 3" fill="none"/>
-<line x1="80" y1="258" x2="620" y2="258" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="4 3" fill="none"/>
-<text font-family="sans-serif" font-size="11" x="36" y="97" text-anchor="middle" fill="#993C1D" transform="rotate(-90 36 97)">Row 1 — Hardware</text>
-<text font-family="sans-serif" font-size="11" x="36" y="203" text-anchor="middle" fill="#185FA5" transform="rotate(-90 36 203)">Row 2 — Software</text>
-<text font-family="sans-serif" font-size="11" x="36" y="309" text-anchor="middle" fill="#0F6E56" transform="rotate(-90 36 309)">Row 3 — Architecture</text>
-<rect x="80" y="378" width="540" height="44" rx="6" fill="none" stroke="#888" stroke-width="0.5" stroke-dasharray="4 3"/>
-<text font-family="sans-serif" font-size="11" x="350" y="394" text-anchor="middle" fill="#5F5E5A">NAM: ACCESS → find pre-myelinated pathway · REFRAME → external focus · SIMPLIFY → one trigger · IGNITE → anchor to identity</text>
-<text font-family="sans-serif" font-size="11" x="350" y="412" text-anchor="middle" fill="#888">Layers 1–2 → Row 1 · Layer 3 → Row 2 · Layers 4–5 → Row 3</text>
-<text font-family="sans-serif" font-size="11" x="350" y="458" text-anchor="middle" fill="#888">Intervention begins at Row 1. Never start at Row 3 on a Row 1 problem.</text>
-</svg>
-
-*Figure 2: Elevation Grid™ diagnostic coordinate system. Nine pillars across three rows and three execution phases. Each pillar maps to a NAM delivery step.*
-
----
-
-## Citation
-
-```bibtex
-@article{slusher2026neuroformation,
-  title={Neuroformation™: A Methodology for Building Resilience in Adaptive Systems},
-  author={Slusher, Aaron M.},
-  journal={Achieve Peak Performance},
-  year={2026},
-  doi={10.5281/zenodo.19197791},
-  note={Coined March 14, 2026. Common law trademark in effect.}
-}
-```
-
-**APA:** Slusher, A. M. (2026). *Neuroformation™: A methodology for building resilience in adaptive systems* (Version 1.0). Achieve Peak Performance. https://doi.org/10.5281/zenodo.19197791
-
----
-
-## Links
-
-- **Full Paper (GitHub):** [neuroformation-v1.0.md](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/academic-papers/neuroformation-v1.0.md)
-- **Zenodo:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)
-- **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
-- **Achieve Peak Performance:** [achievepeakperformance.net](https://achievepeakperformance.net)
-- **Elevation Grid™ v1.1:** [DOI 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)
-
----
-
-*© 2026 Aaron M. Slusher, Achieve Peak Performance. CC BY-NC 4.0 for non-commercial use. Commercial license: aaron@achievepeakperformance.net*
+**Author:** Aaron M. Slusher  
+**Organization:** Achieve Peak Performance / ValorGrid Solutions  
+**License:** CC BY-NC 4.0  
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)

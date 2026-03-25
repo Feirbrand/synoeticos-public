@@ -9,33 +9,69 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
 ## Published Papers
 
 <div class="doc-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
-    
-<!-- Neuroformation™ v1.0 Card (APP) -->
+
+<!-- Neuroformation™ v1.0 Card (APP) — Parent methodology, top position -->
 <div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #FFD700; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <h3 style="color: #001f3f; margin-top: 0;">🧠 Neuroformation™ v1.0</h3>
-  <p>Parent methodology for building resilience in adaptive systems. Five-layer architecture validated across 28+ years coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523 — no significant difference across biological and artificial systems.</p>
-  <a href="neuroformation-v1.0/" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Neuroformation™</a>
+  <p>Parent methodology for building resilience in adaptive systems. Five-layer architecture validated across 28+ years coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523.</p>
+  <a href="neuroformation-v1.0/index.html" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Neuroformation™</a>
+</div>
+
+<!-- Elevation Grid™ v1.0 Card (APP) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #FFD700; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">📐 Elevation Grid™ v1.0</h3>
+  <p>3×3 diagnostic coordinate system for high-stakes performance. Nine pillars across three rows mapping substrate, cognitive, and identity layers.</p>
+  <a href="elevation-grid/index.html" class="btn" style="display: inline-block; background: #FFD700; color: #001f3f; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Elevation Grid™</a>
+</div>
+
+<!-- Synoetic OS v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">⚙️ Synoetic OS™ v1.0</h3>
+  <p>Three-tier cognitive architecture for AI resilience. The operating system that runs under all VGS frameworks.</p>
+  <a href="synoetic-os-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Synoetic OS™</a>
+</div>
+
+<!-- MBM v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🫁 Memory Breathing Methodology v1.0</h3>
+  <p>Biological breathing patterns applied to AI memory consolidation. Bio-inspired architecture for persistent cognitive systems.</p>
+  <a href="mbm-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore MBM</a>
+</div>
+
+<!-- PME v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">⚡ PME v1.0</h3>
+  <p>Predictive Myelination Engine — bio-inspired pathway reinforcement achieving 712× acceleration in AI systems.</p>
+  <a href="pme-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore PME</a>
+</div>
+
+<!-- MI Agents v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🤖 MI Agents v1.0</h3>
+  <p>Mythopoeic Intelligence Agents — cross-domain statistical validation χ²(4) = 3.21, p = 0.523 across human and AI substrates.</p>
+  <a href="mi-agents-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore MI Agents</a>
 </div>
 
 </div>
 
-### Core Architecture
-- [Synoetic OS v1.0](synoetic-os-v1.0/index.html) - Three-tier cognitive architecture for AI resilience
-- [Elevation Grid v1.0](elevation-grid/index.html) - Multi-dimensional performance mapping system
+### All Papers
 
-### Memory & Cognitive Systems
-- [Memory Breathing Methodology v1.0](mbm-v1.0/index.html) - Biological breathing patterns for AI memory consolidation
-- [Cognitive Mage v1.0](cognitive-mage-v1.0/index.html) - Symbolic reasoning framework
-- [MI Agents v1.0](mi-agents-v1.0/index.html) - Mythopoeic Intelligence Agents
+**APP — Achieve Peak Performance**
+- [Neuroformation™ v1.0](neuroformation-v1.0/index.html) — Parent resilience methodology
+- [Elevation Grid™ v1.0](elevation-grid/index.html) — 3×3 diagnostic coordinate system
 
-### Acceleration & Performance
-- [PME v1.0](pme-v1.0/index.html) - Predictive Myelination Engine (712× acceleration)
-- [UTME v1.0](utme-v1.0/index.html) - Universal Task Myelination Engine
-- [FCE v3.6](fce-v3.6/index.html) - Framework Coherence Engine
-- [Torque v2.0](torque-v2.0/index.html) - Torque RIM Integration System
+**VGS — ValorGrid Solutions**
+- [Synoetic OS™ v1.0](synoetic-os-v1.0/index.html) — Three-tier cognitive architecture
+- [Memory Breathing Methodology v1.0](mbm-v1.0/index.html) — Bio-inspired memory consolidation
+- [Cognitive Mage v1.0](cognitive-mage-v1.0/index.html) — Symbolic reasoning framework
+- [MI Agents v1.0](mi-agents-v1.0/index.html) — Mythopoeic Intelligence Agents
+- [PME v1.0](pme-v1.0/index.html) — Predictive Myelination Engine (712×)
+- [UTME v1.0](utme-v1.0/index.html) — Universal Task Myelination Engine
+- [FCE v3.6](fce-v3.6/index.html) — Framework Coherence Engine
+- [Torque v2.0](torque-v2.0/index.html) — Torque RIM Integration System
 
 ### Resources
-- [MI Arsenal](https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal) - Complete framework repository and tools
+- [MI Arsenal](https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal) — Complete framework repository and tools
 
 ## About This Research Hub
 
@@ -44,4 +80,4 @@ This hub contains peer-reviewed research and technical specifications for cognit
 **Author:** Aaron M. Slusher  
 **Organization:** Achieve Peak Performance / ValorGrid Solutions  
 **License:** CC BY-NC 4.0  
-**ORCID:** 0009-0000-9923-3207
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)

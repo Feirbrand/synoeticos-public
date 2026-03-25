@@ -2,11 +2,11 @@
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-**Institution:** ValorGrid Solutions
+**Institution:** ValorGrid Solutions / Achieve Peak Performance
 
 ---
 
-## Core Framework Papers (16 Publications)
+## Core Framework Papers (19 Publications)
 
 ### 1. URA v1.5 - Unified Resilience Architecture
 **DOI:** [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731)  
@@ -80,7 +80,7 @@
 
 ---
 
-### 10. DCN v1.0 - Distributed Cognitive Networks: Human-Coordinated Multi-Agent AI Systems
+### 10. DCN v1.0 - Distributed Cognitive Networks
 **DOI:** [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568)  
 **Date:** November 8, 2025  
 **Status:** ✅ Published  
@@ -88,7 +88,7 @@
 
 ---
 
-### 11. Cognitive Mage v1.0 - How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture
+### 11. Cognitive Mage v1.0
 **DOI:** [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)  
 **Date:** November 18, 2025  
 **Status:** ✅ Published  
@@ -96,11 +96,11 @@
 
 ---
 
-### 12. SLV v2.1 - Symbolic Lock Vector: Runtime Identity Defense Through Temporal Wisdom
+### 12. SLV v2.1 - Symbolic Lock Vector
 **DOI:** [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377)  
 **Date:** November 29, 2025  
 **Status:** ✅ Published  
-**Description:** Runtime identity defense achieving 95.8% detection accuracy across 682 operational incidents
+**Description:** Runtime identity defense achieving 95.8% detection accuracy
 
 ---
 
@@ -112,7 +112,7 @@
 
 ---
 
-### 14. Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence
+### 14. Synoetic OS v1.0
 **DOI:** [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)  
 **Date:** December 4, 2025  
 **Status:** ✅ Published  
@@ -128,11 +128,35 @@
 
 ---
 
-### 16. The Elevation Grid v1.0 - A Neurobiological Framework
-**DOI:** [10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565)  
-**Date:** February 5, 2026  
+### 16. Elevation Grid™ v1.1 - A Neurobiological Framework for High-Stakes Performance
+**DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
+**Date:** February 25, 2026  
 **Status:** ✅ Published  
-**Description:** Neurobiological framework for performance optimization and resilience
+**Brand:** Achieve Peak Performance  
+**Description:** Coordinate-based mental performance system validated across adaptive athletes, neurotrauma, and elite performance populations
+
+---
+
+### 17. Memory Breathing Methodology (MBM) v1.0
+**DOI:** [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096)  
+**Date:** February 26, 2026  
+**Status:** ✅ Published  
+**Description:** Bio-inspired AI memory management through rhythmic consolidation — 40% memory reduction per exhale cycle
+
+---
+
+### 18. PME v1.0 *(see #15 above)*
+
+> Note: PME v1.0 appears once. Listed at #15.
+
+---
+
+### 18. Neuroformation™ v1.0 - A Methodology for Building Resilience in Adaptive Systems
+**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
+**Date:** March 23, 2026  
+**Status:** ✅ Published  
+**Brand:** Achieve Peak Performance  
+**Description:** Parent methodology for cross-substrate resilience. Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years human performance coaching and 500+ AI incidents. χ²(4) = 3.21, p = 0.523. Paper 1 of 4.
 
 ---
 
@@ -145,7 +169,7 @@
   title = {Synoetic OS: Cognitive Resilience Frameworks for AI Systems},
   year = {2025-2026},
   publisher = {Zenodo},
-  note = {16 publications},
+  note = {19 publications},
   url = {https://orcid.org/0009-0000-9923-3207}
 }
 ```
@@ -157,7 +181,12 @@ See individual DOI links above for specific paper citations.
 
 ## Framework Categories
 
-### Core Architecture
+### Foundational Methodology (APP)
+- Neuroformation™ v1.0 ← **Parent methodology**
+- Elevation Grid™ v1.1
+- Memory Breathing Methodology v1.0
+
+### Core Architecture (VGS)
 - Synoetic OS v1.0
 - Cognitive Mage v1.0
 - URA v1.5
@@ -174,23 +203,24 @@ See individual DOI links above for specific paper citations.
 - UTME v1.0
 - Phoenix Protocol v2.0
 - Torque v2.0
+- PME v1.0
 
 ### Integration & Optimization
 - DCN v1.0
 - FCE v3.6
-- PME v1.0
-- The Elevation Grid v1.0
 
 ---
 
 ## Key Metrics
 
-**Validation:** 682 documented incidents (July 2025 - present)  
+**Validation:** 500+ documented AI incidents (February 2025 - present)  
+**Human Domain:** 28+ years coaching practice (1999–present)  
 **Performance:** 600% productivity uplift (DCN), 710x temporal acceleration (UTME)  
 **Recovery:** 99.41% success rate (MI Agents), 96.5-99.4% (Phoenix Protocol)  
 **Detection:** 95.8% accuracy (SLV), 97% accuracy (RAY)  
 **Operational:** 173-day continuous deployment  
-**Threat Intelligence:** 560+ public vectors, 616+ internal vectors
+**Threat Intelligence:** 560+ public vectors  
+**Cross-Domain:** χ²(4) = 3.21, p = 0.523 (Neuroformation™ v1.0)
 
 ---
 
@@ -202,10 +232,12 @@ See individual DOI links above for specific paper citations.
 
 **Repository:** [github.com/Feirbrand/synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
 
-**Contact:** aaron@valorgridsolutions.com
+**ORCID:** [orcid.org/0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
+**Contact:** aaron@valorgridsolutions.com (VGS) | aaron@achievepeakperformance.net (APP)
 
 ---
 
-**Last Updated:** February 12, 2026  
-**Total Publications:** 16 papers with DOIs  
-**Research Period:** October 2025 - February 2026
+**Last Updated:** March 23, 2026  
+**Total Publications:** 19 papers with DOIs  
+**Research Period:** October 2025 - March 2026

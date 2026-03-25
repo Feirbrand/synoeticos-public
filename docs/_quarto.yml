@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: neuroformation-v1.0/index.qmd
+        text: Neuroformation™
       - href: elevation-grid/index.qmd
-        text: Elevation Grid
-      - href: synoetic-os-v1.0/index.qmd
-        text: Synoetic OS
+        text: Elevation Grid™
       - text: More Papers
         menu:
+          - href: synoetic-os-v1.0/index.qmd
+            text: Synoetic OS v1.0
           - href: pme-v1.0/index.qmd
             text: PME v1.0
           - href: utme-v1.0/index.qmd
@@ -28,8 +30,6 @@ website:
             text: Cognitive Mage v1.0
           - href: mi-agents-v1.0/index.qmd
             text: MI Agents v1.0
-          - href: neuroformation-v1.0/index.qmd
-            text: Neuroformation v1.0
       - text: Resources
         menu:
           - text: MI Arsenal
