@@ -14,6 +14,7 @@ date: "2025-10-15"
 
 Torque (τ) synthesizes three independent failure signals into a single real-time scalar. Unlike traditional monitoring that watches each signal separately, Torque detects cascade initiation 15–45 minutes earlier through composite signal amplification.
 
+```{=html}
 <svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Formula banner -->
@@ -65,6 +66,7 @@ Torque (τ) synthesizes three independent failure signals into a single real-tim
   <text font-family="sans-serif" font-size="10" x="340" y="302" text-anchor="middle" fill="#3C3489">87% correlation to cascade · 15–45 min advance warning · 1,200+ incidents validated</text>
   <text font-family="sans-serif" font-size="10" x="340" y="314" text-anchor="middle" fill="#888">p &lt; 0.001 · non-linear scaling · multi-dimensional stability · damping responsiveness</text>
 </svg>
+```
 
 *Figure 1: Three-component Torque equation. Each component captures an orthogonal failure mode — velocity (rate), alignment (angle), damping (self-correction). Their synthesis into τ detects cascade initiation 15–45 minutes before traditional drift detection triggers.*
 
@@ -72,6 +74,7 @@ Torque (τ) synthesizes three independent failure signals into a single real-tim
 
 ## Figure 2: Four Operational Threshold Zones
 
+```{=html}
 <svg width="100%" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Torque axis -->
@@ -135,6 +138,7 @@ Torque (τ) synthesizes three independent failure signals into a single real-tim
   <rect x="60" y="230" width="560" height="24" rx="4" fill="#f9f9f9" stroke="#ddd" stroke-width="0.5"/>
   <text font-family="sans-serif" font-size="10" x="340" y="246" text-anchor="middle" fill="#555">87% correlation to cascade events · 15–45 min early warning · validated across 1,200+ operational incidents</text>
 </svg>
+```
 
 *Figure 2: Four operational threshold zones. The Phoenix trigger (τ=0.30) is the critical intervention point — above it, cascade dynamics require external correction. The emergency threshold (τ=0.64) marks where cascades achieve self-sustaining momentum and recovery becomes uncertain.*
 
@@ -142,6 +146,7 @@ Torque (τ) synthesizes three independent failure signals into a single real-tim
 
 ## Figure 3: Torque as Universal Infrastructure — Four Framework Integrations
 
+```{=html}
 <svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <marker id="arr-t" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
@@ -193,6 +198,7 @@ Torque (τ) synthesizes three independent failure signals into a single real-tim
   <line x1="260" y1="210" x2="210" y2="270" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
   <line x1="420" y1="210" x2="470" y2="270" stroke="#F9C84A" stroke-width="1.5" marker-end="url(#arr-t)"/>
 </svg>
+```
 
 *Figure 3: Torque as universal measurement infrastructure. The same τ scalar drives four distinct frameworks — detection (UCA), defense (SLV), cascade mapping (CSFC), and recovery (Phoenix). No framework operates independently; all receive Torque readings as their core input.*
 
