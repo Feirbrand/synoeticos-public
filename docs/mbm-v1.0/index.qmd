@@ -371,10 +371,10 @@ graph TB
 
 ## 📖 Documentation
 
-- **[Visualizations](mbm-v1.0-visualizations.html)** — All four Mermaid diagrams with technical specifications
-- **[Cross-References](mbm-v1.0-cross-references.html)** — Framework integration map across MI Arsenal
-- **[Master Bibliography](mbm-v1.0-master-bibliography.html)** — Complete citations and academic validation sources
-- **[Foundational Research](mbm-v1.0-academic.html)** — Full academic version with extended methodology
+- **[Visualizations](mbm-v1_0-visualizations.html)** — All four Mermaid diagrams with technical specifications
+- **[Cross-References](mbm-v1_0-cross-references.html)** — Framework integration map across MI Arsenal
+- **[Master Bibliography](mbm-v1_0-master-bibliography.html)** — Complete citations and academic validation sources
+- **[Foundational Research](mbm-v1_0-academic.html)** — Full academic version with extended methodology
 
 ---
 

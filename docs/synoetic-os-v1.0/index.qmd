@@ -1,13 +1,11 @@
 ---
 title: "Synoetic OS v1.0 - Substrate-Independent AI Orchestration Through Narrative Coherence"
-subtitle: "Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive"
 author: "Aaron M. Slusher"
 date: "2025-12-04"
 doi: "10.5281/zenodo.17808864"
 ---
 
 
-## Substrate-independent orchestration of AI agents through narrative coherence as a kernel primitive
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  

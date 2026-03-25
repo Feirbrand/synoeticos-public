@@ -3,7 +3,7 @@ title: "Torque v2.0 — Visualizations"
 description: "Torque equation, threshold zones, and cascade integration diagrams"
 ---
 
-**Back to:** [Main Paper](index.html) | [Cross-References](torque-v2.0-cross-references.html) | [Bibliography](torque-v2.0-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](torque-v2_0-cross-references.html) | [Bibliography](torque-v2_0-master-bibliography.html)
 
 ---
 

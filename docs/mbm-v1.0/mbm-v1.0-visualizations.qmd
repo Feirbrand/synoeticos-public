@@ -275,5 +275,5 @@ graph TB
 ## Related Documentation
 
 - **[Main Paper](index.html)** — Full MBM v1.0 methodology and research foundation
-- **[Cross-References](mbm-v1.0-cross-references.html)** — Framework integration with UTME, Torque, Phoenix Protocol, SLV, DCN
-- **[Master Bibliography](mbm-v1.0-master-bibliography.html)** — Complete academic citations and validation sources
+- **[Cross-References](mbm-v1_0-cross-references.html)** — Framework integration with UTME, Torque, Phoenix Protocol, SLV, DCN
+- **[Master Bibliography](mbm-v1_0-master-bibliography.html)** — Complete academic citations and validation sources

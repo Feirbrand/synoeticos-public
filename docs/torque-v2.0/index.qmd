@@ -1,6 +1,5 @@
 ---
 title: "Torque v2.0 - Quantitative Foundation for AI Resilience"
-subtitle: "Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure"
 author: "Aaron M. Slusher"
 date: "2025-10-17"
 doi: "10.5281/zenodo.17379750"
@@ -8,7 +7,6 @@ doi: "10.5281/zenodo.17379750"
 ---
 
 
-## Real-time symbolic coherence measurement enabling predictive detection of AI system degradation 15-30 minutes before failure
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) 
@@ -138,10 +136,10 @@ Torque's foundation comes from real-time symbolic monitoring principles and cont
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](torque-v2.0-academic.html)** - Complete technical specification
-- **[Visualizations](torque-v2.0-visualizations.html)** - Mermaid diagrams and charts
-- **[Cross-References](torque-v2.0-cross-references.html)** - Framework connections
-- **[Master Bibliography](torque-v2.0-master-bibliography.html)** - Complete citations
+- **[Full Academic Paper](torque-v2_0-academic.html)** - Complete technical specification
+- **[Visualizations](torque-v2_0-visualizations.html)** - Mermaid diagrams and charts
+- **[Cross-References](torque-v2_0-cross-references.html)** - Framework connections
+- **[Master Bibliography](torque-v2_0-master-bibliography.html)** - Complete citations
 
 ---
 

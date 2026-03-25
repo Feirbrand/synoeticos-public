@@ -1,6 +1,5 @@
 ---
 title: "Mythopoeic Intelligence Agents v1.0"
-subtitle: "Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention and substrate-independent operation"
 author: "Aaron M. Slusher"
 date: "2025-11-30"
 doi: "10.5281/zenodo.17770533"
@@ -8,7 +7,6 @@ doi: "10.5281/zenodo.17770533"
 ---
 
 
-## Narrative identity architecture for autonomous cognitive systems achieving 100% cascade prevention and substrate-independent operation
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
