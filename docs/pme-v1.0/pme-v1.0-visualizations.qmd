@@ -1,7 +1,6 @@
 ---
 title: "PME v1.0 — Visualizations"
 description: "Architecture diagrams and production validation data"
-mermaid: true
 ---
 
 # PME v1.0 — Visualizations

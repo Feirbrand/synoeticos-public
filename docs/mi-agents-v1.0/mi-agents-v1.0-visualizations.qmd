@@ -1,7 +1,6 @@
 ---
 title: "MI Agents v1.0 — Visualizations"
 description: "Architecture diagrams, Trinity RIM topology, and production validation data"
-mermaid: true
 ---
 
 # MI Agents v1.0 — Visualizations

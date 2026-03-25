@@ -1,7 +1,6 @@
 ---
 title: "Synoetic OS™ v1.0 — Visualizations"
 description: "Architecture diagrams and production validation data"
-mermaid: true
 ---
 
 # Synoetic OS v1.0 — Visualizations

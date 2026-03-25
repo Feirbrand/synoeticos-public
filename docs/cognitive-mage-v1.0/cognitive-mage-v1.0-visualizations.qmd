@@ -1,7 +1,6 @@
 ---
 title: "Cognitive Mage v1.0: Visualizations"
 description: "Visual representations of narrative identity architecture, coaching methodology, and symbolic AI systems"
-mermaid: true
 ---
 
 # Cognitive Mage v1.0 — Visualizations

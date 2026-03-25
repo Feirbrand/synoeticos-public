@@ -1,7 +1,6 @@
 ---
 title: "FCE v3.6 — Visualizations"
 description: "Architecture diagrams and performance metrics for Fractal Context Engineering"
-mermaid: true
 ---
 
 # FCE v3.6 — Visualizations

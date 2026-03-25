@@ -1,7 +1,6 @@
 ---
 title: "Torque v2.0 — Visualizations"
 description: "Torque equation, threshold zones, and cascade integration diagrams"
-mermaid: true
 ---
 
 # Torque v2.0 — Visualizations
