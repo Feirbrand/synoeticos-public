@@ -149,10 +149,10 @@ Remove low-value pathways to prevent cache bloat and maintain system entropy.
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](pme-v1.0-academic.html)** - Complete technical specification with implementation details
-- **[Visualizations](pme-v1.0-visualizations.html)** - Mermaid diagrams showing architecture and workflows
-- **[Cross-References](pme-v1.0-cross-references.html)** - Related frameworks and conceptual connections
-- **[Master Bibliography](pme-v1.0-master-bibliography.html)** - Complete citation list (250+ references)
+- **[Full Academic Paper](pme-v1_0-academic.html)** - Complete technical specification with implementation details
+- **[Visualizations](pme-v1_0-visualizations.html)** - Mermaid diagrams showing architecture and workflows
+- **[Cross-References](pme-v1_0-cross-references.html)** - Related frameworks and conceptual connections
+- **[Master Bibliography](pme-v1_0-master-bibliography.html)** - Complete citation list (250+ references)
 
 ---
 

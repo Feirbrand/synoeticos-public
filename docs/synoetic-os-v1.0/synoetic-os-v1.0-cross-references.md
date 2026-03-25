@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Synoetic OS v1.0: Cross-References"
 description: "Framework integration and conceptual connections to related systems"
 ---
@@ -257,6 +256,6 @@ Nine agents coordinating through Synoetic OS:
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

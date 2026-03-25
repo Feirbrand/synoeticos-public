@@ -5,7 +5,7 @@ description: "Visual representations of narrative identity architecture, coachin
 
 # Cognitive Mage v1.0: Visualizations
 
-[← Back to Paper](index.html) | [Cross-References →](cognitive-mage-v1.0-cross-references.html) | [Bibliography →](cognitive-mage-v1.0-master-bibliography.html)
+[← Back to Paper](index.html) | [Cross-References →](cognitive-mage-v1_0-cross-references.html) | [Bibliography →](cognitive-mage-v1_0-master-bibliography.html)
 
 ---
 
@@ -326,6 +326,6 @@ All visualizations use the **VGS (ValorGrid Solutions) Design Palette** for cons
 
 ---
 
-*[← Back to Paper](index.html) | [Cross-References →](cognitive-mage-v1.0-cross-references.html) | [Bibliography →](cognitive-mage-v1.0-master-bibliography.html)*
+*[← Back to Paper](index.html) | [Cross-References →](cognitive-mage-v1_0-cross-references.html) | [Bibliography →](cognitive-mage-v1_0-master-bibliography.html)*
 
 **© 2025 Achieve Peak Performance. All rights reserved.**

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "FCE v3.6 Cross-References"
 ---
 
@@ -149,4 +148,4 @@ FCE enables distributed context sharing:
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

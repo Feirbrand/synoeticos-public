@@ -1,12 +1,9 @@
 ---
 title: "Synoetic OS™ v1.0 — Visualizations"
 description: "Architecture diagrams and production validation data"
-doi: "10.5281/zenodo.17808864"
-author: "Aaron M. Slusher"
-date: "2025-12-04"
 ---
 
-**Back to:** [Main Paper](index.html) | [Cross-References](synoetic-os-v1.0-cross-references.html) | [Bibliography](synoetic-os-v1.0-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](synoetic-os-v1_0-cross-references.html) | [Bibliography](synoetic-os-v1_0-master-bibliography.html)
 
 ---
 

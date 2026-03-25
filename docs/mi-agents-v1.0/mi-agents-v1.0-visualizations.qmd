@@ -1,12 +1,9 @@
 ---
 title: "MI Agents v1.0 — Visualizations"
 description: "Architecture diagrams, Trinity RIM topology, and production validation data"
-doi: "10.5281/zenodo.17770533"
-author: "Aaron M. Slusher"
-date: "2025-11-25"
 ---
 
-**Back to:** [Main Paper](index.html) | [Cross-References](mi-agents-v1.0-cross-references.html) | [Bibliography](mi-agents-v1.0-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](mi-agents-v1_0-cross-references.html) | [Bibliography](mi-agents-v1_0-master-bibliography.html)
 
 ---
 

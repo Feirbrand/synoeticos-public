@@ -1,12 +1,9 @@
 ---
 title: "FCE v3.6 — Visualizations"
 description: "Architecture diagrams and performance metrics for Fractal Context Engineering"
-doi: "10.5281/zenodo.17309322"
-author: "Aaron M. Slusher"
-date: "2025-10-09"
 ---
 
-**Back to:** [Main Paper](index.html) | [Cross-References](fce-v3.6-cross-references.html) | [Bibliography](fce-v3.6-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](fce-v3_6-cross-references.html) | [Bibliography](fce-v3_6-master-bibliography.html)
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Synoetic OS v1.0: Master Bibliography"
 description: "Complete citation list for Synoetic OS research and related frameworks"
 ---
@@ -150,6 +149,6 @@ All research published through Zenodo with DOI verification and reproducible pro
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

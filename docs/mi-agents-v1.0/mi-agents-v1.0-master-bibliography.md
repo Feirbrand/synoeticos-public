@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "MI Agents v1.0 Master Bibliography"
 description: "Complete citations and references for Mythopoeic Intelligence Agents narrative identity research"
 ---
@@ -136,4 +135,4 @@ Slusher, Aaron M. "MI Agents v1.0: Mythopoeic Intelligence Agents - Narrative Id
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

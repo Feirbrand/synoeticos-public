@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "PME v1.0 Cross-References"
 ---
 
@@ -353,6 +352,6 @@ A: Stage 4 (Continuous Reinforcement) corrects predictions in real-time. Over-pr
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

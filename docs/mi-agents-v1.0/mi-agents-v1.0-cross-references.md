@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "MI Agents v1.0 Cross-References"
 description: "Framework integration and dependency mapping for MI Agents within the Synoetic OS ecosystem"
 ---
@@ -180,4 +179,4 @@ Layer 7 (Distribution):  DCN - Collective coordination
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

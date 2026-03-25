@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Torque v2.0 Cross-References"
 description: "Framework integration and dependency mapping for Torque v2.0 within the Synoetic OS ecosystem"
 ---
@@ -144,4 +143,4 @@ Layer 5 (Intelligence):  DNA Codex - Threat pattern analysis
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

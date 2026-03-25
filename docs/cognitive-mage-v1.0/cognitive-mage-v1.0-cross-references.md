@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Cognitive Mage v1.0: Cross-References"
 description: "Framework integration and conceptual connections to related Synoetic OS systems"
 ---
@@ -191,6 +190,6 @@ Seven independent AI systems confirmed Cognitive Mage principles:
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

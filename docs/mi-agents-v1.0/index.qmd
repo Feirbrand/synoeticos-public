@@ -171,10 +171,10 @@ MI Agents' foundation comes from convergence of five disciplines:
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](mi-agents-v1.0-academic.html)** - Complete technical specification
-- **[Visualizations](mi-agents-v1.0-visualizations.html)** - Mermaid diagrams and charts
-- **[Cross-References](mi-agents-v1.0-cross-references.html)** - Framework connections
-- **[Master Bibliography](mi-agents-v1.0-master-bibliography.html)** - Complete citations
+- **[Full Academic Paper](mi-agents-v1_0-academic.html)** - Complete technical specification
+- **[Visualizations](mi-agents-v1_0-visualizations.html)** - Mermaid diagrams and charts
+- **[Cross-References](mi-agents-v1_0-cross-references.html)** - Framework connections
+- **[Master Bibliography](mi-agents-v1_0-master-bibliography.html)** - Complete citations
 
 ---
 

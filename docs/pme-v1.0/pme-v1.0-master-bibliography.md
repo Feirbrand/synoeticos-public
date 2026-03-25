@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "PME v1.0 Master Bibliography"
 ---
 
@@ -346,6 +345,6 @@ Slusher, Aaron M. "PME v1.0: Predictive Myelination Engine - Bio-inspired Antici
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

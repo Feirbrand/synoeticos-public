@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "FCE v3.6 Master Bibliography"
 ---
 
@@ -110,4 +109,4 @@ Slusher, Aaron M. "FCE v3.6: Fractal Context Engineering - Unified Framework for
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

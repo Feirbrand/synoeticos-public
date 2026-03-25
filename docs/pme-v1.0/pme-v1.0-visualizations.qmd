@@ -1,12 +1,9 @@
 ---
 title: "PME v1.0 — Visualizations"
 description: "Architecture diagrams and production validation data"
-doi: "10.5281/zenodo.18318485"
-author: "Aaron M. Slusher"
-date: "2026-01-20"
 ---
 
-**Back to:** [Main Paper](index.html) | [Cross-References](pme-v1.0-cross-references.html) | [Bibliography](pme-v1.0-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](pme-v1_0-cross-references.html) | [Bibliography](pme-v1_0-master-bibliography.html)
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Torque v2.0 Master Bibliography"
 description: "Complete citations and references for Torque v2.0 real-time AI stability measurement research"
 ---
@@ -105,4 +104,4 @@ Slusher, Aaron M. "Torque v2.0: Measuring AI System Stability in Real-Time." *Va
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**© 2025 ValorGrid Solutions. All rights reserved.**

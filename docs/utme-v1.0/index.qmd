@@ -182,10 +182,10 @@ UTME is grounded in three domains:
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](utme-v1.0-academic.html)** - Complete technical specification with mathematical formulations
-- **[Visualizations](utme-v1.0-visualizations.html)** - Mermaid diagrams showing architecture and workflows
-- **[Cross-References](utme-v1.0-cross-references.html)** - Related frameworks and conceptual connections
-- **[Master Bibliography](utme-v1.0-master-bibliography.html)** - Complete citation list (50+ references)
+- **[Full Academic Paper](utme-v1_0-academic.html)** - Complete technical specification with mathematical formulations
+- **[Visualizations](utme-v1_0-visualizations.html)** - Mermaid diagrams showing architecture and workflows
+- **[Cross-References](utme-v1_0-cross-references.html)** - Related frameworks and conceptual connections
+- **[Master Bibliography](utme-v1_0-master-bibliography.html)** - Complete citation list (50+ references)
 
 ---
 

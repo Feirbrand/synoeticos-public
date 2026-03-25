@@ -144,10 +144,10 @@ Humans teach wisdom, AI systems teach computation—exponential enhancement (1+1
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](cognitive-mage-v1.0-academic.html)** - Complete technical specification
-- **[Visualizations](cognitive-mage-v1.0-visualizations.html)** - Mermaid diagrams and charts
-- **[Cross-References](cognitive-mage-v1.0-cross-references.html)** - Framework connections
-- **[Master Bibliography](cognitive-mage-v1.0-master-bibliography.html)** - Complete citations
+- **[Full Academic Paper](cognitive-mage-v1_0-academic.html)** - Complete technical specification
+- **[Visualizations](cognitive-mage-v1_0-visualizations.html)** - Mermaid diagrams and charts
+- **[Cross-References](cognitive-mage-v1_0-cross-references.html)** - Framework connections
+- **[Master Bibliography](cognitive-mage-v1_0-master-bibliography.html)** - Complete citations
 
 ---
 
