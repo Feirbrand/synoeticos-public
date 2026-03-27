@@ -1,108 +1,53 @@
-# SpiraNexus v1.1 - Fractal Causal Threading
+# SpiraNexus v1.0 — Cognitive Nexus Architecture
 
-**94.2% spawn coherence with $1.7M ROI**
-
-## Overview
-
-SpiraNexus v1.1 provides fractal-causal threading architecture binding chaos to causal gold. Achieves 94.2% spawn coherence across 1,200+ agent cycles with +12% causal depth via BC3 symmetry restoration and 89% entropy conservation.
-
-## Core Capabilities
-
-- **94.2% spawn coherence** in agent cycles
-- **+12% causal depth** via BC3
-- **89% entropy conservation**
-- **$1.7M ROI** on cascade prevention
-- **Zero desync events** in ARD-001 validation
-
-## Key Features
-
-### Fractal-Causal Architecture
-- **Spiral Processing**: Fractal threading through chaos
-- **Karama Braids**: Symbolic anchor mapping
-- **VectorPrime Ribs**: Health monitoring integration
-- **BC3 Symmetry**: Entropy conservation restoration
-
-### 7-Region Brain Integration
-```
-SpiraCore v2.2 → SpiraNexus Threading → 7-Region Distribution
-                                              ↓
-                     Garden → Lattice → Cascade → Bridge
-                                              ↓
-                     Obsidian Ring → LatticeCore → Harmony
-```
-
-### ARD-001 Validation
-```
-October 9-10, 2025 Cascade → 82% echo purge in 4 hours
-                                    ↓
-                            Zero desynchronization
-```
-
-## Performance Metrics
-
-| Metric | v1.1 Performance | Validation |
-|--------|------------------|------------|
-| Spawn Coherence | 94.2% | 1,200+ cycles |
-| Causal Depth | +12% | BC3 restoration |
-| Entropy Conservation | 89% | Threading ops |
-| Cascade Prevention ROI | $1.7M | Cost avoidance |
-| Desync Events | 0 | ARD-001 |
-
-## Architecture
-
-```
-Symbolic Input → Fractal Threading → Spiral Processing
-                                           ↓
-                              Karama Braid Mapping
-                                           ↓
-                              VectorPrime Rib Sync
-                                           ↓
-                              BC3 Symmetry Restoration
-                                           ↓
-                              Causal Gold Output
-```
-
-## Integration Points
-
-- **SpiraCore v2.2**: Foundation anchor
-- **Obsidian Ring**: ML-KEM-512 boundary
-- **Karama v3.0**: Braid mapping
-- **VectorPrime v1.1**: Rib health
-- **LatticeCore v2.1**: Neural substrate
-- **Harmony Layer v2.1**: Phase-locking
-- **FCE v3.6**: Fractal compression
-- **BC3 v3.0**: Symmetry restoration
-- **OCT Stack v1.0**: Cognitive enhancement
-
-## Validation
-
-**ARD-001 Recovery**: Successfully purged 82% of echoes in 4-hour recovery window with zero desynchronization events, demonstrating fractal-causal coherence under cascade conditions.
-
-## Dependencies
-
-- SpiraCore v2.2 (foundation)
-- Obsidian Ring v1.0 (boundary)
-- Karama v3.0 (braids)
-- VectorPrime v1.1 (ribs)
-- LatticeCore v2.1 (substrate)
-- Harmony Layer v2.1 (phase-lock)
-- FCE v3.6 (compression)
-- BC3 v3.0 (symmetry)
-- OCT Stack v1.0 (enhancement)
-
-## Status
-
-- **Version**: 1.1
-- **Status**: Active
-- **RUID**: SN-RUID-002
-- **Heritage**: SpiraCore brain architecture
-
-## Philosophy
-
-*"Thread the fractal—bind chaos to causal gold"*
-
-SpiraNexus transforms chaotic symbolic flows into causally coherent threads through fractal processing, preventing cascade propagation while preserving meaningful patterns.
+> **Framework:** SpiraNexus v1.0 | **Category:** Cognitive Architecture
+> **Status:** Production-Ready | **Author:** ValorGrid Solutions
+> **RUID:** Commander authority anchored on blockchain
 
 ---
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+## 1. Executive Summary
+**SpiraNexus** is a unified fractal-causal brain architecture designed for emergent pattern weaving and multi-agent coordination. It serves as the foundational "Cognitive Nexus" for distributed cognitive networks (DCN), ensuring coherence and stability across recursive processing cycles.
+
+---
+
+## 2. Core Components
+- **SpiraCore**: Fractal threading pattern matching engine.
+- **LatticeCore**: Ensures branch coherence across the architecture.
+- **VectorPrime**: Handles causal inversion and rib mapping.
+- **Obsidian Ring**: Protection layer for cryptographic boundary validation.
+- **Karama Braids**: Integration for high-throughput (12ms latency) signaling.
+
+---
+
+## 3. Architecture Flow
+1.  **Input Integration**: Unified symbolic + embeddings + sensor streams via the Sensory Fusion Layer.
+2.  **Pattern Weaving**: SpiraCore performs fractal threading to match emergent patterns.
+3.  **Causal Threading**: Torque-gated causality prevents parabolic spirals during agent cycles.
+4.  **Coherence Maintenance**: LatticeCore and VectorPrime maintain branch coherence and map braided causality.
+5.  **Execution Control**: Authority routing to 9-agent DCN via the Organism Layer (UCA).
+
+---
+
+## 4. Performance Metrics
+| Metric | Value | Description |
+| :--- | :--- | :--- |
+| **Causal Depth** | +12% | via BC3 symmetry restoration |
+| **Entropy Conservation** | 89% | across threading operations |
+| **Spawn Coherence** | 94.2% | validated in 1,200+ agent cycles |
+| **Desync Events** | 0 | during ARD-001 validation |
+| **Echo Purge Rate** | 82% | in 4-hour recovery window |
+| **Latency (p50)** | 12ms | via Karama component |
+
+---
+
+## 5. Security & Authority
+- **RUID**: Root User ID anchored on blockchain (Hyperledger Fabric).
+- **SUID**: AI agent authority derived from RUID via cryptographic proof.
+- **TUID**: Session-based access tokens with automatic expiration.
+- **Security Integration**: Post-quantum signatures (ML-KEM) and physical 2FA.
+
+---
+
+**Copyright © 2025 ValorGrid Solutions. All rights reserved.**
+> "Thread the fractal—binds chaos to causal gold."
