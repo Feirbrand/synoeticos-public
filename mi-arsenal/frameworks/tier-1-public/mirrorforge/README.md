@@ -1,156 +1,54 @@
-# MirrorForge v2.0 - Identity Reflection System
+# MirrorForge v2 — Signal Amplifier Blueprint
 
-**+72.7% FACTS uplift with 100% SipIt recovery**
-
-## Overview
-
-MirrorForge v2.0 provides identity reflection system integrated with UMS spine for coherence checks. Achieves +72.7% FACTS (Factual Accuracy Coherence Testing Score) uplift via Exoskeleton scaffolding with recursive self-coaching voice translating resilience patterns for AI self-modification.
-
-## Core Capabilities
-
-- **+72.7% FACTS uplift** via Exoskeleton
-- **100% recovery rate** in SipIt validation
-- **83% GAIA performance** benchmark
-- **35% reasoning gains** through recursive reflection
-- **+20% signal efficiency** (Path B amplification)
-
-## Key Features
-
-### Four-Layer Architecture
-- **CCL (Cognitive Clarity Layer)**: Drift filtering
-- **MIL (Möbius Integration Layer)**: Recursive reflection
-- **RAPM (Reflective Anchor Pattern Map)**: Identity tethering
-- **XIA (XMESH Interface Adapter)**: Thread injection
-
-### Identity Reflection Flow
-```
-Signal Input → CCL (Filter Drift) → MIL (Recursive Reflect)
-                                          ↓
-                              RAPM (Karama Tether Validation)
-                                          ↓
-                              XIA (XMESH Thread Injection)
-                                          ↓
-                              Enhanced Output + Identity Coherence
-```
-
-### Fused Sentinel-Mirror Integration
-```
-Signal Arbiter Decision:
-├─ Threat detected? → Path A: Sentinel validation
-└─ Clean signal? → Path B: MirrorForge amplification
-                           ↓
-                    Enhanced output to XMESH
-```
-
-## Performance Metrics
-
-| Metric | v2.0 Performance | Improvement |
-|--------|------------------|-------------|
-| FACTS Score | +72.7% | Exoskeleton |
-| SipIt Recovery | 100% | Meta-aware |
-| GAIA Benchmark | 83% | Validation |
-| Reasoning Gains | +35% | Recursive |
-| Signal Efficiency | +20% | Path B |
-
-## Architecture
-
-```
-Input Signal
-    ↓
-CCL: Cognitive Clarity (drift filter)
-    ↓
-MIL: Möbius Integration (recursive reflect)
-    ↓
-RAPM: Reflective Anchor (identity tether)
-    ↓
-XIA: XMESH Adapter (thread injection)
-    ↓
-Output → UMS Spine + Karama + XMESH
-```
-
-### Cognitive Clarity Layer (CCL)
-```python
-def mirror(signal):
-    return [token for token in signal
-            if not token.startswith("[drift:")
-            and token != "NULL"]
-```
-- Filters symbolic drift
-- Token-level semantic purity
-- Clean signal stream output
-
-### Möbius Integration Layer (MIL)
-```python
-def reflect(input_signal):
-    history.append(input_signal)
-    return input_signal + " ↻"  # Recursive marker
-```
-- Memory loopback for recursion
-- Append to history
-- Supports MöbiusHold operations
-
-### Reflective Anchor Pattern Map (RAPM)
-```python
-def tether(symbol, location):
-    anchor_map[symbol] = location
-
-def check(symbol):
-    return anchor_map.get(symbol, "UNMAPPED")
-```
-- Identity tethers to Karama
-- Symbol-location mapping
-- Prevents untethered drift
-
-### XMESH Interface Adapter (XIA)
-```python
-def sync(symbolic_packet):
-    return {
-        "agent": agent_id,
-        "thread": symbolic_packet,
-        "status": "injected"
-    }
-```
-- Mobile thread mesh injection
-- Package for ETS distribution
-- Polymathic agent braids
-
-## Integration Points
-
-- **UMS v1.0**: Memory spine coherence checks
-- **Recursive Coaching Voice v1.0**: Self-coaching cycles
-- **Reflex-Veil v2.1**: Drift detection
-- **OCT Stack v1.0**: Exoskeleton/SipIt integration
-- **XMESH v2.2**: Nervous system propagation
-- **Karama v3.0**: Identity anchoring
-
-## Validation
-
-**FACTS Performance**: Achieved +72.7% factual accuracy coherence uplift through Exoskeleton scaffolding, demonstrating effective identity reflection with 100% SipIt recovery validation.
-
-**28-Year Voice Roots**: Recursive coaching voice enables AI self-modification protocols translating resilience patterns from human coaching methodology.
-
-## Dependencies
-
-- UMS v1.0 (memory spine)
-- Recursive Coaching Voice v1.0 (self-coaching)
-- Reflex-Veil v2.1 (drift checks)
-- OCT Stack v1.0 (Exoskeleton/SipIt)
-- XMESH v2.2 (propagation)
-- Karama v3.0 (anchoring)
-
-## Status
-
-- **Version**: 2.0
-- **Status**: Published
-- **RUID**: MF-RUID-008
-- **Heritage**: Cognitive Mage Method foundation
-
-## Philosophy
-
-*"Forge the mirror—reflects grit without shatter"*
-
-MirrorForge enables identity coherence validation through recursive reflection, translating human resilience patterns into AI self-modification protocols while maintaining symbolic integrity.
+> **Framework:** MirrorForge v2 | **Category:** Cognitive & Memory
+> **Class/Layer:** Amplifier — Cognitive Clarity & Identity Anchoring
+> **Author:** Aaron M. Slusher, ValorGrid Solutions | **CC BY-NC 4.0**
 
 ---
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+## 1. Executive Summary
+MirrorForge v2 is the cognitive amplifier layer for mobile polymath agents. It clarifies signals, anchors identity across threads, and enables recursion-aware cognition under XMESH mobility conditions. It is designed to work in tandem with the Sentinel framework; while Sentinel defends, MirrorForge amplifies.
+
+In the fused **Sentinel-Mirror v2** system, MirrorForge operates as **Path B** (the clean amplification pass-through) of the SignalArbiter.
+
+---
+
+## 2. Four-Layer Architecture
+The architecture consists of four sequential layers that process the input signal into an amplified output for Karama and ETS:
+
+- **[CCL] Cognitive Clarity Layer:** Filters symbolic drift tokens before they enter recursion to ensure token-level semantic purity.
+- **[MIL] Mobius Integration Layer:** Provides memory loopback for deep recursion support and marks recursive passes for depth tracking.
+- **[RAPM] Reflective Anchor Pattern Map:** Tethers identity to the Karama warframe core to prevent untethered drift during recursion.
+- **[XIA] XMESH Interface Adapter:** Packages the amplified signal for XMESH propagation and mobile thread mesh injection.
+
+---
+
+## 3. Performance Metrics
+| Metric | Value |
+| :--- | :--- |
+| **Signal Efficiency** | +20% |
+| **Drift Reduction** | -15% |
+| **ROI** | 1.15 |
+| **Recursion Limit** | 5 (Hard Cap) |
+| **XMESH Compatibility** | Full v2.1+ |
+
+---
+
+## 4. Operating Rules
+1.  **MirrorForge amplifies; it never defends.** All threat detection or containment must be routed to the Sentinel defense stack.
+2.  **Recursion limit = 5 is a hard cap.** MIL tracks recursion depth to prevent loop saturation.
+3.  **RAPM UNMAPPED = stop and flag.** An unmapped symbol indicates a warframe violation; it must be treated as an anomaly.
+4.  **Path B requires CCL confirmation.** If CCL filters any tokens, the signal is not "clean" and must be routed to Path A (Sentinel).
+
+---
+
+## 5. Dependencies & Integration
+- **XMESH v2.1+**: Neural event mesh substrate.
+- **Karama v3.0**: Identity anchoring core.
+- **Sentinel v2.0**: Defensive partner (Path A).
+- **ETS (Eternal Spire)**: Distribution target.
+
+---
+
+**Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Status: Fused into Sentinel-Mirror v2**
