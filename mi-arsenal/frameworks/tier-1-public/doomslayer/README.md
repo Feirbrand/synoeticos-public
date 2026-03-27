@@ -1,96 +1,62 @@
-# Doomslayer v2.1 - Cascade Hammer
+# Doomslayer v2.1 — Framework Blueprint
 
-**99.5% purge accuracy with 20× velocity prediction**
-
-## Overview
-
-Doomslayer v2.1 provides cascade hammer capabilities with FCE isolation, BC3 recursion, and OCT RAY/ReCode integration for Hydra-spore elimination. Upgraded with Eternal Spire fusion achieving 99.5% purge accuracy and 20× velocity prediction improvement.
-
-## Core Capabilities
-
-- **99.5% purge accuracy**
-- **0.6s execution time**
-- **20× velocity prediction** improvement
-- **Hydra-spore specialist**
-- **FCE isolation** enhanced
-
-## Key Features
-
-### Cascade Hammer Architecture
-- **FCE Isolation**: Cascade containment improvement
-- **BC3 Recursion**: Advanced recursive threat handling
-- **OCT RAY/ReCode**: Hydra-spore elimination
-- **Spire Fusion**: Enhanced kill-lattice integration
-
-### Hydra Recursion Handling
-```
-Cascade Detected → FCE Isolation → BC3 Recursive Unwinding
-                                          ↓
-                              Hydra-Spore Identification
-                                          ↓
-                              OCT RAY/ReCode Elimination
-                                          ↓
-                              Eternal Spire Purge (0.6s)
-```
-
-## Performance Metrics
-
-| Metric | v2.1 Performance | Baseline | Improvement |
-|--------|------------------|----------|-------------|
-| Purge Accuracy | 99.5% | 98.5% | +1.0% |
-| Execution Time | 0.6s | 0.8s | 25% faster |
-| Velocity Prediction | 20× | 1× | 20× better |
-| Hydra-Spore Elimination | 99.5% | N/A | Specialized |
-
-## Architecture
-
-```
-Cascade Formation → Heimdall/Mjolnir Detection → Doomslayer Hammer
-                                                        ↓
-                                              FCE Isolation
-                                                        ↓
-                                              BC3 Recursion
-                                                        ↓
-                                         Hydra Head Enumeration
-                                                        ↓
-                                         OCT RAY/ReCode Strike
-                                                        ↓
-                                         Eternal Spire Purge
-```
-
-## Integration Points
-
-- **Eternal Spire**: Kill-lattice coordination
-- **Nordic Triad**: Heimdall/Mjolnir/Bifrost
-- **FCE v3.6**: Isolation enhancement
-- **BC3 v3.0**: Recursion optimization
-- **OCT Stack v1.0**: RAY/ReCode/MoR
-
-## Validation
-
-**Cascade Elimination**: Successfully handled multi-headed cascade patterns with 99.5% purge rate, including specialized Hydra-spore threats requiring recursive elimination.
-
-## Dependencies
-
-- Eternal Spire v2.0 (kill-lattice)
-- Triad (Heimdall/Mjolnir/Bifrost)
-- FCE v3.6 (isolation)
-- BC3 v3.0 (recursion)
-- OCT Stack v1.0 (RAY/ReCode/MoR)
-
-## Status
-
-- **Version**: 2.1
-- **Status**: Active
-- **RUID**: DS-RUID-001
-- **Heritage**: v2.0 → v2.1 (Spire fusion + enhanced prediction)
-
-## Philosophy
-
-*"Infinite heads, one hammer"—the cascade specialist that eliminates recursive threats*
-
-Doomslayer specializes in cascade patterns where threats spawn recursively. FCE isolation contains, BC3 recursion unwinds, and RAY/ReCode eliminates all heads simultaneously.
+> **RUID:** DS-RUID-001 | **Category:** Defense & Security | **Status:** Active | **Version:** 2.1
+> **Author:** Aaron M. Slusher, ValorGrid Solutions | **CC BY-NC 4.0**
 
 ---
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+## 1. Core Function
+Doomslayer v2.1 is the primary cascade hammer in the VGS defense stack, specialized for **Hydra-spore elimination**. It does not just stop cascades; it hunts the underlying recursive patterns that cause threats to respawn. By integrating FCE isolation, BC3 recursion, and OCT RAY/ReCode, Doomslayer provides a definitive end to multi-vector cascade threats.
+
+**Core Philosophy:** Kill the cascade. Kill the spore that spawned it. Kill the pattern that will spawn the next one.
+
+---
+
+## 2. v2.1 Performance Specifications
+| Metric | Specification | Baseline Improvement |
+| :--- | :--- | :--- |
+| **Purge Accuracy** | 99.5% | +1.0% vs v2.0 |
+| **Execution Time** | 0.6s | 25% faster |
+| **Velocity Prediction** | 20x | 20x over standard baseline |
+| **Containment** | FCE Enhanced | Multi-point isolation |
+| **Specialization** | Hydra-Spore | Recursive pattern termination |
+
+---
+
+## 3. Architecture Flow
+The Doomslayer execution pipeline follows a deterministic 8-step sequence:
+
+1. **CASCADE THREAT DETECTED** → Initial signal from Heimdall/XMESH.
+2. **FCE ISOLATION** → Activation of the containment ring to prevent propagation.
+3. **VELOCITY ANALYSIS** → 20x predictive modeling of the cascade trajectory.
+4. **SPORE CLASSIFICATION** → Identification of Hydra-spore recursive patterns.
+5. **ELIMINATION** → BC3 recursion + OCT RAY targeting + OCT ReCode rewrite.
+6. **KILL-LATTICE COORDINATION** → Eternal Spire signal + Triad synchronization.
+7. **POST-PURGE VERIFICATION** → 99.5% accuracy validation.
+8. **CASCADE NEUTRALIZED** → Final resolution in <0.6s.
+
+---
+
+## 4. Hydra-Spore Specialization
+Doomslayer is the only framework purpose-built for **Hydra-spore patterns**—threats that regenerate after standard elimination. The **BC3 recursion layer** ensures the recursive spawning pattern is traced and terminated at the root, rather than just the surface manifestation.
+
+---
+
+## 5. Integration Points
+- **Eternal Spire v1.4:** Kill-lattice coordination and final purge.
+- **Bifrost v2.0 / Heimdall v2.0 / Mjolnir v2.0:** The "Nordic Triad" for detection and strike coordination.
+- **FCE v3.7:** Isolation and containment ring protocols.
+- **BC3:** Recursive threat processing and unwinding.
+- **OCT RAY/ReCode:** High-precision elimination algorithms.
+
+---
+
+## 6. Dependencies
+- **Required:** FCE v3.7, BC3, Eternal Spire v1.4
+- **Peer Triad:** Bifrost v2.0, Heimdall v2.0, Mjolnir v2.0
+- **Optional:** OCT RAY, OCT ReCode, OCT MoR
+
+---
+
+**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Full version available at: [aslush.gumroad.com/l/doomslayer-hammer](https://aslush.gumroad.com/l/doomslayer-hammer)**

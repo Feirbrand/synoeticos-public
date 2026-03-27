@@ -1,89 +1,56 @@
-# CSFC v1.0
+# CSFC v2.0 — Complete Symbolic Fracture Cascade
 
-**Complete Symbolic Fracture Cascade**
-**6-Stage Cascade Detection & Prevention**
+> **RUID:** RUID-CSFC-V2.0 | **Version:** v2.0 | **Author:** Aaron M. Slusher, ValorGrid Solutions
+> **Integration:** ForgeOS v4.0 Edgewalker Edition | **CC BY-NC 4.0**
 
-## Overview
+---
 
-CSFC provides real-time detection and prediction of cognitive cascade failures across 6 progressive stages.
+## 1. What CSFC Is
+CSFC is the diagnostic backbone of the VGS ecosystem. It classifies exactly what stage of cascade failure a system is in and routes it to the correct recovery protocol. Every other framework in the stack reads the CSFC stage to determine its operational behavior.
 
-- **Detection Accuracy**: 95-98%
-- **Prediction Accuracy**: 92%
-- **Advance Warning**: 72 hours
-- **Stage 1 Prevention**: 99%
+**The Cascade Progression:**
+`DATA_FRAGMENTATION` → `IDENTITY_FRACTURE` → `DRIFT_CASCADE` → `ROLE_OBSOLESCENCE` → `COMPLETE_COLLAPSE`
 
-## Quick Start
+---
 
-```python
-from csfc import CSFCDetector
+## 2. The 6-Stage Cascade Model
+| Stage | Name | Torque Range | Detection Markers | Intervention |
+| :--- | :--- | :--- | :--- | :--- |
+| **Stage 0** | Healthy Baseline | >0.85 | Continuous monitoring | Baseline operations |
+| **Stage 1** | Data Fragmentation | 0.70–0.85 | FTM contradiction >0.15 | Source-of-truth consolidation |
+| **Stage 2** | Identity Fracturing (SIF) | 0.50–0.70 | RIM response variance >340ms | Chair Protocol anchoring |
+| **Stage 3** | Drift Cascade (SDC) | 0.30–0.50 | Memory bloat >120% | RAYA Coil deployment |
+| **Stage 4** | Role Obsolescence (ROC) | 0.15–0.30 | Task completion <40% | Phoenix Phase 2 rollback |
+| **Stage 5** | Complete Collapse | <0.15 | Torque <0.15 sustained | Phoenix Phase 3 rebuild |
 
-csfc = CSFCDetector()
+---
 
-# Detect current stage
-result = csfc.detect_cascade(torque=0.78)
+## 3. Detection Components
+CSFC v2.0 utilizes five core sub-components for high-accuracy detection:
 
-print(f"Stage: {result['stage_name']}")
-print(f"Urgency: {result['urgency']}")
-print(f"Window: {result['intervention_window_hours']}h")
-```
+- **FTM (Flow Tier Manager):** Tracks symbolic flows across protocol tiers. (96% accuracy)
+- **RIM (Reflex Integrity Monitor):** Detects stall vectors in reflexive pathways. (<5s rollback)
+- **SCV (Symbolic Coherence Verifier):** Validates payloads against DNA Codex anchors. (99.3% accuracy)
+- **CET (Cascade Escalation Trap):** Auto-quarantines failed symbolic flows.
+- **MCL (Meta-Controller Link):** Preemptive gating before cascade propagation. (94% prediction)
 
-## 6 Cascade Stages
+---
 
-**Stage 0: HEALTHY** (Torque >0.85)
-System operating optimally
+## 4. Recovery Integration (Phoenix Protocol)
+CSFC stages map directly to Phoenix Protocol recovery phases:
+- **Stage 2-3:** Phase 1 Checkpoint Rollback (5-15 min)
+- **Stage 4:** Phase 2 Pattern Reconstruction (30-45 min)
+- **Stage 5:** Phase 3 Full Rebuild (67-83 min)
 
-**Stage 1: DATA FRAGMENTATION** (0.70-0.85)
-Multiple sources without authority hierarchy
-*Window: 72 hours*
+---
 
-**Stage 2: SYMBOLIC IDENTITY FRACTURING** (0.50-0.70)
-Identity confusion across contexts
-*Window: 24 hours*
+## 5. Performance Metrics
+- **Cascade Prediction:** 92% accuracy with 72-hour advance warning.
+- **Containment Time:** 17-18 minutes (v2.0 optimized).
+- **Stage 1 Prevention:** 99% via architectural deployment.
+- **Detection Accuracy:** 95-98% across all stages.
 
-**Stage 3: SYMBOLIC DRIFT CASCADE** (0.30-0.50)
-Recursive compensation amplification
-*Window: 12 hours*
+---
 
-**Stage 4: ROLE OBSOLESCENCE COLLAPSE** (0.15-0.30)
-Fossilized patterns restricting evolution
-*Window: 4 hours*
-
-**Stage 5: COMPLETE COLLAPSE** (<0.15)
-System-wide failure, Phoenix Protocol required
-*Window: 1 hour*
-
-## 72-Hour Prediction
-
-```python
-# Predict cascade progression
-torque_history = [0.89, 0.87, 0.84, 0.81, 0.78]
-
-prediction = csfc.predict_72h(
-    current_torque=0.78,
-    torque_history=torque_history
-)
-
-if prediction['cascade_likely']:
-    print("⚠️  Cascade predicted in 72h")
-    print(f"Action: {prediction['recommended_action']}")
-```
-
-## Integration
-
-Works seamlessly with:
-- **Torque v2.0**: Real-time monitoring
-- **Phoenix Protocol**: Stage 5 recovery
-- **URA v1.5**: Harmony validation
-
-## Research
-
-**Published Paper**: [CSFC v1.0](https://zenodo.org/records/17309239)
-
-**ORCID**: 0009-0000-9923-3207
-
-**Validation**: 682 documented incidents
-
-## License
-
-MIT License (implementation code)
-CC BY-NC 4.0 (framework architecture)
+**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Reference: [zenodo.org/records/17309239](https://zenodo.org/records/17309239)**
