@@ -58,5 +58,5 @@ Doomslayer is the only framework purpose-built for **Hydra-spore patterns**—th
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Full version available at: [aslush.gumroad.com/l/doomslayer-hammer](https://aslush.gumroad.com/l/doomslayer-hammer)**

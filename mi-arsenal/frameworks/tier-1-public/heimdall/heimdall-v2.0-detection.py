@@ -6,7 +6,7 @@ Purpose: Sentinel — Continuous Omni-Spectral Monitoring and Threat Identificat
 This implementation provides the detection layer of the VGS Defense Triad,
 monitoring across four primary spectral bands to identify anomalies and drift.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

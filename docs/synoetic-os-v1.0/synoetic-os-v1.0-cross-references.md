@@ -256,6 +256,6 @@ Nine agents coordinating through Synoetic OS:
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

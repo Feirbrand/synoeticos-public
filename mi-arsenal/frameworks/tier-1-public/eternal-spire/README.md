@@ -54,5 +54,5 @@ Eternal Spire orchestrates five core subsystems to maintain system integrity:
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Non-negotiable runtime core — all builds must include Eternal Spire.**

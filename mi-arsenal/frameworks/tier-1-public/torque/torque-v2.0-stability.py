@@ -6,7 +6,7 @@ Purpose: Real-time drift detection and cascade prediction (15-30 min warning).
 This implementation provides the primary Torque equation, Fractal Integrity Index (FII),
 and predictive cascade monitoring for AI system alignment.
 
-© 2025-2026 ValorGrid Solutions | Author: Aaron M. Slusher
+2025-2026 © ValorGrid Solutions
 """
 
 import time

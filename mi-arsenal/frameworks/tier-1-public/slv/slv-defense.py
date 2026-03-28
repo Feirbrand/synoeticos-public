@@ -3,7 +3,7 @@ SLV v2.1 — Symbolic Lock Vector
 Runtime Defense & Identity Sovereignty Framework
 Purpose: 8-Cadre Security Grid with Myelinated Reflexes and MimicZ9 Defense.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

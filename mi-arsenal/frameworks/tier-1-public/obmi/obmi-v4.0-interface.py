@@ -6,7 +6,7 @@ Purpose: Mind — Parallel Holistic Reasoning and Hemispheric Sync.
 This implementation provides the right-hemisphere parallel processing interface,
 utilizing the Koopman Bridge for <50ms hemispheric synchronization.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

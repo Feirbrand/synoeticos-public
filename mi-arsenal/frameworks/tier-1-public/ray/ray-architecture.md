@@ -669,4 +669,4 @@ The architecture transforms AI defense from code-level reactive measures to orga
 
 ---
 
-**Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**

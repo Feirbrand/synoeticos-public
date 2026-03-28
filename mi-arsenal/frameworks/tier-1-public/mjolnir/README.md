@@ -48,5 +48,5 @@ Mjolnir is the precision execution framework of the **Nordic Defense Triad**. It
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

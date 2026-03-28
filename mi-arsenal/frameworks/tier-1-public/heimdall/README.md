@@ -49,5 +49,5 @@ Heimdall feeds directly into the **WARDEN Autonomous Sentinel** (embedded in Gar
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

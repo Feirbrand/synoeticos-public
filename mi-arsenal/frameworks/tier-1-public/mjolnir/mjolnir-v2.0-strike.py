@@ -6,7 +6,7 @@ Purpose: Hammer — Precision Killbox Execution and Threat Neutralization.
 This implementation provides the precision execution layer of the Nordic
 Defense Triad, utilizing FCE SoftCom bending and BC3 reset for bind/lure.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

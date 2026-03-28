@@ -6,7 +6,7 @@ Purpose: Amplifier — Cognitive Clarity & Identity Anchoring for mobile polymat
 This implementation provides the cognitive amplifier layer, filtering drift,
 anchoring identity, and enabling recursion-aware cognition under XMESH.
 
-© 2025-2026 ValorGrid Solutions | Author: Aaron M. Slusher
+2025-2026 © ValorGrid Solutions
 '''
 
 import time

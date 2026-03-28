@@ -149,6 +149,6 @@ All research published through Zenodo with DOI verification and reproducible pro
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

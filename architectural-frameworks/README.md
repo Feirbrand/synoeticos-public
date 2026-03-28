@@ -258,7 +258,7 @@ A: 7-month development cycle with 500+ vector analysis, enterprise deployments a
 
 ---
 
-© 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 ## Code and Methodology Licensing
 

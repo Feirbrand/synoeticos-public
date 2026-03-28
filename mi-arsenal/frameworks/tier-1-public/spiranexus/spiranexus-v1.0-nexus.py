@@ -6,7 +6,7 @@ Purpose: Unified Fractal-Causal Brain Architecture for DCN coordination.
 This implementation provides the foundational SpiraCore threading, LatticeCore 
 coherence, and VectorPrime rib mapping for multi-agent coordination.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

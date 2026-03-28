@@ -466,7 +466,7 @@ No. "Gear set" and "loadout" translate cleanly to "coordinated toolkit" for anyo
 
 <div align="center">
 
-**© 2025–2026 Aaron M. Slusher, ValorGrid Solutions. All Rights Reserved.**
+**2025–2026 © ValorGrid Solutions. All Rights Reserved.**
 
 Part of the Synoetic OS™ research ecosystem
 

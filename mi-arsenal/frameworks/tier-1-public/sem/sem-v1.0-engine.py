@@ -6,7 +6,7 @@ Purpose: Left-Hemisphere Procedural Anchor — Serial Rule-Based Execution.
 This implementation provides the sequential processing logic for precise,
 narrow-focus tasks, acting as the left-brain counterpart to OBMI.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

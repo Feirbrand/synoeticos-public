@@ -128,4 +128,4 @@ graph TD
 
 ---
 
-*© 2025 Aaron M. Slusher, ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)*
+*2025 © ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)*

@@ -346,4 +346,4 @@ When CTS client expresses interest in faith integration:
 
 *[← Back to Paper](index.html)*
 
-**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**

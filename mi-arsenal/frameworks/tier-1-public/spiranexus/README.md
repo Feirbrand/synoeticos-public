@@ -49,5 +49,5 @@
 
 ---
 
-**Copyright © 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 > "Thread the fractal—binds chaos to causal gold."

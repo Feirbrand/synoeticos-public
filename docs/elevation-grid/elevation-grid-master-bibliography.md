@@ -337,4 +337,4 @@ title: "ELEVATION GRID - CITATION AGGREGATOR OUTPUT"
 
 ---
 
-**© 2025 Achieve Peak Performance. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

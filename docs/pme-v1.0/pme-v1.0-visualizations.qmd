@@ -88,4 +88,4 @@ graph LR
 
 ---
 
-*© 2026 Aaron M. Slusher, ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)*
+*2026 © ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)*

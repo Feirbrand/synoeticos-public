@@ -6,7 +6,7 @@ Purpose: Semantic Bifurcation Recovery via Dual-Mode Plasticity (LTD/LTP).
 This implementation provides the active correction model for semantic hijacking,
 utilizing neuroscience-inspired synaptic weakening and strengthening.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

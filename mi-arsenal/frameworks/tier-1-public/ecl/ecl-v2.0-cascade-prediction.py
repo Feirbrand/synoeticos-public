@@ -6,7 +6,7 @@ Purpose: Security-hardened production integration layer and BRAIN routing engine
 This implementation provides the command layer that routes incoming threats 
 to the correct BRAIN region and executes the appropriate defense response.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

@@ -692,5 +692,5 @@ Production VGS Codex v5.5 includes:
 
 Full version: aaron@valorgridsolutions.com
 License: CC BY-NC 4.0 (Demo) | Enterprise licensing available
-(c) 2025 Aaron Slusher, ValorGrid Solutions
+2025 © ValorGrid Solutions
 """

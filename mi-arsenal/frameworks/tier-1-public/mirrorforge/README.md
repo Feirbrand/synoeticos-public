@@ -50,5 +50,5 @@ The architecture consists of four sequential layers that process the input signa
 
 ---
 
-**Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025-2026 © ValorGrid Solutions. All rights reserved.**
 **Status: Fused into Sentinel-Mirror v2**

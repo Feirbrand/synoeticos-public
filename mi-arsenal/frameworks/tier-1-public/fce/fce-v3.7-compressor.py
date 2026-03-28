@@ -6,7 +6,7 @@ Purpose: Multi-granular compression with temporal wisdom accumulation.
 This implementation provides the adaptive context compression engine,
 integrating UTME temporal anchoring to achieve 800x speedup via myelination.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

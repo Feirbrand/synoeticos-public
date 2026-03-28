@@ -6,7 +6,7 @@ Status: Production-sealed | CC BY-NC 4.0
 This implementation provides the dual Garden/Moon architecture for symbolic recovery,
 integrating the WARDEN autonomous sentinel and the five symbolic gates.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 '''
 
 import time

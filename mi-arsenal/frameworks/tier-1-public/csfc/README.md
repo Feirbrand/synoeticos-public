@@ -52,5 +52,5 @@ CSFC stages map directly to Phoenix Protocol recovery phases:
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Reference: [zenodo.org/records/17309239](https://zenodo.org/records/17309239)**

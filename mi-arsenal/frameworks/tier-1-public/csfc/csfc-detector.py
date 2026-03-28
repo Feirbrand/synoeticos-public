@@ -6,7 +6,7 @@ Integration: ForgeOS v4.0 Edgewalker Edition | CC BY-NC 4.0
 This implementation provides the diagnostic backbone for VGS cascade classification.
 High-fidelity deterministic logic for 6-stage detection and recovery routing.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 from typing import Dict, List, Optional, Tuple

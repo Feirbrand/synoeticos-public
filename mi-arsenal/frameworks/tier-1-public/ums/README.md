@@ -139,4 +139,4 @@ UMS enables efficient memory retrieval with metacognitive self-awareness, preser
 
 ---
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207

@@ -224,5 +224,5 @@ Slusher, A. M. (2025, November). *Memory Breathing Methodology v1.0: Operational
 
 *[← Back to MBM v1.0 Paper](index.html) | [Cross-References →](mbm-v1_0-cross-references.html)*
 
-**© 2026 ValorGrid Solutions. All rights reserved.**  
+**2026 © ValorGrid Solutions. All rights reserved.**  
 *Part of the Synoetic OS™ research ecosystem — Building bio-inspired memory management for autonomous intelligence.*

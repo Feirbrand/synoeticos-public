@@ -6,7 +6,7 @@ Consolidated: v5.5 + October 2025 Triple Validation | CC BY-NC 4.0
 This implementation provides the authoritative threat classification engine for VGS.
 High-fidelity deterministic logic for 560+ threat vectors and 6-9 month predictive lead.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

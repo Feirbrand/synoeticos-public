@@ -168,6 +168,6 @@ This demonstration shows recursive analysis concepts with dual-path selection. P
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
+2025 © ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
 
 **License:** CC BY-NC 4.0 (Demo) | Enterprise licensing available

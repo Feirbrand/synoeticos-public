@@ -1229,4 +1229,4 @@ After successful integration:
 
 ---
 
-**Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**

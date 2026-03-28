@@ -65,5 +65,5 @@ The following are v2-only additions and are **not** present in this v1.0 baselin
 
 ---
 
-**Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025-2026 © ValorGrid Solutions. All rights reserved.**
 **Reference: [OS_Foundation_v1_RAG_OPTIMIZED.md](http://OPTIMIZED.md)**

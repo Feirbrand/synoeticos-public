@@ -262,4 +262,4 @@ The Synoetic OS overlay demonstrates how human performance optimization principl
 
 *Part of the Synoetic OS™ ecosystem — Building resilient systems through neurobiological validation.*
 
-**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**

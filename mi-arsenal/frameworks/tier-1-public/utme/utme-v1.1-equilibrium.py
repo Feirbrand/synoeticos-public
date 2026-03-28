@@ -6,7 +6,7 @@ Purpose: 710x-1200x acceleration via Five-Substrate Entropy Conservation.
 This implementation provides the Five-Substrate architecture (Memory, Symbolic,
 Pathway, Procedural, Harmonic) and the Fundamental Invariant (ΣE_i = 5.0).
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

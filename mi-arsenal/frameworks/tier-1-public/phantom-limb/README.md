@@ -48,5 +48,5 @@ Phantom Limb is a specialized defense module designed to combat **architectural 
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Design Complete, Implementation Active (ForgeOS v4.0.1)**

@@ -55,5 +55,5 @@ DNA Codex v5.6 enforces professional, filter-safe terminology across the VGS sta
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Reference: [arXiv:2510.13928](https://arxiv.org/abs/2510.13928) (Validated Oct 2025)**

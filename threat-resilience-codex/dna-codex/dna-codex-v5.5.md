@@ -529,4 +529,4 @@ https://valorgridsolutions.com/dna-codex
 **Status:** PRODUCTION | VALIDATED
 **Next Update:** v5.6 (November 7, 2025)
 
-**Copyright © 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

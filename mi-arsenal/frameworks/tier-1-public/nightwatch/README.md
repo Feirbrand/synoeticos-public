@@ -48,5 +48,5 @@ Nightwatch is the autonomous monitoring layer of the **ValorGrid Defense Stack**
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Active, Operational**

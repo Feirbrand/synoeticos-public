@@ -46,5 +46,5 @@ SEM is a core component of the cross-hemispheric coordination system, interfacin
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready | RUID: SEM-RUID-001**

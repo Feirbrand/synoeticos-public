@@ -48,5 +48,5 @@ Neural Lattice is the universal memory sink for the **Seven Brain Regions** of t
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

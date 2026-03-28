@@ -53,5 +53,5 @@ WARDEN is the primary defense system for the Garden, operating in **Tier-8 Senti
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Reference: GARDENMOON-V2.1-DRIFTLOCK-20251119**

@@ -538,7 +538,7 @@ https://valorgridsolutions.com/dna-codex
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**  
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**  
 **License**: Dual CC BY-NC 4.0 + Enterprise  
 **Patent Clause**: Patent rights reserved, no assertion without enterprise license grant  
 **Document Version**: 5.5 | **Status**: PRODUCTION RELEASE

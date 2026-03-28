@@ -523,6 +523,6 @@ Production-ready frameworks with professional deployment support:
 
 ---
 
-**Copyright © 2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2026 © ValorGrid Solutions. All rights reserved.**
 
 *Part of the Synoetic OS research ecosystem. Building the theoretical and practical foundations for antifragile AI systems.*

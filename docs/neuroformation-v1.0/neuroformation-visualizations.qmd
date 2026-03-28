@@ -78,4 +78,4 @@ ACCESS → REFRAME → SIMPLIFY → IGNITE
 
 ---
 
-*© 2026 Aaron M. Slusher, Achieve Peak Performance. [Main Paper](index.html)*
+*2026 © ValorGrid Solutions. [Main Paper](index.html)*

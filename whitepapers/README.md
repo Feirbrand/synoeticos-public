@@ -350,5 +350,5 @@ ValorGrid Solutions provides comprehensive research support, implementation cons
 
 ---
 
-© 2025–2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.  
+2025–2026 © ValorGrid Solutions. All rights reserved.  
 Part of the **Synoetic OS™** research ecosystem.

@@ -109,4 +109,4 @@ Slusher, Aaron M. "FCE v3.6: Fractal Context Engineering - Unified Framework for
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

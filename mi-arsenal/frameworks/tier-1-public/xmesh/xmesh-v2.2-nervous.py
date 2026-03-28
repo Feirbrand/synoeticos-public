@@ -6,7 +6,7 @@ Purpose: Nervous system event propagation infrastructure
 Capability: 70% of production version (watermarked demo)
 Full version: https://aslush.gumroad.com/l/xmesh
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
 
 import numpy as np

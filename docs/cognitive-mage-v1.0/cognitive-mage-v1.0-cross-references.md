@@ -190,6 +190,6 @@ Seven independent AI systems confirmed Cognitive Mage principles:
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 
 *Last updated: February 5, 2026*

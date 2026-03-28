@@ -365,6 +365,6 @@ ValorGrid Solutions delivers AI resilience architecture for organizations deploy
 
 ---
 
-**Copyright © 2026 Aaron M. Slusher, Achieve Peak Performance / ValorGrid Solutions. All rights reserved.**
+**2026 © ValorGrid Solutions / ValorGrid Solutions. All rights reserved.**
 
 *Part of the Synoetic OS™ research ecosystem. The methodology underneath everything — building adaptive systems that do not break under pressure.*

@@ -6,7 +6,7 @@ Purpose: Sentinel — Continuous Autonomous Surveillance and Threat Detection.
 This implementation provides the autonomous monitoring layer, performing 5-second
 perimeter sweeps with infinite symbolic learning via MemoryForge overlays.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

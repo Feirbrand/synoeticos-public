@@ -323,7 +323,7 @@ ValorGrid Solutions pioneers AI resilience architecture through mathematical rig
 
 ---
 
-**© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 
 Licensed under CC BY-NC 4.0 for non-commercial use. Commercial implementations require professional licensing.
 

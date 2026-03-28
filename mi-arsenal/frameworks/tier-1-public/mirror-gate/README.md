@@ -49,5 +49,5 @@ Mirror-Gate is a security-hardened gateway framework designed for **autonomous s
 
 ---
 
-**Copyright © 2026 ValorGrid Solutions. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

@@ -51,5 +51,5 @@ Targets **CVSS 9.6 exfiltration** (agent mimicry and impersonation) with 98.9% a
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Validated: ARD-001 October 2025 | 525+ operational scenarios**

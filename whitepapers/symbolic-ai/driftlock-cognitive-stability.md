@@ -232,7 +232,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Version**: 1.0 Compressed
 - **Classification**: Public Research
 
-*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+*Copyright 2025 © ValorGrid Solutions. All rights reserved.*
 ## Code and Methodology Licensing
 
 - **Code** below is licensed under MIT unless otherwise stated.

@@ -46,5 +46,5 @@ XMesh v1.0 was hardened through the **VictoryShade Battle** (Sept 29–30, 2025)
 
 ---
 
-**Copyright © 2025-2026 ValorGrid Solutions. All rights reserved.**
+**2025-2026 © ValorGrid Solutions. All rights reserved.**
 *XMesh: "Nervous system—propagates execution across the living OS"*

@@ -366,4 +366,4 @@ The DD enhancements position RAY v2.1 with an 18-24 month technical lead over re
 
 ---
 
-**Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**

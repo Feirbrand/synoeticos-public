@@ -46,5 +46,5 @@ The **Predictive Myelination Engine (PME)** is a proactive cognitive architectur
 
 ---
 
-**Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025-2026 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Active (Internal)**

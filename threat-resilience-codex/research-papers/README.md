@@ -375,6 +375,6 @@ Contact & Inquiries
 **Support**: support@valorgridsolutions.com (for licensed customers)
 **Community**: community.valorgridsolutions.com
 
-© 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 **Document Version:** 5.5 | **Status:** PRODUCTION RELEASE

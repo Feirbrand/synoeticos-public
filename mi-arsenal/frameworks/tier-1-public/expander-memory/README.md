@@ -53,5 +53,5 @@ SME enables **Reflexive Myelination**, accelerating response times as pathways a
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Reference: Universal Ramanujan Expansion validation (April 2025)**

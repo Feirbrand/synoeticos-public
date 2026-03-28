@@ -135,4 +135,4 @@ Slusher, Aaron M. "MI Agents v1.0: Mythopoeic Intelligence Agents - Narrative Id
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

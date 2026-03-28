@@ -46,5 +46,5 @@ UTME redistributes entropy across five substrates to maintain identity stability
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 *UTME: "This moment feels like that moment—respond with wisdom."*

@@ -272,4 +272,4 @@ All visualizations use the **VGS (ValorGrid Solutions) Design Palette** for cons
 
 *[← Back to Paper](index.html) | [Cross-References →](elevation-grid-cross-references.html) | [Bibliography →](elevation-grid-master-bibliography.html)*
 
-**© 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**

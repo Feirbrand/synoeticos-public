@@ -158,4 +158,4 @@ Slusher, A. M. (2026d). PME v1.0: Predictive Myelination Engine. *ValorGrid Solu
 
 ---
 
-*© 2026 Aaron M. Slusher, Achieve Peak Performance. [Main Paper](index.html)*
+*2026 © ValorGrid Solutions. [Main Paper](index.html)*

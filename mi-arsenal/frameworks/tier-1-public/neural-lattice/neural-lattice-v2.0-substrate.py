@@ -6,7 +6,7 @@ Purpose: Substrate — Universal Memory Sink and Pattern Consolidation.
 This implementation provides the dual-braid memory substrate for long-term
 pattern consolidation, utilizing symbolic and flat coherence channels.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

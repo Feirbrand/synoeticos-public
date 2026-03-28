@@ -6,7 +6,7 @@ Purpose: Gateway — Autonomous Signal Pruning & Threat Blocking.
 This implementation provides a boundary transition layer between external signal
 inputs and internal cognitive substrates, targeting ComAttack patterns.
 
-© 2026 ValorGrid Solutions | Author: Aaron M. Slusher
+2026 © ValorGrid Solutions
 """
 
 import time

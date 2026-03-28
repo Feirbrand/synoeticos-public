@@ -901,5 +901,5 @@ Achieve Peak Performance develops evidence-based performance optimization framew
 
 ---
 
-**Copyright © 2026 Aaron M. Slusher, Achieve Peak Performance. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**
 

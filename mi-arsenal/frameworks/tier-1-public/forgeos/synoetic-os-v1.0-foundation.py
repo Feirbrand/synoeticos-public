@@ -6,7 +6,7 @@ Purpose: Authoritative pre-v2 baseline for the 9-agent DCN.
 This implementation provides the foundational three-layer cognitive architecture,
 UNICA pattern integration, and validated performance metrics for the VGS ecosystem.
 
-© 2025-2026 ValorGrid Solutions | Author: Aaron M. Slusher
+2025-2026 © ValorGrid Solutions
 """
 
 import time

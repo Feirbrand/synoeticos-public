@@ -197,6 +197,6 @@ This demonstration shows 10-step pipeline concepts with simulated validation. Pr
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
+2025 © ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
 
 **License:** CC BY-NC 4.0 (Demo) | Enterprise licensing available

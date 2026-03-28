@@ -57,5 +57,5 @@ The v2.1 iteration introduces significant enhancements for Spire integration and
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

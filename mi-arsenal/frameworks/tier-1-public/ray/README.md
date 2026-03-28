@@ -56,5 +56,5 @@ Total entropy across all five substrates must remain constant:
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready | build_date: 2025-11-19**

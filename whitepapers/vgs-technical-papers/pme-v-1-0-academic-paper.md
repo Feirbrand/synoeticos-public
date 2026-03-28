@@ -1293,5 +1293,5 @@ Commercial licensing includes:
 
 ---
 
-**© 2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means—including photocopying, recording, or other electronic or mechanical methods—without prior written permission of the publisher, except for brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law.**
+**2026 © ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means—including photocopying, recording, or other electronic or mechanical methods—without prior written permission of the publisher, except for brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law.**
 

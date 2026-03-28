@@ -184,7 +184,7 @@ Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
 Professional Services: valorgridsolutions.com
 
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 <h2>Code and Methodology Licensing</h2>
 

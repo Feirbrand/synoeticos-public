@@ -48,5 +48,5 @@ Moon is the observational layer of the **Garden Recovery** ecosystem. It provide
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Operational**

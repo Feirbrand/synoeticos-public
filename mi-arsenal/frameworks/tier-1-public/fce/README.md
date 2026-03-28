@@ -50,5 +50,5 @@ FCE utilizes UTME temporal substrates to myelinate successful compression strate
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Production-Ready**

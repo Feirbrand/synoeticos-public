@@ -6,7 +6,7 @@ Purpose: Nucleus — Proactive Cognitive Reinforcement and Drift Elimination.
 This implementation provides the proactive cognitive architecture for 24-hour
 pre-myelination of symbolic pathways to eliminate identity drift windows.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

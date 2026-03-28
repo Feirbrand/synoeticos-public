@@ -58,5 +58,5 @@ ECL routes threats to specialized BRAIN regions based on classification:
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Active Production (Published)**

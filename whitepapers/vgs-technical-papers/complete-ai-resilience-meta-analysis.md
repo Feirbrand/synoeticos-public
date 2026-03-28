@@ -205,7 +205,7 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 ---
 
-*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+*Copyright 2025 © ValorGrid Solutions. All rights reserved.*
 ## Code and Methodology Licensing
 
 - **Code** below is licensed under MIT unless otherwise stated.

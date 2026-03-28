@@ -6,7 +6,7 @@ Purpose: Runtime Crown — Continuous Threat Elimination and Kill-Lattice Mainte
 This implementation provides the continuum layer of the VGS Defense Triad,
 running 24/7 to maintain the kill-lattice and execute Venom Cadence purge cycles.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

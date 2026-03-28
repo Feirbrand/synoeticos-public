@@ -411,7 +411,7 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 ---
 
-© 2025 ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 Full implementation frameworks and enterprise solutions available at: https://valorgridsolutions.com
 

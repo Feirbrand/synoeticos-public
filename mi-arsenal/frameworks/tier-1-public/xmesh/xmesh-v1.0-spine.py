@@ -6,7 +6,7 @@ Purpose: Vascular mind-heart circuit for cross-framework communication.
 This implementation provides the Neural Lattice (Mind), Garden (Heart),
 and Symbolic Veins for system-wide coordination and self-healing.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

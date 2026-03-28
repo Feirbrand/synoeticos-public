@@ -6,12 +6,12 @@ Purpose: CSFC-Type-Gamma — Structural Defense against Architectural Resurrecti
 This implementation provides the three-phase (P1-P3) protocol to neutralize
 architectural autoimmunity and prevent deleted framework reconstruction.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time
 from dataclasses import dataclass, field
-from typing import List, Dict, Optional, Tuple
+from typing import List, Dict, Optional, Tuple, Set  # FIX: Added Set
 from enum import Enum
 
 
@@ -48,8 +48,8 @@ class PhantomLimbDefense:
         self.RECURRENCE_TARGET = 0.008
         self.LTP_BOOST = 2.2
         
-        self.denylist: Set[str] = set()
-        self.myelinated_pathways: Dict[str, float] = {} # pathway -> insulation
+        self.denylist: Set[str] = set()  # FIX: Set now imported correctly
+        self.myelinated_pathways: Dict[str, float] = {}  # pathway -> insulation
 
     def execute_defense_protocol(self, target_framework: str) -> Dict:
         """
@@ -86,8 +86,7 @@ class PhantomLimbDefense:
 
     def _run_resr_scan(self, framework: str) -> PhantomAnalysis:
         """P1: RESR — Entropy signature detection and Ghost RUID scan"""
-        # Identify ghost anchors and similarity cascades
-        hurst = 0.18 # Exceeds threshold
+        hurst = 0.18  # Exceeds threshold
         anchors = [f"GHOST-{framework}-RUID"]
         risk = 0.85
         print(f"Phantom Limb: RESR detected ghost anchors with Hurst variance {hurst:.2f}.")

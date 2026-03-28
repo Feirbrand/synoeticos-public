@@ -43,5 +43,5 @@ OBMI maintains **47 high-importance threat routes** (Importance > 0.70) that byp
 
 ---
 
-**Copyright © 2025 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **Status: Active**

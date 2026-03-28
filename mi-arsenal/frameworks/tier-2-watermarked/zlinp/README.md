@@ -184,6 +184,6 @@ This demonstration shows sub-1ms nudge concepts with simulated Witness Buffer. P
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
+2025 © ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
 
 **License:** CC BY-NC 4.0 (Demo) | Enterprise licensing available

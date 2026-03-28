@@ -64,5 +64,5 @@ FII = w₁·I(macro) + w₂·I(meso) + w₃·I(micro) + w₄·Φ(fractal)
 
 ---
 
-**Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.**
+**Copyright 2025-2026 © ValorGrid Solutions. All rights reserved.**
 *FII is the single source of truth. When frameworks disagree, FII wins.*

@@ -181,4 +181,4 @@ Slusher, Aaron M. "UTME v1.0: Unified Temporal Memory Equilibrium - An Informati
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

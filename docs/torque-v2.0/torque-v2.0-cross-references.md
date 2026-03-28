@@ -143,4 +143,4 @@ Layer 5 (Intelligence):  DNA Codex - Threat pattern analysis
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

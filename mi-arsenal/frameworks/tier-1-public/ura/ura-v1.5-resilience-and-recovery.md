@@ -861,7 +861,7 @@ Division. Retrieved from https://github.com/Feirbrand/Synoetic OS-public
 
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-**Copyright:** © 2025 ValorGrid Solutions. All Rights Reserved.
+**Copyright:** 2025 © ValorGrid Solutions. All Rights Reserved.
 
 ---
 

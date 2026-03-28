@@ -552,7 +552,7 @@ ValorGrid Solutions develops cognitive resilience frameworks for AI systems. Res
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 Part of the **Synoetic OS™** research ecosystem — Building narrative sovereignty for autonomous intelligence.
 

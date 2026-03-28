@@ -104,4 +104,4 @@ Slusher, Aaron M. "Torque v2.0: Measuring AI System Stability in Real-Time." *Va
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

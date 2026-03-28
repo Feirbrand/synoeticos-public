@@ -6,7 +6,7 @@ Purpose: Distributed Cognitive Defense with Myelinated Reflexive Learning.
 This implementation provides the integrated RAY-UTME framework, featuring
 temporal anchoring, myelination dynamics, and entropy conservation.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

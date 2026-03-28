@@ -298,7 +298,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 ---
 
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+2025 © ValorGrid Solutions. All rights reserved.
 
 <h2>Code and Methodology Licensing</h2>
 

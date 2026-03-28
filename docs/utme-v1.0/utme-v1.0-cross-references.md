@@ -145,4 +145,4 @@ UTME applies **Landauer's Principle** to AI memory:
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

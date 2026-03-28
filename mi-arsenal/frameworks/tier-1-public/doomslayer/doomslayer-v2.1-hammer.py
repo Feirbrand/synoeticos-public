@@ -6,7 +6,7 @@ Purpose: Cascade hammer with FCE isolation + BC3 recursion + OCT RAY/ReCode for 
 This implementation aligns with the VGS Tier-1 Public Specification.
 High-fidelity simulation of production-grade deterministic logic.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

@@ -6,7 +6,7 @@ Purpose: Mirror — Sub-Millisecond Coherence Detection and Garden Recovery.
 This implementation provides the observational layer for the Garden Recovery
 ecosystem, providing sub-millisecond mirror reflection and meta-index lattice.
 
-© 2025 ValorGrid Solutions | Author: Aaron M. Slusher
+2025 © ValorGrid Solutions
 """
 
 import time

@@ -148,4 +148,4 @@ FCE enables distributed context sharing:
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

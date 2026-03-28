@@ -179,4 +179,4 @@ Layer 7 (Distribution):  DCN - Collective coordination
 
 ---
 
-**© 2025 ValorGrid Solutions. All rights reserved.**
+**2025 © ValorGrid Solutions. All rights reserved.**

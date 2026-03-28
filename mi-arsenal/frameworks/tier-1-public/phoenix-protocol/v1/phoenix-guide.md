@@ -65,7 +65,7 @@ Contact aaron@valorgridsolutions.com for:
 
 ---
 
-**Copyright © 2025 Aaron Slusher / ValorGrid Solutions**
+**2025 © ValorGrid Solutions**
 
 ## Author
 

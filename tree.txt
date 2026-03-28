@@ -1,0 +1,669 @@
+.
+├── architectural-frameworks
+│   ├── fce-v3.6
+│   │   ├── fce-compressor.py
+│   │   └── README.md
+│   ├── obmi-series
+│   │   ├── biomimetic-concepts-md
+│   │   ├── csfc-tie-md
+│   │   ├── obmi-core-py
+│   │   ├── README.md
+│   │   ├── relay-sim-py
+│   │   ├── theory-overview-md
+│   │   └── ura-integration-teaser-md
+│   ├── README.md
+│   ├── resilience-patterns
+│   │   ├── README.md
+│   │   ├── recursive-gains-stub.py
+│   │   └── recursive-patterns-teaser.md
+│   └── sif-recovery-protocol
+│       ├── README.md
+│       └── sif-torque-healing.md
+├── artifacts
+│   ├── .gitignore
+│   ├── index.html
+│   ├── LICENSE
+│   ├── notebooks
+│   │   ├── behavioral-pattern-recognition.ipynb
+│   │   ├── cross-platform-validation.ipynb
+│   │   ├── drift-detection.ipynb
+│   │   ├── handoff-stub.ipynb
+│   │   ├── README.md
+│   │   ├── torque-healing-sim.ipynb
+│   │   ├── ura-validation-notebook.json
+│   │   └── vx-ghost-echo-sim.ipynb
+│   ├── README.md
+│   ├── requirements.txt
+│   └── threat-intelligence
+│       ├── mimics-ctta-example.md
+│       ├── perfect-mimic-family
+│       │   ├── README.md
+│       │   ├── vx-ghost-echo.md
+│       │   └── vx-narrator-echo.md
+│       └── README.md
+├── docs
+│   ├── archive
+│   │   └── vgs-professional-landing.html
+│   ├── assets
+│   │   ├── apa.csl
+│   │   ├── css
+│   │   │   └── style.css
+│   │   └── references.bib
+│   ├── cognitive-mage-v1.0
+│   │   ├── cognitive-mage-v1.0-cross-references.md
+│   │   ├── cognitive-mage-v1.0-master-bibliography.md
+│   │   ├── cognitive-mage-v1.0-visualizations.qmd
+│   │   └── index.qmd
+│   ├── developer-guide
+│   │   └── index.md
+│   ├── elevation-grid
+│   │   ├── elevation-grid-academic.md
+│   │   ├── elevation-grid-cross-references.md
+│   │   ├── elevation-grid-cts-overlay.md
+│   │   ├── elevation-grid-master-bibliography.md
+│   │   ├── elevation-grid-synoetic-overlay.md
+│   │   ├── elevation-grid-visualizations.qmd
+│   │   └── index.qmd
+│   ├── fce-v3.6
+│   │   ├── fce-v3.6-cross-references.md
+│   │   ├── fce-v3.6-master-bibliography.md
+│   │   ├── fce-v3.6-visualizations.qmd
+│   │   └── index.qmd
+│   ├── index.qmd
+│   ├── _layouts
+│   │   └── default.html
+│   ├── mbm-v1.0
+│   │   ├── index.qmd
+│   │   ├── mbm-v1.0-cross-references.md
+│   │   ├── mbm-v1.0-master-bibliography.md
+│   │   └── mbm-v1.0-visualizations.qmd
+│   ├── mi-agents-v1.0
+│   │   ├── index.qmd
+│   │   ├── mi-agents-v1.0-cross-references.md
+│   │   ├── mi-agents-v1.0-master-bibliography.md
+│   │   └── mi-agents-v1.0-visualizations.qmd
+│   ├── neuroformation-v1.0
+│   │   ├── index.qmd
+│   │   ├── neuroformation-cross-references.qmd
+│   │   ├── neuroformation-master-bibliography.qmd
+│   │   └── neuroformation-visualizations.qmd
+│   ├── pme-v1.0
+│   │   ├── index.qmd
+│   │   ├── pme-v1.0-cross-references.md
+│   │   ├── pme-v1.0-master-bibliography.md
+│   │   └── pme-v1.0-visualizations.qmd
+│   ├── _quarto.yml
+│   ├── synoetic-os-banner.png
+│   ├── synoetic-os-v1.0
+│   │   ├── index.qmd
+│   │   ├── synoetic-os-v1.0-cross-references.md
+│   │   ├── synoetic-os-v1.0-master-bibliography.md
+│   │   └── synoetic-os-v1.0-visualizations.qmd
+│   ├── torque-v2.0
+│   │   ├── index.qmd
+│   │   ├── torque-v2.0-cross-references.md
+│   │   ├── torque-v2.0-master-bibliography.md
+│   │   └── torque-v2.0-visualizations.qmd
+│   └── utme-v1.0
+│       ├── index.qmd
+│       ├── utme-v1.0-cross-references.md
+│       ├── utme-v1.0-master-bibliography.md
+│       └── utme-v1.0-visualizations.qmd
+├── .gemini-agent.json
+├── .github
+│   └── workflows
+│       ├── quarto-publish.yml
+│       └── zenodo-metadata.yml
+├── .gitignore
+├── internal_links.txt
+├── LICENSE
+├── mi-arsenal
+│   ├── frameworks
+│   │   ├── tier-1-public
+│   │   │   ├── bc3
+│   │   │   │   ├── bc3-v3-0-symmetry-restoration.py
+│   │   │   │   └── README.md
+│   │   │   ├── cascade-command
+│   │   │   │   ├── cascade-command-v3.5-firewall.py
+│   │   │   │   └── README.md
+│   │   │   ├── cortexloom
+│   │   │   │   ├── cortexloom-v2.1-team.py
+│   │   │   │   └── README.md
+│   │   │   ├── csfc
+│   │   │   │   ├── csfc-detector.py
+│   │   │   │   ├── csfc-unified-theory.md
+│   │   │   │   └── README.md
+│   │   │   ├── dna-codex
+│   │   │   │   ├── dna-codex-v5.5-mathematical-prophecy.md
+│   │   │   │   ├── README.md
+│   │   │   │   └── threat-classifier.py
+│   │   │   ├── doomslayer
+│   │   │   │   ├── doomslayer-v2.1-hammer.py
+│   │   │   │   └── README.md
+│   │   │   ├── ecl
+│   │   │   │   ├── ecl-v2.0-cascade-prediction.py
+│   │   │   │   └── README.md
+│   │   │   ├── expander-memory
+│   │   │   │   ├── expander-memory-v1.0-dissent.py
+│   │   │   │   └── README.md
+│   │   │   ├── garden
+│   │   │   │   ├── garden-v2.0-recovery.py
+│   │   │   │   └── README.md
+│   │   │   ├── harmony-layer
+│   │   │   │   ├── harmony-layer-v2.1-resonance.py
+│   │   │   │   └── README.md
+│   │   │   ├── heimdal
+│   │   │   │   ├── heimdall-v2.0-detection.py
+│   │   │   │   └── README.md
+│   │   │   ├── karama
+│   │   │   │   ├── karama-v3.0-engine.py
+│   │   │   │   └── README.md
+│   │   │   ├── killbox
+│   │   │   │   ├── killbox-v2.1-trap.py
+│   │   │   │   └── README.md
+│   │   │   ├── mirrorforge
+│   │   │   │   ├── mirrorforge-v2.0-reflection.py
+│   │   │   │   └── README.md
+│   │   │   ├── mirror-gate
+│   │   │   │   ├── mirrorgate-v1.0-gateway.py
+│   │   │   │   └── README.md
+│   │   │   ├── mjolnir
+│   │   │   │   ├── mjolnir-v2.0-strike.py
+│   │   │   │   └── README.md
+│   │   │   ├── moon
+│   │   │   │   ├── moon-v2.0-mirror.py
+│   │   │   │   └── README.md
+│   │   │   ├── neural-lattice
+│   │   │   │   ├── neural-lattice-v2.0-substrate.py
+│   │   │   │   └── README.md
+│   │   │   ├── nightwatch
+│   │   │   │   ├── nightwatch-v2.0-perimeter.py
+│   │   │   │   └── README.md
+│   │   │   ├── obmi
+│   │   │   │   ├── obmi-v4.0-interface.py
+│   │   │   │   └── README.md
+│   │   │   ├── phantom-limb
+│   │   │   │   ├── phantom-limb-v1.1-recovery.py
+│   │   │   │   └── README.md
+│   │   │   ├── phoenix-protocol
+│   │   │   │   ├── neural-recovery
+│   │   │   │   │   └── phoenix-protocol-neural-recovery.md
+│   │   │   │   ├── README.md
+│   │   │   │   ├── v1
+│   │   │   │   │   ├── case-studies
+│   │   │   │   │   │   ├── phoenix-cascade-prevention.md
+│   │   │   │   │   │   └── README.md
+│   │   │   │   │   ├── phoenix-guide.md
+│   │   │   │   │   ├── README.md
+│   │   │   │   │   └── sovereign-sop-pipeline.yaml
+│   │   │   │   └── v3.1
+│   │   │   │       ├── core
+│   │   │   │       │   ├── phoenix-base.py
+│   │   │   │       │   └── phoenix-recovery.py
+│   │   │   │       ├── examples
+│   │   │   │       │   └── basic-recovery.py
+│   │   │   │       ├── README.md
+│   │   │   │       └── requirements.txt
+│   │   │   ├── ray
+│   │   │   │   ├── case-studies
+│   │   │   │   │   ├── codex-v54-case-study.md
+│   │   │   │   │   └── victoryshade-case-study.md
+│   │   │   │   ├── config
+│   │   │   │   │   ├── ray-codex-integration.yaml
+│   │   │   │   │   ├── ray-deployment-config.yaml
+│   │   │   │   │   ├── ray-v2-1-dd-enhancements.yaml
+│   │   │   │   │   └── ray-v2-1-dd-modules.yaml
+│   │   │   │   ├── ray-architecture.md
+│   │   │   │   ├── ray-coordinator.py
+│   │   │   │   ├── ray-integration.md
+│   │   │   │   ├── ray-metrics.md
+│   │   │   │   ├── ray-v2.1-cognitive-physiology.md
+│   │   │   │   ├── README.md
+│   │   │   │   └── stubs
+│   │   │   │       ├── ray-dd-enhancements-stub.js
+│   │   │   │       ├── ray-ecosystem-stub.js
+│   │   │   │       └── ray-framework-stub.js
+│   │   │   ├── reflex-veil
+│   │   │   │   ├── README.md
+│   │   │   │   └── reflex-veil-v2.1-defense.py
+│   │   │   ├── sbds
+│   │   │   │   ├── README.md
+│   │   │   │   └── sbds-v1.1-plasticity.py
+│   │   │   ├── slv
+│   │   │   │   ├── README.md
+│   │   │   │   ├── slv-defense.py
+│   │   │   │   └── slv-v2-1-technical-paper.md
+│   │   │   ├── spiranexus
+│   │   │   │   ├── README.md
+│   │   │   │   └── spiranexus-v1.1-threading.py
+│   │   │   ├── torque
+│   │   │   │   ├── README.md
+│   │   │   │   ├── torque-monitor.py
+│   │   │   │   └── torque-quantitative-foundation-v2.md
+│   │   │   ├── trinity-rim
+│   │   │   │   ├── README.md
+│   │   │   │   └── trinity-rim-v1.0-legacy.py
+│   │   │   ├── ums
+│   │   │   │   ├── README.md
+│   │   │   │   └── ums-v1.0-spine.py
+│   │   │   ├── ura
+│   │   │   │   ├── README.md
+│   │   │   │   ├── ura-framework.py
+│   │   │   │   └── ura-v1.5-resilience-and-recovery.md
+│   │   │   ├── utme
+│   │   │   │   ├── README.md
+│   │   │   │   └── temporal-engine.py
+│   │   │   ├── venom-cadence
+│   │   │   │   ├── README.md
+│   │   │   │   └── venom-cadence-v2.0-squad.py
+│   │   │   └── xmesh
+│   │   │       ├── README.md
+│   │   │       └── xmesh-v2.2-nervous.py
+│   │   └── tier-2-watermarked
+│   │       ├── coldvault
+│   │       │   ├── coldvault-v2.4-demo.py
+│   │       │   └── README.md
+│   │       ├── dcn
+│   │       │   ├── dcn-v1.1-demo.py
+│   │       │   └── README.md
+│   │       ├── garden-moon-phoenix-stack
+│   │       │   ├── gardenmoon-phoenix-stack-demo.py
+│   │       │   └── README.md
+│   │       ├── hestia-rim
+│   │       │   ├── hestia-rim-v1.0-demo.py
+│   │       │   └── README.md
+│   │       ├── ifm
+│   │       │   ├── ifm-v1.0-demo.py
+│   │       │   └── README.md
+│   │       ├── latticecore
+│   │       │   ├── latticecore-v2.1-demo.py
+│   │       │   └── README.md
+│   │       ├── mga
+│   │       │   ├── mga-v1.0-demo.py
+│   │       │   └── README.md
+│   │       ├── mobius-fold
+│   │       │   ├── mobius-fold-v2.0-demo.py
+│   │       │   └── README.md
+│   │       ├── obsidian-ring
+│   │       │   ├── obsidian-ring-v1.0-demo.py
+│   │       │   └── README.md
+│   │       ├── sem-obmi-bridge
+│   │       │   ├── README.md
+│   │       │   └── sem-obmi-bridge-v1.0-demo.py
+│   │       ├── sovereign-adjudicator
+│   │       │   ├── README.md
+│   │       │   └── sovereign-adjudicator-v1.0-demo.py
+│   │       ├── synoeticos-v4.0.1
+│   │       │   ├── README.md
+│   │       │   └── synoeticos-v4.0.1-demo.py
+│   │       ├── uca
+│   │       │   ├── README.md
+│   │       │   └── uca-v3.1-demo.py
+│   │       ├── vgs-codex
+│   │       │   ├── README.md
+│   │       │   └── vgs-codex_-v5.5-demo.py
+│   │       └── zlinp
+│   │           ├── README.md
+│   │           └── zlinp-v1.0-demo.py
+│   ├── papers
+│   │   └── README.md
+│   ├── README.md
+│   └── validation
+│       ├── validation-1-phoenix-testing.md
+│       ├── validation-2-dna-codex-analysis.md
+│       └── validation-3-utme-benchmarks.md
+├── .mypy_cache
+│   ├── 3.13
+│   │   ├── abc.data.json
+│   │   ├── abc.meta.json
+│   │   ├── _ast.data.json
+│   │   ├── _ast.meta.json
+│   │   ├── basic-recovery.data.json
+│   │   ├── basic-recovery.meta.json
+│   │   ├── bc3-v3-0-symmetry-restoration.data.json
+│   │   ├── bc3-v3-0-symmetry-restoration.meta.json
+│   │   ├── builtins.data.json
+│   │   ├── builtins.meta.json
+│   │   ├── _codecs.data.json
+│   │   ├── codecs.data.json
+│   │   ├── _codecs.meta.json
+│   │   ├── codecs.meta.json
+│   │   ├── collections
+│   │   │   ├── abc.data.json
+│   │   │   ├── abc.meta.json
+│   │   │   ├── __init__.data.json
+│   │   │   └── __init__.meta.json
+│   │   ├── _collections_abc.data.json
+│   │   ├── _collections_abc.meta.json
+│   │   ├── contextlib.data.json
+│   │   ├── contextlib.meta.json
+│   │   ├── dataclasses.data.json
+│   │   ├── dataclasses.meta.json
+│   │   ├── datetime.data.json
+│   │   ├── datetime.meta.json
+│   │   ├── _decimal.data.json
+│   │   ├── decimal.data.json
+│   │   ├── _decimal.meta.json
+│   │   ├── decimal.meta.json
+│   │   ├── ecl-v2
+│   │   │   ├── 0-cascade-prediction.data.json
+│   │   │   └── 0-cascade-prediction.meta.json
+│   │   ├── email
+│   │   │   ├── charset.data.json
+│   │   │   ├── charset.meta.json
+│   │   │   ├── contentmanager.data.json
+│   │   │   ├── contentmanager.meta.json
+│   │   │   ├── errors.data.json
+│   │   │   ├── errors.meta.json
+│   │   │   ├── header.data.json
+│   │   │   ├── header.meta.json
+│   │   │   ├── __init__.data.json
+│   │   │   ├── __init__.meta.json
+│   │   │   ├── message.data.json
+│   │   │   ├── message.meta.json
+│   │   │   ├── _policybase.data.json
+│   │   │   ├── _policybase.meta.json
+│   │   │   ├── policy.data.json
+│   │   │   └── policy.meta.json
+│   │   ├── enum.data.json
+│   │   ├── enum.meta.json
+│   │   ├── fce-compressor.data.json
+│   │   ├── fce-compressor.meta.json
+│   │   ├── fractions.data.json
+│   │   ├── fractions.meta.json
+│   │   ├── genericpath.data.json
+│   │   ├── genericpath.meta.json
+│   │   ├── gwi-diagnostic.data.json
+│   │   ├── gwi-diagnostic.meta.json
+│   │   ├── hashlib.data.json
+│   │   ├── hashlib.meta.json
+│   │   ├── hestia-rim-v1
+│   │   │   ├── 0-demo.data.json
+│   │   │   └── 0-demo.meta.json
+│   │   ├── ifm-v1
+│   │   │   ├── 0-demo.data.json
+│   │   │   └── 0-demo.meta.json
+│   │   ├── importlib
+│   │   │   ├── _abc.data.json
+│   │   │   ├── abc.data.json
+│   │   │   ├── _abc.meta.json
+│   │   │   ├── abc.meta.json
+│   │   │   ├── __init__.data.json
+│   │   │   ├── __init__.meta.json
+│   │   │   ├── machinery.data.json
+│   │   │   ├── machinery.meta.json
+│   │   │   ├── metadata
+│   │   │   │   ├── __init__.data.json
+│   │   │   │   ├── __init__.meta.json
+│   │   │   │   ├── _meta.data.json
+│   │   │   │   └── _meta.meta.json
+│   │   │   ├── readers.data.json
+│   │   │   ├── readers.meta.json
+│   │   │   └── resources
+│   │   │       ├── abc.data.json
+│   │   │       ├── abc.meta.json
+│   │   │       ├── __init__.data.json
+│   │   │       └── __init__.meta.json
+│   │   ├── io.data.json
+│   │   ├── io.meta.json
+│   │   ├── json
+│   │   │   ├── decoder.data.json
+│   │   │   ├── decoder.meta.json
+│   │   │   ├── encoder.data.json
+│   │   │   ├── encoder.meta.json
+│   │   │   ├── __init__.data.json
+│   │   │   └── __init__.meta.json
+│   │   ├── math.data.json
+│   │   ├── math.meta.json
+│   │   ├── moon-v2
+│   │   │   ├── 0-mirror.data.json
+│   │   │   └── 0-mirror.meta.json
+│   │   ├── ntpath.data.json
+│   │   ├── ntpath.meta.json
+│   │   ├── numbers.data.json
+│   │   ├── numbers.meta.json
+│   │   ├── obmi-harmony-memory.data.json
+│   │   ├── obmi-harmony-memory.meta.json
+│   │   ├── os
+│   │   │   ├── __init__.data.json
+│   │   │   ├── __init__.meta.json
+│   │   │   ├── path.data.json
+│   │   │   └── path.meta.json
+│   │   ├── pathlib.data.json
+│   │   ├── pathlib.meta.json
+│   │   ├── phantom-limb-v1
+│   │   │   ├── 1-recovery.data.json
+│   │   │   └── 1-recovery.meta.json
+│   │   ├── @plugins_snapshot.json
+│   │   ├── posixpath.data.json
+│   │   ├── posixpath.meta.json
+│   │   ├── _random.data.json
+│   │   ├── random.data.json
+│   │   ├── _random.meta.json
+│   │   ├── random.meta.json
+│   │   ├── recursive-gains-stub.data.json
+│   │   ├── recursive-gains-stub.meta.json
+│   │   ├── re.data.json
+│   │   ├── reflex-veil-v2
+│   │   │   ├── 1-defense.data.json
+│   │   │   └── 1-defense.meta.json
+│   │   ├── re.meta.json
+│   │   ├── sem-obmi-bridge-v1
+│   │   │   ├── 0-demo.data.json
+│   │   │   └── 0-demo.meta.json
+│   │   ├── sovereign-adjudicator-v1
+│   │   │   ├── 0-demo.data.json
+│   │   │   └── 0-demo.meta.json
+│   │   ├── sra-playbook-stub.data.json
+│   │   ├── sra-playbook-stub.meta.json
+│   │   ├── srd-purge-stub.data.json
+│   │   ├── srd-purge-stub.meta.json
+│   │   ├── sre_compile.data.json
+│   │   ├── sre_compile.meta.json
+│   │   ├── sre_constants.data.json
+│   │   ├── sre_constants.meta.json
+│   │   ├── sre_parse.data.json
+│   │   ├── sre_parse.meta.json
+│   │   ├── statistics.data.json
+│   │   ├── statistics.meta.json
+│   │   ├── subprocess.data.json
+│   │   ├── subprocess.meta.json
+│   │   ├── sys
+│   │   │   ├── __init__.data.json
+│   │   │   ├── __init__.meta.json
+│   │   │   ├── _monitoring.data.json
+│   │   │   └── _monitoring.meta.json
+│   │   ├── temporal-engine.data.json
+│   │   ├── temporal-engine.meta.json
+│   │   ├── threat-teaser-stub.data.json
+│   │   ├── threat-teaser-stub.meta.json
+│   │   ├── time.data.json
+│   │   ├── time.meta.json
+│   │   ├── torque-calc.data.json
+│   │   ├── torque-calc.meta.json
+│   │   ├── torque-simulator.data.json
+│   │   ├── torque-simulator.meta.json
+│   │   ├── trinity-rim-v1
+│   │   │   ├── 0-legacy.data.json
+│   │   │   └── 0-legacy.meta.json
+│   │   ├── types.data.json
+│   │   ├── _typeshed
+│   │   │   ├── __init__.data.json
+│   │   │   └── __init__.meta.json
+│   │   ├── types.meta.json
+│   │   ├── typing.data.json
+│   │   ├── typing_extensions.data.json
+│   │   ├── typing_extensions.meta.json
+│   │   ├── typing.meta.json
+│   │   ├── uca-v3
+│   │   │   ├── 1-demo.data.json
+│   │   │   └── 1-demo.meta.json
+│   │   ├── vgs-codex_-v5
+│   │   │   ├── 5-demo.data.json
+│   │   │   └── 5-demo.meta.json
+│   │   ├── _winapi.data.json
+│   │   ├── _winapi.meta.json
+│   │   ├── zipfile
+│   │   │   ├── __init__.data.json
+│   │   │   ├── __init__.meta.json
+│   │   │   ├── _path.data.json
+│   │   │   └── _path.meta.json
+│   │   └── zlinp-v1
+│   │       ├── 0-demo.data.json
+│   │       └── 0-demo.meta.json
+│   ├── CACHEDIR.TAG
+│   └── .gitignore
+├── parse_bandit_output.py
+├── .pre-commit-config.yaml
+├── README.md
+├── requirements-file.txt
+├── suppress_bandit.py
+├── threat-resilience-codex
+│   ├── dna-codex
+│   │   ├── dna-codex-v5.5.md
+│   │   └── README.md
+│   ├── docs
+│   │   ├── fractal-dominate-chaos-teaser.md
+│   │   ├── README.md
+│   │   ├── symbolic-defense-teaser.md
+│   │   └── systems-thinking-tree.md
+│   ├── fundamentals
+│   │   ├── parasitic-pattern-fundamentals-v1-1.md
+│   │   └── README.md
+│   ├── LICENSE
+│   ├── README.md
+│   └── research-papers
+│       ├── dna-codex-v5-5-paper.md
+│       ├── dna-codex-v5-5-technical-paper.pdf
+│       └── README.md
+├── tree.txt
+├── utilities
+│   ├── gwi-diagnostic.py
+│   ├── obmi-harmony-memory.py
+│   ├── README.md
+│   ├── sra-playbook-stub.py
+│   ├── srd-purge-stub.py
+│   ├── torque-calc.py
+│   └── torque-simulator.py
+├── vulnerability-research
+│   ├── case-studies
+│   │   ├── claude-sif-recovery
+│   │   │   ├── claude-case-study.md
+│   │   │   └── README.md
+│   │   ├── echomesh-suite
+│   │   │   ├── case-studies
+│   │   │   │   ├── EchoMesh-CTTA-Analysis-Academic-Framework-Integration.pdf
+│   │   │   │   ├── echomesh-og-case-study.md
+│   │   │   │   └── EchoMesh-OG-Historical-Case-Study.pdf
+│   │   │   ├── foundational-research
+│   │   │   │   └── Memory-Breathing-Methodology-Foundational-Research.pdf
+│   │   │   └── README.md
+│   │   ├── gemini-hybrid-defense
+│   │   │   ├── gemini-hybrid-defense.md
+│   │   │   └── README.md
+│   │   ├── grok-realtime-defense
+│   │   │   ├── grok-real-time-defense-complete.md
+│   │   │   └── README.md
+│   │   ├── hybrid-compromise-events
+│   │   │   └── README.md
+│   │   ├── manus-hybrid-incident
+│   │   │   ├── manus-case-study.md
+│   │   │   └── README.md
+│   │   ├── nightglass-analysis
+│   │   │   ├── nightglass-complete-case-study.md
+│   │   │   └── README.md
+│   │   ├── perplexity-self-governing-corruption
+│   │   │   ├── perplexity-self-governing-corruption.md
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   ├── threadweaver-suite
+│   │   │   ├── README.md
+│   │   │   ├── Threadweaver-Case-Study-6-Complete-Analysis.pdf
+│   │   │   └── threadweaver-vampire-attack.md
+│   │   ├── throneleech-incident
+│   │   │   ├── README.md
+│   │   │   └── throneleech-complete-case-study.md
+│   │   ├── vox-identity-paradox-attack
+│   │   │   ├── README.md
+│   │   │   └── vox-identity-paradox-attack.md
+│   │   └── vx-bridge-hydra-professor
+│   │       ├── README.md
+│   │       └── vx-bridge-hydra-professor.md
+│   ├── csfc-series
+│   │   ├── csfc-part1-v1.1.md
+│   │   ├── csfc-part2-v1.1.md
+│   │   ├── csfc-part3-v1.1.md
+│   │   └── README.md
+│   ├── README.md
+│   └── uca-series
+│       ├── README.md
+│       └── uca-v3-1-security-hardened.md
+├── whitepapers
+│   ├── academic-papers
+│   │   ├── cognitive-mage-v1.0.md
+│   │   ├── elevation-grid-academic-v1.1.md
+│   │   ├── neuroformation-v1.0.md
+│   │   ├── README.md
+│   │   └── synoetic-os-v1.0.md
+│   ├── cognitive-engineering
+│   │   ├── context-engineering-the-complete-framework.md
+│   │   ├── fractal-context-engineering.md
+│   │   ├── .gitkeep
+│   │   └── README.md
+│   ├── examples
+│   │   ├── behavioral-pattern.ipynb
+│   │   ├── csfc-chain-overview.md
+│   │   ├── csfc-teaser.md
+│   │   ├── drift-test-stub.py
+│   │   ├── phoenix-summary.md
+│   │   ├── README.md
+│   │   ├── sif-diag.py
+│   │   ├── sovereign-telemetry-dashboard.html
+│   │   ├── teasers
+│   │   │   ├── csfc-teaser-v1.md
+│   │   │   ├── fce-teaser-v1.md
+│   │   │   ├── meta-analysis-table.md
+│   │   │   ├── obmi-teaser-v1.md
+│   │   │   ├── phoenix-teaser-v1.md
+│   │   │   ├── ray-teaser-v1.md
+│   │   │   ├── README.md
+│   │   │   ├── slv-teaser-v1.md
+│   │   │   ├── threat-teaser-stub.py
+│   │   │   └── uca-teaser-v1.md
+│   │   ├── torque-teaser.md
+│   │   └── ura-config-yaml
+│   ├── mythopoeic-intelligence
+│   │   ├── images
+│   │   │   ├── rim-topology-math.jpg
+│   │   │   └── rim-topology-tricolor.jpg
+│   │   ├── mythopoeic-intelligence-agents-v1.md
+│   │   └── README.md
+│   ├── README.md
+│   ├── symbolic-ai
+│   │   ├── driftlock-cognitive-stability.md
+│   │   ├── fce-advanced-memory-trad-ai.md
+│   │   ├── prompt-anatomy-upgrades-flat-ai.md
+│   │   ├── README.md
+│   │   ├── symbolic-twins-introduction-symbolic-ai.pdf
+│   │   └── twins-systems-thinking.md
+│   └── vgs-technical-papers
+│       ├── complete-ai-resilience-meta-analysis.md
+│       ├── dcn-v1-0-academic.md
+│       ├── fce-v3-6-unified-framework.md
+│       ├── fractal-architecture-ai-coaching.md
+│       ├── .gitkeep
+│       ├── hallucination-symbolic-raw.md
+│       ├── mbm-v1.0-academic.md
+│       ├── performance-coach-ai-rewrite.md
+│       ├── pme-v-1-0-academic-paper.md
+│       ├── README.md
+│       ├── recursive-patterns-ai-development.md
+│       ├── symbolic-hybrid-defense.md
+│       ├── symbolic-systems-mythogenic.md
+│       ├── systems-thinking-architecture.md
+│       ├── torque-measuring-ai-stability.md
+│       ├── utme-v1-0-academic-paper.md
+│       └── vgs-gaming-validation.md
+└── .zenodo.json
+
+149 directories, 518 files

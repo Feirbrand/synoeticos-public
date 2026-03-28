@@ -101,4 +101,4 @@ Reflex-Veil operates in the temporal shadow, detecting threats before they manif
 
 ---
 
-© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
+2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207

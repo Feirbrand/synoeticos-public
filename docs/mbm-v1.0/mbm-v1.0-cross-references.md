@@ -230,6 +230,6 @@ Synoetic OS (Orchestration)
 
 ---
 
-**© 2026 ValorGrid Solutions. All rights reserved.**
+**2026 © ValorGrid Solutions. All rights reserved.**
 
 *Memory Breathing Methodology v1.0 — Framework Integration Map — February 17, 2026*

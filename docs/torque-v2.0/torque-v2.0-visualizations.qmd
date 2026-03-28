@@ -100,4 +100,4 @@ graph TD
 
 ---
 
-*© 2025 Aaron M. Slusher, ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750)*
+*2025 © ValorGrid Solutions. [Main Paper](index.html) | DOI: [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750)*
