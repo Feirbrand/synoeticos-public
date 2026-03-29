@@ -6,7 +6,6 @@ Patent Clause: Patent rights reserved, no patent assertion without grant.
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
 Version: 2.0
 Priority Date: 2025-12-06
 

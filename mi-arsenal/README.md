@@ -6,7 +6,6 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
 Version: 1.2
 Priority Date: 2025-07-15
 Enhancement Date: 2025-11-29
@@ -83,6 +82,9 @@ mi-arsenal/
 │   │   ├── sbds/
 │   │   ├── neural-lattice/
 │   │   ├── mirrorgate/
+│   │   ├── eternal-spire/
+│   │   ├── pme/
+│   │   ├── sem/
 │   │   ├── harmony-layer/
 │   │   ├── trinity-rim/
 │   │   └── ura/
@@ -209,7 +211,7 @@ Integration with operational systems enables real-time pattern matching and auto
 **15 Frameworks Complete** - READMEs + Python Demos
 
 ### Batch 1: Core Systems
-**SynoeticOS v4.0.1** - Complete operating system architecture with 12 integrated frameworks
+**Synoetic OS v1.0** - Complete operating system architecture with 12 integrated frameworks
 **DCN v1.1** - Distributed Cognitive Network enabling 9-agent ensemble coordination
 **SEM-OBMI Bridge v1.0** - Semantic memory bridge connecting episodic and working memory
 
