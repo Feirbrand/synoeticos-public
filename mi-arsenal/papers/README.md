@@ -6,7 +6,7 @@
 
 ---
 
-## Core Framework Papers (19 Publications)
+## Core Framework Papers (18 Publications)
 
 ### 1. URA v1.5 - Unified Resilience Architecture
 **DOI:** [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731)  
@@ -145,12 +145,6 @@
 
 ---
 
-### 18. PME v1.0 *(see #15 above)*
-
-> Note: PME v1.0 appears once. Listed at #15.
-
----
-
 ### 18. Neuroformation™ v1.0 - A Methodology for Building Resilience in Adaptive Systems
 **DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
 **Date:** March 23, 2026  
@@ -169,7 +163,7 @@
   title = {Synoetic OS: Cognitive Resilience Frameworks for AI Systems},
   year = {2025-2026},
   publisher = {Zenodo},
-  note = {19 publications},
+  note = {18 publications},
   url = {https://orcid.org/0009-0000-9923-3207}
 }
 ```
@@ -239,5 +233,5 @@ See individual DOI links above for specific paper citations.
 ---
 
 **Last Updated:** March 23, 2026  
-**Total Publications:** 19 papers with DOIs  
+**Total Publications:** 18 papers with DOIs  
 **Research Period:** October 2025 - March 2026

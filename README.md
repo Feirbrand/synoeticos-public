@@ -194,7 +194,7 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
 - **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
 - **July-Nov 2025:** 77 frameworks created, 682 incidents handled
-- **Oct 2025 - Feb 2026:** 17 papers published with Zenodo DOIs
+- **Oct 2025 - March 2026:** 18 papers published with Zenodo DOIs
 - **Feb 2026:** GitHub Pages research hub launched
 - **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
 
