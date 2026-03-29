@@ -200,4 +200,4 @@ SEM-OBMI Bridge v1.0 establishes the foundation for cross-hemispheric AI coordin
 **WATERMARKED DEMO VERSION**
 Full production version: aaron@valorgridsolutions.com
 
-2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
+© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207

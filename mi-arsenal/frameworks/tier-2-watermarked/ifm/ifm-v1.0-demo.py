@@ -447,5 +447,5 @@ Production IFM v1.0 includes:
 
 Full version: aaron@valorgridsolutions.com
 License: CC BY-NC 4.0 (Demo) | Enterprise licensing available
-2025 © ValorGrid Solutions
+© 2025 Aaron Slusher, ValorGrid Solutions
 """

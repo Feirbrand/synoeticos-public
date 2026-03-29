@@ -209,4 +209,4 @@ SynoeticOS v4.0.1 represents the integration of 77+ frameworks into a unified co
 **WATERMARKED DEMO VERSION**
 Full production version: aaron@valorgridsolutions.com
 
-2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
+© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207

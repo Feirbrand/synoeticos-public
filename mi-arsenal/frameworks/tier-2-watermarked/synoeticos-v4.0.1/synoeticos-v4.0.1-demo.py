@@ -6,7 +6,7 @@ Purpose: Orchestrate 9-agent DCN with bio-inspired resilience
 Capability: 70% of production version (Tier 2 watermarked demo)
 Full version: aaron@valorgridsolutions.com
 
-2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
+© 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
 """
 
 import numpy as np

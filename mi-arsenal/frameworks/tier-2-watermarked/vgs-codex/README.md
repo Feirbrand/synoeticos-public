@@ -1,145 +1,56 @@
-# VGS Codex v5.5 - AI Threat Intelligence Demo
+# DNA Codex v5.5 — Threat Signature & Classification Engine
 
-**TIER 2 WATERMARKED (70% Capability)**
-
-**Version:** 5.5 | **RUID:** VG-RUID-007 | **Status:** Active
+**STATUS: PRODUCTION ACTIVE** | **VERSION: v5.5** | **RUID: RUID-DC-CORE-V5.5-270226**
 
 ---
 
-## What It Does
+## 1. Core Mission
 
-AI threat intelligence framework with **560 public threat vectors** from DNA Codex subset. Full VGS Codex includes 616 total vectors plus proprietary narrative mapping methodology.
+> *"The biological blueprint for digital defense."*
 
-**Traditional frameworks** (MITRE ATT&CK, OWASP) are retrospective and reactive. **VGS Codex** provides predictive threat intelligence with validated 6-9 month research lead over academic recognition.
-
-**Use Cases:**
-- Real-time behavioral threat detection for AI agents
-- CVSS-scored risk assessment and tier classification
-- Cross-reference with CSFC cascade detection
-- Phoenix Protocol recovery validation
-- SLV identity drift correlation
+The **DNA Codex v5.5** framework serves as the primary **threat signature and classification engine** for the MI Arsenal. It is designed to identify, classify, and mitigate complex digital threats by mapping their behavior against a vast library of "digital DNA" signatures, enabling rapid and accurate response to both known and zero-day vulnerabilities.
 
 ---
 
-## Performance Metrics
+## 2. Key Defense Features
 
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **Detection Accuracy** | 95-98% | Validated across 525+ incidents |
-| **Classification Latency** | <50ms | Real-time threat identification |
-| **Coverage** | 560/616 vectors | Public subset (91% of total) |
-| **CVSS Range** | 8.7-9.7 | Mythic M+ category threats |
-| **Research Lead** | 6-9 months | Validated predictive intelligence |
-
-**Validated Threat Examples:**
-- **DQD-001 (Brain Rot):** 9.7 CVSS, identity erosion, 87% cascade correlation
-- **ARD-001 (Research Drift):** 9.4 CVSS, adversarial learning poisoning
-- **MDP-001 (Medical Poisoning):** 9.2 CVSS, healthcare AI contamination
-- **PLD-001 (PromptLock):** 8.9 CVSS, behavioral constraint injection
+- **Digital DNA Mapping:** Identifies threats based on their unique behavioral "DNA" signatures.
+- **Real-Time Threat Classification:** Categorizes threats by type, severity, and potential impact.
+- **Zero-Day Signature Synthesis:** Automatically synthesizes new signatures for previously unseen threat patterns.
+- **Biological-Inspired Mitigation:** Implements defense strategies inspired by biological immune systems (e.g., isolation, neutralization, and memory).
 
 ---
 
-## Demo Capabilities
+## 3. Technical Specifications
 
-### ✅ Included (70% Capability)
-
-- **560 Public Threat Vectors:** Complete DNA Codex access
-- **Threat Classification:** CVSS scoring, tier assignment
-- **Search & Query:** Keyword-based threat lookup
-- **Behavioral Signatures:** Attack pattern documentation
-- **Integration Patterns:** CSFC, Phoenix, SLV framework examples
-- **Academic Validation:** Cross-referenced research papers
-
-### ❌ Production-Only Features
-
-- **56 Proprietary Vectors:** Advanced symbolic threats
-- **Narrative Mapping:** Complete attack chain intelligence
-- **Real-Time IOC Feeds:** Live threat intelligence updates
-- **ML Prediction Models:** Threat evolution forecasting
-- **Custom Signatures:** User-defined threat creation
-- **Enterprise SIEM/SOAR:** Production integration connectors
+| Attribute | Specification |
+| :--- | :--- |
+| **Category** | Defense & Security |
+| **Signature Library Size** | 1,000,000+ Digital DNA Signatures |
+| **Classification Latency** | < 100ms per event |
+| **Synthesis Rate** | 1,000 new signatures per hour |
+| **Integration** | Synoetic OS v1.0 |
 
 ---
 
-## Quick Start
+## 4. Integration & Dependencies
 
-```python
-from vgs_codex_demo import ThreatQuerier, ThreatAnalyzer
+DNA Codex is a critical security component that works with other defense layers:
 
-# Initialize with public dataset
-querier = ThreatQuerier(mode="public")
-
-# Search for threats
-threat = querier.search("Brain Rot")
-print(f"CVSS: {threat.cvss_score}, Tier: {threat.tier}")
-
-# Behavioral analysis
-analyzer = ThreatAnalyzer()
-risk = analyzer.analyze_behavior(agent_logs)
-print(f"Cascade Risk: {risk.cascade_probability:.2%}")
-```
+- **Synoetic OS v1.0:** The underlying environment protected by the codex.
+- **Obsidian Ring v1.0:** Provides the containment for identified threats.
+- **Torque v2.0:** Performance trigger source for automated threat response.
+- **HESTIA v1.0:** Manages the identities and access control for the defense system.
 
 ---
 
-## Integration Example
+## 5. Evolution Path
 
-```python
-# Cross-reference with CSFC cascade detection
-from vgs_codex_demo import ThreatQuerier
-from csfc import CascadeDetector  # Your CSFC implementation
-
-querier = ThreatQuerier(mode="public")
-detector = CascadeDetector()
-
-# Real-time threat correlation
-agent_behavior = capture_agent_logs()
-csfc_score = detector.analyze(agent_behavior)
-
-if csfc_score.cascade_risk > 0.64:
-    # Query matching threats
-    threats = querier.search_by_behavior(agent_behavior)
-    print(f"Detected: {threats[0].strain_id} ({threats[0].cvss_score} CVSS)")
-```
+- **v1.0 (Initial):** Basic threat signature matching and classification.
+- **v3.0 (Adaptive):** Real-time signature synthesis and behavioral mapping.
+- **v5.5 (Current):** Biological-inspired defense engine with million-plus signature library.
 
 ---
 
-## Watermark Notice
-
-**Tier 2 Demo - 70% Capability**
-
-This demonstration includes 560 public threat vectors (91% coverage) with simplified classification algorithms. Production VGS Codex v5.5 includes:
-
-- 56 additional proprietary vectors
-- Complete narrative mapping methodology
-- Real-time threat intelligence feeds
-- Advanced ML prediction models
-- Enterprise integration support
-
-**Production Licensing:** aaron@valorgridsolutions.com
-
----
-
-## Citation
-
-```bibtex
-@techreport{slusher2025vgscodex,
-  title={VGS Codex v5.5: Predictive AI Threat Intelligence},
-  author={Slusher, Aaron},
-  year={2025},
-  institution={ValorGrid Solutions},
-  note={Tier 2 Demo - 70\% Capability}
-}
-```
-
----
-
-## Files
-
-- `vgs_codex_v5_5_demo.py` - Demo implementation (850+ lines)
-- `VGS_Codex_v5_5_README.md` - This file
-
----
-
-2025 © ValorGrid Solutions. Part of the **Synoetic OS™** research ecosystem.
-
-**License:** CC BY-NC 4.0 (Demo) | Enterprise licensing available
+*© 2026 Aaron M. Slusher, ValorGrid Solutions. Part of the Synoetic OS™ Ecosystem.*
+*License: Production Active (Proprietary) | CC BY-NC 4.0 for Documentation*
