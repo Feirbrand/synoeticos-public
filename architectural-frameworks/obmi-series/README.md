@@ -7,8 +7,10 @@ No pricing/revenue/subscription terms in this document.
 -->
 
 DOI: TBD
-Version: TBD
+Version: 4.0
 Priority Date: 2025-10-15
+
+© 2025 ValorGrid Solutions. All rights reserved.
 
 # OBMI Harmonic Memory
 
@@ -204,5 +206,5 @@ We provide comprehensive biomimetic AI memory services through **ValorGrid Solut
 
 ## Author
 
-Author: [Your Name or Team]
-Contact: [email or site]
+Author: Aaron M. Slusher
+Contact: aaron@valorgridsolutions.com

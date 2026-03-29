@@ -45,9 +45,9 @@ EpiCache-style pattern replication for speed-optimized compression
 
 **Published Paper**: [FCE v3.6](https://zenodo.org/records/17309322)
 
-**ORCID**: 0009-0000-9923-3207
+**ORCID**: [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**DOI**: [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 
 ## License
 
-MIT License (implementation code)
-CC BY-NC 4.0 (framework architecture)
+© 2025 ValorGrid Solutions. All rights reserved.

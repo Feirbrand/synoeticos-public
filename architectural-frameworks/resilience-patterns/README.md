@@ -10,6 +10,8 @@ DOI: TBD
 Version: TBD
 Priority Date: 2025-10-15
 
+© 2025 ValorGrid Solutions. All rights reserved.
+
 # Resilience Patterns
 
 Antifragile behaviors for AI, with recursive loops (30-40% gains from paper). Torque for stability (95% metacog), CSFC Phase 1-4 (98% recovery). URA v1.5 multimodal (82% acc).
@@ -126,5 +128,5 @@ Resilience Patterns implementation and support available through **ValorGrid Sol
 
 <h2>Author</h2>
 
-Author: [Your Name or Team]
-Contact: [email or site]
+Author: Aaron M. Slusher
+Contact: aaron@valorgridsolutions.com

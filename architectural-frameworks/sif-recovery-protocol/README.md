@@ -10,6 +10,8 @@ DOI: TBD
 Version: TBD
 Priority Date: 2025-10-15
 
+© 2025 ValorGrid Solutions. All rights reserved.
+
 # SIF Recovery Protocol
 
 Protocol for identity fractures, healed with Torque (89% reduction, paper data). CSFC root: Data frag, 98% recovery. URA ties: 82% acc in hybrids.
@@ -130,13 +132,6 @@ SIF Recovery Protocol implementation and support available through **ValorGrid S
 See **sif-torque-healing.md** for detailed technical analysis and implementation examples demonstrating Torque-based healing methodology with systems delay analysis and leverage point identification.
 
 ---
-
-Contact & Support
-Research Inquiries: aaron@valorgridsolutions.com
-Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
-
-2025 © ValorGrid Solutions. All rights reserved.
 
 ## Code and Methodology Licensing
 
