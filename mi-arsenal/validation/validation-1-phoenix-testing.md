@@ -194,7 +194,7 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 ### Test Scripts
 
 **GitHub Repository:**
-- URL: https://github.com/Feirbrand/synoetic-public
+- URL: https://github.com/Feirbrand/synoeticos-public
 - Path: `/validation/phoenix_protocol/`
 - Files: `test_runner.py`, `scenario_loader.py`, `metrics_collector.py`
 

@@ -232,7 +232,7 @@ Individual substrate entropy varies, but total remains constant:
 ### Benchmark Scripts
 
 **GitHub Repository:**
-- URL: https://github.com/Feirbrand/synoetic-public
+- URL: https://github.com/Feirbrand/synoeticos-public
 - Path: `/validation/utme_benchmarks/`
 - Files: `myelination_test.py`, `latency_tracker.py`, `energy_monitor.py`
 

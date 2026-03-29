@@ -49,7 +49,7 @@ cd synoeticos-public
 (Details on how to build documentation will go here.)
 
 ## Further Reading
--   [SynoeticOS Whitepaper](../whitepapers/synoetic-os/synoetic-os-v1.0.html)
+-   [SynoeticOS Whitepaper](../whitepapers/academic-papers/synoetic-os-v1.0.html)
 -   [MI Agents Whitepaper](../whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.html)
 -   [Published Research Papers](https://orcid.org/0009-0000-9923-3207)
 

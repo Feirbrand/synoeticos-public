@@ -1991,7 +1991,7 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 
 - **Website:** valorgridsolutions.com
 - **Email:** aaron@valorgridsolutions.com
-- **GitHub:** github.com/Feirbrand/synoetic-public
+- **GitHub:** github.com/Feirbrand/synoeticos-public
 - **Hugging Face:** huggingface.co/Feirbrand
 - **Zenodo:** 10.5281/zenodo.XXXXX
 - **ORCID:** orcid.org/0009-0000-9923-3207

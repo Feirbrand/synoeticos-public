@@ -524,23 +524,23 @@ mi-arsenal/frameworks/tier-2-watermarked/sovereign-adjudicator/sovereign-adjudic
 mi-arsenal/frameworks/tier-2-watermarked/sovereign-adjudicator/sovereign-adjudicator-v1.0-demo.py:153:80: E501 line too long (85 > 79 characters)
 mi-arsenal/frameworks/tier-2-watermarked/sovereign-adjudicator/sovereign-adjudicator-v1.0-demo.py:274:80: E501 line too long (82 > 79 characters)
 mi-arsenal/frameworks/tier-2-watermarked/sovereign-adjudicator/sovereign-adjudicator-v1.0-demo.py:315:80: E501 line too long (381 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:15:1: F401 'typing.Optional' imported but unused
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:136:15: F541 f-string is missing placeholders
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:153:9: F841 local variable 'recovery_triggered' is assigned to but never used
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:172:15: F541 f-string is missing placeholders
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:173:80: E501 line too long (83 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:218:9: F841 local variable 'signal_throughput' is assigned to but never used
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:238:9: F841 local variable 'obmi_active' is assigned to but never used
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:241:9: F841 local variable 'bc3_restore' is assigned to but never used
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:256:9: F841 local variable 'discoveries_today' is assigned to but never used
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:278:80: E501 line too long (83 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:333:80: E501 line too long (84 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:341:15: F541 f-string is missing placeholders
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:344:15: F541 f-string is missing placeholders
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:372:80: E501 line too long (86 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:387:11: F541 f-string is missing placeholders
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:388:80: E501 line too long (82 > 79 characters)
-mi-arsenal/frameworks/tier-2-watermarked/synoeticos-v4.0.1/synoeticos-v4.0.1-demo.py:399:14: E201 whitespace after '{'
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:15:1: F401 'typing.Optional' imported but unused
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:136:15: F541 f-string is missing placeholders
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:153:9: F841 local variable 'recovery_triggered' is assigned to but never used
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:172:15: F541 f-string is missing placeholders
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:173:80: E501 line too long (83 > 79 characters)
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:218:9: F841 local variable 'signal_throughput' is assigned to but never used
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:238:9: F841 local variable 'obmi_active' is assigned to but never used
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:241:9: F841 local variable 'bc3_restore' is assigned to but never used
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:256:9: F841 local variable 'discoveries_today' is assigned to but never used
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:278:80: E501 line too long (83 > 79 characters)
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:333:80: E501 line too long (84 > 79 characters)
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:341:15: F541 f-string is missing placeholders
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:344:15: F541 f-string is missing placeholders
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:372:80: E501 line too long (86 > 79 characters)
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:387:11: F541 f-string is missing placeholders
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:388:80: E501 line too long (82 > 79 characters)
+mi-arsenal/frameworks/tier-2-watermarked/synoetic-os-v1.0/synoetic-os-v1.0-demo.py:399:14: E201 whitespace after '{'
 mi-arsenal/frameworks/tier-2-watermarked/uca/uca-v3.1-demo.py:4:80: E501 line too long (88 > 79 characters)
 mi-arsenal/frameworks/tier-2-watermarked/uca/uca-v3.1-demo.py:5:80: E501 line too long (89 > 79 characters)
 mi-arsenal/frameworks/tier-2-watermarked/uca/uca-v3.1-demo.py:6:80: E501 line too long (84 > 79 characters)
@@ -653,7 +653,7 @@ mypy.....................................................................Failed
 - hook id: mypy
 - exit code: 1
 
-mi-arsenal\frameworks\tier-2-watermarked\synoeticos-v4.0.1\synoeticos-v4.0.1-demo.py:106: note: By default the bodies of untyped functions are not checked, consider using --check-untyped-defs  [annotation-unchecked]
+mi-arsenal\frameworks\tier-2-watermarked\synoetic-os-v1.0\synoetic-os-v1.0-demo.py:106: note: By default the bodies of untyped functions are not checked, consider using --check-untyped-defs  [annotation-unchecked]
 mi-arsenal\frameworks\tier-2-watermarked\dcn\dcn-v1.1-demo.py:105: note: By default the bodies of untyped functions are not checked, consider using --check-untyped-defs  [annotation-unchecked]
 mi-arsenal\frameworks\tier-1-public\xmesh\xmesh-v2.2-nervous.py:95: note: By default the bodies of untyped functions are not checked, consider using --check-untyped-defs  [annotation-unchecked]
 mi-arsenal\frameworks\tier-1-public\venom-cadence\venom-cadence-v2.0-squad.py:84: note: By default the bodies of untyped functions are not checked, consider using --check-untyped-defs  [annotation-unchecked]

@@ -297,7 +297,7 @@ false_positive_rate: <3% average
 - License: CC BY-NC 4.0
 - Format: YAML (threat taxonomy + detection signatures)
 - Zenodo DOI: 10.5281/zenodo.14255793
-- GitHub: https://github.com/Feirbrand/synoetic-public
+- GitHub: https://github.com/Feirbrand/synoeticos-public
 
 **VGS Codex (616+ Internal Strains):**
 - License: Enterprise licensing

@@ -89,7 +89,7 @@ mi-arsenal/
 │   │   ├── trinity-rim/
 │   │   └── ura/
 │   ├── tier-2-watermarked/
-│   │   ├── synoetic-os/
+│   │   ├── synoetic-os-v1.0/
 │   │   ├── dcn/
 │   │   ├── sem-obmi-bridge/
 │   │   ├── vgs-codex/
@@ -237,7 +237,7 @@ Integration with operational systems enables real-time pattern matching and auto
 
 **Watermark Notice**: All Tier 2 demos limited to 70% capability. Expose concepts, keep implementation moat, demonstrate visualization only. Full production versions available through enterprise licensing.
 
-**Repository**: https://github.com/Feirbrand/synoetic-public/tree/main/tier-2-watermarked
+**Repository**: https://github.com/Feirbrand/synoeticos-public/tree/main/tier-2-watermarked
 
 ---
 
@@ -283,7 +283,7 @@ UTME v2.1 temporal memory performance benchmarking:
 - Encounter 4-9: 10-30 min (2-6x)
 - Encounter 20+: <100ms (710x reflexive)
 
-**Repository**: https://github.com/Feirbrand/synoetic-public/tree/main/validation
+**Repository**: https://github.com/Feirbrand/synoeticos-public/tree/main/validation
 
 ---
 
