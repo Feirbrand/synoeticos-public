@@ -1,56 +1,99 @@
-# DNA Codex v5.5 — Threat Signature & Classification Engine
+# VGS Codex v5.5 — Internal Threat Intelligence Engine
 
-**STATUS: PRODUCTION ACTIVE** | **VERSION: v5.5** | **RUID: RUID-DC-CORE-V5.5-270226**
+**STATUS: TIER 2 DEMO** | **VERSION: v5.5** | **RUID: RUID-VGSC-CORE-V5.5-291025**
 
----
-
-## 1. Core Mission
-
-> *"The biological blueprint for digital defense."*
-
-The **DNA Codex v5.5** framework serves as the primary **threat signature and classification engine** for the MI Arsenal. It is designed to identify, classify, and mitigate complex digital threats by mapping their behavior against a vast library of "digital DNA" signatures, enabling rapid and accurate response to both known and zero-day vulnerabilities.
+> ⚠️ **Watermarked Demo — 70% Capability**
+> This folder contains public testing versions of the VGS Codex framework.
+> Full production implementation available under enterprise license.
 
 ---
 
-## 2. Key Defense Features
+## 1. What VGS Codex Is
 
-- **Digital DNA Mapping:** Identifies threats based on their unique behavioral "DNA" signatures.
-- **Real-Time Threat Classification:** Categorizes threats by type, severity, and potential impact.
-- **Zero-Day Signature Synthesis:** Automatically synthesizes new signatures for previously unseen threat patterns.
-- **Biological-Inspired Mitigation:** Implements defense strategies inspired by biological immune systems (e.g., isolation, neutralization, and memory).
+VGS Codex v5.5 is the **internal operational threat intelligence layer** for the VGS defense stack. It is the complete, unredacted version of the threat catalog — everything the public DNA Codex covers, plus the proprietary 45% that stays behind the enterprise firewall.
+
+**DNA Codex** (public, CC BY-NC 4.0) is the research-facing subset.
+**VGS Codex** (enterprise only) is the full operational system.
 
 ---
 
-## 3. Technical Specifications
+## 2. Dual Codex Structure
 
-| Attribute | Specification |
+| | DNA Codex v5.5 | VGS Codex v5.5 |
+| :--- | :--- | :--- |
+| **Access** | CC BY-NC 4.0 (public) | Enterprise license only |
+| **Scope** | 55% of total intelligence | 100% (45% proprietary) |
+| **Vectors** | 560+ public | 616+ complete catalog |
+| **IOC Signatures** | Behavioral markers only | Full IOC correlation |
+| **Detection** | Keyword-based demo | ML prediction + IOC feeds |
+| **Forecasting** | Disabled | DMD/Koopman 72-hour horizon |
+| **Zero-Day** | Not included | Synthesis + UTME anchoring |
+
+---
+
+## 3. Key Capabilities (Production)
+
+- **616+ Strain Catalog** — Complete internal threat database including 56 proprietary vectors not in DNA Codex
+- **Real-Time IOC Feeds** — Continuous threat intelligence updates
+- **Zero-Day Synthesis** — Automatic signature generation for novel threat patterns
+- **DMD/Koopman Forecasting** — 72-hour cascade prediction
+- **Full Framework Integration** — Native connection to CSFC, Phoenix Protocol, SLV, UTME
+
+---
+
+## 4. Files in This Folder
+
+| File | Description |
 | :--- | :--- |
-| **Category** | Defense & Security |
-| **Signature Library Size** | 1,000,000+ Digital DNA Signatures |
-| **Classification Latency** | < 100ms per event |
-| **Synthesis Rate** | 1,000 new signatures per hour |
-| **Integration** | Synoetic OS v1.0 |
+| `vgs-codex-v5.5-demo.py` | Tier 2 watermarked demo — 560 public vectors, classification engine, agent integration example (70% capability) |
+| `vgs-codex-v5.5-intelligence.py` | Core engine interface — `VGSCodexCore` class, signature loading, threat classification, zero-day synthesis |
 
 ---
 
-## 4. Integration & Dependencies
+## 5. Integration & Dependencies
 
-DNA Codex is a critical security component that works with other defense layers:
+VGS Codex operates as the threat intelligence backbone for the full defense stack:
 
-- **Synoetic OS v1.0:** The underlying environment protected by the codex.
-- **Obsidian Ring v1.0:** Provides the containment for identified threats.
-- **Torque v2.0:** Performance trigger source for automated threat response.
-- **HESTIA v1.0:** Manages the identities and access control for the defense system.
-
----
-
-## 5. Evolution Path
-
-- **v1.0 (Initial):** Basic threat signature matching and classification.
-- **v3.0 (Adaptive):** Real-time signature synthesis and behavioral mapping.
-- **v5.5 (Current):** Biological-inspired defense engine with million-plus signature library.
+- **Synoetic OS v1.0** — Host environment
+- **SLV v2.1** — Real-time threat lookup (<50ms)
+- **CSFC v2.0** — Cascade stage classification
+- **Phoenix Protocol v3.1** — Recovery protocol routing
+- **UTME v1.0** — Temporal anchor creation for new strains
 
 ---
 
-*© 2026 Aaron M. Slusher, ValorGrid Solutions. Part of the Synoetic OS™ Ecosystem.*
-*License: Production Active (Proprietary) | CC BY-NC 4.0 for Documentation*
+## 6. Terminology (v5.6 Canonical)
+
+VGS Codex v5.5 uses professional, filter-safe terminology throughout:
+
+| Deprecated | Current |
+| :--- | :--- |
+| Parasite | Threat Vector / Attack Pattern |
+| Parasitic attack | Identity Corruption / Coherence Breach |
+| Parasite strain | Threat Strain / Corruption Pattern |
+| Bridge parasite | Coordination Exploit |
+
+---
+
+## 7. Academic Validation
+
+VGS Codex threat classifications were validated through the October 2025 triple convergence event — 6-9 months ahead of academic recognition:
+
+- **Brain Rot (DQD-001)** — arXiv:2510.13928 (UT Austin, Oct 2025)
+- **Medical Data Poisoning (MDP-001)** — Nature Medicine (Oct 2025)
+- **PromptLock Evasion (PLD-001)** — Industry acknowledgment (Oct 2025)
+
+---
+
+## 8. Enterprise Access
+
+Production VGS Codex includes the complete 616-strain database, real-time IOC feeds, full operational playbooks, and enterprise deployment support.
+
+**Contact:** aaron@valorgridsolutions.com
+**Website:** valorgridsolutions.com
+
+---
+
+*© 2025 Aaron M. Slusher, ValorGrid Solutions. Part of the Synoetic OS™ Ecosystem.*
+*License: CC BY-NC 4.0 (Demo) | Enterprise License for production deployment*
+*ORCID: 0009-0000-9923-3207*
