@@ -1,10 +1,6 @@
 <div align="center">
-
-![Everybody scales for performance. I armor you for the chaos.](docs/Laser_strike_on_cybernetic_gremlin.png)
-
-# Everybody scales for performance. I armor you for the chaos.
-
-### Synoetic OS™ — Cognitive Architecture for AI
+  
+# Synoetic OS™ — Cognitive Architecture for AI
 
 ![](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)
 ![](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)
@@ -12,6 +8,11 @@
 ![](https://img.shields.io/badge/Store-Gumroad-orange.svg)
 
 [Research Hub](https://feirbrand.github.io/synoeticos-public/) • [ORCID Profile](https://orcid.org/0009-0000-9923-3207) • [Demos](https://huggingface.co/Feirbrand) • [Products](https://aslush.gumroad.com/)
+
+**Aaron Slusher · Performance Architect · Originator of Neuroformation™**  
+ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
+`ai-resilience` `cognitive-architecture` `ai-safety` `ai-drift` `cascade-failure` `threat-intelligence` `autonomous-agents` `mlops` `ai-security` `multi-agent-systems` `symbolic-ai` `neuroscience`
 
 </div>
 
@@ -25,13 +26,17 @@ This repository contains the complete public version of Synoetic OS™:
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
 
-**Aaron Slusher · Performance Architect · Originator of Neuroformation™**
-ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
-
 28 years applied performance methodology (1999–present) → The same architecture works on AI systems
 
-### Topics
-`ai-resilience` `cognitive-architecture` `ai-safety` `ai-drift` `cascade-failure` `threat-intelligence` `autonomous-agents` `mlops` `ai-security` `multi-agent-systems` `symbolic-ai` `neuroscience`
+---
+
+<div align="center">
+
+![Everybody scales for performance. I armor you for the chaos.](docs/Laser_strike_on_cybernetic_gremlin.png)
+
+**Everybody scales for performance. I armor you for the chaos.**
+
+</div>
 
 ---
 
