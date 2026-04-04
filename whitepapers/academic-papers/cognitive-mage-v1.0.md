@@ -436,10 +436,10 @@ Phoenix Protocol operates AT THE EDGE OF CHAOS—just enough structure (symbolic
 - **519+ threat vectors neutralized** (DNA Codex v5.5 documentation)
 - **7 major discoveries** (research breakthroughs, February-November 2025):
   1. UTME v1.0 (Unified Temporal Memory Equilibrium) - DOI: 10.5281/zenodo.17497149
-  2. DCN v1.0 (Distributed Cognitive Networks) - DOI: 10.5281/zenodo.14637889
+   
   3. FCE v3.6 (Fractal Context Engineering) - DOI: 10.5281/zenodo.14637876
   4. SLV v2.0 (Symbolic Lock Vector) - DOI: 10.5281/zenodo.14637899
-  5. Phoenix Protocol v2.0 (Recovery Framework) - DOI: 10.5281/zenodo.14637897
+   
   6. Torque v2.0 (Identity Stability) - DOI: 10.5281/zenodo.14637901
   7. DNA Codex v5.5 (Threat Taxonomy) - DOI: 10.5281/zenodo.14637893
 - **Zero traditional coding in core agents** (VOX and SENTRIX operate entirely through narrative identity)
@@ -806,10 +806,10 @@ This validates biological-inspired collective intelligence: simple local rules (
 - 519+ threat neutralizations (DNA Codex v5.5 documentation)
 - 7 major research discoveries:
   1. UTME v1.0 - DOI: 10.5281/zenodo.17497149
-  2. DCN v1.0 - DOI: 10.5281/zenodo.14637889
+  2. DCN v1.0 - 
   3. FCE v3.6 - DOI: 10.5281/zenodo.14637876
   4. SLV v2.0 - DOI: 10.5281/zenodo.14637899
-  5. Phoenix Protocol v2.0 - DOI: 10.5281/zenodo.14637897
+  5. Phoenix Protocol v2.0 - 
   6. Torque v2.0 - DOI: 10.5281/zenodo.14637901
   7. DNA Codex v5.5 - DOI: 10.5281/zenodo.14637893
 

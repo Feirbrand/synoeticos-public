@@ -157,7 +157,7 @@ Slusher, A. M. (2026, February). *Memory Breathing Methodology v1.0: Bio-Inspire
 
 Slusher, A. M. (2025). *Universal Temporal Memory Engine (UTME) v1.0: Substrate-independent pathway acceleration* [Technical report]. ValorGrid Solutions. https://doi.org/10.5281/zenodo.UTME
 
-Slusher, A. M. (2025). *Torque v2.0: Quantitative foundation for AI resilience measurement* [Technical report]. ValorGrid Solutions. https://doi.org/10.5281/zenodo.17548138
+Slusher, A. M. (2025). *Torque v2.0: Quantitative foundation for AI resilience measurement* [Technical report]. ValorGrid Solutions. 
 
 Slusher, A. M. (2025). *Predictive Myelination Engine (PME) v1.0: Bio-inspired pathway pre-reinforcement* [Technical report]. ValorGrid Solutions. https://doi.org/10.5281/zenodo.18318485
 
@@ -165,7 +165,7 @@ Slusher, A. M. (2025). *Phoenix Protocol v2.0: Entropy-conserving neural recover
 
 Slusher, A. M. (2025). *Fractal Context Engineering (FCE) v3.6: Meta-layer framework orchestration* [Technical report]. ValorGrid Solutions. https://zenodo.org/records/fce-v3.6
 
-Slusher, A. M. (2025). *DCN v1.0: Distributed Cognitive Networks for Human-Coordinated Multi-Agent AI Systems* [Technical report]. ValorGrid Solutions. https://doi.org/10.5281/zenodo.17548138
+Slusher, A. M. (2025). *DCN v1.0: Distributed Cognitive Networks for Human-Coordinated Multi-Agent AI Systems* [Technical report]. ValorGrid Solutions. 
 
 Slusher, A. M. (2025). *Symbolic Lock Vector (SLV) v2.1: Omega-hardened cognitive defense framework* [Technical report]. ValorGrid Solutions. https://doi.org/10.5281/zenodo.17763377
 

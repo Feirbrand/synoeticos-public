@@ -136,7 +136,7 @@ Varela, F. J., Thompson, E., & Rosch, E. (1991). *The embodied mind*. MIT Press.
 
 ## APP Published Papers
 
-Slusher, A. M. (2026a). Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.18490842
+Slusher, A. M. (2026a). Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.18790842
 
 Slusher, A. M. (2026b). Neural Access Method™: Transmission protocol for high-pressure intervention. *Achieve Peak Performance*. Manuscript in preparation.
 

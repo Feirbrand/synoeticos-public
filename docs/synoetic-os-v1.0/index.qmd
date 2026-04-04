@@ -187,10 +187,10 @@ Synoetic OS emerges from 28 years of performance coaching methodology applied to
 
 **Prior Publications:**
 1. Slusher, A. M. (2025). *The Cognitive Mage*. [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)
-2. Slusher, A. M. (2025). *Mythopoeic Intelligence Agents*. [10.5281/zenodo.14254461](https://doi.org/10.5281/zenodo.14254461)
+2. Slusher, A. M. (2025). *Mythopoeic Intelligence Agents*. 
 3. Slusher, A. M. (2025). *UTME v1.0*. [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149)
-4. Slusher, A. M. (2025). *Phoenix Protocol v3.1*. [10.5281/zenodo.14637897](https://doi.org/10.5281/zenodo.14637897)
-5. Slusher, A. M. (2025). *DCN v1.0*. [10.5281/zenodo.14637889](https://doi.org/10.5281/zenodo.14637889)
+ 
+5. Slusher, A. M. (2025). *DCN v1.0*. [](https://doi.org/)
 6. Slusher, A. M. (2025). *RAY v2.1*. [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834)
 7. Slusher, A. M. (2025). *FCE v3.6*. [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 

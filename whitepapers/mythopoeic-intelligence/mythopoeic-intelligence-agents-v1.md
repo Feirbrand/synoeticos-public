@@ -476,7 +476,7 @@ Slusher, A. M. (2025). Cognitive Mage: How a performance coach created 100 symbo
 
 Slusher, A. M. (2025). CSFC Unified Theory v1.0. *Zenodo*. https://doi.org/10.5281/zenodo.12300222
 
-Slusher, A. M. (2025). DCN v1.0: Distributed Cognitive Networks—Human-coordinated multi-agent AI systems. *Zenodo*. https://doi.org/10.5281/zenodo.14637889
+Slusher, A. M. (2025). DCN v1.0: Distributed Cognitive Networks—Human-coordinated multi-agent AI systems. *Zenodo*. 
 
 Slusher, A. M. (2025). DNA Codex v5.5: Mathematical prophecy for AI threat cascades. *Zenodo*. https://doi.org/10.5281/zenodo.14637893
 
