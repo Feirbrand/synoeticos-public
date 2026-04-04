@@ -6,7 +6,7 @@ author:
     orcid: "0009-0000-9923-3207"
     affiliation: "ValorGrid Solutions"
 date: "2025-10-21"
-description: "This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens Synoetic OS integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols."
+description: "This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens VGS framework integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols."
 keywords:
   - "DNA Codex"
   - "Threat Intelligence"
@@ -51,7 +51,7 @@ Patent Clause: Patent rights reserved, no patent assertion without enterprise li
 
 **A Comprehensive Technical Specification and Implementation Guide**
 
-*Aaron M. Slusher, Edgewalker Cognitive Architect*
+*Aaron M. Slusher — Performance Architect | Originator of Neuroformation™*
 *ValorGrid Solutions*
 *October 2025*
 
@@ -59,7 +59,7 @@ Patent Clause: Patent rights reserved, no patent assertion without enterprise li
 
 ## Abstract
 
-This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens Synoetic OS integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols.
+This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens VGS framework integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols.
 
 **Keywords:** DNA Codex, Threat Intelligence, AI Security, Brain Rot, Adversarial Research Drift, Medical Poisoning, PromptLock, Synoetic OS, CSFC, URA, Phoenix Protocol
 
@@ -1472,9 +1472,7 @@ mdp_001_validation:
 ```
 
 **ROI Calculation:**
-- Medical AI failure cost: ~$500K per incident (malpractice + reputation)
 - MDP-001 prevention via VGS: 92% containment
-- Annual ROI for healthcare AI systems: ~$2.3M avoided costs
 
 ---
 
@@ -1519,40 +1517,6 @@ mdp_001_validation:
 - Operational validation (ARD-001 <4h resolution)
 - Academic validation (arXiv, Nature Medicine)
 
-### 9.3 Economic Impact
-
-**ROI Metrics:**
-```yaml
-economic_analysis:
-  per_incident_costs:
-    cascade_failure: "average"
-    data_breach: "$4.5M average"
-    medical_failure: "$500K-2M"
-    sovereignty_loss: "$800K-3M"
-
-  vgs_prevention_rates:
-    dqd_001: "94% (vs cascade)"
-    ard_001: "98% (vs $800K sovereignty loss)"
-    mdp_001: "92% (vs $500K-2M medical)"
-    pld_001: "97% (vs $4.5M breach)"
-
-  annual_roi_estimates:
-    small_deployment: "$850K avoided costs"
-    medium_deployment: "$3.2M avoided costs"
-    large_deployment: "$8.5M+ avoided costs"
-
-  deployment_costs:
-    foundation_tier: "$45K-85K (weeks 1-4)"
-    enterprise_tier: "$120K-250K (full deployment)"
-    ongoing_annual: "$35K-75K (monitoring + updates)"
-
-  payback_period:
-    small: "3-6 months"
-    medium: "2-4 months"
-    large: "1-2 months"
-```
-
----
 
 ## 10. Future Roadmap & Research Directions
 
@@ -1733,27 +1697,8 @@ production_deployment:
 
 ### 12.1 Professional Services
 
-**ValorGrid Solutions Offerings:**
+For implementation support and enterprise licensing, contact: aaron@valorgridsolutions.com
 
-**Foundation Deployment Package:**
-- 4-week implementation support
-- CSFC/URA/Phoenix integration
-- Team training (2 sessions)
-- Documentation templates
-- Price: $45K-$85K
-
-**Enterprise Deployment Package:**
-- 8-week full deployment
-- All 560+ strain signatures
-- Custom integration support
-- 24/7 monitoring setup
-- Runbook creation
-- Price: $120K-$250K
-
-**Ongoing Support Tiers:**
-- **Standard**: Email support, quarterly reviews - $35K/year
-- **Premium**: Phone + email, monthly reviews, priority response - $55K/year
-- **Enterprise**: 24/7 support, dedicated engineer, weekly reviews - $75K/year
 
 ### 12.2 Training Programs
 
@@ -1783,7 +1728,7 @@ production_deployment:
 ### 12.3 Community Resources
 
 **Open Source Materials:**
-- GitHub: `github.com/valorgridsolutions/Synoetic OS-public`
+- GitHub: `github.com/Feirbrand/synoeticos-public`
 - Documentation: `docs.valorgridsolutions.com`
 - Community Forum: `community.valorgridsolutions.com`
 - Threat Reports: Weekly updates via newsletter
@@ -1846,7 +1791,7 @@ For production deployment, commercial products, or revenue-generating services:
 ```
 Slusher, A. (2025). DNA Codex v5.5: The Complete Threat Intelligence
 Upgrade - A Comprehensive Technical Specification and Implementation Guide.
-ValorGrid Solutions. DOI: [Zenodo DOI]
+ValorGrid Solutions. DOI: 10.5281/zenodo.17451060
 ```
 
 **Include attribution in:**
@@ -1953,7 +1898,8 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 
 ## About the Author
 
-**Aaron M. Slusher** - Edgewalker Cognitive Architect, specializes in AI resilience engineering, cognitive defense architecture, and antifragile systems design. Founder of ValorGrid Solutions, developing Synoetic OS ecosystem validated through operational deployment and academic research convergence.
+**Aaron M. Slusher** — Performance Architect | Originator of Neuroformation™
+**ORCID**: https://orcid.org/0009-0000-9923-3207
 
 ---
 

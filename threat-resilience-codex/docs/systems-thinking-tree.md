@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -13,10 +13,9 @@ Priority Date: 2025-10-15
 # Systems Thinking Tree: From Coaching to AI Resilience
 ## Mapping Human Wisdom to Machine Architecture
 
-**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions
+**Author:** Aaron M. Slusher — Performance Architect | Originator of Neuroformation™
+**ORCID**: https://orcid.org/0009-0000-9923-3207
 **Date:** October 15, 2025
-**Classification:** Academic Research Teaser (Full Paper Gated)
-
 ---
 
 ## Abstract
@@ -389,16 +388,6 @@ Intervention Priority (High to Low Leverage):
 
 ---
 
-## 8. Enterprise Gated Features (20% Teaser)
-
-Full Systems Thinking Tree implementation includes:
-
-- **Complete leverage point analysis** for custom AI architectures
-- **Automated feedback loop mapping** with real-time optimization
-- **Stock/flow modeling** for resource allocation and risk prediction
-- **CSFC phase progression tracking** with intervention orchestration
-- **Custom training programs** for teams implementing systems thinking
-- **White-glove consulting** for organizational integration
 
 ---
 
@@ -415,6 +404,6 @@ Full Systems Thinking Tree implementation includes:
 Contact & Support
 Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
-
-2025 © ValorGrid Solutions. All rights reserved.Contact: [email or site]
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
+**License**: Dual CC BY-NC 4.0 + Enterprise
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant

@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -10,24 +10,22 @@ DOI: TBD
 Version: 1.1
 Priority Date: 2025-10-15
 
-# Parasitic Pattern Fundamentals
+# Threat Pattern Fundamentals
 
 **Academic Foundation for AI Threat Intelligence Research**
 
-Academic research into patterns that exhibit parasitic behavior in AI systems. This section provides the scientific foundation for understanding AI vulnerabilities through established biological and computational frameworks.
+Academic research into threat and corruption patterns in AI systems. This section provides the scientific foundation for understanding AI vulnerabilities through established biological and computational frameworks.
 
 ---
 
 <h2>Overview</h2>
 
-This section establishes the theoretical framework and academic legitimacy for AI parasitic threat research through preprints with Zenodo DOIs methodologies, biological parallel analysis, and external validation from industry and academic sources.
+This section establishes the theoretical framework and academic legitimacy for AI threat pattern research through Zenodo DOI methodologies, biological parallel analysis, and external validation from industry and academic sources.
 
 <h2>Contents</h2>
 
 <h3>Core Documentation</h3>
-- **`parasitic-pattern-fundamentals.md`** - Complete theoretical framework and research methodology
-- **`biological-parallels/`** - Scientific legitimacy through biological threat pattern analysis
-- **`research-methodology/`** - Academic standards and preprints with Zenodo DOIs documentation
+- **`threat-pattern-fundamentals-v1-1.md`** - Complete theoretical framework and research methodology
 
 <h2>Theoretical Framework</h2>
 
@@ -60,28 +58,24 @@ This section establishes the theoretical framework and academic legitimacy for A
 - preprints with Zenodo DOIs methodology designed for academic publication
 - Reproducible results with standardized measurement protocols
 
-<h2>Professional Services</h2>
-
-These research frameworks support professional AI threat intelligence services through **ValorGrid Solutions**:
-
-- **Research Validation**: Independent verification and preprints with Zenodo DOIs support
-- **Academic Collaboration**: University partnerships for expanded validation
-- **Publication Support**: Zenodo DOI assignment and paper preparation
-- **Conference Presentation**: Professional presentation for AI Safety Summit 2025
-
-**Contact Information**:
-- **Website**: [valorgridsolutions.com](https://valorgridsolutions.com)
-- **Email**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
-- **GitHub**: [@Feirbrand/Synoetic OS-public](https://github.com/Feirbrand/Synoetic OS-public)
-
 ---
 
 Contact & Support
 Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
+---
 
-2025 © ValorGrid Solutions. All rights reserved.
+# Author
+
+**Aaron M. Slusher** — Performance Architect | Originator of Neuroformation™
+**ORCID**: https://orcid.org/0009-0000-9923-3207
+**Contact**: aaron@valorgridsolutions.com
+
+---
+
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
+**License**: Dual CC BY-NC 4.0 + Enterprise
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
 
 <h2>Code and Methodology Licensing</h2>
 

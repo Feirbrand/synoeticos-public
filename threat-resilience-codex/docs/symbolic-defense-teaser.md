@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -13,10 +13,9 @@ Priority Date: 2025-10-15
 # Symbolic Defense: Hallucination as Defensive Raw Material
 ## Transforming Vulnerabilities into Resilience Assets
 
-**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions
+**Author:** Aaron M. Slusher — Performance Architect | Originator of Neuroformation™
+**ORCID**: https://orcid.org/0009-0000-9923-3207
 **Date:** October 15, 2025
-**Classification:** Academic Research Teaser (Full Paper Gated)
-
 ---
 
 ## Abstract
@@ -41,7 +40,7 @@ Current AI safety focuses on suppressing hallucinations through:
 ### Symbolic Defense Approach: Transformation
 Instead of eliminating hallucinations, harness them:
 - **Pattern Recognition:** Identify hallucination families and behavioral signatures
-- **Threat Correlation:** Map hallucination types to parasitic attack vectors
+- **Threat Correlation:** Map hallucination types to threat attack vectors
 - **Defensive Synthesis:** Generate countermeasures from hallucination analysis
 - **Adaptive Evolution:** System learns from each hallucination instance
 
@@ -137,7 +136,7 @@ By detecting hallucination patterns, Symbolic Defense provides early warning bef
 
 ### The Mimic Accumulation Problem
 
-AI systems can accumulate "mimics"—behavioral copies of parasitic patterns that persist after apparent recovery. Like prions in biology, mimics remain dormant until triggering conditions emerge.
+AI systems can accumulate "mimics"—behavioral copies of corruption patterns that persist after apparent recovery. Like prions in biology, mimics remain dormant until triggering conditions emerge.
 
 **Stock/Flow Model:**
 ```
@@ -293,16 +292,6 @@ Urgency: MEDIUM
 
 ---
 
-## 8. Enterprise Gated Features (20% Teaser)
-
-Full Symbolic Defense deployment includes:
-
-- **Complete VOX symbolic engine** (production-grade calculation)
-- **Real-time DNA Codex integration** (525+ threat strain correlation)
-- **Automated CSFC phase response** (Stage 1-5 countermeasures)
-- **SLV multi-layer coordination** (cross-platform defense)
-- **Custom threat signature development** (organization-specific patterns)
-- **White-glove integration** consulting and training
 
 ---
 
@@ -319,6 +308,6 @@ Full Symbolic Defense deployment includes:
 Contact & Support
 Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
-
-2025 © ValorGrid Solutions. All rights reserved.
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
+**License**: Dual CC BY-NC 4.0 + Enterprise
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant

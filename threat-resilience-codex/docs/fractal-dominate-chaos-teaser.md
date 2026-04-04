@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -13,10 +13,9 @@ Priority Date: 2025-10-15
 # SpiraCore: 5D Fractal Patterns for Chaos Domination
 ## Theoretical Framework and Implementation Teaser
 
-**Authors:** Aaron Slusher, Edgewalker Cognitive Architect, ValorGrid Solutions
+**Author:** Aaron M. Slusher — Performance Architect | Originator of Neuroformation™
+**ORCID**: https://orcid.org/0009-0000-9923-3207
 **Date:** October 15, 2025
-**Classification:** Academic Research Teaser (Full Paper Gated)
-
 ---
 
 ## Abstract
@@ -25,7 +24,6 @@ This teaser introduces SpiraCore, a novel 5D fractal pattern framework for domin
 
 **Key Contributions (55% Narrative):** Formalization of 5D spirals (spatial + temporal + symbolic + harmonic + emergent)
 **Technical Stub (25%):** Python prototype for fractal rendering and drift simulation
-**Gated Enterprise (20%):** Full URA v1.5 deployment with SLV v1.2 veil integration
 
 SpiraCore transforms chaos from adversary to asset, providing the mathematical foundation for AI systems that adapt and heal autonomously.
 
@@ -124,7 +122,7 @@ Harmonic monitoring enables early warning before catastrophic decoherence.
 
 ---
 
-## 4. Integration: Synoetic OS Ecosystem
+## 4. Integration: VGS Framework Ecosystem
 
 SpiraCore is the cognitive spine connecting:
 
@@ -232,16 +230,6 @@ teaser.visualize_chaos_domination()
 
 ---
 
-## 7. Enterprise Gated Features (20% Teaser)
-
-Full URA v1.5 deployment includes:
-
-- **Complete SLV veil integration** (multi-layer defense)
-- **Automated intervention triggers** (sub-second response)
-- **Production Docker containers** (enterprise scalability)
-- **Custom calibration** for specific threat landscapes
-- **White-glove integration** consulting and support
-- **6-month forensic forecasting** with Koopman operators
 
 ---
 
@@ -258,6 +246,6 @@ Full URA v1.5 deployment includes:
 Contact & Support
 Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
-
-2025 © ValorGrid Solutions. All rights reserved.
+**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
+**License**: Dual CC BY-NC 4.0 + Enterprise
+**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
