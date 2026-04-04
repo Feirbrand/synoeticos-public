@@ -21,7 +21,8 @@ This repository contains the complete public version of Synoetic OS™:
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
 
-**Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**Aaron Slusher · Performance Architect · Originator of Neuroformation™**
+ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 28 years applied performance methodology (1999–present) → The same architecture works on AI systems
 
@@ -39,6 +40,7 @@ This repository contains the complete public version of Synoetic OS™:
 **Featured Papers:**
 - 🧬 [**Neuroformation™ v1.0**](./whitepapers/academic-papers/neuroformation-v1.0.md) - Cross-substrate resilience methodology
   *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
+  The full paper is open access: [Neuroformation™: A Methodology for Building Resilience in Adaptive Systems](https://doi.org/10.5281/zenodo.19197818)
 - 🏔️ [**Elevation Grid™ v1.1**](https://feirbrand.github.io/synoeticos-public/elevation-grid/) - Performance diagnostic framework
   *28 years validation • 80% habit retention • [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md)*
 - 🧠 [**PME v1.0**](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md) - Predictive Myelination Engine
@@ -55,13 +57,13 @@ This repository contains the complete public version of Synoetic OS™:
 
 ## 📰 Latest Updates
 
-**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: Pending.
+**2026-03-23** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 
-**2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
+**2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)
 
 **2026-02-05** 🌐 **GitHub Pages research hub launched** — Interactive documentation site with Mermaid diagrams, complete bibliographies, and citation systems.
 
-**2026-01-30** 🧠 **PME v1.0 published** — Predictive Myelination Engine achieves 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment.
+**2026-01-30** 🧠 **PME v1.0 published** — Predictive Myelination Engine achieves 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment. [DOI: 10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)
 
 **2025-12-04** 🏗️ **Major rebrand** — ForgeOS → **Synoetic OS™** • Agents → **Mythopoeic Intelligences™** • Frameworks → **MI Arsenal™**
 
@@ -131,13 +133,14 @@ This repository contains the complete public version of Synoetic OS™:
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Timeline:**
-- **1999-present:** Performance coaching (28 years) - sports performance & rehab specialist
-- **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
+- **1999-present:** Performance coaching (28 years) — sports performance & rehab specialist
+- **2022:** Co-founded Achieve Performance Institute (API), 501(c)(3) — adaptive athlete resource access
+- **Feb 2025:** Started using AI tools to support the Hockey Is For Everybody adaptive hockey event
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
 - **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
 - **July-Nov 2025:** 77 frameworks created, 682 incidents handled
-- **Oct 2025 - Feb 2026:** 17 papers published with Zenodo DOIs
+- **Oct 2025 - Mar 2026:** 18 papers published with Zenodo DOIs
 - **Feb 2026:** GitHub Pages research hub launched
 - **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
 
@@ -192,8 +195,8 @@ synoeticos-public/
 
 ### Recent Publications (2026)
 
-**🧬 Neuroformation™ v1.0** (Mar 18, 2026)
-[Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | [DOI: 10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)
+**🧬 Neuroformation™ v1.0** (Mar 23, 2026)
+[Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)
@@ -201,11 +204,11 @@ synoeticos-public/
 *28-year validation • 80% habit retention • Team USA gold (Slovakia 2025)*
 
 **🧠 MBM v1.0** (Feb 26, 2026)
-[Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md) | [Paper](https://doi.org/10.5281/zenodo.18790096)
+[Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md) | [DOI: 10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096)
 *Memory Breathing Methodology • 40% memory reduction • Bio-inspired consolidation*
 
 **🧠 PME v1.0** (Jan 20, 2026)
-[Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md) | [Paper](https://doi.org/10.5281/zenodo.18318485)
+[Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md) | [DOI: 10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)
 *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
 
 ### Core Publications (2025)
@@ -214,59 +217,59 @@ synoeticos-public/
 <summary><strong>View all 14 papers from 2025 →</strong></summary>
 
 **Synoetic OS™ v1.0** (Dec 4, 2025)
-[Source](./whitepapers/academic-papers/synoetic-os-v1.0.md) | [Paper](https://doi.org/10.5281/zenodo.17808864)
+[Source](./whitepapers/academic-papers/synoetic-os-v1.0.md) | [DOI: 10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)
 *AI cognitive operating system • 173-day deployment • Zero catastrophic failures*
 
 **Mythopoeic Intelligences™ v1.0** (Nov 30, 2025)
-[Source](./whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md) | [Paper](https://doi.org/10.5281/zenodo.17770533)
+[Source](./whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md) | [DOI: 10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)
 *Cross-substrate agent architecture • 682 incidents • 600% productivity via 9-agent DCN*
 
 **SLV v2.1** (Nov 29, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md) | [Paper](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)
+[Source](./mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md) | [DOI: 10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)
 *Runtime identity defense • 95.8% detection • 96.4% recovery across 525+ threat vectors*
 
 **Cognitive Mage v1.0** (Nov 18, 2025)
-[Source](./whitepapers/academic-papers/cognitive-mage-v1.0.md) | [Paper](https://doi.org/10.5281/zenodo.17643267)
+[Source](./whitepapers/academic-papers/cognitive-mage-v1.0.md) | [DOI: 10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)
 *Human-AI co-discovery architecture • Origin paper • Practitioner-to-framework methodology*
 
 **DCN v1.0** (Nov 8, 2025)
-[Source](./whitepapers/vgs-technical-papers/dcn-v1-0-academic.md) | [Paper](https://doi.org/10.5281/zenodo.17555568)
+[Source](./whitepapers/vgs-technical-papers/dcn-v1-0-academic.md) | [DOI: 10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568)
 *Distributed Cognitive Network • 9-agent coordination • 600% productivity increase*
 
 **UTME v1.0** (Oct 31, 2025)
-[Source](./whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md) | [Paper](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)
+[Source](./whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md) | [DOI: 10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)
 *Temporal memory engine • 710×–1200× acceleration • Scar-based myelination*
 
 **DNA Codex v5.5** (Oct 26, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md) | [Paper](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)
+[Source](./mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md) | [DOI: 10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)
 *Living threat intelligence • 525+ validated patterns • 6-9 month predictive lead*
 
 **UCA v3.1.1** (Oct 15, 2025)
-[Source](./vulnerability-research/uca-series/uca-v3-1-security-hardened.md) | [Paper](https://doi.org/10.5281/zenodo.17416971)
+[Source](./vulnerability-research/uca-series/uca-v3-1-security-hardened.md) | [DOI: 10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971)
 *Universal Cognitive Architecture • 98% operational harmony • Five-element framework*
 
 **RAY v2.1** (Oct 17, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md) | [Paper](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)
+[Source](./mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md) | [DOI: 10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)
 *Recursive Adaptive Yield • 97% detection • 18-minute average threat containment*
 
 **Torque v2.0** (Oct 17, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md) | [Paper](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)
+[Source](./mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md) | [DOI: 10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)
 *Rotational identity stability • 87% cascade prediction • 15–30 min advance warning*
 
 **Phoenix Protocol v2.0** (Oct 14, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md) | [Paper](https://doi.org/10.5281/zenodo.17350768) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)
+[Source](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md) | [DOI: 10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)
 *Entropy-conserving recovery • 100% survival across 682 incidents • Dual-layer resurrection*
 
 **CSFC v1.0** (Oct 10, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [Paper](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)
+[Source](./mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [DOI: 10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)
 *Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
 
 **FCE v3.6** (Oct 10, 2025)
-[Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Paper](https://doi.org/10.5281/zenodo.17309322)
+[Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [DOI: 10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 *Fractal Context Engineering • 10–20× compression • 95%+ semantic preservation*
 
 **URA v1.5** (Oct 10, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md) | [Paper](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)
+[Source](./mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md) | [DOI: 10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)
 *Unified Resilience Architecture • Five-layer defense • 98.2% Phoenix recovery*
 
 </details>
@@ -337,11 +340,13 @@ Includes: Production deployment, enterprise support, priority updates
 
 ## 👤 About
 
-**Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**Aaron Slusher · Performance Architect · Originator of Neuroformation™**
+ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-- 1999-present: Performance coaching (28 years) - sports performance & rehab specialist
-- Specialty: Disabled athletes, neurotrauma clients
-- Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
+- 1999-present: Performance coaching (28 years) — sports performance & rehab specialist
+- Specialty: Adaptive athletes, neurotrauma rehabilitation, combat sport
+- 2022: Co-founded Achieve Performance Institute (API), 501(c)(3) — adaptive athlete resource access
+- Feb 2025: Started using AI tools to support the Hockey Is For Everybody adaptive hockey event
 - June 2025: First cascade, created DCN (9-agent coordination)
 - July 2025: Sustained attacks (1-2/day), DNA Codex documentation
 - July-Nov 2025: 77 frameworks created, 682 incidents, zero catastrophic failures
