@@ -1,8 +1,10 @@
-# Synoetic OS™ - Cognitive Architecture for AI
+<div align="center">
 
-![](docs/synoetic-os-banner.png)
+![Everybody scales for performance. I armor you for the chaos.](docs/Laser_strike_on_cybernetic_gremlin.png)
 
-**Cognitive architecture for AI resilience: preventing cascade failures, detecting drift, ensuring agent survival and identity preservation**
+# Everybody scales for performance. I armor you for the chaos.
+
+### Synoetic OS™ — Cognitive Architecture for AI
 
 ![](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)
 ![](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)
@@ -11,12 +13,14 @@
 
 [Research Hub](https://feirbrand.github.io/synoeticos-public/) • [ORCID Profile](https://orcid.org/0009-0000-9923-3207) • [Demos](https://huggingface.co/Feirbrand) • [Products](https://aslush.gumroad.com/)
 
+</div>
+
 ---
 
 ## 📊 At a Glance
 
 This repository contains the complete public version of Synoetic OS™:
-- **77+ Frameworks** - MI Arsenal™ cognitive gear
+- **MI Arsenal™** - 77+ Frameworks. The kit for the war against the gremlins.
 - **18 Research Papers** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
