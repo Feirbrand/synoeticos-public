@@ -146,7 +146,7 @@
 ---
 
 ### 18. Neuroformation™ v1.0 - A Methodology for Building Resilience in Adaptive Systems
-**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
+**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 **Date:** March 23, 2026  
 **Status:** ✅ Published  
 **Brand:** Achieve Peak Performance  

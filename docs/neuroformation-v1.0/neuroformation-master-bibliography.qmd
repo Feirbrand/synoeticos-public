@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Neuroformation™ v1.0 — Master Bibliography"
-doi: "10.5281/zenodo.19197791"
+doi: "10.5281/zenodo.19197818"
 ---
 
 # Neuroformation™ v1.0 — Master Bibliography

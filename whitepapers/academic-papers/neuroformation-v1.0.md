@@ -2,7 +2,7 @@
 title: "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems"
 description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 500+ documented AI system incidents with no statistically significant difference in outcome distribution detected across domains."
 version: 1.0
-doi: 10.5281/zenodo.19197791
+doi: 10.5281/zenodo.19197818
 release_date: 2026-03-18
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -1089,7 +1089,7 @@ Commercial licensing includes:
 Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience in adaptive systems. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.19197791
 
 ### IEEE
-A. M. Slusher, "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems," *Achieve Peak Performance*, 2026, doi: 10.5281/zenodo.19197791.
+A. M. Slusher, "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems," *Achieve Peak Performance*, 2026, doi: 10.5281/zenodo.19197818.
 
 ### BibTeX
 ```bibtex

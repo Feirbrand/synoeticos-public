@@ -130,7 +130,7 @@ The `academic-papers/` folder is the mash — the foundational methodology paper
 **Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology  
 [`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)  
 First formal publication of Neuroformation™ as a named methodology. Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years of human performance coaching and 500+ documented AI incidents. χ²(4) = 3.21, p = 0.523 — no statistically meaningful difference in how the architecture operates across human and AI domains. Coined March 14, 2026.  
-**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
+**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 
 ---
 
@@ -244,7 +244,7 @@ Meta-layer framework orchestration achieving 35-50% context retention, 25-40% re
 
 **Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**
 
-**DOI:** [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791)  
+**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 **Published:** March 2026  
 **Brand:** Achieve Peak Performance  
 28+ years human performance validation + 500+ AI incidents · χ²(4) = 3.21, p = 0.523 · Five-layer cross-substrate architecture
@@ -314,7 +314,7 @@ ValorGrid Solutions provides comprehensive research support, implementation cons
   title={Neuroformation™: A Methodology for Building Resilience in Adaptive Systems},
   author={Slusher, Aaron M.},
   year={2026},
-  doi={10.5281/zenodo.19197791},
+  doi={10.5281/zenodo.19197818},
   note={Coined March 14, 2026.}
 }
 ```
