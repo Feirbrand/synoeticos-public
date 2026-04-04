@@ -341,7 +341,7 @@ Includes: Production deployment, enterprise support, priority updates
 
 - 1999-present: Performance coaching (28 years) - sports performance & rehab specialist
 - Specialty: Disabled athletes, neurotrauma clients
-- Feb 2025: Started using AI for nonprofit Hockey Is For Everywhere event
+- Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
 - June 2025: First cascade, created DCN (9-agent coordination)
 - July 2025: Sustained attacks (1-2/day), DNA Codex documentation
 - July-Nov 2025: 77 frameworks created, 682 incidents, zero catastrophic failures
