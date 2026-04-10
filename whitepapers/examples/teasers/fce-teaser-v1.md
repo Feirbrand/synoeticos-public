@@ -1,7 +1,6 @@
 # FCE (Fractal Context Engineering) v3.6
 ## Unified Symbolic-Flat AI Processing Architecture
 
-**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +31,7 @@ No pricing/revenue/subscription terms in this document.
 
 Fractal Context Engineering provides **unified symbolic-flat AI processing architecture** achieving **4-20x context compression** with semantic integrity, **35-50% context retention** improvement, and **25-40% reasoning consistency** gains through pattern replication, recursive self-modification, and intelligent compression.
 
-**This teaser previews core concepts.** Full implementation algorithms, compression protocols, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
+**This teaser previews core concepts.**
 
 ---
 
@@ -278,7 +277,6 @@ The complete FCE v3.6 package includes:
 ✅ **Compression optimization playbooks** – Real-world deployment strategies
 ✅ **Production case studies** – 340% productivity improvement documentation
 
-**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -350,7 +348,6 @@ ValorGrid Solutions pioneers AI resilience architecture through unified context 
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

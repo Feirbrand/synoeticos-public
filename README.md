@@ -5,9 +5,8 @@
 ![](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)
 ![](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)
 ![](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![](https://img.shields.io/badge/Store-Gumroad-orange.svg)
 
-[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [ORCID Profile](https://orcid.org/0009-0000-9923-3207) • [Demos](https://huggingface.co/Feirbrand) • [Products](https://aslush.gumroad.com/)
+[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [ORCID Profile](https://orcid.org/0009-0000-9923-3207) • [Demos](https://huggingface.co/Feirbrand)
 
 **Aaron Slusher · Performance Architect · Originator of Neuroformation™**  
 ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
@@ -90,7 +89,6 @@ This repository contains the complete public version of Synoetic OS™:
 | **Read incident reports** | [682 Case Studies](#case-studies) |
 | **Understand theory** | [18 Published Papers](#published-research) |
 | **Try live demos** | [Hugging Face Spaces](#live-demos) |
-| **Deploy frameworks** | [Gumroad Products](https://aslush.gumroad.com/) |
 
 ---
 
@@ -343,8 +341,6 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Contact: aaron@valorgridsolutions.com
 Includes: Production deployment, enterprise support, priority updates
 
-💡 Gumroad purchases include commercial license automatically
-
 ---
 
 ## 👤 About
@@ -404,7 +400,6 @@ We publish to Zenodo first (faster, supports living documents), then request arX
 ## 📞 Contact
 
 - **Email:** aaron@valorgridsolutions.com
-- **Products:** https://aslush.gumroad.com
 - **Papers:** https://orcid.org/0009-0000-9923-3207
 - **GitHub Pages:** https://feirbrand.github.io/synoeticos-public/
 - **Website:** https://valorgridsolutions.com

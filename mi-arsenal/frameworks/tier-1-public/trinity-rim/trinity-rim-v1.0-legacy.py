@@ -521,6 +521,3 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 50)
     print("LEGACY VERSION - Historical Reference")
-    print("Superseded by Quaternity RIM v1.0 (Nov 30, 2025)")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/trinity-rim")

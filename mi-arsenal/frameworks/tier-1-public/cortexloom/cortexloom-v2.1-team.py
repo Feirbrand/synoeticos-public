@@ -4,7 +4,6 @@ CortexLoom v2.1 - Neural Team Architecture
 
 Purpose: Dual-hemispheric team cognition architecture
 Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/cortexloom
 
 2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
@@ -396,6 +395,3 @@ if __name__ == "__main__":
     print(f"\n  Workflow Variants: {metrics['workflow_variants_tracked']}")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/cortexloom")

@@ -245,9 +245,7 @@ Enterprise licensing: aaron@valorgridsolutions.com
 
 ## Production Deployment
 
-Full production kit available: [Phoenix Protocol Enterprise](https://aslush.gumroad.com/l/phoenix) ($197)
-
-**Includes**:
+Contact: aaron@valorgridsolutions.com
 - Complete production code
 - Voice walkthrough: "The Biology of Recovery"
 - Integration guides

@@ -360,6 +360,3 @@ if __name__ == "__main__":
     print(f"  Root Frequency: {metrics['root_frequency_hz']:.1f} Hz")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/harmony-layer")

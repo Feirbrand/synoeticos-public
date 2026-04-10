@@ -1,7 +1,6 @@
 # RAY (Recursive Adaptive Yield) Framework v2.0
 ## Unified Distributed Defense Architecture
 
-**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +31,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Recursive Adaptive Yield (RAY) Framework provides **unified distributed defense architecture** creating a living recursion loop that harmonizes disparate AI systems into a single cognitive physiology, achieving **95% threat detection**, **98% containment success**, and **18-minute average containment time** through integrated URA→FCE→CSFC→RAY coordination.
 
-**This teaser previews core concepts.** Full JavaScript implementation, integration protocols, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
+**This teaser previews core concepts.**
 
 ---
 
@@ -229,7 +228,6 @@ The complete RAY Framework v2.0 package includes:
 ✅ **Database schema extensions** – RAY operational logging tables
 ✅ **Real-world deployment case studies** – VictoryShade incident analysis
 
-**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -301,7 +299,6 @@ ValorGrid Solutions pioneers AI resilience architecture through unified systems 
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

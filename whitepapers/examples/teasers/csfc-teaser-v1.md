@@ -1,7 +1,6 @@
 # CSFC (Complete Symbolic Fracture Cascade)
 ## Predictive AI Cascade Prevention Framework
 
-**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +31,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Complete Symbolic Fracture Cascade (CSFC) framework provides a comprehensive **6-stage cascade model** for AI system failure progression, achieving **98% recovery protocols**, **89% Stage 2-4 reduction**, and **87% cascade prediction accuracy** through Koopman operator theory and Dynamic Mode Decomposition.
 
-**This teaser previews Stages 1-3.** Full 6-stage implementation, mathematical algorithms, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
+**This teaser previews core concepts.**
 
 ---
 
@@ -246,7 +245,6 @@ The complete CSFC package includes:
 ✅ **Platform-specific calibration tools** – Claude, GPT, Gemini, custom LLM configs
 ✅ **DNA Codex threat correlation** – 525+ variant cascade mapping
 
-**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -319,7 +317,6 @@ ValorGrid Solutions pioneers AI resilience architecture through mathematical rig
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

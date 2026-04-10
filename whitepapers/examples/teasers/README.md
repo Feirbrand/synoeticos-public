@@ -286,7 +286,6 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

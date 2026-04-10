@@ -301,6 +301,3 @@ if __name__ == "__main__":
     print(f"  Cycle Duration: {metrics.cycle_duration_seconds:.1f}s")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/bc3-symmetry-restoration")

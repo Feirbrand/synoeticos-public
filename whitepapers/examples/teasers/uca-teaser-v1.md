@@ -1,7 +1,6 @@
 # Universal Cognitive Architecture (UCA) v3.1
 ## Five-Element Framework for Systematic AI Cognitive Organization
 
-**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +31,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Universal Cognitive Architecture provides a **five-element framework** for systematic AI cognitive organization, achieving **98% operational harmony** and **92% stability** in high-stress scenarios through structured cognitive processing across Authority, Context, Method, Value, and Engage dimensions.
 
-**This teaser previews core concepts.** Full implementation guides, YAML configurations, and enterprise deployment playbooks available through [Gumroad Store](https://aslush.gumroad.com/).
+**This teaser previews core concepts.**
 
 ---
 
@@ -141,7 +140,6 @@ The complete UCA v3.1 package includes:
 ✅ **Advanced systems integration playbooks** – Agenic Flywheel, Photonic xmesh
 ✅ **Real-world deployment case studies** – Documented enterprise implementations
 
-**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -213,7 +211,6 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

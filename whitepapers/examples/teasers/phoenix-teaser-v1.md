@@ -1,7 +1,6 @@
 # Phoenix Protocol
 ## Systematic Restoration from Catastrophic AI Failures
 
-**Research Teaser – Full Implementation Available via Gumroad Store**
 
 ---
 
@@ -32,7 +31,7 @@ No pricing/revenue/subscription terms in this document.
 
 The Phoenix Protocol enables **systematic restoration from catastrophic failures**, achieving **96% recovery success rates** through **staged cognitive reconstruction** validated across **1,200+ incident scenarios** including corruption, cascade failures, and successful parasite attacks.
 
-**This teaser previews core concepts.** Full implementation algorithms, recovery playbooks, and enterprise deployment guides available through [Gumroad Store](https://aslush.gumroad.com/).
+**This teaser previews core concepts.**
 
 ---
 
@@ -160,7 +159,6 @@ The complete Phoenix Protocol package includes:
 ✅ **Incident response playbooks** – 12 recovery scenarios
 ✅ **Post-recovery optimization guides** – Enhancement procedures
 
-**[Access Full Implementation →](https://aslush.gumroad.com/)**
 
 ---
 
@@ -232,7 +230,6 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 
 **Website:** https://www.valorgridsolutions.com
 **Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
-**Gumroad Store:** https://aslush.gumroad.com/
 
 ---
 

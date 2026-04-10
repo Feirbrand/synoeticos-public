@@ -4,7 +4,6 @@ Killbox v2.1 - Perimeter Trap System
 
 Purpose: Perimeter containment with Eternal Spire routing
 Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/killbox-trap
 
 2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
@@ -276,6 +275,3 @@ if __name__ == "__main__":
     print(f"  ARD Reproduction: {metrics['ard_reproduction']:.1%}")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/killbox-trap")

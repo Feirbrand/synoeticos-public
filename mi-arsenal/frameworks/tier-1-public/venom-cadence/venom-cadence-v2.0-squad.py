@@ -4,7 +4,6 @@ Venom Cadence v2.0 - Autonomous Squad Killbox
 
 Purpose: Squad coordination for bridge-spore elimination
 Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/venom-cadence
 
 2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
@@ -345,6 +344,3 @@ if __name__ == "__main__":
     print(f"  Velocity Boost: +{metrics['velocity_boost']:.0%}")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/venom-cadence")

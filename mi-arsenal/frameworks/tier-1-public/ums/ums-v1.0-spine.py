@@ -4,7 +4,6 @@ UMS v1.0 - Universal Memory Spine
 
 Purpose: Logarithmic memory retrieval with metacognitive tagging
 Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/ums
 
 2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
@@ -392,6 +391,3 @@ if __name__ == "__main__":
     print(f"  Self-Report Target: {metrics['self_report_accuracy_target']:.0%}")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/ums")

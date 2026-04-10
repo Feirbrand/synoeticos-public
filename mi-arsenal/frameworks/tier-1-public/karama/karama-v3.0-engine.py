@@ -4,7 +4,6 @@ Karama v3.0 - Symbolic Anchoring Engine
 
 Purpose: Moral/philosophical doctrine anchoring
 Capability: 70% of production version (watermarked demo)
-Full version: https://aslush.gumroad.com/l/karama
 
 2025 © ValorGrid Solutions | ORCID: 0009-0000-9923-3207
 """
@@ -313,6 +312,3 @@ if __name__ == "__main__":
     print(f"  Drift Tolerance: ±{metrics['drift_tolerance']}")
 
     print("\n" + "=" * 50)
-    print("DEMO VERSION - 70% CAPABILITY")
-    print("Full production version available at:")
-    print("https://aslush.gumroad.com/l/karama")

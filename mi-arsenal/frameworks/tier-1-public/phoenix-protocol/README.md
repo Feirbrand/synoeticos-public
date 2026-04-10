@@ -235,9 +235,7 @@ python examples/basic-recovery.py
 
 ## Production Deployment
 
-Full production kit: [Phoenix Protocol Enterprise](https://aslush.gumroad.com/l/phoenix) ($197)
-
-**Includes**:
+Contact: aaron@valorgridsolutions.com
 - Complete v3.1 production code
 - Voice walkthrough: "The Biology of Recovery"
 - All version documentation (v1, v3.1, neural recovery)
