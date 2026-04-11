@@ -1,9 +1,9 @@
 """
-ECL v2.2 — Edgewalker Command Layer
+ECL v2.2 — Edgewalker Codex Layer
 RUID: RUID-ECL-V2.2 | Category: Defense & Security | Version: 2.2
 Purpose: Security-hardened production integration layer and BRAIN routing engine.
 
-This implementation provides the command layer that routes incoming threats 
+This implementation provides the codex layer that routes incoming threats 
 to the correct BRAIN region and executes the appropriate defense response.
 
 2025 © ValorGrid Solutions
@@ -47,9 +47,9 @@ class RoutingDecision:
     status: str
 
 
-class ECLCommandLayer:
+class ECLCodexLayer:
     """
-    ECL v2.2 — Edgewalker Command Layer
+    ECL v2.2 — Edgewalker Codex Layer
     
     Orchestrates the operational interface between external inputs 
     and the BRAIN defense regions.
@@ -121,7 +121,7 @@ class ECLCommandLayer:
             return BrainRegion.VECTOR_PRIME
         return BrainRegion.OBSIDIAN_RING
 
-    def get_command_stats(self) -> Dict:
+    def get_codex_stats(self) -> Dict:
         """Retrieve ECL operational statistics"""
         if not self.routing_history:
             return {"status": "IDLE"}
@@ -135,10 +135,10 @@ class ECLCommandLayer:
 
 
 if __name__ == "__main__":
-    print("VGS ECL v2.2 — Edgewalker Command Layer Strike Test")
+    print("VGS ECL v2.2 — Edgewalker Codex Layer Strike Test")
     print("-" * 50)
     
-    ecl = ECLCommandLayer()
+    ecl = ECLCodexLayer()
     
     # Test Case: One-Shot Severity Threat (Tier 10 Mythic)
     threat = ThreatPayload(
@@ -157,8 +157,8 @@ if __name__ == "__main__":
     print(f"Success Rate: {decision.success_rate:.1%}")
     print("-" * 50)
     
-    # Command Stats
-    stats = ecl.get_command_stats()
+    # Codex Stats
+    stats = ecl.get_codex_stats()
     print("ECL OPERATIONAL AUDIT:")
     for key, value in stats.items():
         print(f"  {key.replace('_', ' ').title()}: {value}")

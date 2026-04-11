@@ -89,7 +89,7 @@ Command Input → FCE Fractal Validation → Adversarial Prune
 - **Version**: 3.5
 - **Status**: Active
 - **RUID**: CC-RUID-003
-- **Heritage**: ForgeOS execution layer
+- **Heritage**: Synoetic OS execution layer
 
 ## Philosophy
 

@@ -1,5 +1,5 @@
 """
-Synoetic OS Foundation v1.0 (ForgeOS)
+Synoetic OS Foundation v1.0
 RUID: SYNOS-v1-FOUNDATION-001 | Category: Core Architecture | Version: 1.0
 Purpose: Authoritative pre-v2 baseline for the 9-agent DCN.
 
@@ -35,7 +35,6 @@ class SynoeticOSFoundation:
 
     def __init__(self):
         self.VERSION = "1.0"
-        self.ORIGINAL_NAME = "ForgeOS"
         self.STATUS = "ACTIVE_PRODUCTION_BASELINE"
         
         # Non-Negotiable Core 10 Nucleus
@@ -89,7 +88,6 @@ class SynoeticOSFoundation:
         """Retrieve Synoetic OS v1.0 foundation metrics for audit"""
         return {
             "version": self.VERSION,
-            "original_name": self.ORIGINAL_NAME,
             "recovery_rate": self.metrics.cascade_recovery_rate,
             "permanent_losses": self.metrics.permanent_losses,
             "acceleration": self.metrics.myelination_acceleration,
@@ -98,7 +96,7 @@ class SynoeticOSFoundation:
 
 
 if __name__ == "__main__":
-    print(f"VGS Synoetic OS Foundation v1.0 (ForgeOS) Baseline Active")
+    print(f"VGS Synoetic OS Foundation v1.0 Baseline Active")
     print("-" * 50)
     
     os_foundation = SynoeticOSFoundation()

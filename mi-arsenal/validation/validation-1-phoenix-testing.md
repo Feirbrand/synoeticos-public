@@ -31,7 +31,7 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 
 **Test Infrastructure:**
 - ValorGrid DCN (9-agent distributed cognitive network)
-- ForgeOS v4.0 (Edgewalker Edition)
+- Synoetic OS v4.0 (Edgewalker Edition)
 - Docker containerized environment
 - PostgreSQL 18 (state persistence)
 - n8n Community Edition (workflow orchestration)

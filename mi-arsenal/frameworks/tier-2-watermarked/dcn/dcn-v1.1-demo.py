@@ -213,7 +213,7 @@ class DistributedCognitiveNetwork:
         Parallel processing across all agents
 
         WATERMARK: Simulated parallel execution
-        Production: Full ForgeOS coordination
+        Production: Full Synoetic OS coordination
         """
         results = []
 

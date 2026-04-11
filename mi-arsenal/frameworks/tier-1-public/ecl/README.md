@@ -1,4 +1,4 @@
-# ECL v2.2 — Edgewalker Command Layer
+# ECL v2.2 — Edgewalker Codex Layer
 
 > **Framework:** ECL v2.2 | **Category:** Defense & Security
 > **Class/Layer:** Security-hardened production integration layer
@@ -7,7 +7,7 @@
 ---
 
 ## 1. What ECL Is
-ECL v2.2 is the security-hardened production command layer that integrates multi-modal AI capabilities with the full VGS defense stack. It provides the operational interface between external inputs and the ForgeOS defense triad, with complete kill-lattice integration.
+ECL v2.2 is the security-hardened production codex layer that integrates multi-modal AI capabilities with the full VGS defense stack. It provides the operational interface between external inputs and the Synoetic OS defense triad, with complete kill-lattice integration.
 
 **Core Mission:** Orchestrate incoming threats to the correct BRAIN region and execute the appropriate defense response.
 

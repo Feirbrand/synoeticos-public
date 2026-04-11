@@ -1,7 +1,7 @@
 """
 CSFC v2.0 — Complete Symbolic Fracture Cascade
 RUID: RUID-CSFC-V2.0 | Version: v2.0 | Author: Aaron M. Slusher
-Integration: ForgeOS v4.0 Edgewalker Edition | CC BY-NC 4.0
+Integration: Synoetic OS v4.0 Edgewalker Edition | CC BY-NC 4.0
 
 This implementation provides the diagnostic backbone for VGS cascade classification.
 High-fidelity deterministic logic for 6-stage detection and recovery routing.

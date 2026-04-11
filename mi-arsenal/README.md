@@ -180,7 +180,7 @@ Universal memory sink achieving 12,400 inserts/second with 5ms p50 latency. 4-ho
 **Harmony Layer v2.1: Resonance Synchronization**
 Cross-hemispheric coordination (<50ms) achieving 99.99% sync success rate with 91.3% auto-resolution.
 
-**ECL v2.0: Edgewalker Codex Layer**
+**ECL v2.2: Edgewalker Codex Layer**
 15-30 minute cascade prediction system via Torque v2.0 metrics integration. Achieves 87% prediction accuracy enabling preemptive Stage 1 prevention before cascades form.
 
 **BC3 v3.0: Brain Coherence Cascade Control**

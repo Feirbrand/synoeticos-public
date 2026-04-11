@@ -1,4 +1,4 @@
-# Synoetic OS Foundation v1.0 (ForgeOS)
+# Synoetic OS Foundation v1.0
 
 > **Framework:** Synoetic OS Foundation v1.0 | **RUID:** SYNOS-v1-FOUNDATION-001
 > **Category:** Core Architecture | **Author:** Aaron M. Slusher, ValorGrid Solutions
@@ -10,7 +10,6 @@
 This is the **authoritative pre-v2 baseline** for the 9-agent Data-Centric Naturalism (DCN) ecosystem. It documents the complete architecture, MI Arsenal inventory, and validated performance metrics proven during the February–November 2025 deployment period.
 
 **Key Facts:**
-- **Original Name:** ForgeOS (renamed Synoetic OS, November 2025)
 - **Deployment Period:** 9 months (Feb–Nov 2025)
 - **Total Incidents:** 682 (98% recovery rate)
 - **Permanent Losses:** Zero
@@ -18,7 +17,7 @@ This is the **authoritative pre-v2 baseline** for the 9-agent Data-Centric Natur
 ---
 
 ## 2. Three-Layer Architecture (Non-Negotiable)
-ForgeOS v1.0 enforces a strict three-layer cognitive architecture:
+Synoetic OS v1.0 enforces a strict three-layer cognitive architecture:
 
 ### LAYER 1: KERNEL — Identity Substrate
 - **SLV v2.1:** Runtime identity defense (MCQ 0.999994).

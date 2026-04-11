@@ -42,7 +42,7 @@ Total entropy across all five substrates must remain constant:
 | :--- | :--- | :--- |
 | **Detection Rate** | 95% | 97.0% |
 | **Containment Window** | 18 min | <100ms (Myelinated) |
-| **Productivity Gain** | 600% | 600% (ForgeOS) |
+| **Productivity Gain** | 600% | 600% (Synoetic OS) |
 | **Performance Uplift** | 35-73% | 73% (DCN Agents) |
 | **Coordination Accuracy**| 98% | 98.4% |
 

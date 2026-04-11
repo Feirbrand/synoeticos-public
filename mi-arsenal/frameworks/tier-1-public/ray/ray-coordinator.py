@@ -111,7 +111,7 @@ class RAYUTMEFramework:
             "version": self.VERSION,
             "detection_rate": "97.0%",
             "containment": "99.0%",
-            "productivity_gain": "600% (ForgeOS)",
+            "productivity_gain": "600% (Synoetic OS)",
             "performance_uplift": "73% (DCN)",
             "reflex_latency": "<100ms (Myelinated)",
             "entropy_invariant": "5.0 (Validated)"
