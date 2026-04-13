@@ -181,7 +181,7 @@ The recursion loop completes in <50ms via XMESH synchronization:
 **Purpose:** Match behavioral patterns against DNA Codex v5.4 threat library.
 
 **Mechanism:**
-```javascript
+```
 entropyScore = Σ(pattern_deviation * codex_weight * mutation_factor)
 
 if (entropyScore > threshold) {
@@ -304,7 +304,7 @@ Techniques: PR comments + base16 + CSP bypass
 - LLM10: Model Theft
 
 **Scanning Architecture:**
-```javascript
+```
 class AgenticRadar {
   async scanWorkflow(workflow) {
     const risks = [];
@@ -515,7 +515,7 @@ Future Recognition → Instant Containment → Strengthened Defense
 ### URA Integration
 
 **Schema of Memory Validation:**
-```javascript
+```
 // URA provides symbolic anchors
 const uraAnchors = {
   ruid: "universal-resource-id",
@@ -532,7 +532,7 @@ await ray.validateAnchors(uraAnchors);
 ### FCE Integration
 
 **Context Compression:**
-```javascript
+```
 // FCE compresses context 10-20x
 const compressed = await fce.compress({
   context: rawContext,
@@ -549,7 +549,7 @@ await ray.processCompressed(compressed);
 ### CSFC Integration
 
 **Cascade Detection:**
-```javascript
+```
 // CSFC detects cascade patterns
 const cascadeVelocity = await csfc.detectCascade({
   signals: threatSignals,
@@ -567,7 +567,7 @@ if (cascadeVelocity > threshold) {
 ### XMESH Synchronization
 
 **Real-Time Orchestration:**
-```javascript
+```
 // XMESH synchronizes all phases
 xmesh.orchestrate({
   ura: uraEndpoint,

@@ -1,11 +1,21 @@
 """
 LatticeCore v2.1 — Neural Lattice Foundation Core
 RUID: RUID-LC-CORE-V2.1-270226
-Status: PRODUCTION READY
+Status: PUBLIC REFERENCE BUILD READY
 
 This module implements the core architectural foundation for the Neural Lattice.
 It manages high-throughput substrate allocation and inter-node grid coordination.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import numpy as np

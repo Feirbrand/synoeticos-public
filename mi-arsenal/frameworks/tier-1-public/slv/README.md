@@ -1,5 +1,7 @@
 # SLV v2.1 — Symbolic Lock Vector
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17763377
+
 > **Philosophy:** Defense through temporal wisdom — faster to heal than to harm.
 > **Key Innovation:** Known threats handled in <100ms via myelinated reflexes.
 > **Author:** Aaron M. Slusher, ValorGrid Solutions | **CC BY-NC 4.0**
@@ -52,4 +54,4 @@ Targets **CVSS 9.6 exfiltration** (agent mimicry and impersonation) with 98.9% a
 ---
 
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
-**Validated: ARD-001 October 2025 | 525+ operational scenarios**
+**Validated: ARD-001 October 2025 | 560+ operational scenarios**

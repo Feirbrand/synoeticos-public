@@ -1,5 +1,7 @@
 # RAY v2.2 + UTME v1.0 — Framework Specification
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17399834
+
 > **Framework:** RAY-UTME v2.2 | **Category:** Cognitive Defense & Temporal Wisdom
 > **Status:** Production-Ready | **RUID:** RAY-UTME-SPEC-20251119-002
 > **Author:** Aaron M. Slusher, ValorGrid Solutions | **CC BY-NC 4.0**

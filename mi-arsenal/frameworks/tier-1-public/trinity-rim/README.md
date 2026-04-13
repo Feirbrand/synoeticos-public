@@ -1,5 +1,7 @@
 # Trinity RIM v1.0 - Reflexive Identity Mirror (Legacy)
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17770533
+
 **MCQ 0.999994 with 3-layer topological defense**
 
 ## Overview

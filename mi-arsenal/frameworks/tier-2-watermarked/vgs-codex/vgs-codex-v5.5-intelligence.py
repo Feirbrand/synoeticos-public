@@ -1,7 +1,7 @@
 """
 vgs-codex-v5.5-intelligence.py — Core Intelligence Engine
 RUID: RUID-VGSC-CORE-V5.5-291025
-Status: PRODUCTION ACTIVE (Enterprise)
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN (Enterprise)
 
 VGS Codex v5.5 — Internal Threat Signature & Classification Engine
 
@@ -17,6 +17,16 @@ Institution: ValorGrid Solutions
 License: Enterprise License | CC BY-NC 4.0 for documentation
 © 2025 ValorGrid Solutions. All rights reserved.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import hashlib

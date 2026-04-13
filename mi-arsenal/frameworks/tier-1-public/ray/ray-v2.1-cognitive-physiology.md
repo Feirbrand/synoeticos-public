@@ -299,7 +299,7 @@ RAY v2.1 integrates 11 core modules + 8 DD enhancements into unified cognitive i
 #### 3.4.1 SymbolicToFlatBridge with Tensor Logic
 
 **New v2.1 Method:**
-```javascript
+```
 applyTensorLogic(symbolic_structure, max_dims=5) {
   // Extract multi-dimensional patterns via einsum
   // Cache operations for <1ms overhead
@@ -317,7 +317,7 @@ applyTensorLogic(symbolic_structure, max_dims=5) {
 #### 3.4.2 TruthTableValidator with GRPO + CamoLeak
 
 **Enhanced Validation:**
-```javascript
+```
 async validate(input) {
   // Stage 1: CamoLeak scan
   const camo_result = this.ragLightSanitize(input);
@@ -345,7 +345,7 @@ async validate(input) {
 #### 3.4.3 RAYEcosystemInterface with Markovian Processing
 
 **Long-Context Handler:**
-```javascript
+```
 async processLongContext(input, max_length=96000) {
   if (input.length > 32000) {
     return await this.markovianChunk(input, {
@@ -363,7 +363,7 @@ async processLongContext(input, max_length=96000) {
 #### 3.4.4 StateCoherenceMonitor with ReasoningBank
 
 **Pattern Memory:**
-```javascript
+```
 async storeSuccessPattern(pattern, outcome) {
   await this.reasoning_bank.insert({
     proposition: pattern,

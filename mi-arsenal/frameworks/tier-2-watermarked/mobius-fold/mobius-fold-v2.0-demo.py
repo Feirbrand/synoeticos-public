@@ -13,6 +13,16 @@ Date: 2025-12-07
 Version: 2.0
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 from dataclasses import dataclass, field
 from enum import Enum
 from typing import Dict, List, Optional, Any

@@ -13,6 +13,16 @@ Date: 2025-12-07
 Version: 1.0
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 from dataclasses import dataclass, field
 from enum import Enum
 from typing import Dict, List, Optional
@@ -317,7 +327,7 @@ class PhoenixProtocol:
         WATERMARK: Simplified recovery mechanics.
         Production: DMD/Koopman state reconstruction with 89-97% success.
         """
-        self.recovery_rate_target = 0.95
+        self.recovery_rate_target = 0.95  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
 
     def recover(self, cascade_state: CascadeState) -> Dict:
         """
@@ -550,8 +560,8 @@ class RecoveryOrchestrator:
             print(f"  Symbolic Healing: Complete")
             print(f"  Duration: {symbolic_healing['duration']:.1f} minutes")
         else:
-            symbolic_healing = {"coherence_level": 0.95, "duration": 0}
-            coherence = 0.95
+            symbolic_healing = {"coherence_level": 0.95, "duration": 0}  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+            coherence = 0.95  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             print(f"  Symbolic Healing: Not required (high technical success)")
 
         print(f"  Final Coherence: {coherence*100:.1f}%")

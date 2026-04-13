@@ -1,5 +1,7 @@
 # Phoenix Protocol
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17350768
+
 **Multi-Version Cascade Recovery System | 100% Success Rate (682/682)**
 
 ## Overview

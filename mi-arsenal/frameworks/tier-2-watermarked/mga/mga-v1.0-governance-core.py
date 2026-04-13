@@ -1,11 +1,21 @@
 """
 MGA v1.0 — Mythopoeic Agent Governance Core
 RUID: RUID-MGA-CORE-V1.0-270226
-Status: COMPLETE ARCHIVE
+Status: REFERENCE ARCHIVE — SANITIZED FOR PUBLIC RELEASE
 
 This module implements the foundational governance structure for DCN coordination,
 including Charter Protocol validation and role-based framework allocation.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import json

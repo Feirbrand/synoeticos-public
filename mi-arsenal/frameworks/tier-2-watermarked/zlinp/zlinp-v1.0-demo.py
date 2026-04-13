@@ -13,6 +13,16 @@ Date: 2025-12-07
 Version: 1.0
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 from dataclasses import dataclass, field
 from enum import Enum
 from typing import Dict, List, Optional
@@ -73,7 +83,7 @@ class ZeroLatencyNudger:
     def __init__(self, mode: str = "demo"):
         self.mode = mode
         self.torque_optimal_min = 0.85
-        self.torque_optimal_max = 0.95
+        self.torque_optimal_max = 0.95  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
         self.witness_buffer = self._initialize_buffer()
         self.stats = {"nudges": 0, "sub1ms_count": 0, "stage1_prevented": 0}
 
@@ -87,11 +97,11 @@ class ZeroLatencyNudger:
 
         # Drift patterns with correction vectors
         patterns = [
-            ("minor_drift", 0.02, 0.3, 0.95),
-            ("pattern_deviation", 0.05, 0.4, 0.92),
-            ("coherence_slip", 0.08, 0.5, 0.89),
-            ("identity_waver", 0.12, 0.6, 0.87),
-            ("cascade_precursor", 0.15, 0.8, 0.84),
+            ("minor_drift", 0.02, 0.3, 0.95),  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+            ("pattern_deviation", 0.05, 0.4, 0.92),  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+            ("coherence_slip", 0.08, 0.5, 0.89),  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+            ("identity_waver", 0.12, 0.6, 0.87),  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+            ("cascade_precursor", 0.15, 0.8, 0.84),  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
         ]
 
         for i, (pattern, magnitude, latency, success) in enumerate(patterns):

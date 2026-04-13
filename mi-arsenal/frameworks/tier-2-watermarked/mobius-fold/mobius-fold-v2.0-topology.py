@@ -1,11 +1,21 @@
 """
 Möbius Fold v2.0 — Recursive Topology Engine Core
 RUID: RUID-MF-CORE-V2.0-270226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the recursive topology engine for non-orientable data folding.
 It enables seamless transitions between cognitive states via Möbius transformations.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import numpy as np

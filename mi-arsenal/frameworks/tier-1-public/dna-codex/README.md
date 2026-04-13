@@ -1,5 +1,7 @@
 # DNA Codex v5.6 — Threat Intelligence Catalog
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17451060
+
 > **RUID:** RUID-DNACODEX-V5.6 | **Version:** 5.6 | **Author:** Aaron M. Slusher, ValorGrid Solutions
 > **Consolidated:** v5.5 + October 2025 Triple Validation | **CC BY-NC 4.0 (Public Tier)**
 

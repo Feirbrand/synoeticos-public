@@ -1,5 +1,7 @@
 # CSFC v2.0 — Complete Symbolic Fracture Cascade
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17309239
+
 > **RUID:** RUID-CSFC-V2.0 | **Version:** v2.0 | **Author:** Aaron M. Slusher, ValorGrid Solutions
 > **Integration:** Synoetic OS v4.0 Edgewalker Edition | **CC BY-NC 4.0**
 

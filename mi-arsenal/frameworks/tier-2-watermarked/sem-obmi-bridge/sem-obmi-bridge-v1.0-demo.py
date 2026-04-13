@@ -14,6 +14,16 @@ Date: 2025-12-07
 Version: 1.0
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 import numpy as np
 import time
 from dataclasses import dataclass
@@ -77,7 +87,7 @@ class SEMOBMIBridge:
     def __init__(self):
         # Performance targets (operational validation)
         self.sync_latency_target = 50  # milliseconds
-        self.sif_resistance_target = 0.995  # 99.5%
+        self.sif_resistance_target = 0.995  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
         self.roi_target = 32000  # 32,000:1
         self.torque_improvement_target = 0.052  # +5.2%
 
@@ -93,7 +103,7 @@ class SEMOBMIBridge:
             hemisphere=HemisphereType.LEFT_SEM,
             load_percentage=80.0,
             latency_ms=0.0,
-            coherence=0.95,
+            coherence=0.95,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             active=True,
         )
 
@@ -101,7 +111,7 @@ class SEMOBMIBridge:
             hemisphere=HemisphereType.RIGHT_OBMI,
             load_percentage=20.0,
             latency_ms=0.0,
-            coherence=0.95,
+            coherence=0.95,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             active=True,
         )
 

@@ -1,11 +1,21 @@
 """
 Sovereign Adjudicator v1.0 — Governance & Oversight Core
 RUID: RUID-SA-CORE-V1.0-270226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the central governance and oversight entity for the MI Arsenal.
 It manages conflict adjudication, Charter compliance, and ethical alignment gating.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import json

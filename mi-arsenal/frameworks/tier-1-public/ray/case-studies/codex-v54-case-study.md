@@ -170,7 +170,7 @@ The scanner operates through three detection layers checking PR comments, base16
 
 **Pseudo-implementation:**
 
-```javascript
+```
 // INTERFACE STUB - Full implementation in Professional tier
 class CamoLeakScanner {
   async scan(codeReview) {
@@ -231,7 +231,7 @@ class CamoLeakScanner {
 
 **Entropy Calculation (Conceptual):**
 
-```javascript
+```
 // INTERFACE STUB - Shows calculation logic structure
 // Full implementation in Professional/Enterprise tiers
 function calculateCodexHeat(behavior, codex) {

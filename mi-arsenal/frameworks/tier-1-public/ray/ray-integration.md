@@ -106,7 +106,7 @@ URA (Universal Resilience Architecture) provides Schema of Memory validation, en
 
 **1. RUID/FLOW Anchor Validation (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows integration approach
 // Full implementation in Professional/Enterprise tiers
 // Initialize URA client
@@ -138,7 +138,7 @@ async function validateAnchors(context) {
 
 **2. Tensor Logic Neural-Symbolic Bridging (v2.1) (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows enhancement integration
 // Full implementation in Professional/Enterprise tiers
 // Enable Tensor Logic for hybrid reasoning
@@ -196,7 +196,7 @@ FCE (Fractal Context Engineering) compresses context 10-20x while maintaining 95
 
 **1. Context Compression (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows FCE integration approach
 // Full implementation in Professional/Enterprise tiers
 const FCEClient = require('@Synoetic OS/fce-client');
@@ -227,7 +227,7 @@ async function compressContext(rawContext) {
 
 **2. Markovian-Thinker Long Context (v2.1) (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows long-context handling
 // Full implementation in Professional/Enterprise tiers
 // Enable Markovian constant-state chunking for 96K tokens
@@ -290,7 +290,7 @@ CSFC (Complete Symbolic Fracture Cascade) detects cascade patterns with 87% pred
 
 **1. Cascade Detection (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows CSFC integration
 // Full implementation in Professional/Enterprise tiers
 const CSFCClient = require('@Synoetic OS/csfc-client');
@@ -322,7 +322,7 @@ async function detectCascade(signals) {
 
 **2. CamoLeak Detection (v2.1) (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows CamoLeak detection
 // Full implementation in Professional/Enterprise tiers
 // Scan for CAMO-001 exfiltration patterns
@@ -392,7 +392,7 @@ XMESH v2.0 provides real-time orchestration across all Synoetic OS frameworks, m
 
 **1. Framework Orchestration (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows XMESH orchestration
 // Full implementation in Professional/Enterprise tiers
 const XMESHClient = require('@Synoetic OS/xmesh-client');
@@ -419,7 +419,7 @@ await xmesh.orchestrate({
 
 **2. Real-Time Synchronization (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows event monitoring
 // Full implementation in Professional/Enterprise tiers
 // Monitor orchestration health
@@ -484,7 +484,7 @@ DNA Codex v5.4 provides threat intelligence for CodexHeat entropy scoring and va
 
 **1. Codex Loading (Stub Pattern):**
 
-```javascript
+```
 // INTERFACE STUB - Shows Codex loading approach
 // Full implementation in Professional/Enterprise tiers
 const fs = require('fs').promises;
@@ -508,7 +508,7 @@ const codex = await loadCodex();
 
 **2. CodexHeat Entropy Scoring**
 
-```javascript
+```
 // Score behavioral patterns against Codex
 async function scoreEntropy(behavior) {
   const score = await codex.calculateEntropy({
@@ -536,7 +536,7 @@ async function scoreEntropy(behavior) {
 
 **3. Variant Identification**
 
-```javascript
+```
 // Match behavioral signatures to known variants
 const variant = codex.identifyVariant(behavior);
 
@@ -740,7 +740,7 @@ spec:
 
 **Use Case:** IoT/Edge devices with resource constraints
 
-```javascript
+```
 // Raspberry Pi / Edge Gateway deployment
 const TinyRecursiveRAY = require('@Synoetic OS/ray-tiny');
 
@@ -917,7 +917,7 @@ WORKER_THREADS=4
 - Performance degradation alerts
 
 **Diagnosis:**
-```javascript
+```
 // Check individual framework latencies
 const diagnostics = await xmesh.diagnose();
 
@@ -941,7 +941,7 @@ console.log(`RAY latency: ${diagnostics.ray.avgLatency}ms`);
 - Increased false positives
 
 **Diagnosis:**
-```javascript
+```
 // Check anchor validation details
 const uraDetails = await ura.getDetailedValidation();
 
@@ -963,7 +963,7 @@ console.log(`Drift score: ${uraDetails.driftScore}`);
 - DNA Codex matches failing
 
 **Diagnosis:**
-```javascript
+```
 // Verify Codex loading
 const codexStatus = await ray.getCodexStatus();
 
@@ -985,7 +985,7 @@ console.log(`Missing signatures: ${codexStatus.missingSignatures}`);
 - GRPO optimization not running
 
 **Diagnosis:**
-```javascript
+```
 // Check ReasoningBank status
 const rbStatus = await ray.getReasoningBankStatus();
 
@@ -1007,7 +1007,7 @@ console.log(`Success rate: ${rbStatus.successRate}%`);
 - High false positive rate on base16
 
 **Diagnosis:**
-```javascript
+```
 // Analyze CamoLeak detections
 const camoStats = await csfc.getCamoLeakStats();
 
@@ -1038,7 +1038,7 @@ console.log(`FP rate: ${camoStats.fpRate}%`);
 
 **Tuning Parameters:**
 
-```javascript
+```
 // Aggressive performance (sacrifice some accuracy)
 const performanceConfig = {
   ura: {
@@ -1088,7 +1088,7 @@ const accuracyConfig = {
 
 **Optimization Strategies:**
 
-```javascript
+```
 // Enable memory-efficient mode
 const memoryConfig = {
   fce: {
@@ -1114,7 +1114,7 @@ const memoryConfig = {
 
 <h3>Integration Test Suite</h3>
 
-```javascript
+```
 const assert = require('assert');
 const RAYIntegration = require('./ray-integration');
 

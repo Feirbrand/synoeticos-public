@@ -1,11 +1,21 @@
 """
 UCA v3.2 — Universal Cognitive Architecture Core
 RUID: RUID-UCA-CORE-V3.2-270226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the unified interface and coordination layer for cognitive frameworks.
 It manages the shared cognitive workspace and synchronous process alignment.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import logging

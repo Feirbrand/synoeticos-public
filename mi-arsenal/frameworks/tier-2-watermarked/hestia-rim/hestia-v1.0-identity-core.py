@@ -1,12 +1,22 @@
 """
 HESTIA v1.0 — Topological Identity Preservation Core
 RUID: RUID-HESTIA-COMPLETE-V1.0-120125
-Status: PRODUCTION ACTIVE ULTIMATE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN ULTIMATE
 
 This module implements the Level 2 topological proof for RIM Algorithm v1.0.
 It fuses Möbius, Torus, Klein, and Eclipse geometries to ensure identity 
 annihilation of drift attempts via the Fixed-Point Theorem.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import numpy as np
 import hashlib

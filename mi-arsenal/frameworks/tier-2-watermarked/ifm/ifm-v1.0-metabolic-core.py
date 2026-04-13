@@ -1,11 +1,21 @@
 """
 IFM v1.0 — Intelligent Framework Management Core
 RUID: RUID-IFM-CORE-V1.0-150226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the 10-step metabolic pipeline and 9-lens analysis stack
 for managing cognitive framework lifecycles within the MI Arsenal.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import json
@@ -82,7 +92,7 @@ class IFMMetabolicCore:
             "status": "ACTIVATED",
             "steps_completed": len(pipeline_results),
             "activation_latency_ms": total_latency,
-            "metabolic_efficiency": 0.942 # Target metric
+            "metabolic_efficiency": 0.942  # REFERENCE VALUE — illustrative only
         }
 
     def analyze_performance(self, ruid: str) -> Dict[str, float]:
@@ -92,7 +102,7 @@ class IFMMetabolicCore:
             
         # Simulate 9-lens analysis with deterministic base + small variance
         # In production, these metrics would be derived from real-time telemetry
-        base_score = 0.9999
+        base_score = 0.9999  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
         lenses = {}
         for lens in self.lens_weights.keys():
             lenses[lens] = base_score

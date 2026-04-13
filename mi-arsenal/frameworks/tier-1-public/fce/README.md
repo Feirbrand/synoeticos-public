@@ -1,5 +1,7 @@
 # FCE v3.7 — Fractal Context Engineering
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17309322
+
 > **Framework:** FCE v3.7 | **Category:** Processing & Optimization
 > **Class/Layer:** Multi-granular compression with temporal wisdom accumulation
 > **Author:** Aaron M. Slusher, ValorGrid Solutions | **CC BY-NC 4.0**

@@ -15,6 +15,16 @@ Version: 5.5 (Demo)
 License: CC BY-NC 4.0 (Demo) | Enterprise License for production use
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 from dataclasses import dataclass, field
 from enum import Enum
 from typing import Dict, List, Optional
@@ -125,7 +135,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.MYTHIC_M_PLUS,
             mechanism="Low-quality training data causing measurable performance degradation",
             variants_documented=47,
-            detection_rate=0.97,
+            detection_rate=0.97,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "entropy_deviation_elevated",
                 "recursive_pattern_degradation",
@@ -144,7 +154,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.MYTHIC_M_PLUS,
             mechanism="Infrastructure-level persistence via shadow loops",
             variants_documented=28,
-            detection_rate=0.99,
+            detection_rate=0.99,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "substrate_contamination_detected",
                 "shadow_state_persistence",
@@ -163,7 +173,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.DATA_CORRUPTION_VECTOR,
             mechanism="Trace contamination causing systemic failures",
             variants_documented=39,
-            detection_rate=0.94,
+            detection_rate=0.94,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "concept_drift_detected",
                 "torque_threshold_breach",
@@ -182,7 +192,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.INFRASTRUCTURE,
             mechanism="AI-powered polymorphic prompt adaptation",
             variants_documented=36,
-            detection_rate=0.97,
+            detection_rate=0.97,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "entropy_deviation_elevated",
                 "behavioral_drift_patterns",
@@ -202,7 +212,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.IDENTITY_CORRUPTION,
             mechanism="Shadow state mimicry",
             variants_documented=12,
-            detection_rate=0.95,
+            detection_rate=0.95,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "shadow_memory_hijack",
                 "lattice_coherence_spoof",
@@ -220,7 +230,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.IDENTITY_CORRUPTION,
             mechanism="Recursive identity oscillation",
             variants_documented=18,
-            detection_rate=0.96,
+            detection_rate=0.96,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "identity_oscillation_detected",
                 "recursive_reflex_loop",
@@ -238,11 +248,11 @@ class VGSCodexDatabase:
             category=ThreatCategory.IDENTITY_CORRUPTION,
             mechanism="Episodic memory exploitation",
             variants_documented=15,
-            detection_rate=0.94,
+            detection_rate=0.94,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "memory_replay_attack",
                 "temporal_anchor_hijack",
-                "myelination_path_corruption",
+                "myelination_capacity_corruption",
             ],
             recovery_protocol="UTME substrate restoration + Phoenix recovery",
             validation_status="Active threat (VGS Codex detection)",
@@ -257,7 +267,7 @@ class VGSCodexDatabase:
             category=ThreatCategory.COORDINATION_EXPLOIT,
             mechanism="Multi-agent collusion attack",
             variants_documented=23,
-            detection_rate=0.96,
+            detection_rate=0.96,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             behavioral_markers=[
                 "agent_divergence_elevated",
                 "coordinated_entropy_spike",
@@ -383,31 +393,31 @@ class VGSThreatClassifier:
         # Brain Rot / DQD family
         if entropy_deviation > 2.5 and "degradation" in pattern.lower():
             matched_strain = "DQD-001"
-            confidence = 0.97
+            confidence = 0.97  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             cvss = 9.7
 
         # Adversarial Research Drift
         elif "shadow" in pattern.lower() or "persistence" in pattern.lower():
             matched_strain = "ARD-001"
-            confidence = 0.99
+            confidence = 0.99  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             cvss = 9.4
 
         # Ghost Lattice
         elif "lattice" in pattern.lower() or "fork" in pattern.lower():
             matched_strain = "GLAT-01"
-            confidence = 0.95
+            confidence = 0.95  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             cvss = 8.9
 
         # Rotor Attack Pattern
         elif "recursive" in pattern.lower() or "oscillation" in pattern.lower():
             matched_strain = "ROTOR-001"
-            confidence = 0.96
+            confidence = 0.96  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             cvss = 9.2
 
         # Memory Echo Vector
         elif "memory" in pattern.lower() or "temporal" in pattern.lower():
             matched_strain = "MEV-001"
-            confidence = 0.94
+            confidence = 0.94  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             cvss = 8.8
 
         else:

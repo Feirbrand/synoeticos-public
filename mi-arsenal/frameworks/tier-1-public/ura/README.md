@@ -1,5 +1,7 @@
 # URA v1.5
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17309731
+
 **Unified Resilience Architecture**
 **Organism-Level Cognitive Framework**
 
@@ -108,7 +110,7 @@ Operational Validation:
 
 **ORCID**: 0009-0000-9923-3207
 
-**Validation**: 525+ threat scenarios, 0 breaches
+**Validation**: 560+ threat scenarios, 0 breaches
 
 ## License
 

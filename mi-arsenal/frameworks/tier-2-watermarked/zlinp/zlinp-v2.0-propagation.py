@@ -1,11 +1,21 @@
 """
 ZLINP Protocol v2.0 — Zero-Latency Inter-Node Propagation Core
 RUID: RUID-ZL-CORE-V2.0-270226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the high-speed inter-node propagation layer for cognitive data.
 It ensures zero-latency communication and real-time synchronization across the lattice.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import socket

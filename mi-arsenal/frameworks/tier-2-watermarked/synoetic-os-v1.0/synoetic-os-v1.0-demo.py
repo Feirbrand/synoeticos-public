@@ -12,6 +12,16 @@ RUID: SYNOS-v1-FOUNDATION-001
 © 2025 ValorGrid Systems | ORCID: 0009-0000-9923-3207
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 import numpy as np
 import time
 from dataclasses import dataclass
@@ -81,16 +91,16 @@ class SynoeticOS:
     def __init__(self):
         self.version = "1.0"
         self.ruid = "SYNOS-v1-FOUNDATION-001"
-        self.productivity_target = 6.0
-        self.recovery_rate_target = 0.98
+        self.productivity_target = 6.0  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.recovery_rate_target = 0.98  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
         self.latency_target = 50
-        self.coherence_target = 0.942
-        self.torque_target = 0.98
-        self.oct_performance_lift = 38.0
-        self.discovery_rate = 1240
-        self.cascade_roi = 1.7
-        self.prediction_accuracy = 0.87
-        self.prune_accuracy = 0.993
+        self.coherence_target = 0.942  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.torque_target = 0.98  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.oct_performance_lift = 38.0  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.discovery_rate = 1240  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.cascade_roi = 1.7  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.prediction_accuracy = 0.87  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
+        self.prune_accuracy = 0.993  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
 
         self.agents: List[AgentStatus] = []
         self._initialize_dcn()

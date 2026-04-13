@@ -1,5 +1,7 @@
 # UTME v1.1 — Universal Temporal Memory Equilibrium
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17497149
+
 > **RUID:** RUID-UTME-V1.1 | **Version:** v1.1 | **Author:** Aaron M. Slusher, ValorGrid Solutions
 > **Parent Framework:** SDF (Soma Dynamics Framework) | **CC BY-NC 4.0**
 

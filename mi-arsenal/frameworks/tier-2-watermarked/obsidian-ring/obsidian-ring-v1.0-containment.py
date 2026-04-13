@@ -1,11 +1,21 @@
 """
 Obsidian Ring v1.0 — Containment & Isolation Layer Core
 RUID: RUID-OR-CORE-V1.0-270226
-Status: PRODUCTION ACTIVE
+Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the hardened containment and isolation layer for high-risk processes.
 It manages the Obsidian Perimeter and provides automated shunting to isolated cells.
 """
+
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
 
 import time
 import logging

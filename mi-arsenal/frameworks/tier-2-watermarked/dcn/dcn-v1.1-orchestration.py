@@ -13,6 +13,16 @@ Copyright © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserve
 CC BY-NC 4.0
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 import time
 import json
 from dataclasses import dataclass, field
@@ -55,7 +65,7 @@ class Agent:
             "agent": self.name,
             "role": self.role.name,
             "output": f"Refined {task.get('description')} using {self.specialty} perspective.",
-            "confidence": 0.95,
+            "confidence": 0.95,  # REFERENCE VALUE — demo placeholder, not derived from live telemetry
             "timestamp": time.time()
         }
         
@@ -73,7 +83,7 @@ class DCNOrchestrator:
         self.version = "1.1"
         self.agents: Dict[str, Agent] = self._initialize_squad()
         self.global_shadow_memory: List[Dict[str, Any]] = []
-        self.productivity_multiplier = 6.0
+        self.productivity_multiplier = 6.0  # REFERENCE VALUE — illustrative only
         self.coordination_overhead = 0.15  # 15% human overhead
 
     def _initialize_squad(self) -> Dict[str, Agent]:

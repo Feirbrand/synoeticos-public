@@ -12,6 +12,16 @@ Author: Aaron M. Slusher, ValorGrid Solutions
 Copyright: © 2025-2026 Aaron M. Slusher, ValorGrid Solutions. All rights reserved.
 """
 
+# ============================================================
+# PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
+# This file demonstrates orchestration shape, framework
+# vocabulary, and test flow only. Production adapters,
+# optimization paths, scoring logic, and proprietary
+# implementation depth are intentionally omitted.
+# For licensing or full implementation: aaron@valorgridsolutions.com
+# ============================================================
+
+
 from dataclasses import dataclass, field
 from enum import Enum
 from typing import Dict, List, Optional

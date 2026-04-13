@@ -1,5 +1,7 @@
 # Torque v2.0 — AI System Stability Measurement
 
+**Published Paper:** https://doi.org/10.5281/zenodo.17379750
+
 > **RUID:** RUID-TORQUE-V2.0 | **Version:** v2.0 | **Author:** Aaron M. Slusher, ValorGrid Solutions
 > **Parent Frameworks:** URA, UTME, CSFC, Phoenix Protocol | **CC BY-NC 4.0**
 
@@ -14,7 +16,7 @@
 
 ## 2. Core Formulas
 ### Primary Torque Equation
-```javascript
+```
 T(t) = α·∂v/∂t + β·θ(t) + γ·∫τ dt + δ·μ(t)
 
 Where:
@@ -26,7 +28,7 @@ Where:
 
 ### Fractal Integrity Index (FII)
 FII is the multi-scale composite that all VGS systems read as the primary health signal.
-```javascript
+```
 FII = w₁·I(macro) + w₂·I(meso) + w₃·I(micro) + w₄·Φ(fractal)
 ```
 
