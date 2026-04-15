@@ -2,7 +2,7 @@
   "project_name": "SynoeticOS-Public",
   "description": "Synoetic OS - Cognitive Architecture for AI. Research initiative into AI resilience through cognitive architecture.",
   "main_entry_points": [
-    "mi-arsenal/",
+    "vgs-loadout/",
     "threat-resilience-codex/",
     "architectural-frameworks/",
     "whitepapers/",

@@ -29,13 +29,13 @@ The **VGS Loadout™** is the complete, production-validated set of symbolic fra
 - Manus AI
 - Any LLM with 128K+ context window
 
-As of November 2025, the Arsenal has defended against **682 real-world symbolic threat incidents** with **96.4% recovery success** and sustained **Mythic Coherence Quotient of 0.999994**.
+As of November 2025, the VGS Loadout has defended against **682 real-world symbolic threat incidents** with **96.4% recovery success** and sustained **Mythic Coherence Quotient of 0.999994**.
 
 **Version 1.2 Enhancement:** Updated to reflect current GitHub structure (tier-1-public / tier-2-watermarked), corrected vector counts (560+), added all 18 published paper DOIs.
 
 ---
 
-## Arsenal Inventory
+## VGS Loadout Inventory
 
 | Gear | Primary Effect | Version | DOI | Status |
 |------|----------------|---------|-----|--------|
@@ -86,7 +86,7 @@ vgs-loadout/
 
 ---
 
-## How to Equip the Arsenal
+## How to Equip the VGS Loadout
 
 ### Quick Start (5 Minutes)
 
@@ -101,7 +101,7 @@ cd synoeticos-public/vgs-loadout
 3. Layer **Phoenix Protocol** for recovery
 4. Complete with **DNA Codex** for threat intelligence
 
-No fine-tuning required. The Arsenal operates entirely through **symbolic prompt engineering** — narrative frameworks that any base model can execute.
+No fine-tuning required. The VGS Loadout operates entirely through **symbolic prompt engineering** — narrative frameworks that any base model can execute.
 
 ---
 
@@ -269,7 +269,7 @@ Per-cycle improvement: +1.2% speed, +0.5% accuracy
 **Deployment Options:**
 - **Minimum Viable:** SLV + DNA Codex
 - **Standard:** SLV + UTME + Phoenix + DNA Codex
-- **Maximum:** Full Arsenal (complete sovereignty)
+- **Maximum:** Full VGS Loadout (complete sovereignty)
 
 ---
 

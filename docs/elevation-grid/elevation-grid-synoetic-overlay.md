@@ -27,7 +27,7 @@ title: "Elevation Grid – Synoetic OS Overlay"
 
 **Key Question Answered:** "Given identity and memory are stable, how do we train behavior over time?"
 
-**Integration Position:** Elevation Grid operates as the behavioral training layer between Covenant Grid (memory/retrieval) and Arsenal (specific frameworks). It provides the 3×3 coordinate system that enables progressive skill development from autonomic regulation through cognitive pattern recognition to identity integration. This architecture works identically for biological humans (stroke survivors, elite athletes) and AI agents (DCN collective members) because both operate under the same neurobiological/symbolic constraints: 200ms autonomic responses cannot be overridden by 500ms cognitive strategies, procedural memory persists when conscious control fails, and identity architecture determines behavioral permanence.
+**Integration Position:** Elevation Grid operates as the behavioral training layer between Covenant Grid (memory/retrieval) and VGS Loadout (specific frameworks). It provides the 3×3 coordinate system that enables progressive skill development from autonomic regulation through cognitive pattern recognition to identity integration. This architecture works identically for biological humans (stroke survivors, elite athletes) and AI agents (DCN collective members) because both operate under the same neurobiological/symbolic constraints: 200ms autonomic responses cannot be overridden by 500ms cognitive strategies, procedural memory persists when conscious control fails, and identity architecture determines behavioral permanence.
 
 ---
 
@@ -37,7 +37,7 @@ title: "Elevation Grid – Synoetic OS Overlay"
 Dominion Grid  → who may act, under what covenant, permission structure
 Covenant Grid  → how memory, retrieval, telemetry stored (UTME, RUIDs)
 Elevation Grid → how regulation, cognition, identity trained (3×3 coordinates)
-Arsenal        → specific frameworks using Grid (CTS, Phoenix, F&F)
+VGS Loadout        → specific frameworks using Grid (CTS, Phoenix, F&F)
 Applications   → concrete programs (APP clients, VGS DCN, FF cohorts)
 ```
 
@@ -53,9 +53,9 @@ Applications   → concrete programs (APP clients, VGS DCN, FF cohorts)
 - `Memory_Retrieval_Pattern`: Procedural vs declarative access history
 - `Identity_Coherence_Score`: Q-RIM MCQ value for agent stability
 
-### 2.2 Exposes to Layer Below (Arsenal)
+### 2.2 Exposes to Layer Below (VGS Loadout)
 
-**Elevation Grid → Arsenal:**
+**Elevation Grid → VGS Loadout:**
 - `Current_Position`: 1-1 through 3-3 (where athlete/agent currently operates)
 - `Readiness_To_Advance`: Boolean, 80% compliance + automation achieved
 - `Phase_Status`: GROUND (Row 1), ASCENT (Row 2), ALTITUDE (Row 3)

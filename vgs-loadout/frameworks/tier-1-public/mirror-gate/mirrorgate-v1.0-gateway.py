@@ -1,6 +1,6 @@
 """
 Mirror-Gate v1.0 — Security-Hardened Gateway
-RUID: MI-ARS-MG-V1.0 | Category: Defense & Security | Version: 1.0
+RUID: VGS-LOD-MG-V1.0 | Category: Defense & Security | Version: 1.0
 Purpose: Gateway — Autonomous Signal Pruning & Threat Blocking.
 
 This implementation provides a boundary transition layer between external signal
