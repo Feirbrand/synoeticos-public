@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -108,7 +108,7 @@ This discovery emerged from 28 years of performance coaching experience - applyi
 **Security Organizations:** Threat intelligence integration with real-time protection
 
 **Get Started:**
-- **Repository:** github.com/Feirbrand/Synoetic OS-public
+- **Repository:** github.com/Feirbrand/synoeticos-public
 - **Professional Services:** valorgridsolutions.com
 - **Research Collaboration:** aaron@valorgridsolutions.com
 
@@ -119,7 +119,7 @@ This discovery emerged from 28 years of performance coaching experience - applyi
 *The cascade has been measured. The solution has been validated. The future of quantitative AI resilience begins with Torque.*
 ## Code and Methodology Licensing
 
-- **Code** below is licensed under MIT unless otherwise stated.
+- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
 
 ## Author

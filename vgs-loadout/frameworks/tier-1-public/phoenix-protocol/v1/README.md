@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -94,14 +94,14 @@ Implementation support available through **ValorGrid Solutions**:
 
 **Website**: [valorgridsolutions.com](https://valorgridsolutions.com)
 **Contact**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
-**GitHub**: [@Feirbrand/Synoetic OS-public](https://github.com/Feirbrand/Synoetic OS-public)
+**GitHub**: [@Feirbrand/synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
 
 ---
 
 *Phoenix Protocol v1 - Architectural Transition Framework | Professional Distribution*
 ## Code and Methodology Licensing
 
-- **Code** below is licensed under MIT unless otherwise stated.
+- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
 
 ## Author

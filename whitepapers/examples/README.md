@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -13,7 +13,7 @@ Priority Date: 2025-10-15
 
 **Sample Implementations & Research Previews**
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Synoetic OS](https://img.shields.io/badge/Synoetic OS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Examples](https://img.shields.io/badge/Type-Sample%20Code-green)](https://github.com/Feirbrand/Synoetic OS-public)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Synoetic OS](https://img.shields.io/badge/Synoetic OS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Examples](https://img.shields.io/badge/Type-Sample%20Code-green)](https://github.com/Feirbrand/synoeticos-public)
 
 ## Division Overview
 

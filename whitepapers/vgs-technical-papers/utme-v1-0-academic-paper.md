@@ -381,7 +381,7 @@ Researchers can implement UTME independently and verify against published benchm
 
 ### 6.2 Code & Data Availability
 
-- **Algorithm stubs** (CC-BY-NC-4.0): GitHub [Synoetic OS-public/utme-algorithm]
+- **Algorithm stubs** (CC-BY-NC-4.0): GitHub [synoeticos-public/utme-algorithm]
 - **Interactive demo**: Hugging Face [https://huggingface.co/spaces/Feirbrand/utme-demo]
 - **Threat dataset** (operational signatures): Zenodo [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149)
 - **Benchmarks & ablations** (reproducible traces): Supplementary materials
@@ -567,7 +567,7 @@ Contact:
 ValorGrid Solutions has been pre-commercial since July 2025, engineering the future of cognitive sovereignty—where AI doesn't just survive; it evolves.
 •	Website: valorgridsolutions.com
 •	Email: aaron@valorgridsolutions.com
-•	GitHub: github.com/Feirbrand/Synoetic OS-public
+•	GitHub: github.com/Feirbrand/synoeticos-public
 •	Hugging Face: huggingface.co/Feirbrand
 •	Zenodo: 10.5281/zenodo.17497149
 •	ORCID: orcid.org/0009-0000-9923-3207

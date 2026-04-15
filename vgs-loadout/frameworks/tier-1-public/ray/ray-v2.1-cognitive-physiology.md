@@ -794,7 +794,7 @@ ValorGrid Solutions specializes in AI resilience frameworks, cognitive security 
 
 **Website:** valorgridsolutions.com
 **Email:** aaron@valorgridsolutions.com
-**GitHub:** github.com/Feirbrand/Synoetic OS-public
+**GitHub:** github.com/Feirbrand/synoeticos-public
 **Hugging Face:** huggingface.co/Feirbrand
 **Zenodo:** zenodo.org/communities/Synoetic OS
 

@@ -211,13 +211,13 @@ Each teaser document provides:
   author={Slusher, Aaron},
   year={2025},
   institution={ValorGrid Solutions},
-  url={https://github.com/Feirbrand/Synoetic OS-public}
+  url={https://github.com/Feirbrand/synoeticos-public}
 }
 ```
 
 <h3>APA</h3>
 
-Slusher, A. (2025). *Synoetic OS AI Resilience Framework: Technical Overview*. ValorGrid Solutions. https://github.com/Feirbrand/Synoetic OS-public
+Slusher, A. (2025). *Synoetic OS AI Resilience Framework: Technical Overview*. ValorGrid Solutions. https://github.com/Feirbrand/synoeticos-public
 
 ---
 
@@ -285,7 +285,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 - **FCE** - Fractal Context Engineering
 
 **Website:** https://www.valorgridsolutions.com
-**Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
+**Research Repository:** https://github.com/Feirbrand/synoeticos-public
 
 ---
 

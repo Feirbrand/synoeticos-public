@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -208,7 +208,7 @@ For enterprise CSFC assessment and implementation:
 - **Ongoing Support**: Continuous monitoring and optimization services
 
 **Contact**: aaron@valorgridsolutions.com
-**Repository**: [Synoetic OS Public](https://github.com/Feirbrand/Synoetic OS-public)
+**Repository**: [Synoetic OS Public](https://github.com/Feirbrand/synoeticos-public)
 
 ---
 
@@ -228,7 +228,7 @@ For enterprise CSFC assessment and implementation:
 *The CSFC framework represents the culmination of extensive research into AI system resilience architecture. All metrics are based on empirical analysis of production systems and controlled testing environments. Professional implementation support available through ValorGrid Solutions.*
 ## Code and Methodology Licensing
 
-- **Code** below is licensed under MIT unless otherwise stated.
+- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
 
 ## Author

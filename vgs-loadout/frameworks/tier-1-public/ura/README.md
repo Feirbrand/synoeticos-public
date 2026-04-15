@@ -114,7 +114,7 @@ Operational Validation:
 
 ## License
 
-MIT License (implementation code)
+CC BY-NC 4.0 + Enterprise License
 CC BY-NC 4.0 (framework architecture)
 
 Enterprise licensing: aaron@valorgridsolutions.com

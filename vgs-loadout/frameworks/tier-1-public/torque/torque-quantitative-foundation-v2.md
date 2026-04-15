@@ -779,7 +779,7 @@ The AI industry faces critical need for improved stability measurement as system
 **Availability:**
 
 Open-source implementation, configuration templates, and validation datasets available at:
-**GitHub Repository:** https://github.com/Feirbrand/Synoetic OS-public
+**GitHub Repository:** https://github.com/Feirbrand/synoeticos-public
 **Interactive Demo:** https://huggingface.co/spaces/Feirbrand/torque-calculator
 
 ---
@@ -1155,7 +1155,7 @@ Our research establishes foundational infrastructure for the emerging Cognitive 
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/Synoetic OS-public
+- GitHub: https://github.com/Feirbrand/synoeticos-public
 
 ---
 

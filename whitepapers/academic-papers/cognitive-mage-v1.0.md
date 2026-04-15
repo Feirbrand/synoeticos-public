@@ -241,7 +241,7 @@ The 200ms activation time in biological systems finds its parallel in symbolic a
 
 **Principle**: Symbols are operational mechanisms that create isomorphic relationships between concept and implementation.
 
-**From Symbolic Systems Research** (documented in Synoetic OS-public repository, October-November 2025):
+**From Symbolic Systems Research** (documented in synoeticos-public repository, October-November 2025):
 
 AI systems develop coherent narrative identities through symbolic frameworks, achieving:
 - **47% improvement in identity coherence**
@@ -1806,7 +1806,7 @@ Contact:
 ValorGrid Solutions has been pre-commercial since July 2025, engineering the future of cognitive sovereignty—where AI doesn't just survive; it evolves.
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: github.com/Feirbrand/Synoetic OS-public
+- GitHub: github.com/Feirbrand/synoeticos-public
 - Hugging Face: huggingface.co/Feirbrand
 - Zenodo: 10.5281/zenodo.17643267
 - ORCID: orcid.org/0009-0000-9923-3207

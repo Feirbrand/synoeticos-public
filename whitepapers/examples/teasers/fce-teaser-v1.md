@@ -347,7 +347,7 @@ He is the founder of ValorGrid Solutions, focusing on AI resilience frameworks a
 ValorGrid Solutions pioneers AI resilience architecture through unified context engineering methodology. Founded on 28 years of performance optimization research spanning human physiology and cognitive engineering, VGS develops frameworks that enable AI systems to maintain semantic integrity across dramatically compressed contexts. Our approach treats context management as engineered infrastructure—enabling organizations to deploy unified processing architectures that bridge incompatible AI systems through intelligent compression and pattern replication.
 
 **Website:** https://www.valorgridsolutions.com
-**Research Repository:** https://github.com/Feirbrand/Synoetic OS-public
+**Research Repository:** https://github.com/Feirbrand/synoeticos-public
 
 ---
 

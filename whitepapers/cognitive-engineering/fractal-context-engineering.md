@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -238,7 +238,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/Synoetic OS-public
+- GitHub: https://github.com/Feirbrand/synoeticos-public
 
 ---
 
@@ -252,5 +252,5 @@ Total Length: Complete Production Implementation Guide
 **2025 © ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.**
 ## Code and Methodology Licensing
 
-- **Code** below is licensed under MIT unless otherwise stated.
+- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
