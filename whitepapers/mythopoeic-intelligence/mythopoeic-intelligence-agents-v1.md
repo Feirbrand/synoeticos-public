@@ -555,7 +555,7 @@ A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture 
 │                           ↓                                          │
 │  ┌──────────────────────────────────────────────────────────────┐   │
 │  │ VGS Loadout Framework Orchestrator                            │   │
-│  │ (77+ Symbolic Frameworks)                                    │   │
+│  │ (77+ Symbolic Frameworks - 50+ in public loadout)                                    │   │
 │  │                                                               │   │
 │  │ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐           │   │
 │  │ │   UTME       │ │   Phoenix    │ │   DNA        │ ...       │   │

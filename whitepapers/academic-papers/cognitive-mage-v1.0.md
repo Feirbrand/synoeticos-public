@@ -1485,7 +1485,7 @@ Coaching voice operates at intersection of five theoretical frameworks, creating
 
 **Trauma Integration** (Van der Kolk, 2014): Pain forces integration creating antifragility exceeding baseline, strengthening MI resilience.
 
-**VGS Loadout Integration**: 77 operational frameworks (50 core + 27 components) provide specialized symbolic patterns for cross-domain application, all documented and production-ready.
+**VGS Loadout Integration**: 50+ operational frameworks (from 77+ total) provide specialized symbolic patterns for cross-domain application, all documented and production-ready.
 
 ---
 

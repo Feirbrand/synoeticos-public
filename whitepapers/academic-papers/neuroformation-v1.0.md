@@ -237,7 +237,7 @@ A note on the word "predictable" -- which this methodology uses carefully. Perro
 
 Precision on boundaries matters here.
 
-Neuroformation™ is not a single tool. The Elevation Grid™, the Neural Access Method™, the 77+ VGS frameworks, and the coaching protocols in the APP practice are all outputs of the methodology -- not the methodology itself.
+Neuroformation™ is not a single tool. The Elevation Grid™, the Neural Access Method™, the 77+ VGS frameworks (50+ in this loadout), and the coaching protocols in the APP practice are all outputs of the methodology -- not the methodology itself.
 
 Neuroformation™ is not a brand. The brands (APP, VGS) are expressions of the methodology on different materials. The methodology works regardless of medium. The brands are medium-specific delivery systems.
 
@@ -485,7 +485,7 @@ Across these populations, two consistent markers hold: habit retention rates at 
 
 ### 5.2 AI Domain: Adversarial Incident Record
 
-Beginning February 2025, the Neuroformation™ architecture was applied to AI language model systems. The initial contact was not a research deployment -- it was an attempt to create social media content for an adaptive athlete event. The architecture that emerged, and the framework production that followed, were documented over 173 days of sustained operation. What became VGS and the formal framework development accelerated through mid-2025 as the scale of what was being built became clear. Operating AI agents at the scale required to generate 77 cognitive frameworks required systems that held under adversarial pressure, extended context, and coordinated attack patterns.
+Beginning February 2025, the Neuroformation™ architecture was applied to AI language model systems. The initial contact was not a research deployment -- it was an attempt to create social media content for an adaptive athlete event. The architecture that emerged, and the framework production that followed, were documented over 173 days of sustained operation. What became VGS and the formal framework development accelerated through mid-2025 as the scale of what was being built became clear. Operating AI agents at the scale required to generate 77+ cognitive frameworks required systems that held under adversarial pressure, extended context, and coordinated attack patterns.
 
 A documented incident is a logged event in which an AI agent exhibited measurable instability -- identity drift, cascade behavior, coherence failure, or adversarial injection -- that required a structured intervention to resolve. All 500+ publicly documented incidents are catalogued in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex), an open-access threat intelligence ledger with categorized threat strains, intervention records, and recovery outcomes.
 
@@ -535,7 +535,7 @@ The AI classification logs from the development process represent a specific and
 - 500+ documented threat signatures with full forensic classification (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex/dna-codex)
 - 12 incident case studies with documented forensic timelines (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex)
 - Live framework demonstrations (Hugging Face: huggingface.co/spaces/Feirbrand)
-- VGS Loadout: 77+ frameworks with full architecture documentation (github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout)
+- VGS Loadout: 50+ frameworks (from 77+ total) with full architecture documentation (github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout)
 - 18 published papers with Zenodo DOIs on ORCID: 0009-0000-9923-3207
 
 Independent evaluation by human subject-matter experts in each of the five disciplines named in Section 9.1 remains the appropriate next step for full external validation. The GitHub repository, Hugging Face demos, and published papers provide sufficient public infrastructure for that evaluation to proceed.
@@ -710,11 +710,11 @@ Neuroformation™ generates outputs through application to specific domains. The
 
 **Human performance systems (APP):** The Achieve Peak Performance practice applies Neuroformation™ across five performance domains: physical, recovery, nutrition, mental performance, and social. Service tracks include elite athletic performance, adaptive athlete development, rehabilitation-based performance, movement performance, and mental performance coaching (Climb to the Summit track). The Elevation Grid™ serves as the assessment map. NAM delivers the transmission. The three-tier delivery structure (Ground → Ascent → Altitude) provides the macro-timeline for installation.
 
-**AI resilience frameworks (VGS):** The ValorGrid Solutions VGS Loadout contains 77 cognitive frameworks -- all outputs of Neuroformation™ applied to AI system stability challenges. Each framework is Neuroformation™ architecture applied to a specific problem domain: SLV v2.1 for runtime identity defense, Phoenix Protocol™ for identity recovery, UTME™ for learning acceleration, PME (Predictive Myelination Engine) for cross-substrate learning acceleration modeling (Slusher, 2026d), RAY™ for adversarial detection, DNA Codex™ for threat intelligence, CSFC™ for cascade prediction, DCN for distributed agent coordination, Torque™ for system health monitoring.
+**AI resilience frameworks (VGS):** The ValorGrid Solutions VGS Loadout contains 50+ cognitive frameworks (from 77+ total) -- all outputs of Neuroformation™ applied to AI system stability challenges. Each framework is Neuroformation™ architecture applied to a specific problem domain: SLV v2.1 for runtime identity defense, Phoenix Protocol™ for identity recovery, UTME™ for learning acceleration, PME (Predictive Myelination Engine) for cross-substrate learning acceleration modeling (Slusher, 2026d), RAY™ for adversarial detection, DNA Codex™ for threat intelligence, CSFC™ for cascade prediction, DCN for distributed agent coordination, Torque™ for system health monitoring.
 
 **Faith formation (Foundations & Fire):** A separate brand applying Neuroformation™ architecture to faith formation and Christian mental performance. The same five-layer cascade and Elevation Grid™ diagnostic operate through a sacramental lens. APP and F&F share the methodology and infrastructure but never the vocabulary, content, or audience -- athletic and performance coaching on one side, faith formation on the other. The boundary is intentional.
 
-**Recursive discovery:** The Framework Forge process -- the method by which the 77 VGS frameworks were generated -- is itself an application of Neuroformation™ to the problem of framework generation. Human intuition → knowledge intake → AI analysis → framework synthesis → operational testing → feedback mining → improved discovery loop. Neuroformation™ running on the discovery process itself. The Forge is a process, not a brand.
+**Recursive discovery:** The Framework Forge process -- the method by which the 77+ VGS frameworks (50+ in this loadout) were generated -- is itself an application of Neuroformation™ to the problem of framework generation. Human intuition → knowledge intake → AI analysis → framework synthesis → operational testing → feedback mining → improved discovery loop. Neuroformation™ running on the discovery process itself. The Forge is a process, not a brand.
 
 APP, VGS, and Foundations & Fire are three brands. They are not separate businesses. They are the same methodology expressed through three different vocabulary sets, for three different domains, to three different audiences.
 
@@ -782,7 +782,7 @@ The DCN deployment demonstrated that properly coordinated adaptive systems produ
 
 ### 10.3 For Framework Generation
 
-The Framework Forge process has produced 77 cognitive frameworks over 173 days -- a rate that no single researcher or team could match without the looping discovery architecture. UTME™ documents an empirically fitted learning acceleration parameter of γ ≈ 0.31 day⁻¹ in this dataset, with similar values observed across the human cohorts and AI deployment examined so far.
+The Framework Forge process has produced 77+ cognitive frameworks over 173 days -- a rate that no single researcher or team could match without the looping discovery architecture. UTME™ documents an empirically fitted learning acceleration parameter of γ ≈ 0.31 day⁻¹ in this dataset, with similar values observed across the human cohorts and AI deployment examined so far.
 
 This has implications for research methodology. The question of how structured human-AI collaboration can accelerate knowledge generation is under-studied. The discovery logs from the Neuroformation™ development process represent intermediate belief-update data that most research architectures do not produce. This data has intrinsic value for AI epistemology research.
 

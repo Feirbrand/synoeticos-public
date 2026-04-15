@@ -20,7 +20,7 @@ ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) 
 ## 📊 At a Glance
 
 This repository contains the complete public version of Synoetic OS™:
-- **VGS Loadout™** - 77+ Frameworks. The kit for the war against the gremlins.
+- **VGS Loadout™** - 50+ Frameworks (subset of 77+ total). The kit for the war against the gremlins.
 - **18 Research Papers** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures

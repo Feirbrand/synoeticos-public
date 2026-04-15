@@ -18,7 +18,7 @@
 
 ## UCA v3.1 — Socratic Grounding Engine
 
-**First production release.** Orchestration layer for 77+ frameworks. Prevents CSFC Stage 1-2 cascades using Socratic grounding with 5-element ACMVE posture.
+**First production release.** Orchestration layer for 50+ frameworks (77+ total developed). Prevents CSFC Stage 1-2 cascades using Socratic grounding with 5-element ACMVE posture.
 
 ### ACMVE Posture Framework
 
