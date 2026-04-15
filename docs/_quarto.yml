@@ -32,8 +32,8 @@ website:
             text: MI Agents v1.0
       - text: Resources
         menu:
-          - text: MI Arsenal
-            href: https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal
+          - text: VGS Loadout
+            href: https://github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout
           - text: Public Repo
             href: https://github.com/Feirbrand/synoeticos-public
 

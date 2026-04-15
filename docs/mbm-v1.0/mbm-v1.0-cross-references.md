@@ -1,6 +1,6 @@
 ---
 title: "MBM v1.0: Framework Integration Map"
-description: "Cross-references across the MI Arsenal ecosystem"
+description: "Cross-references across the VGS Loadout ecosystem"
 author: "Aaron M. Slusher"
 date: "2026-02-17"
 ---

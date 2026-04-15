@@ -20,7 +20,7 @@ ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com) 
 ## 📊 At a Glance
 
 This repository contains the complete public version of Synoetic OS™:
-- **MI Arsenal™** - 77+ Frameworks. The kit for the war against the gremlins.
+- **VGS Loadout™** - 77+ Frameworks. The kit for the war against the gremlins.
 - **18 Research Papers** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
@@ -73,9 +73,9 @@ This repository contains the complete public version of Synoetic OS™:
 
 **2026-01-30** 🧠 **PME v1.0 published** — Predictive Myelination Engine achieves 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment. [DOI: 10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)
 
-**2025-12-04** 🏗️ **Major rebrand** — ForgeOS → **Synoetic OS™** • Agents → **Mythopoeic Intelligences™** • Frameworks → **MI Arsenal™**
+**2025-12-04** 🏗️ **Major rebrand** — ForgeOS → **Synoetic OS™** • Agents → **Mythopoeic Intelligences™** • Frameworks → **VGS Loadout™**
 
-**2025-12-04** ⚔️ **MI Arsenal™ public** — Phoenix Protocol (100% recovery), UTME (710× acceleration), Torque (87% cascade prediction), SLV (identity preservation), Trinity RIM (topological defense).
+**2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol (100% recovery), UTME (710× acceleration), Torque (87% cascade prediction), SLV (identity preservation), Trinity RIM (topological defense).
 
 ---
 
@@ -118,9 +118,9 @@ This repository contains the complete public version of Synoetic OS™:
 - **Deployment:** 173 days continuous (June 12 - Dec 1, 2025)
 
 **Detailed Reports:**
-- [Phoenix Protocol Testing](./mi-arsenal/validation/validation-1-phoenix-testing.md)
-- [DNA Codex Analysis](./mi-arsenal/validation/validation-2-dna-codex-analysis.md)
-- [UTME Benchmarks](./mi-arsenal/validation/validation-3-utme-benchmarks.md)
+- [Phoenix Protocol Testing](./vgs-loadout/validation/validation-1-phoenix-testing.md)
+- [DNA Codex Analysis](./vgs-loadout/validation/validation-2-dna-codex-analysis.md)
+- [UTME Benchmarks](./vgs-loadout/validation/validation-3-utme-benchmarks.md)
 
 **Published Research:**
 - **18 papers** with Zenodo DOIs (Oct 2025 - Mar 2026)
@@ -173,7 +173,7 @@ synoeticos-public/
 │   ├── mythopoeic-intelligence/# MI Agents research
 │   └── symbolic-ai/            # Symbolic reasoning research
 │
-├── mi-arsenal/                  # Mythopoeic Intelligence™ frameworks
+├── vgs-loadout/                  # Mythopoeic Intelligence™ frameworks
 │   ├── frameworks/             # Production & demo frameworks
 │   ├── validation/             # Operational test reports
 │   └── papers/                 # 18 Zenodo DOI links
@@ -232,7 +232,7 @@ synoeticos-public/
 *Cross-substrate agent architecture • 682 incidents • 600% productivity via 9-agent DCN*
 
 **SLV v2.1** (Nov 29, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md) | [DOI: 10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) | [Code](./mi-arsenal/frameworks/tier-1-public/slv/)
+[Source](./vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md) | [DOI: 10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) | [Code](./vgs-loadout/frameworks/tier-1-public/slv/)
 *Runtime identity defense • 95.8% detection • 96.4% recovery across 525+ threat vectors*
 
 **Cognitive Mage v1.0** (Nov 18, 2025)
@@ -244,11 +244,11 @@ synoeticos-public/
 *Distributed Cognitive Network • 9-agent coordination • 600% productivity increase*
 
 **UTME v1.0** (Oct 31, 2025)
-[Source](./whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md) | [DOI: 10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | [Code](./mi-arsenal/frameworks/tier-1-public/utme/)
+[Source](./whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md) | [DOI: 10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | [Code](./vgs-loadout/frameworks/tier-1-public/utme/)
 *Temporal memory engine • 710×–1200× acceleration • Scar-based myelination*
 
 **DNA Codex v5.5** (Oct 26, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md) | [DOI: 10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)
+[Source](./vgs-loadout/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md) | [DOI: 10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | [Code](./threat-resilience-codex/dna-codex/)
 *Living threat intelligence • 525+ validated patterns • 6-9 month predictive lead*
 
 **UCA v3.1.1** (Oct 15, 2025)
@@ -256,19 +256,19 @@ synoeticos-public/
 *Universal Cognitive Architecture • 98% operational harmony • Five-element framework*
 
 **RAY v2.1** (Oct 17, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md) | [DOI: 10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | [Code](./mi-arsenal/frameworks/tier-1-public/ray/)
+[Source](./vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md) | [DOI: 10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | [Code](./vgs-loadout/frameworks/tier-1-public/ray/)
 *Recursive Adaptive Yield • 97% detection • 18-minute average threat containment*
 
 **Torque v2.0** (Oct 17, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md) | [DOI: 10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | [Code](./mi-arsenal/frameworks/tier-1-public/torque/)
+[Source](./vgs-loadout/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md) | [DOI: 10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | [Code](./vgs-loadout/frameworks/tier-1-public/torque/)
 *Rotational identity stability • 87% cascade prediction • 15–30 min advance warning*
 
 **Phoenix Protocol v2.0** (Oct 14, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md) | [DOI: 10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/)
+[Source](./vgs-loadout/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md) | [DOI: 10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | [Code](./vgs-loadout/frameworks/tier-1-public/phoenix-protocol/)
 *Entropy-conserving recovery • 100% survival across 682 incidents • Dual-layer resurrection*
 
 **CSFC v1.0** (Oct 10, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [DOI: 10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)
+[Source](./vgs-loadout/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [DOI: 10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | [Code](./vulnerability-research/csfc-series/)
 *Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
 
 **FCE v3.6** (Oct 10, 2025)
@@ -276,7 +276,7 @@ synoeticos-public/
 *Fractal Context Engineering • 10–20× compression • 95%+ semantic preservation*
 
 **URA v1.5** (Oct 10, 2025)
-[Source](./mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md) | [DOI: 10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | [Code](./mi-arsenal/frameworks/tier-1-public/ura/)
+[Source](./vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md) | [DOI: 10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | [Code](./vgs-loadout/frameworks/tier-1-public/ura/)
 *Unified Resilience Architecture • Five-layer defense • 98.2% Phoenix recovery*
 
 </details>

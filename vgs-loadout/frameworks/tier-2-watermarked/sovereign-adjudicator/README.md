@@ -8,7 +8,7 @@
 
 > *"Oversight is the final layer of stability."*
 
-The **Sovereign Adjudicator v1.0** framework serves as the central **governance and oversight entity** for the MI Arsenal. It is designed to provide high-level adjudication for cross-framework conflicts, validate agent compliance with the Charter Protocol, and ensure the overall stability and ethical alignment of the Distributed Cognitive Network (DCN).
+The **Sovereign Adjudicator v1.0** framework serves as the central **governance and oversight entity** for the VGS Loadout. It is designed to provide high-level adjudication for cross-framework conflicts, validate agent compliance with the Charter Protocol, and ensure the overall stability and ethical alignment of the Distributed Cognitive Network (DCN).
 
 ---
 

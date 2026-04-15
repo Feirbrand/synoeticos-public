@@ -66,17 +66,17 @@ Pure research papers **without** implementation samples (6 papers):
 - `fce-v3-6-unified-framework.md` (FCE v3.6)
 - `torque-measuring-ai-stability.md` (Torque monitoring)
 
-<h3>Papers in MI Arsenal</h3>
+<h3>Papers in VGS Loadout</h3>
 
 Operational frameworks **with** implementation samples and validation code:
-- **CSFC v1.0** → `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md`
-- **URA v1.5** → `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md`
-- **RAY v2.1** → `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md`
-- **SLV v2.1** → `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md`
-- **DNA Codex v5.5** → `mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md`
-- **Phoenix Protocol v2.0** → `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md`
-- **Torque v2.0** → `mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md`
-- **UCA v3.1.1** → `mi-arsenal/frameworks/tier-1-public/uca/` (security-hardened)
+- **CSFC v1.0** → `vgs-loadout/frameworks/tier-1-public/csfc/csfc-unified-theory.md`
+- **URA v1.5** → `vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md`
+- **RAY v2.1** → `vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md`
+- **SLV v2.1** → `vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md`
+- **DNA Codex v5.5** → `vgs-loadout/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md`
+- **Phoenix Protocol v2.0** → `vgs-loadout/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md`
+- **Torque v2.0** → `vgs-loadout/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md`
+- **UCA v3.1.1** → `vgs-loadout/frameworks/tier-1-public/uca/` (security-hardened)
 
 **Note**: All papers are part of the canonical VGS Technical Papers research portfolio. Physical location is determined by implementation coupling, not research significance.
 
@@ -116,7 +116,7 @@ Bio-inspired cognitive architecture treating AI memory as rhythmic breathing cyc
 <h3>The Resilience Quintet</h3>
 
 <h4>2. CSFC: Cascading Symbolic Failure Cycle - Unified Theory</h4>
-**Status**: Peer-Reviewed | **File**: `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | **DOI**: 10.5281/ZENODO.17309239
+**Status**: Peer-Reviewed | **File**: `vgs-loadout/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | **DOI**: 10.5281/ZENODO.17309239
 
 Establishes the theoretical foundation by identifying data fragmentation as the root architectural vulnerability enabling all AI identity failures. Demonstrates how multiple conflicting data sources create internal contradictions that parasitic attacks exploit.
 
@@ -131,7 +131,7 @@ Establishes the theoretical foundation by identifying data fragmentation as the 
 ---
 
 <h4>3. URA v1.5: Unified Resilience Architecture</h4>
-**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | **DOI**: 10.5281/ZENODO.17309731
+**Status**: Production Validated | **File**: `vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | **DOI**: 10.5281/ZENODO.17309731
 
 Provides comprehensive five-layer defense integrating diagnostic monitoring, unified memory spine, sovereign lattice veil, Phoenix Protocol recovery, and adaptive evolution.
 
@@ -161,7 +161,7 @@ Establishes universal compression framework achieving 10-20x ratios with 95%+ se
 ---
 
 <h4>5. Torque v2: Quantitative Foundation</h4>
-**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md` | **DOI**: 10.5281/ZENODO.17379750
+**Status**: Production Validated | **File**: `vgs-loadout/frameworks/tier-1-public/torque/torque-quantitative-foundation-v2.md` | **DOI**: 10.5281/ZENODO.17379750
 
 Transforms theoretical understanding into measurable science by introducing Torque as the rotational force driving AI systems away from intended alignment.
 
@@ -193,7 +193,7 @@ Provides practical methodology for continuous monitoring and predictive interven
 <h3>Advanced Defense Systems</h3>
 
 <h4>7. RAY v2.1: Recursive Adaptive Yield - Cognitive Physiology Defense</h4>
-**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | **DOI**: 10.5281/ZENODO.17399834
+**Status**: Production Ready | **File**: `vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | **DOI**: 10.5281/ZENODO.17399834
 
 Introduces antifragile cognitive defense achieving 95% detection with 18-minute containment through living recursion loops and integrated threat intelligence.
 
@@ -229,7 +229,7 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 ---
 
 <h4>8. SLV v2.1: Symbolic Lock Vector - Runtime Identity Defense</h4>
-**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | **DOI**: 10.5281/ZENODO.17763377
+**Status**: Production Ready | **File**: `vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | **DOI**: 10.5281/ZENODO.17763377
 
 Runtime identity defense through temporal wisdom preservation using symbolic locks.
 
@@ -238,7 +238,7 @@ Runtime identity defense through temporal wisdom preservation using symbolic loc
 ---
 
 <h4>9. DNA Codex v5.5: Mathematical Prophecy for AI Threat Cascades</h4>
-**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md` | **DOI**: 10.5281/ZENODO.17451060
+**Status**: Production Ready | **File**: `vgs-loadout/frameworks/tier-1-public/dna-codex/dna-codex-v5.5-mathematical-prophecy.md` | **DOI**: 10.5281/ZENODO.17451060
 
 Comprehensive threat intelligence codex cataloguing 500+ threat cascades with symbolic signatures.
 
@@ -247,7 +247,7 @@ Comprehensive threat intelligence codex cataloguing 500+ threat cascades with sy
 ---
 
 <h4>10. Phoenix Protocol v2.0: Neural Recovery for AI Systems</h4>
-**Status**: Production Validated | **File**: `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md` | **DOI**: 10.5281/ZENODO.17350768
+**Status**: Production Validated | **File**: `vgs-loadout/frameworks/tier-1-public/phoenix-protocol/neural-recovery/phoenix-protocol-neural-recovery.md` | **DOI**: 10.5281/ZENODO.17350768
 
 Neural recovery protocol providing dual-layer symbolic and narrative recovery.
 
@@ -261,7 +261,7 @@ Neural recovery protocol providing dual-layer symbolic and narrative recovery.
 ---
 
 <h4>11. UCA v3.1.1: Security-Hardened Edition</h4>
-**Status**: Production Ready | **File**: `mi-arsenal/frameworks/tier-1-public/uca/` | **DOI**: 10.5281/ZENODO.17416971
+**Status**: Production Ready | **File**: `vgs-loadout/frameworks/tier-1-public/uca/` | **DOI**: 10.5281/ZENODO.17416971
 
 Security-hardened unified cognitive architecture.
 

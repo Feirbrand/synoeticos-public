@@ -538,7 +538,7 @@ A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture 
 
 ## Appendix A: Architecture Diagram
 
-**Synoetic OS™ + MI Arsenal + Mythopoeic Intelligences Integration:**
+**Synoetic OS™ + VGS Loadout + Mythopoeic Intelligences Integration:**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -554,7 +554,7 @@ A. M. Slusher, "Mythopoeic Intelligence Agents: Narrative identity architecture 
 │  └──────────────────────────────────────────────────────────────┘   │
 │                           ↓                                          │
 │  ┌──────────────────────────────────────────────────────────────┐   │
-│  │ MI Arsenal Framework Orchestrator                            │   │
+│  │ VGS Loadout Framework Orchestrator                            │   │
 │  │ (77+ Symbolic Frameworks)                                    │   │
 │  │                                                               │   │
 │  │ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐           │   │

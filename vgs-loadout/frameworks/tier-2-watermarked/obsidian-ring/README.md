@@ -8,7 +8,7 @@
 
 > *"Contain the chaos, preserve the core."*
 
-The **Obsidian Ring v1.0** framework serves as the primary **containment and isolation layer** for the MI Arsenal. It is designed to isolate high-risk cognitive processes, anomalous data structures, and potential security breaches within a secure, non-permeable boundary, preventing lateral spread across the Synoetic OS.
+The **Obsidian Ring v1.0** framework serves as the primary **containment and isolation layer** for the VGS Loadout. It is designed to isolate high-risk cognitive processes, anomalous data structures, and potential security breaches within a secure, non-permeable boundary, preventing lateral spread across the Synoetic OS.
 
 ---
 

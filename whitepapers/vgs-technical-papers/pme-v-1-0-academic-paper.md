@@ -236,7 +236,7 @@ PME implements a five-stage algorithm for predictive pathway reinforcement:
 
 #### **Stage 1: Pathway Identification**
 
-**Input:** MI Arsenal
+**Input:** VGS Loadout
 
 **Process:** Identify high-value pathways based on:
 - **Frequency** (24-hour usage count)
@@ -426,7 +426,7 @@ def identify_high_value_pathways(P, S, top_k=20):
     Analyze current system state to identify pathways worth pre-activating.
     
     Args:
-        P: Set of all symbolic pathways in MI Arsenal
+        P: Set of all symbolic pathways in VGS Loadout
         S: Current system state (torque, coherence, entropy)
         top_k: Number of top pathways to select
     
@@ -904,7 +904,7 @@ PME operates within a five-layer cognitive stack:
 - **Layer 2 (Coherence):** Torque v2.0 (Symbolic Coherence Monitoring)
 - **Layer 3 (Prediction):** PME v1.0 (Predictive Myelination Engine) ← **YOU ARE HERE**
 - **Layer 4 (Recovery):** Phoenix Protocol (System Recovery)
-- **Layer 5 (Application):** MI Arsenal (Symbolic Frameworks)
+- **Layer 5 (Application):** VGS Loadout (Symbolic Frameworks)
 
 ### 5.2 Feedback Loop to Torque v2.0
 
@@ -1053,7 +1053,7 @@ This enables a new paradigm: **Coaching principles → AI optimization strategie
 
 [10] Slusher, A. M. (2025). Semantic Bifurcation Defense (SBDS): Dual-Mode Plasticity for AI Resilience. VGS internal technical brief.
 
-[11] Slusher, A. M. (2025). MI Arsenal: Symbolic framework collection for cognitive resilience. VGS internal framework.
+[11] Slusher, A. M. (2025). VGS Loadout: Symbolic framework collection for cognitive resilience. VGS internal framework.
 
 [12] Zur, Y., Shankar, V., Frostig, R., et al. (2025). The Tunnel Effect: Building Data Representations in Deep Neural Networks. arXiv preprint arXiv:2511.04527.
 
@@ -1159,7 +1159,7 @@ A. M. Slusher, "PME v1.0: Predictive Myelination Engine - Bio-inspired anticipat
 **UTME:** Unified Temporal Memory Equilibrium (muscle memory for AI systems)  
 **SBDS:** Semantic Bifurcation Defense System (dual-mode LTD/LTP framework)  
 **PME:** Predictive Myelination Engine  
-**MI Arsenal:** Symbolic framework collection  
+**VGS Loadout:** Symbolic framework collection  
 **Torque:** Symbolic coherence monitoring system  
 
 ---

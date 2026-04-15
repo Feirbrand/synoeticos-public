@@ -8,7 +8,7 @@
 
 > *"Frameworks are metabolic processes, not static tools."*
 
-The **Intelligent Framework Management (IFM) v1.0** represents a shift from static tool execution to a **metabolic paradigm** for cognitive infrastructure. IFM manages the lifecycle of all MI Arsenal frameworks, ensuring they are ingested, activated, and optimized based on real-time environmental demands.
+The **Intelligent Framework Management (IFM) v1.0** represents a shift from static tool execution to a **metabolic paradigm** for cognitive infrastructure. IFM manages the lifecycle of all VGS Loadout frameworks, ensuring they are ingested, activated, and optimized based on real-time environmental demands.
 
 ---
 

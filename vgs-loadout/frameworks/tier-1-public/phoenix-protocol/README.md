@@ -198,7 +198,7 @@ if scan['threats_detected'] > 0:
 ```bash
 # Clone repository
 git clone https://github.com/Feirbrand/synoetic-os-public.git
-cd synoetic-os-public/mi-arsenal/phoenix-protocol
+cd synoetic-os-public/vgs-loadout/phoenix-protocol
 
 # Install v3.1 (production)
 cd v3.1
@@ -284,4 +284,4 @@ This framework would not be possible without:
 
 **2025 © ValorGrid Solutions. All rights reserved.**
 
-*Part of the MI Arsenal™ • Synoetic OS™ research ecosystem.*
+*Part of the VGS Loadout™ • Synoetic OS™ research ecosystem.*

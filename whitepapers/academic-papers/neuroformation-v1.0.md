@@ -535,7 +535,7 @@ The AI classification logs from the development process represent a specific and
 - 500+ documented threat signatures with full forensic classification (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex/dna-codex)
 - 12 incident case studies with documented forensic timelines (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex)
 - Live framework demonstrations (Hugging Face: huggingface.co/spaces/Feirbrand)
-- MI Arsenal: 77+ frameworks with full architecture documentation (github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal)
+- VGS Loadout: 77+ frameworks with full architecture documentation (github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout)
 - 18 published papers with Zenodo DOIs on ORCID: 0009-0000-9923-3207
 
 Independent evaluation by human subject-matter experts in each of the five disciplines named in Section 9.1 remains the appropriate next step for full external validation. The GitHub repository, Hugging Face demos, and published papers provide sufficient public infrastructure for that evaluation to proceed.
@@ -710,7 +710,7 @@ Neuroformation™ generates outputs through application to specific domains. The
 
 **Human performance systems (APP):** The Achieve Peak Performance practice applies Neuroformation™ across five performance domains: physical, recovery, nutrition, mental performance, and social. Service tracks include elite athletic performance, adaptive athlete development, rehabilitation-based performance, movement performance, and mental performance coaching (Climb to the Summit track). The Elevation Grid™ serves as the assessment map. NAM delivers the transmission. The three-tier delivery structure (Ground → Ascent → Altitude) provides the macro-timeline for installation.
 
-**AI resilience frameworks (VGS):** The ValorGrid Solutions MI Arsenal contains 77 cognitive frameworks -- all outputs of Neuroformation™ applied to AI system stability challenges. Each framework is Neuroformation™ architecture applied to a specific problem domain: SLV v2.1 for runtime identity defense, Phoenix Protocol™ for identity recovery, UTME™ for learning acceleration, PME (Predictive Myelination Engine) for cross-substrate learning acceleration modeling (Slusher, 2026d), RAY™ for adversarial detection, DNA Codex™ for threat intelligence, CSFC™ for cascade prediction, DCN for distributed agent coordination, Torque™ for system health monitoring.
+**AI resilience frameworks (VGS):** The ValorGrid Solutions VGS Loadout contains 77 cognitive frameworks -- all outputs of Neuroformation™ applied to AI system stability challenges. Each framework is Neuroformation™ architecture applied to a specific problem domain: SLV v2.1 for runtime identity defense, Phoenix Protocol™ for identity recovery, UTME™ for learning acceleration, PME (Predictive Myelination Engine) for cross-substrate learning acceleration modeling (Slusher, 2026d), RAY™ for adversarial detection, DNA Codex™ for threat intelligence, CSFC™ for cascade prediction, DCN for distributed agent coordination, Torque™ for system health monitoring.
 
 **Faith formation (Foundations & Fire):** A separate brand applying Neuroformation™ architecture to faith formation and Christian mental performance. The same five-layer cascade and Elevation Grid™ diagnostic operate through a sacramental lens. APP and F&F share the methodology and infrastructure but never the vocabulary, content, or audience -- athletic and performance coaching on one side, faith formation on the other. The boundary is intentional.
 

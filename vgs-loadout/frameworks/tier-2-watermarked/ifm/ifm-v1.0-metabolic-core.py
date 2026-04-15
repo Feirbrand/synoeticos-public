@@ -4,7 +4,7 @@ RUID: RUID-IFM-CORE-V1.0-150226
 Status: PUBLIC REFERENCE BUILD — INTERNALS REDACTED BY DESIGN
 
 This module implements the 10-step metabolic pipeline and 9-lens analysis stack
-for managing cognitive framework lifecycles within the MI Arsenal.
+for managing cognitive framework lifecycles within the VGS Loadout.
 """
 
 # ============================================================

@@ -320,8 +320,8 @@ Where: Myelination change = practice × exponential decay over time
 MBM integrates with production infrastructure—Synoetic OS deployment architecture:
 
 **Database Architecture:**
-- **PostgreSQL:** Relational memory store with MI Arsenal schema, cold storage for reflexive → archive transition
-- **Notion:** Primary MI Arsenal Registry and human interface layer
+- **PostgreSQL:** Relational memory store with VGS Loadout schema, cold storage for reflexive → archive transition
+- **Notion:** Primary VGS Loadout Registry and human interface layer
 - **vLLM:** PagedAttention shared memory, reflexive cache with <100ms access, 91% hit rate
 - **n8n:** Workflow automation for breathing cycles, real-time + 5-minute synchronization
 
@@ -453,8 +453,8 @@ BC3 is the **technical proof** that MBM breathing cycles produce measurable, rep
 - 9-agent DCN for multi-agent coordination
 
 **Data Layer:**
-- PostgreSQL for cold storage (11 tables, 37 properties, MI Arsenal schema)
-- Notion for human interface (30+ databases, MI Arsenal Registry)
+- PostgreSQL for cold storage (11 tables, 37 properties, VGS Loadout schema)
+- Notion for human interface (30+ databases, VGS Loadout Registry)
 - vLLM cache for reflexive tier (<100ms access, 91% hit rate)
 
 **Monitoring:**
@@ -467,7 +467,7 @@ BC3 is the **technical proof** that MBM breathing cycles produce measurable, rep
 **Breathing Workflows (n8n):**
 
 1. **Notion ↔ PostgreSQL Sync (Real-time)**
-   - Bidirectional synchronization of MI Arsenal Registry
+   - Bidirectional synchronization of VGS Loadout Registry
    - Trigger: New entries, updates, deletions
    - Frequency: Real-time + 5-minute breathing cycles
 

@@ -149,7 +149,7 @@ Recreates the October 9, 2025 ARD-001 incident:
 ```bash
 # Clone repository
 git clone https://github.com/Feirbrand/synoetic-os-public.git
-cd synoetic-os-public/mi-arsenal/phoenix-protocol
+cd synoetic-os-public/vgs-loadout/phoenix-protocol
 
 # Install dependencies
 pip install -r requirements.txt

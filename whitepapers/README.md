@@ -61,7 +61,7 @@ whitepapers/                             # The official canon — only flagship 
 │   ├── neural-access-method-v1.0.md    # NAM™ — transmission protocol (forthcoming)
 │   └── synoetic-os-v1.0.md             # Synoetic OS™ — AI cognitive operating system
 │
-├── vgs-technical-papers/                # Technical papers (17 total: 7 local + 10 MI Arsenal)
+├── vgs-technical-papers/                # Technical papers (17 total: 7 local + 10 VGS Loadout)
 │   ├── complete-ai-resilience-meta-analysis.md
 │   ├── dcn-v1-0-academic.md
 │   ├── fce-v3-6-unified-framework.md
@@ -191,22 +191,22 @@ Real-world validation through gaming industry deployment scenarios. Demonstrates
 
 ---
 
-### Cross-Linked MI Arsenal Frameworks
+### Cross-Linked VGS Loadout Frameworks
 
 **Status:** Production-Validated with Implementation Resources
 
-The following frameworks are part of the Whitepapers Division research canon but their primary source files are in the MI Arsenal division alongside implementation assets. Whitepapers Division is the canonical index for citation; MI Arsenal hosts operational code.
+The following frameworks are part of the Whitepapers Division research canon but their primary source files are in the VGS Loadout division alongside implementation assets. Whitepapers Division is the canonical index for citation; VGS Loadout hosts operational code.
 
 | Framework | Location | DOI |
 |-----------|----------|-----|
-| CSFC v1.0 | `mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
-| URA v1.5 | `mi-arsenal/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) |
-| RAY v2.1 | `mi-arsenal/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
-| SLV v2.1 | `mi-arsenal/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
+| CSFC v1.0 | `vgs-loadout/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
+| URA v1.5 | `vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) |
+| RAY v2.1 | `vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
+| SLV v2.1 | `vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
 | DNA Codex v5.5 | `threat-resilience-codex/dna-codex/dna-codex-v5.5.md` | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) |
-| Phoenix Protocol v2.0 | `mi-arsenal/frameworks/tier-1-public/phoenix-protocol/phoenix-protocol-v2.0.md` | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
-| UTME v1.0 | `mi-arsenal/frameworks/tier-1-public/utme/utme-v1.0-academic.md` | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
-| Torque v2.0 | `mi-arsenal/frameworks/tier-1-public/torque/torque-v2.0-stability.md` | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) |
+| Phoenix Protocol v2.0 | `vgs-loadout/frameworks/tier-1-public/phoenix-protocol/phoenix-protocol-v2.0.md` | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
+| UTME v1.0 | `vgs-loadout/frameworks/tier-1-public/utme/utme-v1.0-academic.md` | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
+| Torque v2.0 | `vgs-loadout/frameworks/tier-1-public/torque/torque-v2.0-stability.md` | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) |
 | MI Agents v1.0 | `whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md` | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) |
 | DCN v1.0 | `whitepapers/vgs-technical-papers/dcn-v1-0-academic.md` | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) |
 

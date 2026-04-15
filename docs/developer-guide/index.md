@@ -11,7 +11,7 @@ The SynoeticOS project is organized into several high-level directories:
 
 -   **`architectural-frameworks/`**: Contains reference implementations and foundational architectural patterns.
 -   **`artifacts/`**: Houses tools, Jupyter notebooks for analysis, and experimental scripts.
--   **`mi-arsenal/`**: The core collection of Mythopoeic Intelligence (MI) frameworks, categorized into public (Tier 1) and watermarked demo (Tier 2) versions.
+-   **`vgs-loadout/`**: The core collection of Mythopoeic Intelligence (MI) frameworks, categorized into public (Tier 1) and watermarked demo (Tier 2) versions.
 -   **`threat-resilience-codex/`**: The DNA Codex database for threat intelligence, including incident ledgers, documentation, and research papers.
 -   **`utilities/`**: Helper scripts, configuration files, and command-line interface tools.
 -   **`vulnerability-research/`**: Security research, case studies, and analysis of real-world incidents.

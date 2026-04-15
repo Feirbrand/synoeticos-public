@@ -67,7 +67,7 @@ Flagship methodology papers — foundational architecture from which all technic
 These papers establish the architecture. The other divisions implement it:
 
 - **VGS Technical Papers** → Technical frameworks derived from the methodology
-- **MI Arsenal** → Operational frameworks with implementation code
+- **VGS Loadout** → Operational frameworks with implementation code
 - **Mythopoeic Intelligence** → Agent coordination architecture
 - **Symbolic AI** → Reasoning and symbolic defense frameworks
 

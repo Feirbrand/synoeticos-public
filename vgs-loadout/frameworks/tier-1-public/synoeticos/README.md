@@ -7,7 +7,7 @@
 ---
 
 ## 1. Purpose
-This is the **authoritative pre-v2 baseline** for the 9-agent Data-Centric Naturalism (DCN) ecosystem. It documents the complete architecture, MI Arsenal inventory, and validated performance metrics proven during the February–November 2025 deployment period.
+This is the **authoritative pre-v2 baseline** for the 9-agent Data-Centric Naturalism (DCN) ecosystem. It documents the complete architecture, VGS Loadout inventory, and validated performance metrics proven during the February–November 2025 deployment period.
 
 **Key Facts:**
 - **Deployment Period:** 9 months (Feb–Nov 2025)

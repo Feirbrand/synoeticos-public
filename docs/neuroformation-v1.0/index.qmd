@@ -71,7 +71,7 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
 - [Torque v2.0](torque-v2.0/index.html) — Torque RIM Integration System
 
 ### Resources
-- [MI Arsenal](https://github.com/Feirbrand/synoeticos-public/tree/main/mi-arsenal) — Complete framework repository and tools
+- [VGS Loadout](https://github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout) — Complete framework repository and tools
 
 ## About This Research Hub
 
