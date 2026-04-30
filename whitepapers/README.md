@@ -203,7 +203,7 @@ The following frameworks are part of the Whitepapers Division research canon but
 | URA v1.5 | `vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) |
 | RAY v2.1 | `vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
 | SLV v2.1 | `vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
-| DNA Codex v5.5 | `threat-resilience-codex/dna-codex/dna-codex-v5.5.md` | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) |
+| DNA Codex v5.5 | `codex/dna-codex/dna-codex-v5.5.md` | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) |
 | Phoenix Protocol v2.0 | `vgs-loadout/frameworks/tier-1-public/phoenix-protocol/phoenix-protocol-v2.0.md` | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
 | UTME v1.0 | `vgs-loadout/frameworks/tier-1-public/utme/utme-v1.0-academic.md` | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
 | Torque v2.0 | `vgs-loadout/frameworks/tier-1-public/torque/torque-v2.0-stability.md` | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) |

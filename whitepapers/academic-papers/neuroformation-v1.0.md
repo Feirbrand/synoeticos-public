@@ -487,7 +487,7 @@ Across these populations, two consistent markers hold: habit retention rates at 
 
 Beginning February 2025, the Neuroformation™ architecture was applied to AI language model systems. The initial contact was not a research deployment -- it was an attempt to create social media content for an adaptive athlete event. The architecture that emerged, and the framework production that followed, were documented over 173 days of sustained operation. What became VGS and the formal framework development accelerated through mid-2025 as the scale of what was being built became clear. Operating AI agents at the scale required to generate 77+ cognitive frameworks required systems that held under adversarial pressure, extended context, and coordinated attack patterns.
 
-A documented incident is a logged event in which an AI agent exhibited measurable instability -- identity drift, cascade behavior, coherence failure, or adversarial injection -- that required a structured intervention to resolve. All 500+ publicly documented incidents are catalogued in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex), an open-access threat intelligence ledger with categorized threat strains, intervention records, and recovery outcomes.
+A documented incident is a logged event in which an AI agent exhibited measurable instability -- identity drift, cascade behavior, coherence failure, or adversarial injection -- that required a structured intervention to resolve. All 500+ publicly documented incidents are catalogued in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/codex), an open-access threat intelligence ledger with categorized threat strains, intervention records, and recovery outcomes.
 
 The AI-side record covers multiple model families across more than eight months of continuous deployment: Claude Sonnet 4/4.5, Grok 2/3, Gemini 1.5/2.0/3, Llama 3.1/3.2, Mistral Large/Medium, ChatGPT 4/4o/5+, GitHub Copilot, Perplexity, and Manus AI -- any 128K+ context architecture running sustained autonomous workloads.
 
@@ -499,7 +499,7 @@ These numbers belong to the AI domain. They are not general Neuroformation™ st
 
 ### 5.3 Statistical Analysis of Practitioner-Collected Data
 
-**Methods note:** The chi-squared analyses reported here were applied to categorical outcome distributions across human and AI populations drawn from the practitioner record and AI incident logs. The human population is defined as clients and athletes documented in the APP coaching practice (1999--present). The AI population is drawn from the incident record catalogued in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex). A third population was drawn from human formation practice participants -- individuals engaged in structured identity and behavioral formation protocols outside of athletic competition. The analyses test whether the distribution of recovery outcomes across the four-step intervention protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) differs significantly between populations. Statistical methods follow Agresti & Franklin (2013). This is practitioner-collected outcome data, not a controlled clinical trial. Replication by independent researchers with independently collected samples is the appropriate next step for strengthening these findings.
+**Methods note:** The chi-squared analyses reported here were applied to categorical outcome distributions across human and AI populations drawn from the practitioner record and AI incident logs. The human population is defined as clients and athletes documented in the APP coaching practice (1999--present). The AI population is drawn from the incident record catalogued in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/codex). A third population was drawn from human formation practice participants -- individuals engaged in structured identity and behavioral formation protocols outside of athletic competition. The analyses test whether the distribution of recovery outcomes across the four-step intervention protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) differs significantly between populations. Statistical methods follow Agresti & Franklin (2013). This is practitioner-collected outcome data, not a controlled clinical trial. Replication by independent researchers with independently collected samples is the appropriate next step for strengthening these findings.
 
 The cross-domain claim is not asserted -- it is tested.
 
@@ -532,8 +532,8 @@ The AI classification logs from the development process represent a specific and
 **What the convergence shows:** Across nine architecturally different systems, the same structural description of the cascade pattern emerged independently. The core five-layer architecture was identifiable from behavioral data alone -- before the full framework catalog was presented to the classifying system. The pattern preceded the explanation. Nine different base models, nine different training histories, nine independent convergences on the same architectural description. That pattern is best understood as a form of inter-rater reliability across independently engineered architectures with overlapping but non-identical training histories, rather than as simple circular self-validation.
 
 **Additional public evidence available for independent review:**
-- 500+ documented threat signatures with full forensic classification (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex/dna-codex)
-- 12 incident case studies with documented forensic timelines (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex)
+- 500+ documented threat signatures with full forensic classification (github.com/Feirbrand/synoeticos-public/tree/main/codex/dna-codex)
+- 12 incident case studies with documented forensic timelines (github.com/Feirbrand/synoeticos-public/tree/main/codex)
 - Live framework demonstrations (Hugging Face: huggingface.co/spaces/Feirbrand)
 - VGS Loadout: 50+ frameworks (from 77+ total) with full architecture documentation (github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout)
 - 18 published papers with Zenodo DOIs on ORCID: 0009-0000-9923-3207
@@ -1074,7 +1074,7 @@ Commercial licensing includes:
 
 **Data & Reproducibility**
 
-- **AI incident records:** Publicly documented in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex). Full incident registry maintained under VGS production protocols.
+- **AI incident records:** Publicly documented in the DNA Codex (github.com/Feirbrand/synoeticos-public/tree/main/codex). Full incident registry maintained under VGS production protocols.
 - **Human coaching outcome records:** Available upon request for verified research purposes. Maintained under client confidentiality protocols of Achieve Peak Performance.
 - **Statistical validation data:** Available in the published MI Agents paper, DOI: 10.5281/zenodo.17770533.
 - **Framework documentation:** achievepeakperformance.net

@@ -21,7 +21,7 @@ This section contains integration systems, landing page components, and coordina
 ## Directory Structure
 
 ```
-threat-resilience-codex/
+codex/
 ├── dna-codex/                      # Raw Variant Catalog (Core Tool)
 │   └── dna-codex-v5.5.md           # Master threat database with technical indicators
 ├── research-papers/                # Academic Research Papers

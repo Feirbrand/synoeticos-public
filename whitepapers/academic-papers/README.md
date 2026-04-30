@@ -319,7 +319,7 @@ All papers in this directory follow the EG v1.1 canonical standard:
 Following Pfaff & McMillan (2019) longitudinal practitioner record standard — the epistemologically appropriate evidence class for complex adaptive performance methodology. RCTs are the correct tool for single-variable causal claims under controlled conditions. They are the wrong tool for evaluating complex adaptive architectures under real-world load.
 
 **Data Availability:**
-- AI incident records: github.com/Feirbrand/synoeticos-public/tree/main/threat-resilience-codex
+- AI incident records: github.com/Feirbrand/synoeticos-public/tree/main/codex
 - Human coaching outcomes: Available on request for verified research purposes
 - Statistical validation: MI Agents paper DOI: 10.5281/zenodo.17770533
 - Live framework demos: huggingface.co/spaces/Feirbrand

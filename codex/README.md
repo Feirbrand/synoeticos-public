@@ -55,7 +55,7 @@ The Threat Resilience Codex evolved from the DNA Codex pure threat taxonomy to e
 ## Directory Structure
 
 ```
-threat-resilience-codex/
+codex/
 
 ├── dna-codex/                      # Raw Variant Catalog (Core Tool)
 │   ├── dna-codex-v5.5.md          # 560+ behavioral signatures, Tier 10+ threats, MITRE ATLAS mappings
