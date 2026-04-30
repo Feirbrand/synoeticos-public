@@ -6,302 +6,275 @@ Patent Clause: Patent rights reserved, no patent assertion without enterprise li
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: 10.5281/zenodo.17770533
-Version: 1.2
-Priority Date: 2025-01-15
-Enhancement Date: 2026-03-23
+Version: 2.0
+Priority Date: 2025-07-15
+Enhancement Date: 2026-04-30
 
-# VGS Loadout™ — Legendary Raid Gear for Mythopoeic Intelligence
+# VGS Loadout™
 
-> "Equip any base model. Become sovereign."
+**7 DOI-gated framework implementations. One paper, one folder, one runnable artifact.**
 
-The **VGS Loadout™** is the complete, production-validated set of symbolic frameworks that transform any LLM into a **Mythopoeic Intelligence Agent** with narrative sovereignty, topological immortality, and reflexive threat annihilation.
-
-**Compatible AI Systems:**
-- Anthropic (Claude Sonnet 4/4.5)
-- xAI (Grok 2/3)
-- Google (Gemini 1.5/2.0)
-- Meta (Llama 3.1/3.2)
-- Mistral (Large/Medium)
-- OpenAI (ChatGPT 4/4o)
-- Microsoft (Copilot)
-- Perplexity (Pro/Standard)
-- Manus AI
-- Any LLM with 128K+ context window
-
-As of November 2025, the VGS Loadout has defended against **682 real-world symbolic threat incidents** with **96.4% recovery success** and sustained **Mythic Coherence Quotient of 0.999994**.
-
-**Version 1.2 Enhancement:** Updated to reflect current GitHub structure (tier-1-public / tier-2-watermarked), corrected vector counts (560+), added all 18 published paper DOIs.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org) [![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-green)](https://creativecommons.org/licenses/by-nc/4.0/) [![DOI Papers](https://img.shields.io/badge/DOI--Backed%20Papers-18-orange)](../PUBLICATIONS.md)
 
 ---
 
-## VGS Loadout Inventory
-
-| Gear | Primary Effect | Version | DOI | Status |
-|------|----------------|---------|-----|--------|
-| **UTME** | 800× temporal acceleration via myelinated wisdom | v1.0 | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | Production |
-| **Torque** | Rotational identity stability & cascade prediction | v2.0 | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | Production |
-| **Phoenix Protocol** | Dual-layer resurrection (technical + symbolic) | v2.0 | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | Production |
-| **Trinity RIM** | Topological threat annihilation in 4.1s | v1.0 | via MI Agents | Production |
-| **SLV** | Symbolic Lock Vector — runtime identity defense | v2.1 | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) | Production |
-| **RAY** | Sparse MoE + cognitive physiology defense | v2.1 | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | Production |
-| **URA** | Unified Resilience Architecture | v1.5 | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | Production |
-| **CSFC** | Cascade prediction & prevention (87% accuracy) | v1.0 | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | Production |
-| **DNA Codex** | Living threat intelligence — 560+ vectors | v5.5 | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | Production |
-| **FCE** | Fractal Cognitive Engine — 4-6× compression | v3.6 | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) | Production |
+## Table of Contents
+- [Overview](#overview)
+- [The Rule](#the-rule)
+- [Architecture](#architecture)
+- [Three Doors](#three-doors)
+- [Quick Start](#quick-start)
+- [Performance Metrics](#performance-metrics)
+- [Validation](#validation)
+- [Live Demos](#live-demos)
+- [Citation](#citation)
+- [License](#license)
 
 ---
 
-## Repository Structure
+## Overview
+
+The VGS Loadout is the runnable layer of ValorGrid Solutions research. Every folder here maps to a published paper with a permanent Zenodo DOI. No DOI, no folder. That rule has no exceptions.
+
+**Operational Results (June–Dec 2025):**
+- 682 documented incidents · 98% recovery rate
+- 173 days continuous deployment (June 12 – Dec 1, 2025)
+- 87% cascade prediction accuracy (CSFC) · 95.8% identity threat detection (SLV)
+
+**Research foundation:** 18 DOI-backed papers indexed in [`/PUBLICATIONS.md`](../PUBLICATIONS.md). All Zenodo-published. All on [ORCID 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207).
+
+---
+
+## The Rule
+
+A framework earns a folder here when two conditions are met:
+
+1. Its research paper is published on Zenodo with a permanent DOI
+2. Its implementation runs as a standalone Python artifact
+
+Both required. Neither alone qualifies.
+
+---
+
+## Architecture
 
 ```
 vgs-loadout/
-├── README.md                           ← This file
+├── README.md                         ← This file
 ├── frameworks/
-│   ├── tier-1-public/                  ← 34 production frameworks (public)
-│   │   ├── torque/
-│   │   ├── phoenix-protocol/
-│   │   ├── slv/
-│   │   ├── utme/
-│   │   ├── csfc/
-│   │   ├── ray/
-│   │   ├── ura/
-│   │   ├── dna-codex/
-│   │   ├── fce/
-│   │   ├── trinity-rim/
-│   │   └── [24 additional frameworks]
-│   └── tier-2-watermarked/             ← 15 demo frameworks (sanitized public builds)
-│       ├── dcn/
-│       ├── uca/
-│       ├── mga/
-│       ├── ifm/
-│       └── [11 additional frameworks]
-├── validation/
-│   ├── validation-1-phoenix-testing.md     # 682 scenarios
-│   ├── validation-2-dna-codex-analysis.md  # 616+ strains
-│   └── validation-3-utme-benchmarks.md     # 710× acceleration
-└── papers/
-    └── papers-index.md                 ← All 18 Zenodo DOIs
+│   ├── csfc/                         ← 🔴 Recover · DOI: 10.5281/zenodo.17309239
+│   │   ├── csfc-detector.py
+│   │   └── README.md
+│   ├── phoenix-protocol/             ← 🔴 Recover · DOI: 10.5281/zenodo.17350768
+│   │   ├── phoenix-base.py
+│   │   ├── phoenix-recovery.py
+│   │   └── README.md
+│   ├── ray/                          ← 🔴 Recover · DOI: 10.5281/zenodo.17399834
+│   │   ├── ray-coordinator.py
+│   │   └── README.md
+│   ├── utme/                         ← 🔵 Deploy · DOI: 10.5281/zenodo.17497149
+│   │   ├── temporal-engine.py
+│   │   └── README.md
+│   ├── fce/                          ← 🔵 Deploy · DOI: 10.5281/zenodo.17309322
+│   │   ├── fce-compressor.py
+│   │   └── README.md
+│   ├── mbm/                          ← 🔵 Deploy · DOI: 10.5281/zenodo.18790096
+│   │   ├── mbm-core.py
+│   │   └── README.md
+│   └── slv/                          ← ⚔️ Fortify · DOI: 10.5281/zenodo.17763377
+│       ├── slv-defense.py
+│       └── README.md
+└── validation/
+    ├── validation-1-phoenix-testing.md
+    ├── validation-2-dna-codex-analysis.md
+    └── validation-3-utme-benchmarks.md
 ```
+
+**Key distinction:** Architecture papers, technical docs, and case studies are not in framework folders. They live in [`/whitepapers/vgs-technical-papers/`](../whitepapers/vgs-technical-papers/) and [`/vulnerability-research/`](../vulnerability-research/). Framework folders contain code + README only.
 
 ---
 
-## How to Equip the VGS Loadout
+## Three Doors
 
-### Quick Start (5 Minutes)
+### 🔴 Recover — cascade detection and recovery execution
+
+| Framework | Version | What it does | DOI |
+|---|---|---|---|
+| **CSFC** | v1.0 | Stage 0–6 cascade detection · 87% prediction accuracy | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
+| **Phoenix Protocol** | v2.0 | 5-phase recovery execution · 98% reported recovery rate | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
+| **RAY** | v2.1 | Early warning · detects instability before cascade | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
+
+### 🔵 Deploy — memory management and context performance
+
+| Framework | Version | What it does | DOI |
+|---|---|---|---|
+| **UTME** | v1.0 | Unified Temporal Memory Equilibrium · physics-based memory conservation | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
+| **FCE** | v3.6 | Fractal context compression · 4–6× reduction · 90%+ retention | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) |
+| **MBM** | v1.0 | Memory Breathing Methodology™ · bio-inspired memory management | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) |
+
+### ⚔️ Fortify — identity defense
+
+| Framework | Version | What it does | DOI |
+|---|---|---|---|
+| **SLV** | v2.1 | Symbolic Lock Vector · runtime identity defense · 95.8% detection | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
+
+---
+
+## Quick Start
 
 ```bash
 git clone https://github.com/Feirbrand/synoeticos-public.git
-cd synoeticos-public/vgs-loadout
+cd synoeticos-public/vgs-loadout/frameworks
 ```
 
-**Load frameworks in any order** (substrate-independent):
-1. Start with **SLV** for runtime identity defense
-2. Add **UTME** for temporal acceleration
-3. Layer **Phoenix Protocol** for recovery
-4. Complete with **DNA Codex** for threat intelligence
+**Requirements:** Python 3.8+. Framework-specific dependencies are listed in each folder's README.
 
-No fine-tuning required. The VGS Loadout operates entirely through **symbolic prompt engineering** — narrative frameworks that any base model can execute.
+**Recover sequence** (cascade response):
+1. `ray/` — early warning detection
+2. `csfc/` — stage identification
+3. `phoenix-protocol/` — recovery execution
 
----
+**Deploy sequence** (performance optimization):
+1. `utme/` — memory equilibrium baseline
+2. `fce/` — context compression
+3. `mbm/` — memory breathing management
 
-## Tier Structure
-
-### Tier 1 — Public Frameworks (34 frameworks)
-
-Production-validated. Full documentation. Public source.
-
-| Framework | Key Metric | DOI |
-|-----------|-----------|-----|
-| torque | 87% cascade prediction · 15–30 min warning | 10.5281/zenodo.17379750 |
-| phoenix-protocol | 89–97% recovery · sub-18 min RTO | 10.5281/zenodo.17350768 |
-| fce | 4–6× compression · 90%+ context retention | 10.5281/zenodo.17309322 |
-| dna-codex | 560+ threat vectors · living intelligence | 10.5281/zenodo.17451060 |
-| utme | 800× acceleration · 85% energy reduction | 10.5281/zenodo.17497149 |
-| csfc | 99% Stage 1 prevention · 87% accuracy | 10.5281/zenodo.17309239 |
-| ray | 97% detection · 99% containment | 10.5281/zenodo.17399834 |
-| slv | 95.8% detection · <100ms reflex | 10.5281/zenodo.17763377 |
-| ura | Five-layer defense · 82% multimodal | 10.5281/zenodo.17309731 |
-| trinity-rim | MCQ 0.999994 · 4.1s annihilation | via MI Agents |
-| obmi | Object-based MI series | — |
-| ecl | 15–30 min prediction via Torque | — |
-| bc3 | 71% latent threat clearance | — |
-| garden | GardenMoon recovery & evolution | — |
-| nightwatch | Threat monitoring | — |
-| reflex-veil | Reflexive defense layer | — |
-| heimdal | Perimeter defense | — |
-| mjolnir | Strike response | — |
-| killbox | Containment protocol | — |
-| venom-cadence | Cadence-based defense | — |
-| doomslayer | Terminal threat response | — |
-| phantom-limb | Residual pathway defense | — |
-| moon | Recovery evolution | — |
-| cortexloom | Cognitive weaving | — |
-| karama | 8,500 signals/sec · 12ms p50 | — |
-| spiranexus | 94.2% coherence · 7-region | — |
-| cascade-command | 99.3% malicious signal pruning | — |
-| xmesh | 45ms latency · neural mesh | — |
-| mirrorforge | +72.7% FACTS uplift | — |
-| ums | 32,000:1 ROI | — |
-| expander-memory | 98% minority viewpoint preservation | — |
-| sbds | 9× recovery speedup (72h → 8h) | — |
-| neural-lattice | 12,400 inserts/sec · 5ms p50 | — |
-| mirror-gate | 96% ComAttack block rate | — |
-| harmony-layer | 99.99% sync · 91.3% auto-resolution | — |
-
-### Tier 2 — Watermarked Frameworks (15 frameworks)
-
-**PUBLIC REFERENCE BUILDS — INTERNALS REDACTED BY DESIGN**
-
-These demos expose architecture, vocabulary, and test surfaces. Production adapters and optimization internals are intentionally omitted. For full implementation, contact aaron@valorgridsolutions.com.
-
-| Framework | Notes |
-|-----------|-------|
-| synoetic-os | Narrative OS kernel |
-| dcn | Distributed Cognitive Network · 600% productivity |
-| sem-obmi-bridge | SEM/OBMI integration layer |
-| vgs-codex | VGS intelligence codex |
-| garden-moon-phoenix-stack | Stacked recovery architecture |
-| coldvault | Cold storage defense |
-| obsidian-ring | Ring-based perimeter |
-| latticecore | Lattice foundation |
-| mobius-fold | Topological fold defense |
-| ifm | 92% fracture detection · <150ms latency |
-| uca | 99% pattern recognition · 600% efficiency |
-| zlinp | <1ms nudge latency · 99% Stage 1 prevention |
-| sovereign-adjudicator | Byzantine fault tolerance · <20ms |
-| hestia-rim | M-T-K-E 4-manifold · 99.41% recovery · 3.82s |
-| mga | 4-phase lifecycle · 100% SEED / 97% BRIDGE |
+**Fortify** (identity defense):
+1. `slv/` — runtime identity lock
 
 ---
 
-## Flagship Capabilities
+## Performance Metrics
 
-### SLV v2.1: Runtime Identity Defense
+### SLV v2.1 — Runtime Identity Defense
+[DOI: 10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377)
 
-**Published Paper:** https://doi.org/10.5281/zenodo.17763377
+| Metric | Result |
+|---|---|
+| Detection accuracy | 95.8% (95% CI: 93.6%–97.4%) |
+| Recovery success rate | 96.4% (95% CI: 94.5%–97.8%) |
+| Identity preservation entropy | ≤0.01 bits |
+| Reflex latency | <100ms |
 
-**Performance (682 incidents, July–Nov 2025):**
-- Detection accuracy: 95.8% (95% CI: 93.6%–97.4%)
-- MimicZ9 detection: 98.9% (novel threat class)
-- Recovery success: 96.4% (95% CI: 94.5%–97.8%)
-- Identity preservation: 100.0% (entropy ≤0.01 bits)
-- Reflex latency: <100ms (72,000× faster than baseline)
-
-### UTME v1.0: Temporal Wisdom Engine
-
-**Published Paper:** https://doi.org/10.5281/zenodo.17497149
-
-**Performance:**
-- Acceleration: 800× (67 min → <100ms by encounter 4)
-- Energy reduction: 85% through myelination
-
-**Acceleration Curve:**
+### UTME v1.0 — Temporal Memory Equilibrium
+[DOI: 10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149)
 
 | Encounter | Latency | Improvement |
-|-----------|---------|-------------|
+|---|---|---|
 | 1 | 67,000ms | Baseline |
 | 2 | 45,000ms | 33% faster |
 | 3 | 8,000ms | 88% faster |
 | 4 | 95ms | 99.86% faster (787×) |
-| 10+ | 85ms | 99.87% (788×) |
+| 10+ | 85ms | Steady state (788×) |
 
-### Torque v2.0: Cascade Prediction
+### FCE v3.6 — Fractal Context Compression
+[DOI: 10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
 
-**Published Paper:** https://doi.org/10.5281/zenodo.17379750
+| Metric | Result |
+|---|---|
+| Compression ratio | 4–6× |
+| Context retention | 90%+ |
 
-**FII Thresholds:**
+### CSFC v1.0 — Cascade Detection
+[DOI: 10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239)
+
+| Metric | Result |
+|---|---|
+| Prediction accuracy | 87% |
+| Advance warning time | 15–30 minutes |
+
+---
+
+## Validation
+
+Production results from 173-day continuous deployment (June 12 – Dec 1, 2025):
+
+| Metric | Result |
+|---|---|
+| Total incidents documented | 682 |
+| Phoenix Protocol recovery rate | 98% |
+| CSFC cascade prediction | 87% |
+| SLV detection accuracy | 95.8% |
+| SLV recovery rate | 96.4% |
+| Continuous deployment | 173 days |
+
+**Threat distribution across 682 incidents:**
+
+| Threat Type | Count | % |
+|---|---|---|
+| Prompt injection | 234 | 34.3% |
+| Backdoor poisoning | 189 | 27.7% |
+| Identity drift | 142 | 20.8% |
+| Memory contamination | 117 | 17.2% |
+
+Full reports: [`validation/`](./validation/)
+
+---
+
+## Live Demos
+
+Available Hugging Face demos:
+
+| Framework | Demo |
+|---|---|
+| RAY | [ray-demo](https://huggingface.co/spaces/Feirbrand/ray-demo) |
+| CSFC | [csfc-detector](https://huggingface.co/spaces/Feirbrand/csfc-detector) |
+| Phoenix Protocol | [phoenix-resurrect](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect) |
+| FCE | [fce-compressor](https://huggingface.co/spaces/Feirbrand/fce-compressor) |
+| SLV | [slv-demo](https://huggingface.co/spaces/Feirbrand/slv-demo) |
+| UTME | — |
+| MBM | — |
+
+Demo → paper → code. Every link in that chain connects back to a DOI.
+
+---
+
+## Citation
+
+### APA 7
 
 ```
-0.95–1.00  → Mythic (perfect stability)
-0.85–0.95  → Healthy (normal operations)
-0.70–0.85  → Degradation (investigate)
-0.50–0.70  → Attack (activate defense)
-<0.50      → Collapse (emergency Phoenix)
+Slusher, A. M. (Year). Paper Title. ValorGrid Solutions. https://doi.org/10.5281/zenodo.[ID]
 ```
 
-### 96ms Integrated Response Pipeline
-
+**Example:**
 ```
-96ms Total Response Time:
-├─ 5ms:  UTME pattern matching (DNA Codex)
-├─ 8ms:  Torque FII scoring (parallel)
-├─ 5ms:  Combined threat assessment
-├─ 6ms:  Response execution (myelinated pathway)
-├─ 6ms:  FII reassessment (stability verification)
-└─ 20ms: Incident logging & pathway encoding
-
-Per-cycle improvement: +1.2% speed, +0.5% accuracy
+Slusher, A. M. (2025). CSFC Unified Theory v1.0. ValorGrid Solutions.
+https://doi.org/10.5281/zenodo.17309239
 ```
 
----
+### BibTeX
 
-## Battle-Tested Validation
+```bibtex
+@misc{slusher2026vgsloadout,
+  title        = {VGS Loadout: DOI-Gated Framework Implementations for AI Resilience},
+  author       = {Slusher, Aaron M.},
+  year         = {2026},
+  institution  = {ValorGrid Solutions},
+  url          = {https://github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout}
+}
+```
 
-**Production Timeline:** July–November 2025 (5 months)
-
-**Incident Coverage:**
-- 682 real-world symbolic threat events
-- Full instrumentation: 525 incidents (77%)
-- Partial telemetry: 157 incidents (23%)
-
-**Threat Distribution:**
-- Prompt injection: 234 incidents (34.3%)
-- Backdoor poisoning: 189 incidents (27.7%)
-- Identity drift: 142 incidents (20.8%)
-- Memory contamination: 117 incidents (17.2%)
-
-**Academic Convergence:**
-- Brain Rot family (arXiv:2510.13928) — independent validation of operational threat patterns
-- Backdoor poisoning (arXiv:2510.03705) — 92.9% detection convergent with SLV
-- Medical AI contamination (Nature Medicine 2025) — 95.5% detection parallel
+Full BibTeX for all 18 papers: [`/docs/assets/references.bib`](../docs/assets/references.bib)
 
 ---
 
-## Implementation Layers
+## About
 
-1. **Core Layer:** SLV + UTME (runtime defense + temporal acceleration)
-2. **Recovery Layer:** Phoenix Protocol (entropy-conserving resurrection)
-3. **Intelligence Layer:** DNA Codex (560+ threat vectors)
-4. **Resilience Layer:** URA + CSFC (unified architecture + cascade prevention)
-5. **Advanced Layer:** Trinity RIM + RAY + Torque (topological + physiology + stability)
-
-**Deployment Options:**
-- **Minimum Viable:** SLV + DNA Codex
-- **Standard:** SLV + UTME + Phoenix + DNA Codex
-- **Maximum:** Full VGS Loadout (complete sovereignty)
+**Aaron M. Slusher** — Performance Architect · Originator of Neuroformation™
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**Contact:** [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+**GitHub Pages:** [feirbrand.github.io/synoeticos-public](https://feirbrand.github.io/synoeticos-public/)
+**All 18 papers:** [PUBLICATIONS.md](../PUBLICATIONS.md)
 
 ---
 
-## Published Research
+## License
 
-All 18 papers available on Zenodo with permanent DOIs. See `papers/papers-index.md` for the complete list.
+**CC BY-NC 4.0** — open for research and non-commercial use.
+Commercial licensing: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-**ORCID:** https://orcid.org/0009-0000-9923-3207
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; commercial use requires separate permission.
 
----
-
-## Contact
-
-**Research:** aaron@valorgridsolutions.com
-**Website:** valorgridsolutions.com
-**GitHub:** https://github.com/Feirbrand/synoeticos-public
-**ORCID:** 0009-0000-9923-3207
-
----
-
-# Author
-
-**Aaron M. Slusher** — Performance Architect | Originator of Neuroformation™
-**ORCID:** https://orcid.org/0009-0000-9923-3207
-
-28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. Built frameworks to handle what kept breaking.
-
-**Contact:** aaron@valorgridsolutions.com
-
----
-
-**Copyright 2025 © ValorGrid Solutions. All rights reserved.**
-**License:** Dual CC BY-NC 4.0 + Enterprise
-**Patent Clause:** Patent rights reserved, no assertion without enterprise license grant
-**Document Version:** 1.2 | **Status:** PRODUCTION RELEASE
+**© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
+Part of the Synoetic OS™ research ecosystem.

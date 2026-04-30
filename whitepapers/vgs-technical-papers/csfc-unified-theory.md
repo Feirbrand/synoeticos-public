@@ -5,8 +5,8 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 No -->
 
-DOI: TBD
-Version: TBD
+DOI: 10.5281/ZENODO.17309239
+Version: v1.0
 Priority Date: 2025-10-15
 
 # Complete Symbolic Fracture Cascade (CSFC): Unified Theory
