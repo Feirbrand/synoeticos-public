@@ -204,12 +204,11 @@ https://doi.org/10.5281/zenodo.17309239
 
 ```bibtex
 @misc{slusher2025csfc,
-  title        = {CSFC Unified Theory v1.0},
-  author       = {Slusher, Aaron M.},
-  year         = {2025},
-  institution  = {ValorGrid Solutions},
-  doi          = {10.5281/zenodo.17309239},
-  url          = {https://doi.org/10.5281/zenodo.17309239}
+  title  = {CSFC Unified Theory v1.0},
+  author = {Slusher, Aaron M.},
+  year   = {2025},
+  doi    = {10.5281/zenodo.17309239},
+  url    = {https://doi.org/10.5281/zenodo.17309239}
 }
 ```
 
