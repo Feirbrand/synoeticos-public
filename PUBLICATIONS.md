@@ -119,7 +119,7 @@ Full BibTeX entries are available in [`docs/assets/references.bib`](./docs/asset
 | RAY v2.1 | [`whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md`](./whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md) |
 | Torque v2.0 | [`whitepapers/vgs-technical-papers/torque-quantitative-foundation-v2.md`](./whitepapers/vgs-technical-papers/torque-quantitative-foundation-v2.md) |
 | UCA v3.1.1 | [`vulnerability-research/uca-series/uca-v3-1-security-hardened.md`](./vulnerability-research/uca-series/uca-v3-1-security-hardened.md) |
-| Phoenix Protocol v2.0 | [`vgs-loadout/frameworks/phoenix-protocol/phoenix-protocol-neural-recovery.md`](./vgs-loadout/frameworks/phoenix-protocol/phoenix-protocol-neural-recovery.md) |
+| Phoenix Protocol v2.0 | [`whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md`](./whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md) |
 | CSFC Unified Theory v1.0 | [`whitepapers/vgs-technical-papers/csfc-unified-theory.md`](./whitepapers/vgs-technical-papers/csfc-unified-theory.md) |
 | FCE Unified Framework v3.6 | [`whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md`](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) |
 | URA v1.5 | [`whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md`](./whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md) |
