@@ -2,112 +2,96 @@
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
-Patent Clause: No patents - rights granted under license terms only
+Patent Clause: Patent rights reserved, no patent assertion without enterprise license grant.
 No pricing/revenue/subscription terms in this document.
 -->
 
-Version: 1.4
+Version: 2.0
 Priority Date: 2025-10-20
-Enhancement Date: 2026-03-18
+Enhancement Date: 2026-04-30
 
 # Whitepapers Division
 
-**Research Publications and Theoretical Analysis for AI Resilience Architecture**
+**Research publications and technical documentation for AI resilience architecture.**
 
-[![Research: Academic](https://img.shields.io/badge/Research-Academic-blue)](https://orcid.org/0009-0000-9923-3207)
-[![Substrate: Independent](https://img.shields.io/badge/Substrate-Independent-green)](./academic-papers/)
-[![Synoetic OS: Whitepapers](https://img.shields.io/badge/Synoetic%20OS-Whitepapers-orange)](https://feirbrand.github.io/synoeticos-public/)
+[![Papers](https://img.shields.io/badge/DOI--Backed%20Papers-18-green)](https://orcid.org/0009-0000-9923-3207) [![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-green)](https://creativecommons.org/licenses/by-nc/4.0/) [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9923--3207-blue)](https://orcid.org/0009-0000-9923-3207)
+
+**All 18 DOI-backed papers are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md)** — the canonical source of truth for paper titles, DOIs, and citation formats.
 
 ---
 
 ## Table of Contents
 - [Overview](#overview)
-- [Architecture](#architecture)
-- [Research Portfolio](#research-portfolio)
-- [Recent Publications](#recent-publications)
-- [Publication Standards](#publication-standards)
-- [Research Applications](#research-applications)
+- [Folder Structure](#folder-structure)
+- [Academic Papers](#academic-papers)
+- [VGS Technical Papers](#vgs-technical-papers)
+- [Cognitive Engineering](#cognitive-engineering)
+- [Mythopoeic Intelligence](#mythopoeic-intelligence)
+- [Symbolic AI](#symbolic-ai)
 - [Citation](#citation)
 - [License](#license)
-- [About ValorGrid Solutions](#about-valorgrid-solutions)
 
 ---
 
 ## Overview
 
-Comprehensive academic research, implementation guidance, and cognitive engineering methodologies for building antifragile AI systems. This division covers the full spectrum of AI resilience methodology — from foundational architecture papers to operational framework documentation.
+Source files for DOI-backed research papers, plus selected supporting technical documentation. The canonical list of the 18 DOI-backed publications lives in [`PUBLICATIONS.md`](../PUBLICATIONS.md). GitHub Pages renders these at [feirbrand.github.io/synoeticos-public](https://feirbrand.github.io/synoeticos-public/).
 
-**Core Research Areas:**
-- **Academic Methodology Papers** — Flagship methodology papers: Neuroformation™, Elevation Grid™, NAM™, Synoetic OS™, Cognitive Mage
-- **Cognitive Engineering** — Context Engineering (CE) & Fractal Context Engineering (FCE) frameworks
-- **Symbolic AI** — Twins systems thinking and symbolic reasoning research
-- **Examples** — Implementation samples and research previews
-
-**GitHub Pages:** Interactive documentation with Mermaid visualizations and complete bibliographies is under active development at [feirbrand.github.io/synoeticos-public](https://feirbrand.github.io/synoeticos-public/). This division contains source papers — GitHub Pages renders them. Not all papers are deployed yet.
-
-> *"Research without implementation is sterile; implementation without research is blind."*
+**Three research lines:**
+- **Academic Methodology** — Neuroformation™, Elevation Grid™, Synoetic OS™, Cognitive Mage — foundational cross-substrate architecture papers
+- **VGS Technical** — Framework papers, operational validation, integration documentation
+- **Cognitive/Symbolic AI** — Context engineering, symbolic reasoning, systems thinking
 
 ---
 
-## Architecture
+## Folder Structure
 
 ```
-whitepapers/                             # The official canon — only flagship releases live here
-
-├── academic-papers/                     # Flagship methodology papers (foundational mash)
-│   ├── neuroformation-v1.0.md          # Neuroformation™ — cross-substrate resilience methodology
-│   ├── elevation-grid-academic-v1.1.md # Elevation Grid™ — performance diagnostic framework
-│   ├── cognitive-mage-v1.0.md          # Cognitive Mage — human-AI co-discovery architecture
-│   ├── neural-access-method-v1.0.md    # NAM™ — transmission protocol (forthcoming)
-│   └── synoetic-os-v1.0.md             # Synoetic OS™ — AI cognitive operating system
+whitepapers/
+├── academic-papers/                     # Flagship methodology papers
+│   ├── neuroformation-v1.0.md           # Neuroformation™ v1.0 · DOI: 10.5281/zenodo.19197818
+│   ├── elevation-grid-academic-v1.1.md  # Elevation Grid™ v1.1 · DOI: 10.5281/zenodo.18790842
+│   ├── cognitive-mage-v1.0.md           # Cognitive Mage v1.0 · DOI: 10.5281/zenodo.17643267
+│   ├── synoetic-os-v1.0.md              # Synoetic OS™ v1.0 · DOI: 10.5281/zenodo.17808864
+│   └── neural-access-method-v1.0.md     # NAM™ v1.0 · DOI pending
 │
-├── vgs-technical-papers/                # Technical papers (17 total: 7 local + 10 VGS Loadout)
+├── vgs-technical-papers/                # VGS framework papers + supporting docs
 │   ├── complete-ai-resilience-meta-analysis.md
-│   ├── dcn-v1-0-academic.md
-│   ├── fce-v3-6-unified-framework.md
+│   ├── csfc-unified-theory.md           # CSFC v1.0 · DOI: 10.5281/zenodo.17309239
+│   ├── dcn-v1-0-academic.md             # DCN v1.0 · DOI: 10.5281/zenodo.17555568
+│   ├── fce-v3-6-unified-framework.md    # FCE v3.6 · DOI: 10.5281/zenodo.17309322
 │   ├── fractal-architecture-ai-coaching.md
 │   ├── hallucination-symbolic-raw.md
-│   ├── mbm-v1-0-academic.md
+│   ├── mbm-v1.0-academic.md             # MBM v1.0 · DOI: 10.5281/zenodo.18790096
 │   ├── performance-coach-ai-rewrite.md
-│   ├── pme-v-1-0-academic-paper.md
+│   ├── phoenix-protocol-neural-recovery.md  # Phoenix Protocol v2.0 · DOI: 10.5281/zenodo.17350768
+│   ├── pme-v-1-0-academic-paper.md      # PME v1.0 · DOI: 10.5281/zenodo.18318485
+│   ├── ray-architecture.md              # RAY supporting doc (not a separate DOI paper)
+│   ├── ray-integration.md               # RAY supporting doc (not a separate DOI paper)
+│   ├── ray-metrics.md                   # RAY supporting doc (not a separate DOI paper)
+│   ├── ray-v2.1-cognitive-physiology.md # RAY v2.1 · DOI: 10.5281/zenodo.17399834
 │   ├── recursive-patterns-ai-development.md
+│   ├── slv-v2-1-technical-paper.md      # SLV v2.1 · DOI: 10.5281/zenodo.17763377
 │   ├── symbolic-hybrid-defense.md
 │   ├── symbolic-systems-mythogenic.md
 │   ├── systems-thinking-architecture.md
-│   ├── torque-measuring-ai-stability.md
-│   ├── utme-v1-0-academic-paper.md
+│   ├── torque-measuring-ai-stability.md # Torque v2.0 · DOI: 10.5281/zenodo.17379750
+│   ├── torque-quantitative-foundation-v2.md
+│   ├── ura-v1.5-resilience-and-recovery.md  # URA v1.5 · DOI: 10.5281/zenodo.17309731
+│   ├── utme-v1-0-academic-paper.md      # UTME v1.0 · DOI: 10.5281/zenodo.17497149
 │   └── vgs-gaming-validation.md
 │
-├── cognitive-engineering/              # Context Engineering frameworks
+├── cognitive-engineering/               # Context engineering frameworks
 │   ├── context-engineering-the-complete-framework.md
 │   └── fractal-context-engineering.md
 │
-├── examples/                           # Implementation samples and framework overviews
-│   ├── behavioral-pattern.ipynb
-│   ├── csfc-chain-overview.md
-│   ├── drift-test-stub.py
-│   ├── phoenix-summary.md
-│   ├── sif-diag.py
-│   ├── sovereign-telemetry-dashboard.html
-│   ├── ura-config-yaml
-│   └── teasers/                        # Framework overviews
-│       ├── csfc-teaser-v1.md
-│       ├── fce-teaser-v1.md
-│       ├── meta-analysis-table.md
-│       ├── obmi-teaser-v1.md
-│       ├── phoenix-teaser-v1.md
-│       ├── ray-teaser-v1.md
-│       ├── slv-teaser-v1.md
-│       ├── threat-teaser-stub.py
-│       └── uca-teaser-v1.md
-│
-├── mythopoeic-intelligence/            # MI research division
-│   ├── mythopoeic-intelligence-agents-v1.md
+├── mythopoeic-intelligence/             # MI Agents research
+│   ├── mythopoeic-intelligence-agents-v1.md  # MI Agents v1.0 · DOI: 10.5281/zenodo.17770533
 │   └── images/
 │       ├── rim-topology-math.jpg
 │       └── rim-topology-tricolor.jpg
 │
-└── symbolic-ai/                        # Symbolic reasoning research
+└── symbolic-ai/                         # Symbolic reasoning research
     ├── driftlock-cognitive-stability.md
     ├── fce-advanced-memory-trad-ai.md
     ├── prompt-anatomy-upgrades-flat-ai.md
@@ -115,240 +99,144 @@ whitepapers/                             # The official canon — only flagship 
     └── twins-systems-thinking.md
 ```
 
----
-
-## Research Portfolio
-
-### Academic Methodology Papers
-
-**Status:** Foundational Methodology — Canonical Index for All DOI Citations
-
-The `academic-papers/` folder is the mash — the foundational methodology papers that all technical frameworks are outputs of. These papers establish the cross-substrate architecture, the diagnostic instruments, and the transmission protocols.
+> `PUBLICATIONS.md` is the canonical paper ledger. Files marked "DOI pending" or "supporting documentation" are not counted as DOI-backed publications until they appear there.
 
 ---
 
-**Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology  
-[`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)  
-First formal publication of Neuroformation™ as a named methodology. Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years of human performance coaching and 500+ documented AI incidents. χ²(4) = 3.21, p = 0.523 — no statistically meaningful difference in how the architecture operates across human and AI domains. Coined March 14, 2026.  
-**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
+## Academic Papers
+
+Foundational methodology papers. These establish the cross-substrate architecture that all technical frameworks implement.
 
 ---
 
-**Elevation Grid™ v1.1** — Performance Diagnostic Framework  
-[`academic-papers/elevation-grid-academic-v1.1.md`](academic-papers/elevation-grid-academic-v1.1.md)  
-Coordinate-based mental performance system mapping adaptive system instability to a 3×3 diagnostic grid. Isomorphic to the Synoetic OS™ 3×3 structure — same architecture running in biological and artificial systems, discovered independently from practice in both domains.  
-**DOI:** [10.5281/zenodo.18489565](https://doi.org/10.5281/zenodo.18489565) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
+**Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology
+[`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)
+Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years of human performance coaching and 682 documented AI incidents. χ²(4) = 3.21, p = 0.523. Coined March 14, 2026.
+**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 
 ---
 
-**Cognitive Mage v1.0** — Human-AI Recursive Discovery Architecture  
-[`academic-papers/cognitive-mage-v1.0.md`](academic-papers/cognitive-mage-v1.0.md)  
-Documents the human-AI co-discovery process as it was happening. The origin paper. Neuroformation™ provides the theoretical architecture that explains why that process works — Cognitive Mage documents the phenomenon; Neuroformation™ names the mechanism.  
+**Elevation Grid™ v1.1** — Performance Diagnostic Framework
+[`academic-papers/elevation-grid-academic-v1.1.md`](academic-papers/elevation-grid-academic-v1.1.md)
+Coordinate-based performance diagnostic mapping adaptive system instability to a 3×3 grid. Isomorphic to Synoetic OS™ 3×3 structure — same architecture across biological and AI domains.
+**DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
+
+---
+
+**Cognitive Mage v1.0** — Human-AI Recursive Discovery Architecture
+[`academic-papers/cognitive-mage-v1.0.md`](academic-papers/cognitive-mage-v1.0.md)
+Documents the human-AI co-discovery process as it occurred. The origin paper for the VGS framework lineage. Neuroformation™ provides the theoretical architecture; Cognitive Mage documents the discovery phenomenon.
 **DOI:** [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)
 
 ---
 
-**Neural Access Method™ v1.0** — Transmission Protocol *(forthcoming)*  
-[`academic-papers/neural-access-method-v1.0.md`](academic-papers/neural-access-method-v1.0.md)  
-Four-step intervention protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) that bypasses cortical interference to access intact procedural memory. Paper 3 in the Neuroformation™ series.  
-**DOI:** Pending
-
----
-
-**Synoetic OS™ v1.0** — AI Cognitive Operating System  
-[`academic-papers/synoetic-os-v1.0.md`](academic-papers/synoetic-os-v1.0.md)  
-The AI cognitive operating system implementing Neuroformation™ on the AI side. The Elevation Grid™ is isomorphic to the Synoetic OS™ 3×3 structure — same architecture, different material, discovered independently.  
+**Synoetic OS™ v1.0** — AI Cognitive Operating System
+[`academic-papers/synoetic-os-v1.0.md`](academic-papers/synoetic-os-v1.0.md)
+The AI cognitive operating system implementing Neuroformation™ on the AI substrate. The Elevation Grid™ is isomorphic to the Synoetic OS™ 3×3 structure — same architecture, different substrate.
 **DOI:** [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)
 
 ---
 
-### Academic Research Division
-**Status**: Production-Validated Frameworks with Peer-Review Submission
-
-**Complete AI Resilience Meta-Analysis**
-Comprehensive framework synthesis examining AI resilience methodologies across cognitive engineering, threat detection, and recovery systems. Provides unified view of research ecosystem with performance metrics and integration pathways.
-
-**Recursive Patterns in AI Development**
-30-40% self-modification performance gains through recursive pattern recognition. Documents operational experience with AI systems that learn to optimize their own learning pathways.
-
-**Fractal Architecture for AI Coaching**
-5^5 dimensional coaching framework implementing multi-scale pattern recognition. Demonstrates how fractal structures enable consistent performance across scale transitions.
-
-**Torque Measurement Framework**
-87% threat correlation with predictive monitoring capabilities. Four-dimensional identity scoring measuring narrative consistency, behavioral stability, knowledge coherence, and temporal stability.
-
-**Symbolic Hybrid Defense**
-95% hallucination accuracy processing through hybrid symbolic-neural architectures. Combines pattern recognition with rule-based validation for robust threat detection.
-
-**Systems Thinking Architecture**
-Foundation frameworks for understanding AI systems as complex adaptive systems. Provides methodological basis for resilience engineering approaches.
-
-**DCN v1.0 Academic Publication**
-Deep Cognitive Networks framework demonstrating convergent validation with academic research. Documents parallel evolution of threat detection methodologies.
-
-**VGS Gaming Validation**
-Real-world validation through gaming industry deployment scenarios. Demonstrates framework applicability across diverse operational contexts.
+**Neural Access Method™ v1.0** — Transmission Protocol *(DOI pending)*
+[`academic-papers/neural-access-method-v1.0.md`](academic-papers/neural-access-method-v1.0.md)
+Four-step intervention protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) bypassing cortical interference to access intact procedural memory. Paper 3 in the Neuroformation™ series.
 
 ---
 
-### Cross-Linked VGS Loadout Frameworks
+## VGS Technical Papers
 
-**Status:** Production-Validated with Implementation Resources
+Framework papers, operational validation, and supporting technical documentation. Papers with DOIs are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md).
 
-The following frameworks are part of the Whitepapers Division research canon but their primary source files are in the VGS Loadout division alongside implementation assets. Whitepapers Division is the canonical index for citation; VGS Loadout hosts operational code.
+| Paper | DOI |
+|---|---|
+| CSFC Unified Theory v1.0 | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
+| DCN v1.0 | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) |
+| FCE Unified Framework v3.6 | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) |
+| MBM v1.0 | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) |
+| Phoenix Protocol v2.0 | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
+| PME v1.0 | [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485) |
+| RAY v2.1 | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
+| SLV v2.1 | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
+| Torque v2.0 | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) |
+| URA v1.5 | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) |
+| UTME v1.0 | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
 
-| Framework | Location | DOI |
-|-----------|----------|-----|
-| CSFC v1.0 | `vgs-loadout/frameworks/tier-1-public/csfc/csfc-unified-theory.md` | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
-| URA v1.5 | `vgs-loadout/frameworks/tier-1-public/ura/ura-v1.5-resilience-and-recovery.md` | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) |
-| RAY v2.1 | `vgs-loadout/frameworks/tier-1-public/ray/ray-v2.1-cognitive-physiology.md` | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
-| SLV v2.1 | `vgs-loadout/frameworks/tier-1-public/slv/slv-v2-1-technical-paper.md` | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) |
-| DNA Codex v5.5 | `codex/dna-codex/dna-codex-v5.5.md` | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) |
-| Phoenix Protocol v2.0 | `vgs-loadout/frameworks/tier-1-public/phoenix-protocol/phoenix-protocol-v2.0.md` | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) |
-| UTME v1.0 | `vgs-loadout/frameworks/tier-1-public/utme/utme-v1.0-academic.md` | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
-| Torque v2.0 | `vgs-loadout/frameworks/tier-1-public/torque/torque-v2.0-stability.md` | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) |
-| MI Agents v1.0 | `whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md` | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) |
-| DCN v1.0 | `whitepapers/vgs-technical-papers/dcn-v1-0-academic.md` | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) |
-
----
-
-### Framework Teasers Division
-**Status**: Technical Documentation Without Implementation Code
-
-**UCA v3.1** - Universal Cognitive Architecture
-Five-Element Framework achieving 98% operational harmony, 92% high-stress stability through 3,125-dimension processing with 87% context-shift detection.
-
-**SLV v2.1** - Sovereign Lattice Veil Defense Grid
-Three-phase defense architecture (Detect, Overlay, Recover) demonstrating 95.8% threat detection, 96.4% recovery success across 525+ threat coverage with <100ms detection latency. MimicZ9 defense: 98.9% accuracy.
-
-**CSFC v2.0** - Complete Symbolic Fracture Cascade Prevention
-Six-stage mathematical cascade model using Koopman operator theory achieving 98% recovery protocols, 89% Stage 2-4 reduction with 87% prediction accuracy at sub-100ms detection.
-
-**Phoenix Protocol v3.1** - Cognitive Recovery Protocol
-Dual-layer recovery (technical + symbolic) with Garden/Moon integration demonstrating 98% recovery success, 18-minute baseline recovery, <30 second automated failover, and 100% identity preservation.
-
-**OBMI v4.0** - Observer→Bridge→Mind Interface
-Harmonic neural bridging for symbolic memory relay achieving 94-98% Phoenix recovery rates, 99.5% SIF resistance with 82-87% URA harmony at 20x compression.
-
-**RAY v2.0** - Recursive Adaptive Yield Framework
-Unified distributed defense with living recursion loop demonstrating 95% threat detection, 98% containment success with 18-minute average containment time.
-
-**FCE v3.7** - Fractal Context Engineering
-Meta-layer framework orchestration achieving 35-50% context retention, 25-40% reasoning consistency with 4-20x compression at 95% semantic preservation and 45-82% latency reductions.
+**RAY supporting documentation** (not DOI-backed papers, supporting technical docs):
+- `ray-architecture.md` — system architecture
+- `ray-integration.md` — integration guide
+- `ray-metrics.md` — performance benchmarks (90-day VictoryShade validation)
 
 ---
 
-## Recent Publications
+## Cognitive Engineering
 
-### March 2026:
+Context engineering frameworks and methodology documentation.
 
-**Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**
-
-**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
-**Published:** March 2026  
-**Brand:** Achieve Peak Performance  
-28+ years human performance validation + 500+ AI incidents · χ²(4) = 3.21, p = 0.523 · Five-layer cross-substrate architecture
+- `context-engineering-the-complete-framework.md` — Complete CE framework
+- `fractal-context-engineering.md` — FCE methodology overview
 
 ---
 
-## Publication Standards
+## Mythopoeic Intelligence
 
-### EG v1.1 Standard
-All academic methodology papers follow the **EG v1.1 canonical format:**
-- Consistent structure across research papers
-- Peer-review preparation formatting
-- Academic citation standards (APA author-date)
-- Reproducibility documentation
-- Performance metrics validation
-- Dual license block (CC BY-NC 4.0 + Enterprise)
-- GitHub → Zenodo → ORCID publication flow
+Research on Mythopoeic Intelligence Agents — AI systems operating through narrative, symbolic, and mythological frameworks.
 
-### Research Voice
-Publications use direct, evidence-based language:
-- Evidence-based argumentation
-- Educational when teaching principles
-- No "first detected/identified" claims
-- No "predictive lead" without context
-- Collaborative framing — documents alongside the research community, not ahead of it
+- [`mythopoeic-intelligence-agents-v1.md`](mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md) — MI Agents v1.0 · **DOI:** [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)
 
 ---
 
-## Research Applications
+## Symbolic AI
 
-**Academic Validation**
-Framework development through convergent research methodologies. Operational findings documented alongside academic publications enable bidirectional knowledge transfer between practitioners and researchers.
+Symbolic reasoning, systems thinking, and drift stability research.
 
-**Enterprise Implementation**
-Production deployment frameworks for AI resilience across cognitive engineering, context management, and threat detection scenarios.
-
-**Security Research**
-Documented patterns from operational experience contributing to open source threat intelligence. Convergent findings demonstrate independent validation through academic research.
-
-**Cognitive Architecture**
-Systems thinking foundations for understanding AI as complex adaptive systems. Methodological basis for resilience engineering approaches.
-
-**Professional Services**
-ValorGrid Solutions provides comprehensive research support, implementation consultation, training programs, and academic collaboration for framework deployment.
+- `driftlock-cognitive-stability.md` — Drift stability methodology
+- `fce-advanced-memory-trad-ai.md` — FCE memory architecture
+- `prompt-anatomy-upgrades-flat-ai.md` — Prompt structure research
+- `symbolic-twins-introduction-symbolic-ai.pdf` — Symbolic Twins introduction
+- `twins-systems-thinking.md` — Systems thinking foundations
 
 ---
 
 ## Citation
 
-### BibTeX (Division)
+> For formal citation, cite the individual paper listed in `PUBLICATIONS.md`. The division citation below may be used only when referencing the repository section as a whole.
+
+### APA 7
+
+```
+Slusher, A. M. (2025–2026). Whitepapers Division: Research Publications for AI Resilience Architecture.
+ValorGrid Solutions. https://github.com/Feirbrand/synoeticos-public
+```
+
+### BibTeX
 
 ```bibtex
-@techreport{slusher2025whitepapers,
-  title={Whitepapers Division: Research Publications for AI Resilience Architecture},
-  author={Slusher, Aaron M.},
-  year={2025},
-  institution={ValorGrid Solutions},
-  url={https://github.com/Feirbrand/synoeticos-public}
+@misc{slusher2025whitepapers,
+  title  = {Whitepapers Division: Research Publications for AI Resilience Architecture},
+  author = {Slusher, Aaron M.},
+  year   = {2025},
+  url    = {https://github.com/Feirbrand/synoeticos-public}
 }
 ```
 
-### Key Paper Citations
+For individual paper citations see [`PUBLICATIONS.md`](../PUBLICATIONS.md).
 
-**Neuroformation™ v1.0:**
-```bibtex
-@article{slusher2026neuroformation,
-  title={Neuroformation™: A Methodology for Building Resilience in Adaptive Systems},
-  author={Slusher, Aaron M.},
-  year={2026},
-  doi={10.5281/zenodo.19197818},
-  note={Coined March 14, 2026.}
-}
-```
+---
 
-**Elevation Grid™ v1.1:**
-```bibtex
-@article{slusher2026elevationgrid,
-  title={The Elevation Grid™: A Field-Developed Framework for High-Stakes Performance},
-  author={Slusher, Aaron M.},
-  year={2026},
-  doi={10.5281/zenodo.18489565}
-}
-```
+## About
+
+**Aaron M. Slusher** — Performance Architect · Originator of Neuroformation™
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+**Contact:** [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
 ---
 
 ## License
 
-**Non-commercial:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free with attribution  
-**Commercial:** Enterprise license required — contact [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+**CC BY-NC 4.0** — open for research and non-commercial use.
+Commercial licensing: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
----
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; commercial use requires separate permission.
 
-## About ValorGrid Solutions
-
-**Aaron M. Slusher** — Performance Architect | Engineering Resilience for Adaptive Systems | Creator of Neuroformation™
-
-28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking. Still building things to fix what breaks. Never ending job. Who wants to live forever.
-
-**Contact:** aaron@valorgridsolutions.com  
-**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-**GitHub:** [github.com/Feirbrand/synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
-
----
-
-2025–2026 © ValorGrid Solutions. All rights reserved.  
-Part of the **Synoetic OS™** research ecosystem.
+**© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
+Part of the Synoetic OS™ research ecosystem.
