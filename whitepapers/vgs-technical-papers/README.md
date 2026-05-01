@@ -35,6 +35,7 @@ This folder does not include:
 - Raw configs or workflow files
 - Private benchmark harnesses
 - Internal adapters
+- Internal routing logic
 - Production deployment playbooks
 - Private threat-intelligence indicators
 - Pricing, service, support, training, or certification material
@@ -59,7 +60,7 @@ Use this section as a local navigation aid only. `PUBLICATIONS.md` remains canon
 | `pme-v-1-0-academic-paper.md` | Predictive Myelination Engine |
 | `ray-architecture.md` | RAY framework architecture |
 | `ray-integration.md` | RAY integration documentation |
-| `ray-metrics.md` | RAY operational metrics |
+| `ray-metrics.md` | RAY public metrics summary |
 | `ray-v2.1-cognitive-physiology.md` | RAY v2.1 cognitive physiology |
 | `recursive-patterns-ai-development.md` | Recursive patterns in AI development |
 | `slv-v2-1-technical-paper.md` | Symbolic Lock Vector v2.1 |
@@ -79,7 +80,7 @@ Use this section as a local navigation aid only. `PUBLICATIONS.md` remains canon
 ## Relationship to Other Repository Areas
 
 - [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md) — canonical publication ledger
-- [`../../vgs-loadout/`](../../vgs-loadout/) — public reference implementations
+- [`../../vgs-loadout/`](../../vgs-loadout/) — selected public reference implementations
 - [`../../codex/`](../../codex/) — public threat taxonomy and Codex materials
 - [`../../vulnerability-research/`](../../vulnerability-research/) — case studies and vulnerability research
 - [`../academic-papers/`](../academic-papers/) — methodology-layer papers
@@ -117,9 +118,10 @@ Uses outside the public license require separate written permission.
 ---
 
 **Aaron M. Slusher** · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
 [PUBLICATIONS.md](../../PUBLICATIONS.md) · [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; uses outside the public license require separate written permission.
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem.

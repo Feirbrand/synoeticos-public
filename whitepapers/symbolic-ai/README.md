@@ -58,7 +58,7 @@ This folder does not include:
 
 - [`../cognitive-engineering/`](../cognitive-engineering/) — context engineering and cognitive architecture papers
 - [`../vgs-technical-papers/`](../vgs-technical-papers/) — technical framework papers
-- [`../../vgs-loadout/`](../../vgs-loadout/) — public reference implementations
+- [`../../vgs-loadout/`](../../vgs-loadout/) — selected public reference implementations
 - [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md) — canonical DOI and citation ledger
 
 ---
@@ -72,9 +72,10 @@ Uses outside the public license require separate written permission.
 ---
 
 **Aaron M. Slusher** · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
 [PUBLICATIONS.md](../../PUBLICATIONS.md) · [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; uses outside the public license require separate written permission.
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem.

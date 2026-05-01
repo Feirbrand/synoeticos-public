@@ -41,7 +41,7 @@ Selected visual references are included in `images/` for the published paper.
 **Mythopoeic Intelligence Agents v1.0**
 DOI: [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)
 
-This paper documents the MI Agents framework, narrative identity architecture, and selected validation results.
+This paper documents the MI Agents framework, narrative identity architecture, and selected public validation results.
 
 ---
 
@@ -92,9 +92,10 @@ Uses outside the public license require separate written permission.
 ---
 
 **Aaron M. Slusher** · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
 [PUBLICATIONS.md](../../PUBLICATIONS.md) · [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; uses outside the public license require separate written permission.
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem.
