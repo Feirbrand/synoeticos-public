@@ -24,12 +24,11 @@ For canonical DOI metadata, use [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md)
 
 ## Contents
 
-- `symbolic-twins-introduction-symbolic-ai.pdf` — symbolic twins / dual-core architecture paper
-- `twins-systems-thinking.md` — systems-thinking integration notes
-- `prompt-anatomy-upgrades-flat-ai.md` — prompt-structure methodology
-- `driftlock-cognitive-stability.md` — cognitive stability methodology
-- `fractal-context-engineering.md` — context and memory framework
-- `symbolic-hybrid-defense-teaser.md` — public teaser / overview
+- `symbolic-twins-introduction-public.md` — symbolic twins / dual-core architecture introduction (public draft)
+- `twins-systems-thinking.md` — systems-thinking integration notes (historical draft)
+- `prompt-anatomy-upgrades-flat-ai.md` — prompt-structure methodology (public explanatory draft)
+- `driftlock-cognitive-stability.md` — cognitive stability methodology (public explanatory draft)
+- `fce-advanced-memory-trad-ai.md` — historical FCE bridge note for traditional AI memory/context methods
 
 ---
 
@@ -51,6 +50,8 @@ This folder does not include:
 - Platform-specific implementation instructions
 - Raw validation datasets
 - Pricing, service, support, training, or certification material
+- Private thresholds, formulas, detector logic, routing rules, or response playbooks
+- Claims of consciousness, sentience, or autonomous personhood
 
 ---
 

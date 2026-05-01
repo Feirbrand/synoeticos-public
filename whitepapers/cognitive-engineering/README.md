@@ -22,9 +22,26 @@ For canonical DOI metadata, use [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md)
 
 ## Contents
 
-- `context-engineering-the-complete-framework.md` — context engineering methodology
-- `fractal-context-engineering.md` — FCE v3.6 framework paper/source
-- Additional cognitive-engineering notes as published
+| File | Status | Public role |
+|---|---|---|
+| `fractal-context-engineering-expanded-draft.md` | Historical expanded draft | Non-canonical FCE development note — see VGS technical folder for canonical source |
+| `context-engineering-the-complete-framework.md` | Public explanatory draft | Historical/contextual bridge into FCE and Synoetic OS context research |
+
+---
+
+## Canonical DOI
+
+- FCE v3.6: [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322)
+
+> **Canonical source location:** The DOI-backed FCE v3.6 teaser source lives in [`../vgs-technical-papers/fce-v3-6-unified-framework.md`](../vgs-technical-papers/fce-v3-6-unified-framework.md). The file in this folder (`fractal-context-engineering-expanded-draft.md`) is a historical expanded development draft, not the canonical Zenodo artifact.
+
+---
+
+## Version Policy
+
+Published paper files are version-locked. Updates should be added as new versioned artifacts, not edited in place.
+
+Historical explanatory drafts may be cleaned for public boundary, provenance, and licensing language.
 
 ---
 
