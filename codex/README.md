@@ -41,7 +41,7 @@ codex/
 **DNA Codex v5.5** — Public catalog release
 
 - [`dna-codex/`](./dna-codex/) — catalog entries and README
-- [`research-papers/dna-codex-v5-5-paper.md`](./research-papers/dna-codex-v5-5-paper.md) — technical specification
+- [`research-papers/dna-codex-v5-5-paper.md`](./research-papers/dna-codex-v5-5-paper.md) — public technical paper
 - [`../PUBLICATIONS.md`](../PUBLICATIONS.md) — canonical DOI index
 
 ---
@@ -66,9 +66,9 @@ codex/
 ## Related Public Artifacts
 
 - [`../vulnerability-research/`](../vulnerability-research/) — incident case studies
-- [`../vgs-loadout/frameworks/slv/`](../vgs-loadout/frameworks/slv/) — runtime identity defense
-- [`../vgs-loadout/frameworks/ray/`](../vgs-loadout/frameworks/ray/) — early warning coordination
-- [`../vgs-loadout/frameworks/csfc/`](../vgs-loadout/frameworks/csfc/) — cascade detection
+- [`../vgs-loadout/frameworks/slv/`](../vgs-loadout/frameworks/slv/) — public identity-defense reference model
+- [`../vgs-loadout/frameworks/ray/`](../vgs-loadout/frameworks/ray/) — public early-warning reference model
+- [`../vgs-loadout/frameworks/csfc/`](../vgs-loadout/frameworks/csfc/) — public cascade-detection reference model
 - [`../PUBLICATIONS.md`](../PUBLICATIONS.md) — canonical 18-paper DOI index
 
 ---
@@ -76,9 +76,10 @@ codex/
 ## License
 
 **CC BY-NC 4.0** — open for research and non-commercial use.
+
 Uses outside the public license require separate written permission: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; uses outside the public license require separate written permission.
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **Aaron M. Slusher** · [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) · [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 

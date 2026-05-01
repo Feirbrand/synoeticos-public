@@ -1,8 +1,8 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
-Patent Clause: Patent rights reserved, no patent assertion without enterprise license grant.
+Option 2: Separate written permission for uses outside the public license.
+Patent Clause: Patent rights reserved, no patent assertion without written grant.
 No pricing/revenue/subscription terms in this document.
 -->
 
@@ -12,11 +12,13 @@ Enhancement Date: 2026-04-30
 
 # Whitepapers Division
 
-**Research publications and technical documentation for AI resilience architecture.**
+**Public research publications and supporting documentation for AI resilience architecture.**
 
 [![Papers](https://img.shields.io/badge/DOI--Backed%20Papers-18-green)](https://orcid.org/0009-0000-9923-3207) [![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-green)](https://creativecommons.org/licenses/by-nc/4.0/) [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9923--3207-blue)](https://orcid.org/0009-0000-9923-3207)
 
 **All 18 DOI-backed papers are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md)** — the canonical source of truth for paper titles, DOIs, and citation formats.
+
+> **Public Scope:** This division contains public paper sources and selected supporting documentation. It does not contain private implementation maps, internal workflows, raw validation logs, production adapters, or complete operating-system playbooks.
 
 ---
 
@@ -39,7 +41,7 @@ Source files for DOI-backed research papers, plus selected supporting technical 
 
 **Three research lines:**
 - **Academic Methodology** — Neuroformation™, Elevation Grid™, Synoetic OS™, Cognitive Mage — foundational cross-substrate architecture papers
-- **VGS Technical** — Framework papers, operational validation, integration documentation
+- **VGS Technical** — Framework papers, public validation summaries, and supporting technical documentation
 - **Cognitive/Symbolic AI** — Context engineering, symbolic reasoning, systems thinking
 
 ---
@@ -55,7 +57,7 @@ whitepapers/
 │   ├── synoetic-os-v1.0.md              # Synoetic OS™ v1.0 · DOI: 10.5281/zenodo.17808864
 │   └── neural-access-method-v1.0.md     # NAM™ v1.0 · DOI pending
 │
-├── vgs-technical-papers/                # VGS framework papers + supporting docs
+├── vgs-technical-papers/                # Public framework papers + supporting docs
 │   ├── complete-ai-resilience-meta-analysis.md
 │   ├── csfc-unified-theory.md           # CSFC v1.0 · DOI: 10.5281/zenodo.17309239
 │   ├── dcn-v1-0-academic.md             # DCN v1.0 · DOI: 10.5281/zenodo.17555568
@@ -111,14 +113,14 @@ Foundational methodology papers. These establish the cross-substrate architectur
 
 **Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology
 [`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)
-Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across 28+ years of human performance coaching and 682 documented AI incidents. χ²(4) = 3.21, p = 0.523. Coined March 14, 2026.
+Five-layer cross-substrate architecture connecting human performance coaching and AI resilience research. Validation details and statistical claims are maintained in the paper and `PUBLICATIONS.md`. Coined March 14, 2026.
 **DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 
 ---
 
 **Elevation Grid™ v1.1** — Performance Diagnostic Framework
 [`academic-papers/elevation-grid-academic-v1.1.md`](academic-papers/elevation-grid-academic-v1.1.md)
-Coordinate-based performance diagnostic mapping adaptive system instability to a 3×3 grid. Isomorphic to Synoetic OS™ 3×3 structure — same architecture across biological and AI domains.
+Coordinate-based performance diagnostic mapping adaptive-system instability to a 3×3 grid. The paper documents the relationship between the biological performance model and the Synoetic OS™ structure.
 **DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
 
 ---
@@ -132,7 +134,7 @@ Documents the human-AI co-discovery process as it occurred. The origin paper for
 
 **Synoetic OS™ v1.0** — AI Cognitive Operating System
 [`academic-papers/synoetic-os-v1.0.md`](academic-papers/synoetic-os-v1.0.md)
-The AI cognitive operating system implementing Neuroformation™ on the AI substrate. The Elevation Grid™ is isomorphic to the Synoetic OS™ 3×3 structure — same architecture, different substrate.
+A public paper describing the AI-side architecture associated with the Neuroformation™ methodology.
 **DOI:** [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864)
 
 ---
@@ -145,7 +147,7 @@ Four-step intervention protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) byp
 
 ## VGS Technical Papers
 
-Framework papers, operational validation, and supporting technical documentation. Papers with DOIs are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md).
+Framework papers, public validation summaries, and supporting technical documentation. Papers with DOIs are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md).
 
 | Paper | DOI |
 |---|---|
@@ -164,13 +166,13 @@ Framework papers, operational validation, and supporting technical documentation
 **RAY supporting documentation** (not DOI-backed papers, supporting technical docs):
 - `ray-architecture.md` — system architecture
 - `ray-integration.md` — integration guide
-- `ray-metrics.md` — performance benchmarks (90-day VictoryShade validation)
+- `ray-metrics.md` — public metrics summary
 
 ---
 
 ## Cognitive Engineering
 
-Context engineering frameworks and methodology documentation.
+Public context-engineering papers and methodology documentation.
 
 - `context-engineering-the-complete-framework.md` — Complete CE framework
 - `fractal-context-engineering.md` — FCE methodology overview
@@ -187,7 +189,7 @@ Research on Mythopoeic Intelligence Agents — AI systems operating through narr
 
 ## Symbolic AI
 
-Symbolic reasoning, systems thinking, and drift stability research.
+Public symbolic-reasoning, systems-thinking, and drift-stability research.
 
 - `driftlock-cognitive-stability.md` — Drift stability methodology
 - `fce-advanced-memory-trad-ai.md` — FCE memory architecture
@@ -234,9 +236,10 @@ For individual paper citations see [`PUBLICATIONS.md`](../PUBLICATIONS.md).
 ## License
 
 **CC BY-NC 4.0** — open for research and non-commercial use.
-Commercial licensing: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of implementation materials for research and non-commercial purposes; commercial use requires separate permission.
+Uses outside the public license require separate written permission: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem.

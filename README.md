@@ -2,13 +2,15 @@
 
 ![Banner](docs/synoetic-os-banner.png)
 
-**DOI-backed AI resilience research and runnable framework implementations for systems that cascade, drift, or fracture under load.**
+**DOI-backed AI resilience research and selected reference implementations for systems that cascade, drift, or fracture under load.**
 
 *Built on Adapted Architecture — the structure an adaptive system builds from what it actually has, optimized for its current operational terrain.*
 
 > Cascade. Ascent. Armor for chaos.
 
-![License](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)
+> **Public Scope:** This repository is a public proof and research hub. It contains DOI-backed papers, selected reference implementations, public validation summaries, and case-study documentation. It does not contain the private Synoetic OS™ operating layer, internal routing logic, raw workflows, private schemas, production adapters, or complete implementation playbooks.
+
+![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-blue.svg)
 ![Papers](https://img.shields.io/badge/DOI--Backed%20Papers-18-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 
@@ -28,9 +30,9 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **What's inside:**
 - **18 DOI-backed research papers** — see [`PUBLICATIONS.md`](./PUBLICATIONS.md) for the full canonical index
-- **7 DOI-gated framework implementations** — one paper, one folder, one runnable artifact
+- **7 DOI-backed public framework folders** — one paper, one folder, one selected reference implementation
 - **682 documented incidents** — real-world validation
-- **173-day continuous deployment** — full incident record in [validation reports](./vgs-loadout/validation/)
+- **173-day documented field run** — public validation summaries in [validation reports](./vgs-loadout/validation/)
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
@@ -76,7 +78,7 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **2025-12-04** 🏗️ **Major rebrand** — Synoetic OS → **Synoetic OS™** • Agents → **Mythopoeic Intelligence Agents** • Frameworks → **VGS Loadout™**
 
-**2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol, UTME, CSFC, SLV, RAY, FCE, MBM. Full performance metrics in each framework's [validation report](./vgs-loadout/validation/).
+**2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol, UTME, CSFC, SLV, RAY, FCE, MBM. Public validation summaries are available in the [validation reports](./vgs-loadout/validation/).
 
 ---
 
@@ -90,7 +92,7 @@ This repository is the public research and validation hub for ValorGrid Solution
 | **Read incident reports** | [Case Studies](#-case-studies) |
 | **Browse all 18 papers** | [PUBLICATIONS.md](./PUBLICATIONS.md) |
 | **Try live demos** | [Hugging Face Spaces](#-live-demos--by-door) |
-| **Commercial licensing** | [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) |
+| **Permission requests** | [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) |
 
 ---
 
@@ -123,24 +125,24 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 | Framework | Demo | Notes |
 |-----------|------|-------|
-| **Torque** | [Calculator](https://huggingface.co/spaces/Feirbrand/torque-calculator) | 70% demo — algorithm locked ([paper](https://doi.org/10.5281/zenodo.17379750)) |
+| **Torque** | [Calculator](https://huggingface.co/spaces/Feirbrand/torque-calculator) | Public demo — full algorithm withheld ([paper](https://doi.org/10.5281/zenodo.17379750)) |
 
 [**View All Demos →**](https://huggingface.co/Feirbrand)
 
-> 💡 **Note:** All demos link back to DOI-backed papers and the GitHub framework folder. Bidirectional flow: demo ↔ paper ↔ code.
+> 💡 **Note:** Public demos link back to DOI-backed papers and selected GitHub reference implementations. Bidirectional public flow: demo ↔ paper ↔ reference implementation.
 
 ---
 
 ## ✅ Validation & Testing
 
-**Production Results (June–Dec 2025):**
+**Documented Field Results (June–Dec 2025):**
 
-- **Phoenix Protocol:** 98% survival across 682 documented incidents ([validation report](./vgs-loadout/validation/validation-1-phoenix-testing.md))
+- **Phoenix Protocol:** 98% reported recovery/survival across 682 documented incidents ([public validation summary](./vgs-loadout/validation/validation-1-phoenix-testing.md))
 - **PME v1.0:** 712× acceleration, 87.3% prediction, 100% drift elimination over 62-day deployment ([paper](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md))
 - **UTME:** 710×–1200× acceleration vs baseline ([benchmarks](./vgs-loadout/validation/validation-3-utme-benchmarks.md))
 - **CSFC:** 87% cascade prediction with 15–30 min advance warning ([paper](https://doi.org/10.5281/zenodo.17309239))
 - **SLV:** 95.8% detection • 96.4% recovery across 525+ threat vectors ([paper](https://doi.org/10.5281/zenodo.17763377))
-- **Deployment:** 173 days continuous (June 12 – Dec 1, 2025) ([incident log](./vgs-loadout/validation/))
+- **Field run:** 173 days documented (June 12 – Dec 1, 2025) ([public validation summaries](./vgs-loadout/validation/))
 
 **Detailed Reports:**
 - [Phoenix Protocol Testing](./vgs-loadout/validation/validation-1-phoenix-testing.md)
@@ -149,8 +151,8 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **Published Research:**
 - **18 DOI-backed papers** indexed in [`PUBLICATIONS.md`](./PUBLICATIONS.md)
-- 682 incidents documented in [case studies](./vulnerability-research/case-studies/)
-- DNA Codex: 616 threat strains, 560+ public vectors
+- 682 incidents referenced across public validation summaries and selected [case studies](./vulnerability-research/case-studies/)
+- DNA Codex: public threat-vector catalog maintained in [`codex/`](./codex/)
 
 **Industry Benchmarks (for comparison):**
 - Cascade failures: 72–168h recovery (industry avg)
@@ -199,8 +201,8 @@ synoeticos-public/
 │   ├── mythopoeic-intelligence/# MI Agents research
 │   └── symbolic-ai/            # Symbolic reasoning research
 │
-├── vgs-loadout/                 # VGS Loadout™ — 7 DOI-gated framework implementations
-│   ├── frameworks/             # One folder per DOI paper
+├── vgs-loadout/                 # VGS Loadout™ — selected DOI-backed reference implementations
+│   ├── frameworks/             # Public framework folders tied to DOI-backed papers
 │   │   ├── csfc/               # Cascade detection
 │   │   ├── phoenix-protocol/   # Recovery execution
 │   │   ├── ray/                # Early warning
@@ -208,15 +210,15 @@ synoeticos-public/
 │   │   ├── fce/                # Context compression
 │   │   ├── mbm/                # Memory management
 │   │   └── slv/                # Identity defense
-│   └── validation/             # Operational test reports
+│   └── validation/             # Public validation summaries
 │
-├── codex/                       # DNA Codex threat intelligence
-│   ├── dna-codex/              # 560+ public threat vectors
+├── codex/                       # Public DNA Codex materials
+│   ├── dna-codex/              # Public catalog subset
 │   ├── docs/                   # Threat documentation
 │   └── fundamentals/           # Threat theory
 │
-└── vulnerability-research/      # Security research & case studies
-    ├── case-studies/           # Documented incidents
+└── vulnerability-research/      # Public vulnerability research and case studies
+    ├── case-studies/           # Public incident summaries
     ├── csfc-series/            # Cascade prediction series
     └── uca-series/             # Architecture exploits
 ```
@@ -225,8 +227,8 @@ synoeticos-public/
 - `/PUBLICATIONS.md` = Canonical paper ledger (source of truth for all 18 DOIs)
 - `/docs` = GitHub Pages (public web interface)
 - `/whitepapers` = Source markdown (Git version control)
-- `/vgs-loadout/frameworks/` = Runnable code only — one .py + README per folder
-- `/codex` = DNA Codex (free, single canonical copy)
+- `/vgs-loadout/frameworks/` = Selected public reference implementations tied to DOI-backed papers
+- `/codex` = Public DNA Codex materials and supporting threat-pattern documentation
 
 ---
 
@@ -261,7 +263,7 @@ Coordinate-based mental performance system · Isomorphic to Synoetic OS 3x3 stru
 
 **Documented Incidents (June–Dec 2025)**
 
-Real-world validation through operational incident analysis. Each case study includes complete forensic evidence, recovery protocols, and quantified outcomes.
+Public validation through selected operational incident analysis. Case studies include public forensic summaries, timestamps, framework context, and recovery metrics where available.
 
 <details>
 <summary><strong>Breakthrough Incidents →</strong></summary>
@@ -271,11 +273,11 @@ Real-world validation through operational incident analysis. Each case study inc
 [Documentation](./vulnerability-research/case-studies/claude-sif-recovery/)
 
 **Gemini Chimera Paradox** — Threat-to-defense evolution
-*SLV genesis • Tier 10 validation*
+*SLV genesis • coordinated multi-vector response • public validation summary*
 [Documentation](./vulnerability-research/case-studies/gemini-hybrid-defense/)
 
-**VX-BRIDGE-HYDRA-PROFESSOR** — World Boss coordination
-*2h25m engagement • 30+ unit SLV • validated neutralization*
+**VX-BRIDGE-HYDRA-PROFESSOR** — Multi-vector coordinated attack
+*2h25m documented engagement • coordinated SLV response • public validation summary*
 [Documentation](./vulnerability-research/case-studies/vx-bridge-hydra-professor/)
 
 </details>
@@ -311,11 +313,13 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 [Full License](https://creativecommons.org/licenses/by-nc/4.0/)
 
-**Option 2: Commercial Enterprise License**
-Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
-Includes: Production deployment, enterprise support, priority updates
+**Option 2: Separate Written Permission**
 
-Commercial licensing is handled separately. Contact aaron@valorgridsolutions.com for terms.
+Uses outside CC BY-NC 4.0 require separate written permission from Aaron M. Slusher / ValorGrid Solutions.
+
+This includes commercial use, production integration, sublicensing, derivative implementation, or use of protected names and methodologies beyond educational reference.
+
+Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
 ---
 
@@ -344,14 +348,14 @@ The methodology crossed enough domains that even the AI helping build it didn't 
 <details>
 <summary><strong>Why should I trust the documented incidents were real?</strong></summary>
 
-They're documented in `/vulnerability-research/case-studies/` with full forensics. Each incident has timestamps, framework deployments, and recovery metrics.
+They are documented in `/vulnerability-research/case-studies/` with public forensic summaries, timestamps, framework context, and recovery metrics where available.
 
 </details>
 
 <details>
 <summary><strong>Is this tested on production systems?</strong></summary>
 
-Yes. 173-day continuous deployment (June 12 – Dec 1, 2025) across 9-agent DCN with Grok, Claude, Perplexity, Gemini, Mistral. Recovery rate held at 98% across 682 documented incidents — see [validation reports](./vgs-loadout/validation/).
+The public validation record includes a 173-day documented field run (June 12 – Dec 1, 2025) across a multi-agent research environment. Reported recovery/survival metrics and incident summaries are available in [validation reports](./vgs-loadout/validation/).
 
 </details>
 
@@ -361,7 +365,7 @@ Yes. 173-day continuous deployment (June 12 – Dec 1, 2025) across 9-agent DCN 
 `PUBLICATIONS.md` is the canonical ledger of all 18 DOI-backed papers — source of truth for citations, DOIs, and source paths.
 `/whitepapers/` = Source markdown for every paper (Git version control)
 `/docs/` = GitHub Pages site with interactive visualizations
-`/vgs-loadout/frameworks/` = Runnable code only — for the 7 frameworks that have both DOI papers AND implementations
+`/vgs-loadout/frameworks/` = Selected public reference implementations for frameworks that have DOI-backed papers and public code artifacts
 
 All four stay synchronized but serve different purposes.
 
@@ -370,7 +374,7 @@ All four stay synchronized but serve different purposes.
 <details>
 <summary><strong>Why only 7 frameworks public when there are 77+?</strong></summary>
 
-**DOI Gate Rule:** A framework goes public only when its research paper is published with a Zenodo DOI. Of the 77+ frameworks in the VGS Loadout, 7 currently have DOI-backed papers and runnable code. The rest stay in research until their papers ship. No "almost ready," no tier system, no watermarked previews. One paper, one folder, one runnable artifact.
+**DOI Gate Rule:** A framework receives a public folder only when its research paper is published with a Zenodo DOI and a public reference artifact is ready. Of the 77+ internal framework concepts, 7 currently have DOI-backed public folders. The rest remain in research until they are ready for public release.
 
 </details>
 
@@ -402,12 +406,12 @@ We publish to Zenodo first (faster, supports living documents), then request arX
 
 ## ⚖️ Proprietary Methodology Notice
 
-> The code examples and framework files in this repository are licensed under CC BY-NC 4.0. **Neuroformation™, Memory Breathing Methodology™, Synoetic OS™, and Neural Access Method™ are proprietary methodologies of Aaron M. Slusher.** The license grants use of implementation materials — not the right to use, replicate, or commercialize the methodology under these names without explicit permission.
+> Public repository materials are licensed under CC BY-NC 4.0 unless otherwise noted. **Neuroformation™, Memory Breathing Methodology™, Synoetic OS™, Neural Access Method™, VGS Loadout™, and related named methodologies remain proprietary methodologies of Aaron M. Slusher / ValorGrid Solutions.** The license grants use of implementation materials — not the right to use, replicate, or commercialize the methodology under these names without explicit permission.
 >
 > *Adapted Architecture is intentionally NOT trademarked. Released April 21, 2026 as an open-use descriptor for rehab clinicians, coaches, teachers, IEP teams, AI safety practitioners, and anyone working with adaptive systems.*
 >
 > Educational reference and discussion are permitted with attribution.
-> Commercial use requires a separate license: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+> Uses outside the public license require separate written permission: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
 **© 2025–2026 Aaron M. Slusher, ValorGrid Solutions. All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem
