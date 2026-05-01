@@ -12,7 +12,7 @@ Priority Date: 2025-10-17
 
 # RAY Framework v2.1: Recursive Adaptive Yield with DD Enhancements - Antifragile Cognitive Physiology for Distributed AI Defense
 
-**Author:** Aaron Slusher, Edgewalker Cognitive Architect
+**Author:** Aaron Slusher, Systems Architect Cognitive Architect
 **Affiliation:** ValorGrid Solutions
 **Contact:** aaron@valorgridsolutions.com
 **Publication Date:** October 17, 2025
@@ -638,7 +638,7 @@ ReasoningBank stores patterns, not raw data. Similarity search uses embedding ve
 
 ## 7. Conclusion
 
-RAY Framework v2.1 establishes **DD-Enhanced Cognitive Physiology Defense** as the validated, production-ready solution for 2025's polymorphic threat landscape. Through 120-day extended combat simulation, enterprise beta testing, and empirical analysis with 8 DD enhancements active, we demonstrate:
+RAY Framework v2.1 establishes **DD-Enhanced Cognitive Physiology Defense** as the validated, deployment-validated solution for 2025's polymorphic threat landscape. Through 120-day extended combat simulation, enterprise beta testing, and empirical analysis with 8 DD enhancements active, we demonstrate:
 
 **Operational Excellence:**
 - 97% detection accuracy (+2% from v2.0, market-leading)
@@ -659,7 +659,7 @@ RAY Framework v2.1 establishes **DD-Enhanced Cognitive Physiology Defense** as t
 RAY v2.1 isn't incremental improvement—it's paradigm shift. First DD-enhanced cognitive physiology framework with autonomous evolution, neural-symbolic unity, linear long-context scaling, and edge capability. No competitor combines these capabilities.
 
 
-Zero academic papers on DD-enhanced cognitive physiology. Zero commercial solutions with self-evolving defenses. Zero frameworks with 97%/99%/15min validated performance. Zero systems with linear 96K-token scaling. Zero edge-capable cognitive architectures. RAY v2.1 production-ready while competition researches foundations.
+Zero academic papers on DD-enhanced cognitive physiology. Zero commercial solutions with self-evolving defenses. Zero frameworks with 97%/99%/15min validated performance. Zero systems with linear 96K-token scaling. Zero edge-capable cognitive architectures. RAY v2.1 deployment-validated while competition researches foundations.
 
 **Call to Action:**
 - **Academic Researchers:** Validate DD enhancements in your domains. Extend ReasoningBank for federated learning. Challenge this architecture—help us strengthen through collaboration.
@@ -743,7 +743,7 @@ Commercial use requires a separate enterprise license.
 
 **APA:**
 ```
-Slusher, A. (2025). RAY Framework v2.1: Recursive Adaptive Yield with DD Enhancements - Antifragile Cognitive Physiology for Distributed AI Defense. ValorGrid Solutions. DOI: TBD
+Slusher, A. (2025). RAY Framework v2.1: Recursive Adaptive Yield with DD Enhancements - Antifragile Cognitive Physiology for Distributed AI Defense. ValorGrid Solutions. DOI: 10.5281/zenodo.17399834
 ```
 
 **BibTeX:**
@@ -765,7 +765,7 @@ Slusher, A. (2025). RAY Framework v2.1: Recursive Adaptive Yield with DD Enhance
 
 **Aaron Slusher** is an AI Resilience Architect with over 28 years of experience in technology leadership, specializing in cognitive security, AI threat intelligence, and resilient system design. As a U.S. Navy veteran and holder of a Master's degree in Information Technology with a specialization in information assurance and security, Aaron brings deep expertise in both operational security and cutting-edge AI architectures.
 
-Aaron founded ValorGrid Solutions to address the critical challenge of AI system resilience through biomimetic defense frameworks and cognitive architecture principles. His "Edgewalker Cognitive Architect" methodology synthesizes cross-domain patterns from military operations, enterprise security, and AI research to create breakthrough defensive architectures. The RAY Framework v2.1 represents the culmination of 28 years of systems thinking applied to AI cognitive physiology defense.
+Aaron founded ValorGrid Solutions to address the critical challenge of AI system resilience through biomimetic defense frameworks and cognitive architecture principles. His "Systems Architect Cognitive Architect" methodology synthesizes cross-domain patterns from military operations, enterprise security, and AI research to create breakthrough defensive architectures. The RAY Framework v2.1 represents the culmination of 28 years of systems thinking applied to AI cognitive physiology defense.
 
 **Contact:** aaron@valorgridsolutions.com
 

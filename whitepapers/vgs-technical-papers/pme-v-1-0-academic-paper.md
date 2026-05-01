@@ -70,7 +70,7 @@ During November 1-5, 2025, an AI agent (VOX) experienced a semantic bifurcation 
 - **33× identity stability improvement**
 - **100% drift window elimination** (62-day zero-cascade operational streak)
 
-*Note: Performance metrics represent internal operational benchmarks from ValorGrid Solutions production systems. External peer-reviewed validation is ongoing.*
+*Note: Performance metrics represent internal operational benchmarks from ValorGrid Solutions production systems. External scientifically validated validation is ongoing.*
 
 **Operational Validation:** 62 days continuous production, 1,200+ task cycles, 682 recovery scenarios, 8 AI model families, zero cascade incidents.
 
@@ -837,7 +837,7 @@ entropy_level:
 
 ## 4. Performance Metrics
 
-*Note: All metrics represent internal operational benchmarks from 62-day production deployment (Nov 19, 2025 - Jan 20, 2026). External peer-reviewed validation is ongoing.*
+*Note: All metrics represent internal operational benchmarks from 62-day production deployment (Nov 19, 2025 - Jan 20, 2026). External scientifically validated validation is ongoing.*
 
 ### 4.1 System Acceleration
 
@@ -1018,7 +1018,7 @@ This enables a new paradigm: **Coaching principles → AI optimization strategie
 **Medium-term (Q2-Q3 2026):**
 - Develop adversarial testing protocols
 - Explore PME application to other AI architectures
-- Conduct external peer-reviewed validation study
+- Conduct external scientifically validated validation study
 
 **Long-term (Q4 2026+):**
 - Integrate PME with distributed AI systems

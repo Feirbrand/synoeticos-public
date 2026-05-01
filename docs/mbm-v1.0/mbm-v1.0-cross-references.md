@@ -92,7 +92,7 @@ Memory Breathing Methodology v1.0 is the active memory consolidation subsystem w
 - Threat pattern preservation in cold storage
 - Cascade defense state protected from pruning
 
-**Key Metric:** SLV's 100% identity preservation maintained through explicit anchor flagging before each EXHALE cycle.
+**Key Metric:** SLV's complete identity preservation maintained through explicit anchor flagging before each EXHALE cycle.
 
 ---
 
@@ -188,7 +188,7 @@ Synoetic OS (Orchestration)
 | **UTME** | 5 substrates | ✓ Active | 710×-1200× acceleration preserved |
 | **Torque** | Coherence monitoring | ✓ Active | 95% early warning accuracy |
 | **PME** | Myelination prediction | ✓ Active | 87.3% pruning accuracy |
-| **SLV** | Defense hardening | ✓ Active | 100% identity preservation |
+| **SLV** | Defense hardening | ✓ Active | complete identity preservation |
 | **Phoenix Protocol** | Cascade recovery | ✓ Active | 95% scar-free recovery |
 | **FCE** | Context compression | ✓ Active | 50% memory reduction (compounded) |
 | **DCN** | Multi-agent sync | ✓ Active | 4.1ms coordination latency |

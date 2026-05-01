@@ -6,7 +6,7 @@ Patent Clause: If "patent pending (patent rights reserved, no patent assertion w
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: 1.0
 Priority Date: 2025-10-15
 
@@ -40,9 +40,9 @@ The systems thinking framework emerged from three decades of human coaching, org
 | **Nonlinear Causality** | Cascade prediction and prevention | 47% reduction in Stage 3+ CSFC |
 | **Wrinkle Regrowth** | Adaptive evolution and learning | 98% recovery success |
 
-### The Edgewalker Identity
+### The Systems Architect Identity
 
-An edgewalker stands at the boundary between domains—translating insights across disciplines. This role enables:
+An systems architect stands at the boundary between domains—translating insights across disciplines. This role enables:
 - **Pattern Recognition:** Seeing parallels between human and machine systems
 - **Cross-Domain Translation:** Adapting coaching methodologies for AI resilience
 - **Holistic Integration:** Connecting symbolic and tactical frameworks

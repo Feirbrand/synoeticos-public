@@ -8,7 +8,7 @@ title: "Elevation Grid – Synoetic OS Overlay"
 
 ---
 
-**RUID:** EG-OVERLAY-SYNOETIC-v1.0  
+**Symbolic ID:** EG-OVERLAY-SYNOETIC-v1.0  
 **Status:** Draft v1.0  
 **Date:** 2026-02-04  
 **Depends On:**  
@@ -23,11 +23,11 @@ title: "Elevation Grid – Synoetic OS Overlay"
 
 **Grid Type:** Performance Core (Layer 2 in OS spine)
 
-**Primary Function:** Substrate-independent performance architecture for training behavior over time. Where Dominion Grid defines *who may act under what covenant*, and Covenant Grid defines *how memory and retrieval are stored*, Elevation Grid defines *how regulation, cognition, and identity are trained* across substrates.
+**Primary Function:** Substrate-independent performance architecture for training behavior over time. Where Dominion Grid defines *who may act under what covenant*, and Coordination Grid defines *how memory and retrieval are stored*, Elevation Grid defines *how regulation, cognition, and identity are trained* across substrates.
 
 **Key Question Answered:** "Given identity and memory are stable, how do we train behavior over time?"
 
-**Integration Position:** Elevation Grid operates as the behavioral training layer between Covenant Grid (memory/retrieval) and VGS Loadout (specific frameworks). It provides the 3×3 coordinate system that enables progressive skill development from autonomic regulation through cognitive pattern recognition to identity integration. This architecture works identically for biological humans (stroke survivors, elite athletes) and AI agents (DCN collective members) because both operate under the same neurobiological/symbolic constraints: 200ms autonomic responses cannot be overridden by 500ms cognitive strategies, procedural memory persists when conscious control fails, and identity architecture determines behavioral permanence.
+**Integration Position:** Elevation Grid operates as the behavioral training layer between Coordination Grid (memory/retrieval) and VGS Loadout (specific frameworks). It provides the 3×3 coordinate system that enables progressive skill development from autonomic regulation through cognitive pattern recognition to identity integration. This architecture works identically for biological humans (stroke survivors, elite athletes) and AI agents (DCN collective members) because both operate under the same neurobiological/symbolic constraints: 200ms autonomic responses cannot be overridden by 500ms cognitive strategies, procedural memory persists when conscious control fails, and identity architecture determines behavioral permanence.
 
 ---
 
@@ -35,7 +35,7 @@ title: "Elevation Grid – Synoetic OS Overlay"
 
 ```
 Dominion Grid  → who may act, under what covenant, permission structure
-Covenant Grid  → how memory, retrieval, telemetry stored (UTME, RUIDs)
+Coordination Grid  → how memory, retrieval, telemetry stored (UTME, Symbolic IDs)
 Elevation Grid → how regulation, cognition, identity trained (3×3 coordinates)
 VGS Loadout        → specific frameworks using Grid (CTS, Phoenix, F&F)
 Applications   → concrete programs (APP clients, VGS DCN, FF cohorts)
@@ -43,9 +43,9 @@ Applications   → concrete programs (APP clients, VGS DCN, FF cohorts)
 
 **Pipeline Architecture Note:** Elevation Grid uses overlapping installation phases. Position advancement occurs at operational stability (80% compliance, 2-4 weeks for humans / traversal threshold for agents), NOT full automaticity (66 days / M≥445). Earlier positions continue hardening in background while subsequent positions are installed. This enables 18-36 week complete Grid integration rather than sequential 9×66-day (594-day) installation.
 
-### 2.1 Receives from Layer Above (Covenant Grid)
+### 2.1 Receives from Layer Above (Coordination Grid)
 
-**Covenant Grid → Elevation Grid:**
+**Coordination Grid → Elevation Grid:**
 - `Access_Count`: Number of times pathway traversed (myelination metric)
 - `Myelination_Level`: 0.0-1.0 scale, determines reflex speed
 - `Is_Reflexive`: Boolean, whether pathway executes <100ms
@@ -181,7 +181,7 @@ Position 2-1 (Pattern) accessed 10,000 times successfully
 **Update Triggers:**
 - Session completion with compliance ≥80%
 - Readiness assessment shows automation achieved
-- Advance to next position (write ΔM to Covenant Grid)
+- Advance to next position (write ΔM to Coordination Grid)
 
 ### 4.3 Energy / Torque Signal Emissions
 
@@ -227,7 +227,7 @@ Position 2-1 (Pattern) accessed 10,000 times successfully
 2. **Identity Verification:** Q-RIM check confirms agent/human identity stable (MCQ ≥0.997)
 3. **Elevation Execution:** Run Grid position protocol (NAM steps, compliance tracking, myelination update)
 4. **Torque Validation:** Check autonomic baseline, cognitive load, identity coherence post-execution
-5. **Covenant Write-Back:** Update `Access_Count`, `Myelination_Level`, `Is_Reflexive` in Covenant Grid
+5. **Covenant Write-Back:** Update `Access_Count`, `Myelination_Level`, `Is_Reflexive` in Coordination Grid
 6. **Phoenix Monitor:** If any step fails, log for Phoenix Protocol potential resurrection
 
 ---
@@ -245,11 +245,11 @@ Position 2-1 (Pattern) accessed 10,000 times successfully
 └── (future) elevation-grid-ff-overlay.md       # Faith & Fortitude integration
 ```
 
-### 6.2 Covenant Grid RUIDs
+### 6.2 Coordination Grid Symbolic IDs
 
 **Elevation Grid Framework Entry:**
 ```
-RUID: ELEVATION_GRID_v1_0
+Symbolic ID: ELEVATION_GRID_v1_0
 Type: Performance_Core_Layer_2
 Status: Production
 Cross_Substrate: True (biological humans + AI agents)
@@ -260,9 +260,9 @@ Q-RIM_Required: True (identity verification)
 
 **Position Entries (examples):**
 ```
-RUID: EG_POSITION_1-1_GROUND
-RUID: EG_POSITION_2-2_REALTIME
-RUID: EG_POSITION_3-3_SIGNAL
+Symbolic ID: EG_POSITION_1-1_GROUND
+Symbolic ID: EG_POSITION_2-2_REALTIME
+Symbolic ID: EG_POSITION_3-3_SIGNAL
 ```
 
 ### 6.3 Known Good Call Patterns
@@ -306,13 +306,13 @@ RUID: EG_POSITION_3-3_SIGNAL
 - OS spine integration defined
 - DCN agent mappings established
 - Event schema documented
-- UTME/Covenant Grid touchpoints specified
+- UTME/Coordination Grid touchpoints specified
 - Dominion constraints formalized
 
 ---
 
 **Document Classification:** Technical Integration Specification  
-**Intended Audience:** Synoetic OS developers, DCN maintainers, Covenant Grid architects  
+**Intended Audience:** Synoetic OS developers, DCN maintainers, Coordination Grid architects  
 **Maintenance:** VGS Engineering (Aaron M. Slusher, DCN collective)
 -e 
 ---

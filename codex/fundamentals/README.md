@@ -6,7 +6,7 @@ Patent Clause: If "patent pending (patent rights reserved, no patent assertion w
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: 1.1
 Priority Date: 2025-10-15
 

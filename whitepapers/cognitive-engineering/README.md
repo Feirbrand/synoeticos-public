@@ -5,7 +5,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: TBD
 Priority Date: 2025-10-15
 
@@ -89,7 +89,7 @@ Revolutionary context management framework that provides sophisticated memory ca
 
 **Implementation Framework**
 - No-Code Deployment: 50% iteration reduction through automated frameworks
-- Production-Ready Architecture: Air-gapped deployment with comprehensive monitoring
+- Deployment-Validated Architecture: Air-gapped deployment with comprehensive monitoring
 - Platform Compatibility: AWS, Google Cloud, Azure, Docker, Kubernetes
 - API Integration: RESTful, GraphQL, gRPC, WebSocket support
 
@@ -109,7 +109,7 @@ Research into organizational memory patterns that mirror biological memory syste
 <h3>Core Research Documents</h3>
 
 **context-engineering-the-complete-framework.md**
-Comprehensive methodology consolidating the original 5-part Context Engineering series into a unified, production-ready framework. Includes systematic approaches to context organization, retention optimization, and cross-system compatibility with validated performance metrics.
+Comprehensive methodology consolidating the original 5-part Context Engineering series into a unified, deployment-validated framework. Includes systematic approaches to context organization, retention optimization, and cross-system compatibility with validated performance metrics.
 
 **fractal-context-engineering.md**
 The unified FCE v3.6 framework supporting all AI architectures (symbolic, hybrid, flat, neuro-symbolic) with advanced features including LLMLingua compression, concept embedding optimization, episodic KV cache management, and self-healing capabilities. Production-validated with enterprise deployment case studies.

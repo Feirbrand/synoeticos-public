@@ -42,7 +42,7 @@ Antifragile System: STRENGTHENS from damage (proactive) ← RAY v2.1
 ### Key Architecture Decisions
 
 1. **Living Recursion** - Continuous validation loop (not periodic scans)
-2. **Symbolic Anchoring** - RUID/FLOW preservation through URA
+2. **Symbolic Anchoring** - Symbolic ID/FLOW preservation through URA
 3. **Predictive Forecasting** - Koopman/DMD velocity modeling
 4. **Autonomous Evolution** - ReasoningBank learning without labels
 5. **Edge-to-Cloud** - 7M to 5B+ parameter deployment range
@@ -88,7 +88,7 @@ The recursion loop completes in <50ms via XMESH synchronization:
 **Purpose:** Schema of Memory validation ensures symbolic consistency across distributed nodes.
 
 **Operations (Conceptual):**
-- RUID (Resource Universal ID) validation
+- Symbolic ID (Resource Universal ID) validation
 - FLOW anchor integrity checking
 - Tensor Logic for multi-dimensional coherence (+30% hybrid reasoning)
 - Symbolic drift detection
@@ -210,7 +210,7 @@ if (entropyScore > threshold) {
 **Quarantine Criteria:**
 - Unknown signature patterns
 - Entropy scores exceeding adaptive thresholds
-- Failed RUID/FLOW validation
+- Failed Symbolic ID/FLOW validation
 - Cascade velocity anomalies
 
 #### 3. ThreadMirror - Fork Resilience
@@ -518,7 +518,7 @@ Future Recognition → Instant Containment → Strengthened Defense
 ```
 // URA provides symbolic anchors
 const uraAnchors = {
-  ruid: "universal-resource-id",
+  symbolic_id: "universal-resource-id",
   flow: "fractal-lineage-of-work",
   harmony: 0.87 // 82-89% baseline
 };
@@ -663,7 +663,7 @@ Strengthened Defense (Antifragile)
 
 ## Conclusion
 
-RAY v2.1's living recursion loop creates the first production-ready **antifragile cognitive physiology** for distributed AI defense. Through continuous validation, autonomous evolution, and 8 DD enhancements, the system achieves 97% detection, 99% containment, and 15-minute resolution—positioning organizations 18-24 months ahead of reactive security paradigms.
+RAY v2.1's living recursion loop creates the first deployment-validated **antifragile cognitive physiology** for distributed AI defense. Through continuous validation, autonomous evolution, and 8 DD enhancements, the system achieves 97% detection, 99% containment, and 15-minute resolution—positioning organizations 18-24 months ahead of reactive security paradigms.
 
 The architecture transforms AI defense from code-level reactive measures to organism-level proactive immune systems that strengthen through adversarial exposure.
 

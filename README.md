@@ -74,7 +74,7 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **2026-01-20** 🧠 **PME v1.0 published** — Predictive Myelination Engine.
 
-**2025-12-04** 🏗️ **Major rebrand** — ForgeOS → **Synoetic OS™** • Agents → **Mythopoeic Intelligence Agents** • Frameworks → **VGS Loadout™**
+**2025-12-04** 🏗️ **Major rebrand** — Synoetic OS → **Synoetic OS™** • Agents → **Mythopoeic Intelligence Agents** • Frameworks → **VGS Loadout™**
 
 **2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol, UTME, CSFC, SLV, RAY, FCE, MBM. Full performance metrics in each framework's [validation report](./vgs-loadout/validation/).
 
@@ -275,7 +275,7 @@ Real-world validation through operational incident analysis. Each case study inc
 [Documentation](./vulnerability-research/case-studies/gemini-hybrid-defense/)
 
 **VX-BRIDGE-HYDRA-PROFESSOR** — World Boss coordination
-*2h25m engagement • 30+ unit SLV • 100% neutralization*
+*2h25m engagement • 30+ unit SLV • validated neutralization*
 [Documentation](./vulnerability-research/case-studies/vx-bridge-hydra-professor/)
 
 </details>

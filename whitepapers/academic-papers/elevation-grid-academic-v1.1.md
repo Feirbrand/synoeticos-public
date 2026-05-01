@@ -52,7 +52,7 @@ The Elevation Grid™ and the Neural Access Method™ were built from the field 
 
 Mental performance was not a separate service offering during this period. It was integrated into every session -- woven into movement coaching, strength programming, and competition preparation as a matter of course. Mindset, regulation, identity, and focus were coached alongside physical work because separating them produced worse outcomes. It was only in February 2026, while building out the framework documentation, that mental performance was formalized as a standalone service offering. That process of writing it down is what produced the Elevation Grid as an explicit system. The framework existed in practice long before it had a name.
 
-This is not a researcher presenting a theory. It is a practitioner presenting a system -- along with the education, certifications, and decades of pattern recognition that built it -- and then showing what the peer-reviewed literature says about why it works. The framework is not derived from that research. It is validated by it.
+This is not a researcher presenting a theory. It is a practitioner presenting a system -- along with the education, certifications, and decades of pattern recognition that built it -- and then showing what the scientifically validated literature says about why it works. The framework is not derived from that research. It is validated by it.
 
 ---
 
@@ -113,14 +113,14 @@ The soft skills layer of this work -- motivation, mindset, behavior change -- gr
 This paper presents:
 - **The Elevation Grid:** A 3x3 coordinate-based framework (9 positions across 3 neural hierarchies: Autonomic -> Cognitive -> Identity) integrating autonomic regulation, motor learning, and identity architecture
 - **Neural Access Method (NAM):** A 4-step protocol (ACCESS -> REFRAME -> SIMPLIFY -> IGNITE) for bypassing cortical interference to restore procedural motor execution
-- **Field Evidence:** Three primary validation cases (Chris Oats stroke recovery, Jamie Benassi and Rachel Steffen Team USA gold medals), 80% habit retention data (Precision Nutrition L2 methodology), and grounding in 250+ peer-reviewed neuroscience studies
+- **Field Evidence:** Three primary validation cases (Chris Oats stroke recovery, Jamie Benassi and Rachel Steffen Team USA gold medals), 80% habit retention data (Precision Nutrition L2 methodology), and grounding in 250+ scientifically validated neuroscience studies
 - **Cross-Population Generalizability:** Framework applied across stroke survivors, cerebral palsy, Ehlers-Danlos syndrome, youth athletes (ages 8-18), high school athletes, general population adults, combat sports (MMA, BJJ, boxing), and elite performers--with metaphor-driven coaching language as primary delivery mechanism. This is a partial list. The framework has been applied across 28+ years of coaching and continues to grow.
 
 ---
 
 ## 2. THEORETICAL FOUNDATION: EIGHT PRINCIPLES OF HUMAN PERFORMANCE
 
-The Elevation Grid combines eight distinct scientific principles into an integrated operational framework. These are not theoretical abstractions but mechanisms validated through peer-reviewed research and field outcomes.
+The Elevation Grid combines eight distinct scientific principles into an integrated operational framework. These are not theoretical abstractions but mechanisms validated through scientifically validated research and field outcomes.
 
 ### 2.1 PRINCIPLE 1: Bandwidth Constraint
 
@@ -505,9 +505,9 @@ While this paper highlights the Chris Oats case for narrative clarity and mechan
 
 **Consultant Contribution:** Movement assessment protocols, mental performance integration for coaches and athletes, performance coaching methodology education
 
-### 5.3 Research Foundation: 250+ Peer-Reviewed Studies
+### 5.3 Research Foundation: 250+ Scientifically validated Studies
 
-The Elevation Grid combines findings across multiple disciplines. The framework is grounded in over 250 peer-reviewed studies across the following domains:
+The Elevation Grid combines findings across multiple disciplines. The framework is grounded in over 250 scientifically validated studies across the following domains:
 
 **Autonomic Nervous System:**
 - Thayer & Lane 2009 (HRV and ANS balance)

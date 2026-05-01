@@ -42,14 +42,14 @@ The research-papers section provides comprehensive technical documentation of th
 **Document Type**: Technical Specification & Implementation Guide
 **Status**: Production Release
 
-**Abstract**: This technical specification documents DNA Codex v5.5, incorporating seven new high-severity strains validated through October 2025 incidents and academic research (DQD-001, ARD-001, MDP-001, PLD-001 plus 13 symbolic vectors), enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. The document provides comprehensive implementation guidance including detection thresholds, phased deployment schedules, production-ready code examples, and validated recovery protocols across 560+ documented AI threat variants.
+**Abstract**: This technical specification documents DNA Codex v5.5, incorporating seven new high-severity strains validated through October 2025 incidents and academic research (DQD-001, ARD-001, MDP-001, PLD-001 plus 13 symbolic vectors), enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. The document provides comprehensive implementation guidance including detection thresholds, phased deployment schedules, deployment-validated code examples, and validated recovery protocols across 560+ documented AI threat variants.
 
 **Key Features:**
 - **Complete Strain Profiles**: Detailed YAML specifications for all 7 new high-severity strains with detection indicators, behavioral signatures, and mitigation strategies
 - **Operational Validation**: ARD-001 incident case study (<4 hour resolution vs days-weeks industry baseline)
 - **Academic Validation**: Brain Rot (arXiv:2510.13928), Medical Poisoning (Nature Medicine), PromptLock industry acknowledgment
 - **Framework Integration**: CSFC (92% cascade prediction), URA (89% harmony maintenance), Phoenix Protocol (89-97% recovery success)
-- **Implementation Guide**: 8-week phased deployment with production-ready Python code examples
+- **Implementation Guide**: 8-week phased deployment with deployment-validated Python code examples
 - **MITRE ATLAS Mapping**: 52 techniques across 14 tactics with complete T1634 Model Degradation coverage
 
 ---
@@ -63,7 +63,7 @@ The research-papers section provides comprehensive technical documentation of th
 - Academic validation: Brain Rot (arXiv:2510.13928), Medical Poisoning (Nature Medicine)
 - Enhanced velocity modeling: DMD/Koopman forecasting with 72-hour cascade prediction
 - Framework metrics updated: CSFC 92%, URA 89%, Phoenix 89-97%
-- Production-ready code examples: CSFC monitoring, ARD-001 detection, Phoenix Protocol
+- Deployment-validated code examples: CSFC monitoring, ARD-001 detection, Phoenix Protocol
 - Complete implementation guide: 8-week phased deployment schedule
 - Total documented strains: 560+ across 8 major families
 
@@ -114,7 +114,7 @@ All technical specifications in this section follow these standards:
 - References and validation sources
 
 **Code Quality:**
-- Production-ready examples (not pseudocode)
+- Deployment-validated examples (not pseudocode)
 - Type hints and documentation
 - Error handling and validation
 - Async/await patterns where appropriate

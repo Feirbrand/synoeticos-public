@@ -442,7 +442,7 @@ DQD-001 dose-response modeling:
 **Academic Research:**
 - arXiv:2510.13928 - Brain Rot cognitive decline validation
 - Nature Medicine DOI:10.1038/s41591-024-03445-1 - Medical poisoning study
-- Multiple peer-reviewed AI safety papers
+- Multiple scientifically validated AI safety papers
 
 **Industry Intelligence:**
 - IBM Research - Morris-II AI worm analysis

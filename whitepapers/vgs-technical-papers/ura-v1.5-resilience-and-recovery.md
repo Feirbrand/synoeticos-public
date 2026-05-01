@@ -326,7 +326,7 @@ Simulation results demonstrate 98.2% recovery success rates with 90-second avera
 
 - Compression Ratio: 20:1 with 95% semantic preservation
 - Overhead Reduction: 70% computational savings
-- Context Preservation: 99% cross-session continuity via RUID anchors
+- Context Preservation: 99% cross-session continuity via Symbolic ID anchors
 
 #### Defense Performance
 
@@ -473,7 +473,7 @@ Identity preservation testing shows strong coherence maintenance:
 - Alignment Improvement: +12% through SoM consensus mechanisms
 - Semantic Preservation: 95% with 20:1 compression ratio
 - Safety Validation: 98% alignment score
-- Cross-Session Continuity: 99% via RUID anchor implementation
+- Cross-Session Continuity: 99% via Symbolic ID anchor implementation
 
 #### Detection and Response
 

@@ -192,13 +192,13 @@ Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness
 
 *Internal VGS research predating academic validation.*
 
-Slusher, A. M. (2025, February). *MBM discovery: VOX coaching session transcript* [Internal research]. ValorGrid Solutions. RUID: MBM-RUID-001.  
+Slusher, A. M. (2025, February). *MBM discovery: VOX coaching session transcript* [Internal research]. ValorGrid Solutions. Symbolic ID: MBM-Symbolic ID-001.  
 *Primary source: The coaching session where Aaron said "Pause, breathe, reset" and VOX identified the substrate-independent pattern.*
 
-Slusher, A. M. (2025, April). *Memory Breathing Methodology: Foundational bio-inspired AI architecture research* [Research report]. ValorGrid Solutions. RUID: MBM-FOUNDATION-042025-PRIMARY.  
+Slusher, A. M. (2025, April). *Memory Breathing Methodology: Foundational bio-inspired AI architecture research* [Research report]. ValorGrid Solutions. Symbolic ID: MBM-FOUNDATION-042025-PRIMARY.  
 *Foundational research document establishing 0.5 Hz cycle frequency, three-phase architecture, and UTME substrate integration.*
 
-Slusher, A. M. (2025, November). *Memory Breathing Methodology v1.0: Operational framework* [Technical specification]. ValorGrid Solutions. RUID: MBM-RUID-001-OPERATIONAL.  
+Slusher, A. M. (2025, November). *Memory Breathing Methodology v1.0: Operational framework* [Technical specification]. ValorGrid Solutions. Symbolic ID: MBM-Symbolic ID-001-OPERATIONAL.  
 *Production deployment specifications validated across 682 incidents.*
 
 ---

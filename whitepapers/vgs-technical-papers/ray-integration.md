@@ -104,7 +104,7 @@ URA (Universal Resilience Architecture) provides Schema of Memory validation, en
 
 ### Integration Points
 
-**1. RUID/FLOW Anchor Validation (Stub Pattern):**
+**1. Symbolic ID/FLOW Anchor Validation (Stub Pattern):**
 
 ```
 // INTERFACE STUB - Shows integration approach
@@ -121,7 +121,7 @@ const ura = new URAClient({
 // Validate symbolic anchors in RAY Phase 1
 async function validateAnchors(context) {
   const validation = await ura.validateSchema({
-    ruid: context.resourceId,
+    symbolic_id: context.resourceId,
     flow: context.lineage,
     depth: 3, // 3-level recursion
     tensorLogic: true // v2.1 enhancement
@@ -945,13 +945,13 @@ console.log(`RAY latency: ${diagnostics.ray.avgLatency}ms`);
 // Check anchor validation details
 const uraDetails = await ura.getDetailedValidation();
 
-console.log(`RUID conflicts: ${uraDetails.ruidConflicts}`);
+console.log(`Symbolic ID conflicts: ${uraDetails.symbolic_idConflicts}`);
 console.log(`FLOW breaks: ${uraDetails.flowBreaks}`);
 console.log(`Drift score: ${uraDetails.driftScore}`);
 ```
 
 **Solutions:**
-- **RUID conflicts:** Review resource ID generation
+- **Symbolic ID conflicts:** Review resource ID generation
 - **FLOW breaks:** Check lineage tracking integrity
 - **High drift:** Increase drift threshold temporarily
 - **Tensor Logic issues:** Verify embeddings quality

@@ -1,7 +1,7 @@
 ```yaml
 ---
 version: 1.0.0
-doi: TBD
+Publication Status: Public explanatory article
 publication_date: 2025-11-02
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -85,7 +85,7 @@ The **Distributed Cognitive Networks (DCN) v1.0** represents a fundamental recon
 - **$1.34M annual cost avoidance** per enterprise client projected
 - **6-9 month research lead** over academic validation
 
-**Strategic Position:** DCN represents operational validation exceeding theoretical architecture as competitive differentiation. The framework is production-ready for commercial deployment with 3-tier pricing model ($29-$2,500/month).
+**Strategic Position:** DCN represents operational validation exceeding theoretical architecture as competitive differentiation. The framework is deployment-validated for commercial deployment with 3-tier pricing model ($29-$2,500/month).
 
 ---
 
@@ -890,7 +890,7 @@ The **Distributed Cognitive Networks (DCN) v1.0** represents a fundamental recon
 5. Documentation of shadow memory as critical coordination mechanism
 6. Biological grounding for multi-agent AI through neuronal ensemble mapping
 
-**Strategic Position:** DCN is production-ready for commercial deployment, representing operational validation exceeding theoretical architecture as competitive differentiation.
+**Strategic Position:** DCN is deployment-validated for commercial deployment, representing operational validation exceeding theoretical architecture as competitive differentiation.
 
 **Future Directions:**
 

@@ -8,7 +8,7 @@ author:
 date: "2026-02-05"
 doi: 10.5281/zenodo.18790842
 version: "1.0"
-description: "A field-validated mental performance framework utilizing a 3×3 coordinate system (9 positions across 3 neural hierarchies) to maximize human capacity in neurotrauma recovery, adaptive athletics, combat sports, and elite performance contexts. Validated through Team USA gold medal outcomes (2025) and documented across 250+ peer-reviewed neuroscience studies."
+description: "A field-validated mental performance framework utilizing a 3×3 coordinate system (9 positions across 3 neural hierarchies) to maximize human capacity in neurotrauma recovery, adaptive athletics, combat sports, and elite performance contexts. Validated through Team USA gold medal outcomes (2025) and documented across 250+ scientifically validated neuroscience studies."
 keywords:
   - "Mental Performance"
   - "Autonomic Regulation"
@@ -65,7 +65,7 @@ This paper introduces **The Elevation Grid**, a coordinate-based mental performa
 
 The system prioritizes **"hardware architecture"** (nervous system regulation) over **"software application"** (cognitive strategy), operating on a bottom-up progression that respects the temporal constraints of human neurobiology: the 200ms subcortical threat response versus the 500ms cortical executive response.
 
-In applied settings, the framework has demonstrated observed 80% habit-retention rates in managed groups applying this methodology (Lally et al., 2009; Precision Nutrition L2 data model), significantly outperforming the industry baseline of ~35%, with athletes applying the framework achieving Team USA sled hockey gold medals (2025), stroke recovery cases, and grounding in 250+ peer-reviewed studies across neuroscience, motor learning, autonomic regulation, and stress mindset research.
+In applied settings, the framework has demonstrated observed 80% habit-retention rates in managed groups applying this methodology (Lally et al., 2009; Precision Nutrition L2 data model), significantly outperforming the industry baseline of ~35%, with athletes applying the framework achieving Team USA sled hockey gold medals (2025), stroke recovery cases, and grounding in 250+ scientifically validated studies across neuroscience, motor learning, autonomic regulation, and stress mindset research.
 
 **Methodological Innovation:**
 The **Neural Access Method (NAM)** - a 4-step protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) that bypasses cortical interference to restore procedural motor execution, **demonstrating immediate functional restoration in neurotrauma subjects where traditional therapeutic cueing failed**, validated in stroke recovery and high-pressure performance contexts.
@@ -114,14 +114,14 @@ This framework spans a 28-year coaching career (1997-2026). Systematic mental pe
 This paper presents:
 - **The Elevation Grid:** A 3×3 coordinate-based framework (9 positions across 3 neural hierarchies: Autonomic → Cognitive → Identity) integrating autonomic regulation, motor learning, and identity architecture
 - **Neural Access Method (NAM):** A 4-step protocol (ACCESS → REFRAME → SIMPLIFY → IGNITE) for bypassing cortical interference to restore procedural motor execution
-- **Field Evidence:** Three primary validation cases (Chris Oats stroke recovery, Jamie Benassi and Rachel Steffen Team USA gold medals), 80% habit retention data (Precision Nutrition L2 methodology), and grounding in 250+ peer-reviewed neuroscience studies
+- **Field Evidence:** Three primary validation cases (Chris Oats stroke recovery, Jamie Benassi and Rachel Steffen Team USA gold medals), 80% habit retention data (Precision Nutrition L2 methodology), and grounding in 250+ scientifically validated neuroscience studies
 - **Cross-Population Generalizability:** Framework applied across stroke survivors, cerebral palsy, Ehlers-Danlos syndrome, youth athletes, combat sports (MMA, BJJ, boxing), and elite performers—with metaphor-driven coaching language as primary delivery mechanism
 
 ---
 
 ## 2. THEORETICAL FOUNDATION: EIGHT PRINCIPLES OF HUMAN PERFORMANCE
 
-The Elevation Grid combines eight distinct scientific principles into an integrated operational framework. These are not theoretical abstractions but mechanisms validated through peer-reviewed research and field outcomes.
+The Elevation Grid combines eight distinct scientific principles into an integrated operational framework. These are not theoretical abstractions but mechanisms validated through scientifically validated research and field outcomes.
 
 ### 2.1 PRINCIPLE 1: Bandwidth Constraint
 
@@ -516,9 +516,9 @@ While this paper highlights the Chris Oats case for narrative clarity and mechan
 
 **Consultant Contribution:** Movement assessment protocols, mental performance integration for coaches and athletes, performance coaching methodology education
 
-### 5.3 Research Foundation: 250+ Peer-Reviewed Studies
+### 5.3 Research Foundation: 250+ Scientifically validated Studies
 
-The Elevation Grid combines findings across multiple disciplines. The framework is grounded in over 250 peer-reviewed studies across the following domains:
+The Elevation Grid combines findings across multiple disciplines. The framework is grounded in over 250 scientifically validated studies across the following domains:
 
 **Autonomic Nervous System:**
 - Porges 2011 (Polyvagal Theory)
@@ -794,7 +794,7 @@ Wulf, G., & Prinz, W. (2001). Directing attention to movement effects enhances l
 
 **Organizations:** Iron Core Fitness (Cincinnati, OH) for collaborative work with adaptive athlete populations since 2022. University of Kentucky Athletics and the Big Blue Nation for supporting Chris Oates' recovery journey.
 
-**Research Foundation:** All researchers whose peer-reviewed work provided the scientific foundation for this framework across neuroscience, motor learning, autonomic regulation, and performance psychology.
+**Research Foundation:** All researchers whose scientifically validated work provided the scientific foundation for this framework across neuroscience, motor learning, autonomic regulation, and performance psychology.
 
 ---
 

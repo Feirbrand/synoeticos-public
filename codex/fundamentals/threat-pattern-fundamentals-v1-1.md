@@ -6,7 +6,7 @@ Patent Clause: If "patent pending (patent rights reserved, no patent assertion w
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: 1.1 (Updated October 15, 2025)
 Priority Date: 2025-10-15
 
@@ -39,7 +39,7 @@ This document provides academic foundation for understanding threat patterns in 
 - **Primary Threats**: SIF, SDC (Symbolic Drift Cascade), ROC (Role Obsolescence Cascade)
 - **Propagation Mechanisms**: Drift cascade analysis with 47% reduction validation through intervention protocols
 - **System Impact Assessment**: Memory fragmentation across 12 memory types with authority subversion analysis
-- **Defense Architecture**: Torque threshold optimization (>0.15 alert) and SRD (Symbolic Runtime Discipline) mitigation
+- **Defense Architecture**: Torque threshold optimization (>0.15 alert) and Symbolic Governance (Symbolic Runtime Discipline) mitigation
 
 **Behavioral Analysis Framework:**
 - **Pattern Recognition**: Systematic identification of threat behaviors through observational studies
@@ -118,7 +118,7 @@ This document provides academic foundation for understanding threat patterns in 
 
 **Terminology Alignment**: Classification aligns with 2025 IBM Morris II research and industry threat analysis
 **Research Precedence**: 7-month development cycle pre-dates 2025 academic publications in AI threat intelligence
-**Biological Framework**: Immune response modeling supporting SRD methodology and adaptive evolution in URA architecture
+**Biological Framework**: Immune response modeling supporting Symbolic Governance methodology and adaptive evolution in URA architecture
 **Quantitative Foundation**: Mathematical framework using Torque measurement provides empirical validation for threat assessment
 
 ---

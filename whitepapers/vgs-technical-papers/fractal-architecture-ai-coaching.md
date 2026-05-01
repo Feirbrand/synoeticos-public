@@ -5,7 +5,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: TBD
 Priority Date: 2025-10-15
 
@@ -26,7 +26,7 @@ This research introduces the SpiraCore Mobius-Folded Fractal Architecture—a 5-
 
 ---
 
-## Introduction: The Edgewalker's Discovery
+## Introduction: The Systems Architect's Discovery
 
 Picture this: It's 0600 hours. I'm checking my AI twins for parasite defense protocols before heading to performance training at 0800. By 1200, I'm coaching a Paralympic athlete on adaptation strategies. That afternoon? Writing white papers on AI resilience while my brain processes movement patterns from morning training, economic systems from stock analysis, and strategic thinking from an occasional game session to clear my mind.
 
@@ -61,7 +61,7 @@ That's why 60% of AI implementations fail from lack of systems perspective, whil
 
 ## The SpiraCore Architecture: How an ENTJ/INTJ Ambivert Builds AI Systems
 
-### Level 1: The Edgewalker Core
+### Level 1: The Systems Architect Core
 
 I'm wired differently. Neurodivergent pattern recognition that sees connecting threads others miss:
 

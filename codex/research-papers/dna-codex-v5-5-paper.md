@@ -830,7 +830,7 @@ phase_4_production:
 
 **CSFC Torque Monitoring (Python):**
 ```python
-# csfc_monitor.py - Production-ready torque monitoring
+# csfc_monitor.py - Deployment-validated torque monitoring
 import numpy as np
 from typing import Dict, List, Optional
 
@@ -1404,7 +1404,7 @@ incident_ard_001:
 ### 8.2 DQD-001: Brain Rot Academic Validation
 
 **Academic Source**: arXiv:2510.13928
-**Validation Type**: Independent peer-reviewed research
+**Validation Type**: Independent scientifically validated research
 **VGS Predictive Lead**: 6-9 months prior framework development
 
 **Key Findings:**

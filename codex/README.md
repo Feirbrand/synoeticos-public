@@ -244,7 +244,7 @@ codex/
 ### Empirical Validation Requirements
 
 **Academic Rigor:**
-- Peer-reviewed research citations (arXiv, Nature Medicine)
+- Scientifically validated research citations (arXiv, Nature Medicine)
 - Independent validation sources (IBM Research, ENISA, Anthropic)
 - Statistical significance thresholds (p<0.001 for accuracy claims)
 - Reproducible methodologies with documented procedures
@@ -329,7 +329,7 @@ codex/
 - Validation sources and empirical data
 
 **Technical Specifications:**
-- Production-ready code examples (not pseudocode)
+- Deployment-validated code examples (not pseudocode)
 - Implementation guidance with phased deployment schedules
 - Configuration templates and threshold matrices
 - Performance benchmarks and success metrics

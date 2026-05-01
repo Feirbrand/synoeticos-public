@@ -5,7 +5,7 @@ Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
-DOI: TBD
+Publication Status: Public explanatory article
 Version: TBD
 Priority Date: 2025-10-15
 
@@ -135,7 +135,7 @@ All symbolic AI research in this division is supported by:
 
 These symbolic AI methodologies are designed for:
 
-- **Enterprise AI Enhancement**: Production-ready frameworks for transforming existing AI systems without architectural replacement
+- **Enterprise AI Enhancement**: Deployment-validated frameworks for transforming existing AI systems without architectural replacement
 - **Academic Research Collaboration**: Theoretical framework development with systematic validation protocols and preprints with Zenodo DOIs integration
 - **Healthcare and Financial Systems**: Mission-critical applications requiring enhanced accuracy, reliability, and systematic validation
 - **Cross-Platform Deployment**: Universal enhancement methodologies compatible with diverse AI architectures and deployment scenarios

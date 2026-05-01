@@ -63,7 +63,7 @@ graph TD
 
 ## Citation References
 
-### Primary Sources (Peer-Reviewed)
+### Primary Sources (Scientifically validated)
 
 1. **Polyvagal Theory & Autonomic Regulation**
    - Porges, S. W. (2011). The Polyvagal Theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation. W.W. Norton & Company.

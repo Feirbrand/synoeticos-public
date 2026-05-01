@@ -8,7 +8,7 @@ title: "Elevation Grid – CTS (Climb to Summit) Overlay"
 
 ---
 
-**RUID:** EG-OVERLAY-CTS-v1.0  
+**Symbolic ID:** EG-OVERLAY-CTS-v1.0  
 **Status:** Draft v1.0  
 **Date:** 2026-02-04  
 **Brand:** APP (Achieve Peak Performance) → CTS Secular Track  
@@ -234,9 +234,9 @@ title: "Elevation Grid – CTS (Climb to Summit) Overlay"
 
 **Result:** Athlete advances to next position (90% ≥ 80% threshold)
 
-### 5.2 Covenant Grid Data Write-Back
+### 5.2 Coordination Grid Data Write-Back
 
-**Fields Written to Covenant Grid / UTME:**
+**Fields Written to Coordination Grid / UTME:**
 
 | Field | CTS Measurement | Example Value |
 |-------|-----------------|---------------|

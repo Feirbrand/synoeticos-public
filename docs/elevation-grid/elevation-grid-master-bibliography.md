@@ -8,7 +8,7 @@ title: "ELEVATION GRID - CITATION AGGREGATOR OUTPUT"
 **Paper:** The Elevation Grid: A Neurobiological Framework for Performance Optimization Across Adaptive and Elite Populations  
 **Author:** Aaron M. Slusher  
 **Date:** February 3, 2026  
-**Total Citations:** 47 peer-reviewed sources  
+**Total Citations:** 47 scientifically validated sources  
 **Citation Status:** All DOIs verified (where available)
 
 ---
@@ -261,7 +261,7 @@ title: "ELEVATION GRID - CITATION AGGREGATOR OUTPUT"
 | Metric | Value |
 |--------|-------|
 | Total Citations | 47 |
-| Peer-Reviewed Sources | 45 |
+| Scientifically validated Sources | 45 |
 | Books/Monographs | 2 |
 | DOI Verified | 38 |
 | DOI Pending | 9 |
