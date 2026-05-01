@@ -36,12 +36,12 @@ Enhancement Date: 2026-04-30
 
 The VGS Loadout is the public reference-implementation layer of ValorGrid Solutions research. Every folder here maps to a published paper with a permanent Zenodo DOI and contains a selected public artifact. No DOI, no public folder.
 
-> **Public Scope:** These folders contain selected public reference implementations and validation summaries. They do not contain the private Synoetic OS™ operating layer, internal routing logic, raw workflows, private schemas, production adapters, or complete implementation playbooks.
+> **Public Scope:** These folders contain selected public reference implementations and validation summaries. They do not contain the private Synoetic OS™ operating layer, internal routing logic, raw workflows, private schemas, production adapters, raw validation logs, exact thresholds, formulas, benchmark harnesses, internal threat distributions, or complete implementation playbooks.
 
-**Documented Field Results (June–Dec 2025):**
-- 682 incidents referenced across public validation summaries and selected case studies
-- 173-day documented field run (June 12 – Dec 1, 2025)
-- Reported CSFC cascade prediction and SLV identity-threat detection metrics are summarized in the linked papers and validation summaries
+**Documented Field Record (June–Dec 2025):**
+- Selected public validation summaries and case studies reference the 2025 field record.
+- Detailed incident logs, raw telemetry, internal strain distributions, and benchmark harnesses are retained outside the public repository.
+- Public metrics are maintained in DOI-backed papers, `PUBLICATIONS.md`, and redacted validation summaries.
 
 **Research foundation:** 18 DOI-backed papers indexed in [`/PUBLICATIONS.md`](../PUBLICATIONS.md). All Zenodo-published. All on [ORCID 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207).
 
@@ -86,9 +86,10 @@ vgs-loadout/
 │       ├── *.py
 │       └── README.md
 └── validation/
-    ├── validation-1-phoenix-testing.md
-    ├── validation-2-dna-codex-analysis.md
-    └── validation-3-utme-benchmarks.md
+    ├── README.md
+    ├── phoenix-validation-summary.md
+    ├── dna-codex-validation-summary.md
+    └── utme-benchmark-summary.md
 ```
 
 **Key distinction:** Architecture papers, technical docs, and case studies are not in framework folders. They live in [`/whitepapers/vgs-technical-papers/`](../whitepapers/vgs-technical-papers/) and [`/vulnerability-research/`](../vulnerability-research/). Framework folders contain selected public reference artifacts and README files. Full internal workflows, adapters, schemas, and deployment logic are not included.
@@ -147,7 +148,7 @@ cd synoeticos-public/vgs-loadout/frameworks
 
 ## Performance Metrics
 
-Performance claims and validation details are maintained in the DOI-backed papers and public validation summaries.
+Public performance claims are maintained in the DOI-backed papers, `PUBLICATIONS.md`, and redacted validation summaries.
 
 | Framework | Metrics Source |
 |---|---|
@@ -165,13 +166,13 @@ Performance claims and validation details are maintained in the DOI-backed paper
 
 Public validation summaries are available in [`validation/`](./validation/).
 
-These summaries document selected field results, benchmark notes, and paper-linked metrics. They do not include raw incident logs, private telemetry, internal workflows, or complete response playbooks.
+These summaries document selected field themes, benchmark notes, and paper-linked metrics. They do not include raw incident logs, private telemetry, internal workflows, formulas, exact thresholds, benchmark scripts, infrastructure configs, internal threat distributions, or complete response playbooks.
 
 | Summary | Focus |
 |---|---|
-| [`validation-1-phoenix-testing.md`](./validation/validation-1-phoenix-testing.md) | Phoenix Protocol public testing summary |
-| [`validation-2-dna-codex-analysis.md`](./validation/validation-2-dna-codex-analysis.md) | DNA Codex public analysis summary |
-| [`validation-3-utme-benchmarks.md`](./validation/validation-3-utme-benchmarks.md) | UTME public benchmark summary |
+| [`phoenix-validation-summary.md`](./validation/phoenix-validation-summary.md) | Phoenix Protocol public validation themes |
+| [`dna-codex-validation-summary.md`](./validation/dna-codex-validation-summary.md) | DNA Codex public taxonomy-validation themes |
+| [`utme-benchmark-summary.md`](./validation/utme-benchmark-summary.md) | UTME public benchmark themes |
 
 ---
 
@@ -239,7 +240,7 @@ Full BibTeX for all 18 papers: [`/docs/assets/references.bib`](../docs/assets/re
 
 Uses outside the public license require separate written permission: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 
-> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public implementation materials for research and non-commercial purposes; uses outside the public license require separate written permission.
+> Named methodologies and marks referenced in this repository remain the intellectual property of Aaron M. Slusher / ValorGrid Solutions. The license grants use of public materials for research and non-commercial purposes; uses outside the public license require separate written permission.
 
 **© 2025–2026 Aaron M. Slusher · ValorGrid Solutions · All Rights Reserved.**
 Part of the Synoetic OS™ research ecosystem.
