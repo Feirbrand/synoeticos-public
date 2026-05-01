@@ -1,0 +1,22 @@
+# ValorGrid Solutions — Synoetic OS Public Repository
+# Runtime dependencies for VGS Loadout reference implementations
+# Version: 1.0
+# Updated: 2026-04-30
+
+# Core
+numpy>=1.21.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Data handling
+pyyaml>=6.0
+jsonschema>=4.6.0
+
+# Cryptography (SLV reference implementation)
+cryptography>=3.4.0
+
+# HTTP (RAY coordinator)
+requests>=2.28.0
+
+# Framework-specific dependencies are listed in each framework folder README.
+# Full development/testing dependencies are maintained internally.
