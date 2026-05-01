@@ -37,8 +37,18 @@ This folder does not include:
 - Internal adapters
 - Internal routing logic
 - Production deployment playbooks
+- Companion notes that expand a DOI paper into deployment instructions
 - Private threat-intelligence indicators
 - Pricing, service, support, training, or certification material
+
+---
+
+## Status Labels
+
+- **DOI-backed canonical paper** — published or DOI-linked artifact; do not edit body in place.
+- **Public methodology-evolution note** — historical development artifact; may be cleaned for public boundary.
+- **Public companion note** — explanatory support document; not the canonical paper.
+- **Public concept note** — high-level concept explanation; not an implementation guide.
 
 ---
 
@@ -67,11 +77,11 @@ Use this section as a local navigation aid only. `PUBLICATIONS.md` remains canon
 | `symbolic-hybrid-defense.md` | Symbolic hybrid defense methodology |
 | `symbolic-systems-mythogenic.md` | Symbolic systems and mythogenic architecture |
 | `systems-thinking-architecture.md` | Systems thinking architecture framework |
-| `torque-measuring-ai-stability.md` | Torque: measuring AI stability |
-| `torque-quantitative-foundation-v2.md` | Torque v2.0 quantitative foundation |
+| `torque-measuring-ai-stability.md` | Public companion note for Torque real-time stability monitoring |
+| `torque-quantitative-foundation-v2.md` | **DOI-backed canonical paper** — Torque v2.0 quantitative foundation |
 | `ura-v1.5-resilience-and-recovery.md` | URA v1.5 unified resilience architecture |
 | `utme-v1-0-academic-paper.md` | UTME v1.0 temporal memory equilibrium |
-| `vgs-gaming-validation.md` | VGS gaming validation study |
+| `vgs-gaming-validation.md` | Public methodology-evolution note for game-based validation concepts |
 
 > If files are renamed or added during the GitHub v2 cleanup, update this table after the final path check.
 
