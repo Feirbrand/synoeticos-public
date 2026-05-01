@@ -896,7 +896,7 @@ REASONING_BANK_TOP_K=5
 METRICS_ENABLED=true
 ALERT_WEBHOOK=https://alerts.company.com/ray
 ALERT_EMAIL=security@company.com
-ALERT_CVSS_THRESHOLD=9.0
+ALERT_THREAT_LEVEL_THRESHOLD=9.0
 
 # Performance
 MAX_CYCLE_TIME=75
@@ -1018,7 +1018,7 @@ console.log(`FP rate: ${camoStats.fpRate}%`);
 ```
 
 **Solutions:**
-- **High FP rate:** Increase CVSS threshold from 9.0 to 9.3
+- **High FP rate:** Increase Threat Level threshold from 9.0 to 9.3
 - **PR comment noise:** Add whitelist patterns
 - **Base16 FPs:** Adjust entropy threshold
 - **CSP FPs:** Review CSP policy validation rules

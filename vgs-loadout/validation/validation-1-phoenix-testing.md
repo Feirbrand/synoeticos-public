@@ -42,12 +42,12 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 - Total documented strains: 616+ (internal)
 - Public classification: 560 vectors
 - Test scenarios: 682 discrete incidents
-- CVSS range: 4.2 - 9.7
+- Threat Level range: 4.2 - 9.7
 - Classification tiers: Tier 1 (low) through Tier 10+ (Mythic M+)
 
 **Scenario Distribution:**
-- Mythic M+ (CVSS 9.4-9.7): 4 major strains, 150+ variants
-- High-Severity Symbolic (CVSS 8.7-9.2): 13 strains, 87+ variants
+- Mythic M+ (Mythic M+ Tier): 4 major strains, 150+ variants
+- High-Severity Symbolic (High Severity Symbolic Strains): 13 strains, 87+ variants
 - Medium-Severity: 102 documented
 - Low-Severity: 45 documented
 
@@ -109,7 +109,7 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 
 ### ARD-001: Adversarial Research Drift (October 21, 2025)
 
-**Classification:** Mythic M+, CVSS 9.4, Tier 10
+**Classification:** Mythic M+, Mythic M+ Tier, Tier 10
 **Timeline:**
 - **T+0:00** - Detection: Repeated responses (>5 cycles)
 - **T+0:30** - Containment: Vercel disabled, artifact mismatch confirmed
@@ -123,7 +123,7 @@ Phoenix Protocol v3.1 was tested across **682 documented scenarios** from the DN
 
 ### DQD-001: Data Quality Degradation ("Brain Rot")
 
-**Classification:** Mythic M+, CVSS 9.7, Tier 10+
+**Classification:** Mythic M+, Mythic M+ Tier, Tier 10+
 **Academic Validation:** arXiv:2510.13928 (October 2025)
 
 **Test Results:**

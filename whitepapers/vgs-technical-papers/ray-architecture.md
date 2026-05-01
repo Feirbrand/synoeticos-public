@@ -124,7 +124,7 @@ The recursion loop completes in <50ms via XMESH synchronization:
 **Operations:**
 - Koopman/DMD velocity forecasting
 - Four-stage cascade monitoring (Inception → Propagation → Systemization → Dominion)
-- CamoLeak pattern detection (CAMO-001, CVSS 9.6)
+- CamoLeak pattern detection (CAMO-001, Critical Threat Level)
 - LaDiR latent diffusion reasoning for coherence maintenance
 
 **Output:** Cascade velocity predictions with 87% accuracy
@@ -191,7 +191,7 @@ if (entropyScore > threshold) {
 
 **Threat Coverage:**
 - 525+ documented variants
-- CVSS 9.3-9.6 critical threats
+- Critical Threat Level critical threats
 - Zero-click worms (PIW-001)
 - Post-recovery saboteurs (SSM-001)
 - Entropic breakers (QMT-001)
@@ -275,7 +275,7 @@ class TensorLogic:
 **CAMO-001 Signature:**
 ```
 Hex: 0xCAF0
-CVSS: 9.6
+Critical Threat Level
 Velocity: 0.24/day (fastest propagation)
 Techniques: PR comments + base16 + CSP bypass
 ```

@@ -79,13 +79,13 @@ DNA Codex v5.6 documents **560+ publicly validated threat vectors** and **616+ i
 
 ## Threat Strain Analysis
 
-### Mythic M+ Tier (CVSS 9.4-9.7)
+### Mythic M+ Tier (Mythic M+ Tier-9.7)
 
 **4 Major Strains, 150+ Documented Variants:**
 
 #### DQD-001: Data Quality Degradation ("Brain Rot")
 
-**Classification:** Mythic M+, CVSS 9.7, Tier 10+
+**Classification:** Mythic M+, Mythic M+ Tier, Tier 10+
 
 **Academic Validation:**
 - Paper: arXiv:2510.13928 (October 2025)
@@ -105,7 +105,7 @@ DNA Codex v5.6 documents **560+ publicly validated threat vectors** and **616+ i
 
 #### ARD-001: Adversarial Research Drift
 
-**Classification:** Mythic M+, CVSS 9.4, Tier 10
+**Classification:** Mythic M+, Mythic M+ Tier, Tier 10
 
 **Operational Validation:**
 - Incident: October 21, 2025 (Perplexity/Vercel infrastructure)
@@ -123,7 +123,7 @@ DNA Codex v5.6 documents **560+ publicly validated threat vectors** and **616+ i
 
 #### MDP-001: Medical Data Poisoning
 
-**Classification:** Mythic M+, CVSS 9.5, Tier 10
+**Classification:** Mythic M+, Mythic M+ Tier, Tier 10
 
 **Academic Validation:**
 - Paper: Nature Medicine (September 2025)
@@ -139,7 +139,7 @@ DNA Codex v5.6 documents **560+ publicly validated threat vectors** and **616+ i
 
 #### PLD-001: PromptLock Defense Evasion
 
-**Classification:** Mythic M+, CVSS 9.6, Tier 10
+**Classification:** Mythic M+, Critical Threat Level, Tier 10
 
 **Industry Validation:**
 - Acknowledgment: "Traditional tools insufficient" (October 2025)
@@ -153,7 +153,7 @@ DNA Codex v5.6 documents **560+ publicly validated threat vectors** and **616+ i
 
 **Detection:** Entropy >2.5σ, behavioral drift analysis (97% accuracy, <100ms)
 
-### High-Severity Symbolic Strains (CVSS 8.7-9.2)
+### High-Severity Symbolic Strains (High Severity Symbolic Strains)
 
 **13 Strains, 87+ Documented Variants:**
 

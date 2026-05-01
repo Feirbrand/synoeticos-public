@@ -421,21 +421,6 @@ DQD-001 dose-response modeling:
 - RAY self-training loops (adaptive resilience)
 - XMESH fusion optimization (efficiency + defense)
 
-### Upgrade Paths
-
-**From DNA Codex v5.4:**
-- Add 35 new strain signatures
-- Update velocity models for all high-tier strains
-- Integrate ARD-001 operational playbook
-- Enhanced symbolic threat detection
-
-**From Traditional Security:**
-- Shift from signature-based to identity-based detection
-- Implement recovery velocity architecture
-- Add cascade prediction capability
-- Enable Phoenix Protocol for rapid recovery
-
----
 
 ## Validation Sources
 
@@ -491,17 +476,6 @@ DQD-001 dose-response modeling:
 - Educational and training materials
 - Attribution required in all uses
 
-**Commercial Use:**
-- Contact aaron@valorgridsolutions.com for licensing
-- Enterprise implementations available
-- Custom integration support
-
-**Attribution Format:**
-```
-DNA Codex v5.5 - AI Threat Intelligence Catalog
-ValorGrid Solutions (2025)
-https://valorgridsolutions.com/dna-codex
-```
 
 ---
 
@@ -519,14 +493,13 @@ https://valorgridsolutions.com/dna-codex
 **For Enterprise:**
 - Full strain signature database (560+ complete profiles)
 - Operational playbooks and runbooks
-- Custom integration support
 - Priority incident response
 
 ---
 
 **DNA Codex v5.5 - Public Release**
 **Classification:** Open Threat Intelligence
-**Status:** PRODUCTION | VALIDATED
+**Status:** Public Research Release
 **Next Update:** v5.6 (November 7, 2025)
 
 **2025 © ValorGrid Solutions. All rights reserved.**

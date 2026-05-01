@@ -1,20 +1,62 @@
 Dual License Structure
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-+ Enterprise License Option
++ Additional Permissions
 
-Threat Resilience Codex — DNA Codex v5.5
-© 2025 ValorGrid Solutions
+synoeticos-public — ValorGrid Solutions Research Repository
+© 2025–2026 Aaron M. Slusher / ValorGrid Solutions
+
+---
 
 Option 1: Non-Commercial Use
+
 Licensed under Creative Commons Attribution-NonCommercial 4.0 International.
 Full license: https://creativecommons.org/licenses/by-nc/4.0/
 
-Option 2: Enterprise License
-For commercial deployment, contact: aaron@valorgridsolutions.com
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-Patent Clause: Patent rights reserved. No patent assertion without enterprise license grant.
+Under the following terms:
+- Attribution — You must give appropriate credit to Aaron M. Slusher / ValorGrid Solutions
+- NonCommercial — You may not use the material for commercial purposes
+- No additional restrictions — You may not apply legal terms that restrict others from doing what this license permits
 
-Attribution Required: All derivative works must credit original research.
-Slusher, A. M. (2025). DNA Codex v5.5: The Complete Threat Intelligence
-Upgrade. Threat Resilience Codex. ValorGrid Solutions.
-https://valorgridsolutions.com/dna-codex
+---
+
+Option 2: Additional Permissions
+
+Uses outside the scope of CC BY-NC 4.0 require separate written permission from
+Aaron M. Slusher / ValorGrid Solutions.
+
+No patent, trademark, production deployment, commercial integration, or
+sublicensing rights are granted by this public license unless separately
+granted in writing.
+
+Contact: aaron@valorgridsolutions.com
+
+---
+
+Patent Clause
+
+Patent rights reserved. No patent assertion without separate written agreement.
+
+---
+
+Trademark Notice
+
+Named methodologies, marks, and proprietary terminology referenced in this
+repository (including Neuroformation™, VGS Loadout™, Synoetic OS™, and
+Memory Breathing Methodology™) remain the intellectual property of
+Aaron M. Slusher / ValorGrid Solutions and are not licensed under CC BY-NC 4.0.
+
+---
+
+Attribution
+
+When citing or building on materials in this repository, use:
+
+Slusher, A. M. (2025–2026). [Paper or Framework Title].
+ValorGrid Solutions. https://doi.org/10.5281/zenodo.[ID]
+
+Full citation index: PUBLICATIONS.md
+ORCID: 0009-0000-9923-3207

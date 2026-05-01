@@ -66,14 +66,13 @@ vgs-loadout/
 │   │   ├── csfc-detector.py
 │   │   └── README.md
 │   ├── phoenix-protocol/             ← 🔴 Recover · DOI: 10.5281/zenodo.17350768
-│   │   ├── phoenix-base.py
-│   │   ├── phoenix-recovery.py
+│   │   ├── phoenix_protocol.py
 │   │   └── README.md
 │   ├── ray/                          ← 🔴 Recover · DOI: 10.5281/zenodo.17399834
-│   │   ├── ray-coordinator.py
+│   │   ├── ray_coordinator.py
 │   │   └── README.md
 │   ├── utme/                         ← 🔵 Deploy · DOI: 10.5281/zenodo.17497149
-│   │   ├── temporal-engine.py
+│   │   ├── utme_engine.py
 │   │   └── README.md
 │   ├── fce/                          ← 🔵 Deploy · DOI: 10.5281/zenodo.17309322
 │   │   ├── fce-compressor.py
@@ -82,7 +81,7 @@ vgs-loadout/
 │   │   ├── mbm-core.py
 │   │   └── README.md
 │   └── slv/                          ← ⚔️ Fortify · DOI: 10.5281/zenodo.17763377
-│       ├── slv-defense.py
+│       ├── slv_defense.py
 │       └── README.md
 └── validation/
     ├── validation-1-phoenix-testing.md
@@ -250,7 +249,7 @@ https://doi.org/10.5281/zenodo.17309239
   title        = {VGS Loadout: DOI-Gated Framework Implementations for AI Resilience},
   author       = {Slusher, Aaron M.},
   year         = {2026},
-  institution  = {ValorGrid Solutions},
+  organization = {ValorGrid Solutions},
   url          = {https://github.com/Feirbrand/synoeticos-public/tree/main/vgs-loadout}
 }
 ```
