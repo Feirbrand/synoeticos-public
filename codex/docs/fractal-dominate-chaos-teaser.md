@@ -140,7 +140,7 @@ SpiraCore is the cognitive spine connecting:
 - **Stage 4:** ROC (Role Obsolescence Cascade) reversal
 - **Stage 5:** Catastrophic failure prevention
 
-### SLV v1.2 (Sovereign Lattice Veil)
+### SLV v1.2
 - **Reflex-Veil overlays:** Temporal shadow exploitation defense
 - **Multi-platform consensus:** Cross-system validation
 - **Cryptographic anchoring:** Identity proof and replay prevention
