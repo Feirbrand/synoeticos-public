@@ -102,36 +102,40 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 | Framework | Demo | Reported Performance |
 |-----------|------|----------------------|
-| **CSFC** | [Detector](https://huggingface.co/spaces/Feirbrand/csfc-detector) | 87% cascade prediction ([paper](https://doi.org/10.5281/zenodo.17309239)) |
-| **Phoenix Protocol** | [Simulator](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect) | 98% recovery rate ([paper](https://doi.org/10.5281/zenodo.17350768)) |
-| **RAY** | [Demo](https://huggingface.co/spaces/Feirbrand/ray-demo) | 18-min average containment ([paper](https://doi.org/10.5281/zenodo.17399834)) |
-| **URA** | [Blue Chain Sim](https://huggingface.co/spaces/Feirbrand/ura-blue-chain) | Five-layer defense ([paper](https://doi.org/10.5281/zenodo.17309731)) |
+| **CSFC** | [CSFC Pattern Explorer](https://huggingface.co/spaces/Feirbrand/csfc-detector) | 87% cascade prediction ([paper](https://doi.org/10.5281/zenodo.17309239)) |
+| **Phoenix Protocol** | [Phoenix Public Recovery Explorer](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2) | 98% recovery rate ([paper](https://doi.org/10.5281/zenodo.17350768)) |
+| **RAY** | [RAY Public Resilience Loop Explorer](https://huggingface.co/spaces/Feirbrand/ray-recursion-demo) | 18-min average containment ([paper](https://doi.org/10.5281/zenodo.17399834)) |
 
 ### 🔵 Deploy
 
 | Framework | Demo | Reported Performance |
 |-----------|------|----------------------|
-| **FCE** | [Compressor](https://huggingface.co/spaces/Feirbrand/fce-compressor) | 4–6× compression • 90%+ retention ([paper](https://doi.org/10.5281/zenodo.17309322)) |
-| **UCA** | [Demo](https://huggingface.co/spaces/Feirbrand/uca-demo) | 98% operational harmony ([paper](https://doi.org/10.5281/zenodo.17416971)) |
+| **FCE** | [FCE Public Context Explorer](https://huggingface.co/spaces/Feirbrand/fce-compressor-demo) | 4–6× compression • 90%+ retention ([paper](https://doi.org/10.5281/zenodo.17309322)) |
+| **MBM** | [MBM Public Memory Explorer](https://huggingface.co/spaces/Feirbrand/memory-breathing) | Bio-inspired memory rhythm ([paper](https://doi.org/10.5281/zenodo.18790096)) |
 
 ### ⚔️ Fortify
 
-| Framework | Demo | Reported Performance |
-|-----------|------|----------------------|
-| **SLV** | [Demo](https://huggingface.co/spaces/Feirbrand/slv-demo) | 95.8% detection • 96.4% recovery ([paper](https://doi.org/10.5281/zenodo.17763377)) |
-| **DNA Codex** | [Explorer](https://huggingface.co/spaces/Feirbrand/dna-codex-search) | 560+ public vectors ([paper](https://doi.org/10.5281/zenodo.17451060)) |
+| Framework | Demo | Notes |
+|-----------|------|-------|
+| **SLV** | [SLV Public Identity-Stability Explorer](https://huggingface.co/spaces/Feirbrand/Symbolic_Lock_Vector) | 95.8% detection ([paper](https://doi.org/10.5281/zenodo.17763377)) |
+| **DNA Codex** | [DNA Codex Public Taxonomy Explorer](https://huggingface.co/spaces/Feirbrand/Dna_Codex_Explorer) | 560+ public vectors ([paper](https://doi.org/10.5281/zenodo.17451060)) |
 
 ### Standalone
 
 | Framework | Demo | Notes |
 |-----------|------|-------|
-| **Torque** | [Calculator](https://huggingface.co/spaces/Feirbrand/torque-calculator) | Public demo — full algorithm withheld ([paper](https://doi.org/10.5281/zenodo.17379750)) |
+| **Torque** | [Torque Public Stability Explorer](https://huggingface.co/spaces/Feirbrand/torque-calculator) | Public stability-model demo — full algorithm withheld ([paper](https://doi.org/10.5281/zenodo.17379750)) |
+
+### Research Tools
+
+| Space | Purpose |
+|-------|---------|
+| [Knowledge Grid Public Explorer](https://huggingface.co/spaces/Feirbrand/knowledge-grid-explorer) | Framework knowledge-routing concepts |
+| [Synoetic Papers Navigator](https://huggingface.co/spaces/Feirbrand/synoetic-papers-navigator) | Browse all 18 DOI-backed papers |
 
 [**View All Demos →**](https://huggingface.co/Feirbrand)
 
-> 💡 **Note:** Public demos link back to DOI-backed papers and selected GitHub reference implementations. Bidirectional public flow: demo ↔ paper ↔ reference implementation.
->
-> Public demos are illustrative and may lag behind current paper versions. DOI-backed papers and `PUBLICATIONS.md` remain canonical for claims, versions, and citations.
+> 💡 **Note:** Public Spaces are educational demos only. They are not production systems, operational detectors, benchmark harnesses, or full framework implementations. Canonical claims, versions, and citations remain in [`PUBLICATIONS.md`](./PUBLICATIONS.md). Demos may lag behind current paper versions.
 
 ---
 

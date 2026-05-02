@@ -178,19 +178,22 @@ These summaries document selected field themes, benchmark notes, and paper-linke
 
 ## Live Demos
 
-Available Hugging Face demos:
+Public Hugging Face Spaces provide educational demos for selected framework concepts. These Spaces are intentionally redacted and do not expose private implementation logic, thresholds, configs, raw validation data, or response playbooks.
 
-| Framework | Demo |
-|---|---|
-| RAY | [ray-demo](https://huggingface.co/spaces/Feirbrand/ray-demo) |
-| CSFC | [csfc-detector](https://huggingface.co/spaces/Feirbrand/csfc-detector) |
-| Phoenix Protocol | [phoenix-resurrect](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect) |
-| FCE | [fce-compressor](https://huggingface.co/spaces/Feirbrand/fce-compressor) |
-| SLV | [slv-demo](https://huggingface.co/spaces/Feirbrand/slv-demo) |
-| UTME | — |
-| MBM | — |
+| Framework | Space | Purpose |
+|---|---|---|
+| CSFC | [CSFC Pattern Explorer](https://huggingface.co/spaces/Feirbrand/csfc-detector) | Public cascade-pattern awareness |
+| DNA Codex | [DNA Codex Public Taxonomy Explorer](https://huggingface.co/spaces/Feirbrand/Dna_Codex_Explorer) | Public taxonomy and pattern-family explorer |
+| FCE | [FCE Public Context Explorer](https://huggingface.co/spaces/Feirbrand/fce-compressor-demo) | Public context-compression concept demo |
+| MBM | [MBM Public Memory Explorer](https://huggingface.co/spaces/Feirbrand/memory-breathing) | Public memory-rhythm and reuse demo |
+| Phoenix Protocol | [Phoenix Public Recovery Explorer](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2) | Public recovery-sequencing walkthrough |
+| RAY | [RAY Public Resilience Loop Explorer](https://huggingface.co/spaces/Feirbrand/ray-recursion-demo) | Public recursive resilience-loop demo |
+| SLV | [SLV Public Identity-Stability Explorer](https://huggingface.co/spaces/Feirbrand/Symbolic_Lock_Vector) | Public Symbolic Lock Vector review demo |
+| Torque | [Torque Public Stability Explorer](https://huggingface.co/spaces/Feirbrand/torque-calculator) | Public stability-model explorer |
+| Knowledge Grid | [Knowledge Grid Public Explorer](https://huggingface.co/spaces/Feirbrand/knowledge-grid-explorer) | Public framework knowledge-routing demo |
+| All Papers | [Synoetic Papers Navigator](https://huggingface.co/spaces/Feirbrand/synoetic-papers-navigator) | Browse all 18 DOI-backed papers |
 
-Demo → paper → reference implementation. Every public link in that chain connects back to a DOI-backed artifact.
+> Spaces are public teaching surfaces. Framework papers, version history, and citations remain canonical in [`../PUBLICATIONS.md`](../PUBLICATIONS.md). Demo → paper → reference implementation. Every public link in that chain connects back to a DOI-backed artifact.
 
 ---
 
