@@ -25,7 +25,8 @@ For canonical DOI metadata, use [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md)
 This folder may include:
 
 - Public paper sources
-- Public methodology notes
+- DOI-backed canonical papers
+- Public companion notes tied to canonical papers
 - Selected supporting technical documents
 - Citation and DOI links
 
@@ -58,30 +59,24 @@ Use this section as a local navigation aid only. `PUBLICATIONS.md` remains canon
 
 | File | Description |
 |---|---|
-| `complete-ai-resilience-meta-analysis.md` | Meta-analysis across resilience frameworks |
+| `complete-ai-resilience-meta-analysis.md` | Public synthesis / historical meta-analysis note |
 | `csfc-unified-theory.md` | Cascade Symbolic Fracture Cascade unified theory |
 | `dcn-v1-0-academic.md` | Distributed cognitive networks |
 | `fce-v3-6-unified-framework.md` | Fractal context engineering |
-| `fractal-architecture-ai-coaching.md` | Fractal architecture for AI coaching systems |
-| `hallucination-symbolic-raw.md` | Hallucination as symbolic raw material |
 | `mbm-v1.0-academic.md` | Memory Breathing Methodology |
-| `performance-coach-ai-rewrite.md` | Performance coaching methodology for AI systems |
 | `phoenix-protocol-neural-recovery.md` | Phoenix Protocol neural recovery architecture |
 | `pme-v-1-0-academic-paper.md` | Predictive Myelination Engine |
-| `ray-architecture.md` | RAY framework architecture |
-| `ray-integration.md` | RAY integration documentation |
-| `ray-metrics.md` | RAY public metrics summary |
+| `ray-architecture.md` | Public architecture companion to RAY v2.1 paper |
+| `ray-integration.md` | Public integration note — implementation details withheld |
+| `ray-metrics.md` | Public validation companion to RAY v2.1 paper |
 | `ray-v2.1-cognitive-physiology.md` | RAY v2.1 cognitive physiology |
-| `recursive-patterns-ai-development.md` | Recursive patterns in AI development |
 | `slv-v2-1-technical-paper.md` | Symbolic Lock Vector v2.1 |
-| `symbolic-hybrid-defense.md` | Symbolic hybrid defense methodology |
-| `symbolic-systems-mythogenic.md` | Symbolic systems and mythogenic architecture |
-| `systems-thinking-architecture.md` | Systems thinking architecture framework |
 | `torque-measuring-ai-stability.md` | Public companion note for Torque real-time stability monitoring |
 | `torque-quantitative-foundation-v2.md` | **DOI-backed canonical paper** — Torque v2.0 quantitative foundation |
 | `ura-v1.5-resilience-and-recovery.md` | URA v1.5 unified resilience architecture |
 | `utme-v1-0-academic-paper.md` | UTME v1.0 temporal memory equilibrium |
-| `vgs-gaming-validation.md` | Public methodology-evolution note for game-based validation concepts |
+
+For historical methodology-trail notes, see [`../origin-notes/`](../origin-notes/).
 
 > If files are renamed or added during the GitHub v2 cleanup, update this table after the final path check.
 
@@ -93,6 +88,7 @@ Use this section as a local navigation aid only. `PUBLICATIONS.md` remains canon
 - [`../../vgs-loadout/`](../../vgs-loadout/) — selected public reference implementations
 - [`../../codex/`](../../codex/) — public threat taxonomy and Codex materials
 - [`../../vulnerability-research/`](../../vulnerability-research/) — case studies and vulnerability research
+- [`../origin-notes/`](../origin-notes/) — historical methodology-trail notes (non-canonical)
 - [`../academic-papers/`](../academic-papers/) — methodology-layer papers
 
 ---

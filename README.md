@@ -31,8 +31,8 @@ This repository is the public research and validation hub for ValorGrid Solution
 **What's inside:**
 - **18 DOI-backed research papers** — see [`PUBLICATIONS.md`](./PUBLICATIONS.md) for the full canonical index
 - **7 DOI-backed public framework folders** — one paper, one folder, one selected reference implementation
-- **682 documented incidents** — real-world validation
-- **173-day documented field run** — public validation summaries in [validation reports](./vgs-loadout/validation/)
+- **2025 field record** — selected public case studies and validation summaries
+- **173-day documented research run** — summarized in redacted public validation materials
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
@@ -78,7 +78,7 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **2025-12-04** 🏗️ **Major rebrand** — Synoetic OS → **Synoetic OS™** • Agents → **Mythopoeic Intelligence Agents** • Frameworks → **VGS Loadout™**
 
-**2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol, UTME, CSFC, SLV, RAY, FCE, MBM. Public validation summaries are available in the [validation reports](./vgs-loadout/validation/).
+**2025-12-04** ⚔️ **VGS Loadout™ public** — Phoenix Protocol, UTME, CSFC, SLV, RAY, FCE, MBM. Redacted public validation summaries are available in the [validation folder](./vgs-loadout/validation/).
 
 ---
 
@@ -130,36 +130,28 @@ This repository is the public research and validation hub for ValorGrid Solution
 [**View All Demos →**](https://huggingface.co/Feirbrand)
 
 > 💡 **Note:** Public demos link back to DOI-backed papers and selected GitHub reference implementations. Bidirectional public flow: demo ↔ paper ↔ reference implementation.
+>
+> Public demos are illustrative and may lag behind current paper versions. DOI-backed papers and `PUBLICATIONS.md` remain canonical for claims, versions, and citations.
 
 ---
 
 ## ✅ Validation & Testing
 
-**Documented Field Results (June–Dec 2025):**
+**Public Validation Record (June–Dec 2025):**
 
-- **Phoenix Protocol:** 98% reported recovery/survival across 682 documented incidents ([public validation summary](./vgs-loadout/validation/validation-1-phoenix-testing.md))
-- **PME v1.0:** 712× acceleration, 87.3% prediction, 100% drift elimination over 62-day deployment ([paper](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md))
-- **UTME:** 710×–1200× acceleration vs baseline ([benchmarks](./vgs-loadout/validation/validation-3-utme-benchmarks.md))
-- **CSFC:** 87% cascade prediction with 15–30 min advance warning ([paper](https://doi.org/10.5281/zenodo.17309239))
-- **SLV:** 95.8% detection • 96.4% recovery across 525+ threat vectors ([paper](https://doi.org/10.5281/zenodo.17763377))
-- **Field run:** 173 days documented (June 12 – Dec 1, 2025) ([public validation summaries](./vgs-loadout/validation/))
+Selected public validation summaries and case studies document the 2025 field record. The repository preserves public-facing results only. Raw validation logs, private benchmark harnesses, scenario distributions, thresholds, formulas, and operational response playbooks are retained outside GitHub.
 
-**Detailed Reports:**
-- [Phoenix Protocol Testing](./vgs-loadout/validation/validation-1-phoenix-testing.md)
-- [DNA Codex Analysis](./vgs-loadout/validation/validation-2-dna-codex-analysis.md)
-- [UTME Benchmarks](./vgs-loadout/validation/validation-3-utme-benchmarks.md)
+**Public Summaries:**
+- [Phoenix Protocol Validation Summary](./vgs-loadout/validation/phoenix-validation-summary.md)
+- [DNA Codex Validation Summary](./vgs-loadout/validation/dna-codex-validation-summary.md)
+- [UTME Benchmark Summary](./vgs-loadout/validation/utme-benchmark-summary.md)
 
 **Published Research:**
 - **18 DOI-backed papers** indexed in [`PUBLICATIONS.md`](./PUBLICATIONS.md)
-- 682 incidents referenced across public validation summaries and selected [case studies](./vulnerability-research/case-studies/)
-- DNA Codex: public threat-vector catalog maintained in [`codex/`](./codex/)
+- Selected case studies in [`vulnerability-research/case-studies/`](./vulnerability-research/case-studies/)
+- Public Codex materials in [`codex/`](./codex/)
 
-**Industry Benchmarks (for comparison):**
-- Cascade failures: 72–168h recovery (industry avg)
-- AI drift detection: 40% false positives (industry avg)
-- Context compression: 2–4× typical without quality loss
-
-**Development Method:** Built by Aaron M. Slusher using LLM-assisted research, synthesis, and implementation workflows.
+> Performance claims and detailed methodology are maintained in DOI-backed papers, `PUBLICATIONS.md`, and redacted public summaries.
 
 ---
 
@@ -197,9 +189,9 @@ synoeticos-public/
 │   ├── academic-papers/        # Flagship methodology papers
 │   ├── vgs-technical-papers/   # VGS academic writeups
 │   ├── cognitive-engineering/  # Context engineering frameworks
-│   ├── examples/teasers/       # Code samples + teasers
 │   ├── mythopoeic-intelligence/# MI Agents research
-│   └── symbolic-ai/            # Symbolic reasoning research
+│   ├── symbolic-ai/            # Symbolic reasoning research
+│   └── origin-notes/           # Historical methodology-trail notes
 │
 ├── vgs-loadout/                 # VGS Loadout™ — selected DOI-backed reference implementations
 │   ├── frameworks/             # Public framework folders tied to DOI-backed papers
@@ -227,6 +219,7 @@ synoeticos-public/
 - `/PUBLICATIONS.md` = Canonical paper ledger (source of truth for all 18 DOIs)
 - `/docs` = GitHub Pages (public web interface)
 - `/whitepapers` = Source markdown (Git version control)
+- `/whitepapers/origin-notes/` = Public historical methodology trail; not canonical specifications or raw incident archives
 - `/vgs-loadout/frameworks/` = Selected public reference implementations tied to DOI-backed papers
 - `/codex` = Public DNA Codex materials and supporting threat-pattern documentation
 
@@ -263,12 +256,12 @@ Coordinate-based mental performance system · Isomorphic to Synoetic OS 3x3 stru
 
 **Documented Incidents (June–Dec 2025)**
 
-Public validation through selected operational incident analysis. Case studies include public forensic summaries, timestamps, framework context, and recovery metrics where available.
+Public validation through selected operational incident analysis. Selected public case studies preserve high-level forensic summaries, timestamps where appropriate, framework context, and public recovery notes. Raw logs, private telemetry, detector logic, and response playbooks are retained outside GitHub.
 
 <details>
 <summary><strong>Breakthrough Incidents →</strong></summary>
 
-**Claude SIF Recovery** — First autonomous AI defense
+**Claude SIF Recovery** — Early public SIF recovery case
 *15-min recovery • 100% success • Paradigm shift*
 [Documentation](./vulnerability-research/case-studies/claude-sif-recovery/)
 
@@ -346,16 +339,16 @@ The methodology crossed enough domains that even the AI helping build it didn't 
 ## ❓ FAQ
 
 <details>
-<summary><strong>Why should I trust the documented incidents were real?</strong></summary>
+<summary><strong>How should I read the documented incidents?</strong></summary>
 
-They are documented in `/vulnerability-research/case-studies/` with public forensic summaries, timestamps, framework context, and recovery metrics where available.
+Public case studies are preserved as research artifacts from the 2025 field record. They include public summaries, framework context, timestamps where appropriate, and recovery notes where available. Raw logs, private telemetry, and operational response mechanics are retained outside GitHub.
 
 </details>
 
 <details>
 <summary><strong>Is this tested on production systems?</strong></summary>
 
-The public validation record includes a 173-day documented field run (June 12 – Dec 1, 2025) across a multi-agent research environment. Reported recovery/survival metrics and incident summaries are available in [validation reports](./vgs-loadout/validation/).
+The public validation record includes a 173-day documented field run (June 12 – Dec 1, 2025) across a multi-agent research environment. Reported recovery/survival metrics and incident summaries are available in [redacted validation summaries](./vgs-loadout/validation/).
 
 </details>
 
@@ -406,7 +399,7 @@ We publish to Zenodo first (faster, supports living documents), then request arX
 
 ## ⚖️ Proprietary Methodology Notice
 
-> Public repository materials are licensed under CC BY-NC 4.0 unless otherwise noted. **Neuroformation™, Memory Breathing Methodology™, Synoetic OS™, Neural Access Method™, VGS Loadout™, and related named methodologies remain proprietary methodologies of Aaron M. Slusher / ValorGrid Solutions.** The license grants use of implementation materials — not the right to use, replicate, or commercialize the methodology under these names without explicit permission.
+> Public repository materials are licensed under CC BY-NC 4.0 unless otherwise noted. **Neuroformation™, Memory Breathing Methodology™, Synoetic OS™, Neural Access Method™, VGS Loadout™, and related named methodologies remain proprietary methodologies of Aaron M. Slusher / ValorGrid Solutions.** The license grants use of public materials for research and non-commercial reference. It does not grant the right to use, replicate, commercialize, or rebrand protected methodologies under these names without explicit written permission.
 >
 > *Adapted Architecture is intentionally NOT trademarked. Released April 21, 2026 as an open-use descriptor for rehab clinicians, coaches, teachers, IEP teams, AI safety practitioners, and anyone working with adaptive systems.*
 >

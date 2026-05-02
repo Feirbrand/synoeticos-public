@@ -18,7 +18,7 @@ Enhancement Date: 2026-04-30
 
 **All 18 DOI-backed papers are indexed in [`PUBLICATIONS.md`](../PUBLICATIONS.md)** — the canonical source of truth for paper titles, DOIs, and citation formats.
 
-> **Public Scope:** This division contains public paper sources and selected supporting documentation. It does not contain private implementation maps, internal workflows, raw validation logs, production adapters, or complete operating-system playbooks.
+> **Public Scope:** This division contains public paper sources and selected supporting documentation. It does not contain private thresholds, formulas, detector logic, raw incident logs, production adapters, internal workflows, raw validation logs, or complete operating-system playbooks.
 
 ---
 
@@ -30,6 +30,7 @@ Enhancement Date: 2026-04-30
 - [Cognitive Engineering](#cognitive-engineering)
 - [Mythopoeic Intelligence](#mythopoeic-intelligence)
 - [Symbolic AI](#symbolic-ai)
+- [Origin Notes](#origin-notes)
 - [Citation](#citation)
 - [License](#license)
 
@@ -62,30 +63,22 @@ whitepapers/
 │   ├── csfc-unified-theory.md           # CSFC v1.0 · DOI: 10.5281/zenodo.17309239
 │   ├── dcn-v1-0-academic.md             # DCN v1.0 · DOI: 10.5281/zenodo.17555568
 │   ├── fce-v3-6-unified-framework.md    # FCE v3.6 · DOI: 10.5281/zenodo.17309322
-│   ├── fractal-architecture-ai-coaching.md
-│   ├── hallucination-symbolic-raw.md
 │   ├── mbm-v1.0-academic.md             # MBM v1.0 · DOI: 10.5281/zenodo.18790096
-│   ├── performance-coach-ai-rewrite.md
 │   ├── phoenix-protocol-neural-recovery.md  # Phoenix Protocol v2.0 · DOI: 10.5281/zenodo.17350768
 │   ├── pme-v-1-0-academic-paper.md      # PME v1.0 · DOI: 10.5281/zenodo.18318485
 │   ├── ray-architecture.md              # RAY supporting doc (not a separate DOI paper)
 │   ├── ray-integration.md               # RAY supporting doc (not a separate DOI paper)
 │   ├── ray-metrics.md                   # RAY supporting doc (not a separate DOI paper)
 │   ├── ray-v2.1-cognitive-physiology.md # RAY v2.1 · DOI: 10.5281/zenodo.17399834
-│   ├── recursive-patterns-ai-development.md
 │   ├── slv-v2-1-technical-paper.md      # SLV v2.1 · DOI: 10.5281/zenodo.17763377
-│   ├── symbolic-hybrid-defense.md
-│   ├── symbolic-systems-mythogenic.md
-│   ├── systems-thinking-architecture.md
-│   ├── torque-measuring-ai-stability.md # Torque v2.0 · DOI: 10.5281/zenodo.17379750
-│   ├── torque-quantitative-foundation-v2.md
+│   ├── torque-measuring-ai-stability.md # Torque companion note (not DOI-backed)
+│   ├── torque-quantitative-foundation-v2.md  # Torque v2.0 · DOI: 10.5281/zenodo.17379750
 │   ├── ura-v1.5-resilience-and-recovery.md  # URA v1.5 · DOI: 10.5281/zenodo.17309731
-│   ├── utme-v1-0-academic-paper.md      # UTME v1.0 · DOI: 10.5281/zenodo.17497149
-│   └── vgs-gaming-validation.md
+│   └── utme-v1-0-academic-paper.md      # UTME v1.0 · DOI: 10.5281/zenodo.17497149
 │
 ├── cognitive-engineering/               # Context engineering frameworks
 │   ├── context-engineering-the-complete-framework.md
-│   └── fractal-context-engineering.md
+│   └── fractal-context-engineering-expanded-draft.md
 │
 ├── mythopoeic-intelligence/             # MI Agents research
 │   ├── mythopoeic-intelligence-agents-v1.md  # MI Agents v1.0 · DOI: 10.5281/zenodo.17770533
@@ -93,12 +86,34 @@ whitepapers/
 │       ├── rim-topology-math.jpg
 │       └── rim-topology-tricolor.jpg
 │
-└── symbolic-ai/                         # Symbolic reasoning research
-    ├── driftlock-cognitive-stability.md
-    ├── fce-advanced-memory-trad-ai.md
-    ├── prompt-anatomy-upgrades-flat-ai.md
-    ├── symbolic-twins-introduction-symbolic-ai.pdf
-    └── twins-systems-thinking.md
+├── symbolic-ai/                         # Symbolic reasoning research
+│   ├── driftlock-cognitive-stability.md
+│   ├── fce-advanced-memory-trad-ai.md
+│   ├── prompt-anatomy-upgrades-flat-ai.md
+│   ├── symbolic-twins-introduction-public.md
+│   └── twins-systems-thinking.md
+│
+└── origin-notes/                        # Historical methodology-trail notes
+    ├── README.md
+    ├── spark/
+    │   ├── README.md
+    │   ├── spark-origin-case-note.md
+    │   └── spark-pattern-glossary.md
+    ├── methodology/
+    │   ├── performance-coach-ai-methodology-evolution.md
+    │   ├── systems-thinking-architecture-note.md
+    │   ├── recursive-patterns-ai-development-note.md
+    │   ├── hallucination-symbolic-raw-material-note.md
+    │   └── vgs-gaming-validation-methodology-note.md
+    ├── symbolic-identity/
+    │   ├── symbolic-hybrid-defense-concept-note.md
+    │   └── symbolic-systems-mythogenic-concept-note.md
+    ├── csfc/
+    │   └── role-obsolescence-cascade-public-note.md
+    ├── ecl/
+    │   └── forgedl-to-ecl-origin-note.md
+    └── metaphor/
+        └── metaphoric-circuitry.md
 ```
 
 > `PUBLICATIONS.md` is the canonical paper ledger. Files marked "DOI pending" or "supporting documentation" are not counted as DOI-backed publications until they appear there.
@@ -164,9 +179,9 @@ Framework papers, public validation summaries, and supporting technical document
 | UTME v1.0 | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
 
 **RAY supporting documentation** (not DOI-backed papers, supporting technical docs):
-- `ray-architecture.md` — system architecture
-- `ray-integration.md` — integration guide
-- `ray-metrics.md` — public metrics summary
+- `ray-architecture.md` — public architecture companion
+- `ray-integration.md` — public integration note; implementation details withheld
+- `ray-metrics.md` — public validation companion
 
 ---
 
@@ -174,8 +189,8 @@ Framework papers, public validation summaries, and supporting technical document
 
 Public context-engineering papers and methodology documentation.
 
-- `context-engineering-the-complete-framework.md` — Complete CE framework
-- `fractal-context-engineering.md` — FCE methodology overview
+- `context-engineering-the-complete-framework.md` — Complete CE framework (public explanatory draft)
+- `fractal-context-engineering-expanded-draft.md` — historical expanded FCE draft; not the canonical DOI artifact
 
 ---
 
@@ -192,10 +207,29 @@ Research on Mythopoeic Intelligence Agents — AI systems operating through narr
 Public symbolic-reasoning, systems-thinking, and drift-stability research.
 
 - `driftlock-cognitive-stability.md` — Drift stability methodology
-- `fce-advanced-memory-trad-ai.md` — FCE memory architecture
+- `fce-advanced-memory-trad-ai.md` — FCE memory architecture (historical bridge note)
 - `prompt-anatomy-upgrades-flat-ai.md` — Prompt structure research
-- `symbolic-twins-introduction-symbolic-ai.pdf` — Symbolic Twins introduction
+- `symbolic-twins-introduction-public.md` — Symbolic Twins public introduction
 - `twins-systems-thinking.md` — Systems thinking foundations
+
+> Earlier methodology-evolution notes from this research period (symbolic hybrid defense, mythogenic systems) have moved to [`origin-notes/symbolic-identity/`](origin-notes/symbolic-identity/).
+
+---
+
+## Origin Notes
+
+Public historical notes from the 2025 methodology-development trail. These preserve concept evolution and lineage without publishing raw incident archives, operational playbooks, or canonical framework specifications.
+
+See [`origin-notes/README.md`](origin-notes/README.md) for the full index.
+
+| Folder | Contents |
+|---|---|
+| `spark/` | SPARK field-record vocabulary: narrative hijack, shrine logic, symbolic fatigue, Garden recovery |
+| `methodology/` | Performance coaching, systems thinking, recursive development, gaming validation, paradigm notes |
+| `symbolic-identity/` | Early symbolic-defense and mythogenic identity notes |
+| `csfc/` | Early CSFC / ROC lineage notes |
+| `ecl/` | ForgeDL → ECL lineage origin note |
+| `metaphor/` | Metaphor and symbolic mapping notes |
 
 ---
 
