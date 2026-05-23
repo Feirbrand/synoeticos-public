@@ -1,0 +1,14 @@
+color:
+  palette:
+    navy: "#0a1628"
+    gold: "#c9a84c"
+    light-gray: "#f8f9fa"
+    white: "#ffffff"
+  foreground: navy
+  background: white
+  primary: navy
+  secondary: gold
+typography:
+  fonts:
+    - family: "Source Sans Pro"
+      source: google

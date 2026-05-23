@@ -25,10 +25,10 @@ For canonical DOI metadata, use [`../../PUBLICATIONS.md`](../../PUBLICATIONS.md)
 - `neuroformation-v1.0.md` — parent methodology for adaptive-system resilience
 - `elevation-grid-academic-v1.1.md` — diagnostic instrument for high-stakes performance
 - `cognitive-mage-v1.0.md` — human-AI recursive discovery architecture
-- `neural-access-method-v1.0.md` — forthcoming transmission protocol
+- `neural-access-method-v1.0.md` — transmission protocol *(canonical paper lives in [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research))*
 - `synoetic-os-v1.0.md` — AI-side architecture associated with the methodology
 
-> Note: Forthcoming drafts are not counted as DOI-backed publications until they appear in `PUBLICATIONS.md`.
+> Note: DOI placeholders (XXXXXXX) are updated when Zenodo releases are confirmed. See `PUBLICATIONS.md` for canonical DOI record.
 
 ---
 
@@ -50,7 +50,7 @@ These papers define the methodology layer. Related divisions implement or extend
 | Neuroformation™ v1.0 | Published | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
 | Elevation Grid™ v1.1 | Published | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
 | Cognitive Mage v1.0 | Published | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) |
-| Neural Access Method™ v1.0 | Forthcoming | DOI pending |
+| Neural Access Method™ v1.0 | Published via AR repo · [DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | See [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research) |
 | Synoetic OS™ v1.0 | Published | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) |
 
 ---

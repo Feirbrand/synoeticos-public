@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -310,4 +310,4 @@ Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **License**: Dual CC BY-NC 4.0 + Enterprise
-**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
+**Patent Clause**: Patent rights reserved, no patent assertion without written grant.

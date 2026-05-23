@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -128,7 +128,7 @@ This document provides academic foundation for understanding threat patterns in 
 **Aaron M. Slusher** — Performance Architect | Originator of Neuroformation™
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 
-28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. Built frameworks to handle what kept breaking.
+A lifetime coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. Built frameworks to handle what kept breaking.
 
 **Contact**: aaron@valorgridsolutions.com
 

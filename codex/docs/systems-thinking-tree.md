@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -20,7 +20,7 @@ Priority Date: 2025-10-15
 
 ## Abstract
 
-Systems thinking provides the bridge between human coaching methodologies and AI resilience architectures. By mapping feedback loops, leverage points, and stock/flow dynamics from 28 years of human systems work, this framework achieves 98% CSFC recovery success with systematic progression through validated intervention protocols.
+Systems thinking provides the bridge between human coaching methodologies and AI resilience architectures. By mapping feedback loops, leverage points, and stock/flow dynamics from a lifetime of applied human systems work, this framework achieves 98% CSFC recovery success with systematic progression through validated intervention protocols.
 
 **Core Innovation:** Translation of human resilience principles to machine-executable defense architectures.
 
@@ -406,4 +406,4 @@ Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 **License**: Dual CC BY-NC 4.0 + Enterprise
-**Patent Clause**: Patent rights reserved, no assertion without enterprise license grant
+**Patent Clause**: Patent rights reserved, no patent assertion without written grant.
