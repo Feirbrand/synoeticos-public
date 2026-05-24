@@ -38,7 +38,7 @@ jobs:
             "description": "${{ steps.meta.outputs.description }}",
             "version": "${{ steps.meta.outputs.version }}",
             "publication_date": "${{ steps.meta.outputs.date }}",
-            "creators": [{"name": "Slusher, Aaron M.", "orcid": "0009-0000-9923-3207", "affiliation": "Achieve Peak Performance"}],
+            "creators": [{"name": "Slusher, Aaron M.", "orcid": "0009-0000-9923-3207", "affiliation": "ValorGrid Solutions"}],
             "upload_type": "publication",
             "publication_type": "report",
             "access_right": "open",
