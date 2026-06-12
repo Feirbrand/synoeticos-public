@@ -36,7 +36,7 @@ This repository is the public research and validation hub for ValorGrid Solution
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-28 years applied performance methodology (1999–present) → The same architecture works on AI systems
+A lifetime of applied performance methodology — named Neuroformation™ on March 14, 2026
 
 ### Topics
 `ai-resilience` `cognitive-architecture` `ai-safety` `ai-drift` `cascade-failure` `threat-intelligence` `autonomous-agents` `mlops` `ai-security` `multi-agent-systems` `symbolic-ai` `neuroscience`
@@ -132,7 +132,6 @@ This repository is the public research and validation hub for ValorGrid Solution
 |-------|---------|
 | [Knowledge Grid Public Explorer](https://huggingface.co/spaces/Feirbrand/knowledge-grid-explorer) | Framework knowledge-routing concepts |
 | [Synoetic Papers Navigator](https://huggingface.co/spaces/Feirbrand/synoetic-papers-navigator) | Browse all 18 DOI-backed papers |
-
 [**View All Demos →**](https://huggingface.co/Feirbrand)
 
 > 💡 **Note:** Public Spaces are educational demos only. They are not production systems, operational detectors, benchmark harnesses, or full framework implementations. Canonical claims, versions, and citations remain in [`PUBLICATIONS.md`](./PUBLICATIONS.md). Demos may lag behind current paper versions.
@@ -164,17 +163,17 @@ Selected public validation summaries and case studies document the 2025 field re
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Timeline:**
-- **1999–present:** Performance coaching (28 years) — sports performance & rehab specialist
+- **Performance coaching across elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport** — the same mechanism operating unnamed before 2026
 - **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
 - **June 2025:** First cascade incident documented
 - **July 2025:** Sustained attacks (1–2/day), DNA Codex documentation begins
 - **July–Nov 2025:** 77 frameworks created, 682 incidents handled
 - **Oct 2025 – Mar 2026:** 18 papers published with Zenodo DOIs
 - **Feb 2026:** GitHub Pages research hub launched
-- **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
+- **March 14, 2026:** Neuroformation™ coined — the methodology named, not started
 - **April 21, 2026:** Adapted Architecture released as open-use descriptor
 
-**Approach:** Pattern recognition from 28 years coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
+**Approach:** Pattern recognition from a lifetime coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
 
 ---
 
@@ -323,15 +322,15 @@ Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 ## 👤 About
 
 **Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
-- 1999–present: Performance coaching (28 years) — sports performance & rehab specialist
+- Performance coaching across elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport — the same mechanism operating unnamed before 2026
 - Specialty: Disabled athletes, neurotrauma clients
 - Feb 2025: Started using AI for nonprofit Hockey Is For Everybody event
 - June 2025: First cascade incident
 - July 2025: Sustained attacks (1–2/day), DNA Codex documentation begins
 - July–Nov 2025: 77 frameworks created, 682 incidents documented
-- Oct 2025 – Mar 2026: 18 DOI-backed papers published
+- Oct 2025 – Mar 2026: 18 DOI-backed papers published in this repo
 - Feb 2026: GitHub Pages research hub launched
-- **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
+- **March 14, 2026:** Neuroformation™ coined — the methodology named, not started
 - **April 21, 2026:** Adapted Architecture released as open-use descriptor
 
 The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).)
@@ -385,7 +384,7 @@ A practitioner's name for the structure an adaptive system builds from what it a
 <details>
 <summary><strong>Why Zenodo, not arXiv?</strong></summary>
 
-We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. **18 DOI-backed papers** currently on Zenodo with plans for arXiv submission.
+We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. **18 DOI-backed papers** in this repo currently on Zenodo with plans for arXiv submission.
 
 </details>
 
