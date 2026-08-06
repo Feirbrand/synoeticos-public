@@ -16,7 +16,7 @@ This is Paper 1 of 4 in the foundational methodology series.
 
 | Paper | Role | DOI | Status |
 |---|---|---|---|
-| **Neuroformation™ v1.0** (this paper) | Parent methodology — five-layer architecture | [10.5281/zenodo.19197791](https://doi.org/10.5281/zenodo.19197791) | ✅ Published |
+| **Neuroformation™ v1.0** (this paper) | Parent methodology — five-layer architecture | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | ✅ Published |
 | **Elevation Grid™ v1.1** | Diagnostic instrument — 3×3 coordinate map | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | ✅ Published |
 | **Neural Access Method™ v1.0** | Transmission protocol — ACCESS→REFRAME→SIMPLIFY→IGNITE | Manuscript in preparation | 🔄 Forthcoming |
 | **Cognitive Mage v1.0** (updated) | Origin paper — human-AI co-discovery with NF foundation | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | 🔄 Update forthcoming |
