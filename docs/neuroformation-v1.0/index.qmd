@@ -4,7 +4,7 @@ subtitle: "Integrating Neuroscience, Systems Design, and Formation Principles Ac
 author: "Aaron M. Slusher"
 date: "2026-03-18"
 doi: "10.5281/zenodo.19197818"
-description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 500+ documented AI system incidents."
+description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 682 documented AI system incidents."
 ---
 
 | | |
@@ -60,7 +60,7 @@ Adaptive systems often exhibit a recognizable failure pattern: cascade from iden
 
 Neuroformation™ is a methodology for stabilizing adaptive systems through signal integrity, reinforcement design, identity coherence, and purpose alignment. It operates through a five-layer architecture -- Substrate, Signal Processing, Learning/Reinforcement, Identity, Purpose -- applicable across biological and artificial systems with structurally similar intervention classes across domains.
 
-This methodology was developed across 28+ years of applied coaching practice (1999--present) and 500+ documented AI incidents (February 2025--present). Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis; independent replication is required to test whether this pattern generalizes.
+This methodology was developed across 28+ years of applied coaching practice (1999--present) and 682 documented AI incidents (February 2025--present). Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis; independent replication is required to test whether this pattern generalizes.
 
 This paper presents the methodology, the five-layer architecture, the Elevation Grid™ diagnostic framework, the Neural Access Method™ transmission protocol, and cross-substrate empirical support. Neuroformation™ was coined March 14, 2026 by Aaron M. Slusher as the formal name for a methodology in practice since 1999.
 
