@@ -806,7 +806,7 @@ Neuroformation™ builds on and extends a body of published work:
 
 **Synoetic OS™ v1.0 (Slusher, 2025e):** The AI cognitive operating system that implements Neuroformation™ on the AI side. The Elevation Grid™ exhibits a structurally parallel 3x3 organization to the Synoetic OS™ -- same grid structure across two different materials, discovered independently from practice in both domains.
 
-**Elevation Grid™ v1.1 (Slusher, 2026a):** The diagnostic map in full. This paper establishes the parent methodology; EG v1.1 presents the map instrument. Published under Achieve Peak Performance, DOI: 10.5281/zenodo.18489565.
+**Elevation Grid™ v1.1 (Slusher, 2026a):** The diagnostic map in full. This paper establishes the parent methodology; EG v1.1 presents the map instrument. Published under Achieve Peak Performance, DOI: 10.5281/zenodo.18790842.
 
 **Forthcoming:** Paper 2 -- Elevation Grid™ full architecture and field application. Paper 3 -- Neural Access Method™ full protocol. Paper 4 -- Cognitive Mage updated with Neuroformation™ foundation underneath it.
 
@@ -1005,7 +1005,7 @@ Varela, F. J., Thompson, E., & Rosch, E. (1991). *The embodied mind: Cognitive s
 
 ### APP Published Papers
 
-Slusher, A. M. (2026a). Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.18489565
+Slusher, A. M. (2026a). Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations. *Achieve Peak Performance*. https://doi.org/10.5281/zenodo.18790842
 
 Slusher, A. M. (2026b). Neural Access Method™: Transmission protocol for high-pressure intervention. *Achieve Peak Performance*. Manuscript in preparation.
 
