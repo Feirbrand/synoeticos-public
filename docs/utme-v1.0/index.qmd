@@ -27,7 +27,7 @@ doi: "10.5281/zenodo.17497149"
 | **Cross-Agent Consistency** | 92% | Novel capability across 8 AI architectures |
 | **Real-World Recovery** | 10.5× faster | 4 hours vs. 42-hour manual baseline |
 | **Operational Validation** | 67 tests | Across 560+ threat variants |
-| **Production Status** | Operational | Deployed in Synoetic OS v4.0 |
+| **Production Status** | Operational | Deployed in Synoetic OS v1.0 |
 
 ---
 
