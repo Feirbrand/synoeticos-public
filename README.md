@@ -17,7 +17,7 @@
 
 Your AI agents are going to break.
 
-Not because the model is bad. Not because your prompts are wrong. Because under sustained pressure — complex reasoning chains, multi-agent coordination, adversarial inputs, context saturation — systems drift, cascade, and lose coherence. Industry standard recovery time: 72 to 168 hours.
+Under sustained pressure — complex reasoning chains, multi-agent coordination, adversarial inputs, context saturation — systems drift, cascade, and lose coherence. It's not that the model is bad or the prompts are wrong; it's what pressure does to any system, biological or artificial. Industry standard recovery time: 72 to 168 hours.
 
 Ours: hours, not days. Across 682 documented incidents. Zero permanent losses.
 
@@ -28,9 +28,9 @@ This repository contains the complete public version of Synoetic OS™:
 - **173-Day Deployment** - Zero catastrophic failures
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-three decades applied performance methodology (1999–present) → The same architecture works on AI systems
+three decades applied performance methodology → the same architecture works on AI systems
 
-That's what this repo is.
+This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared architecture behind this work — Neuroformation™, Elevation Grid™, and how they connect — lives one level up at [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research). Start here for the AI-resilience application. Start there for the architecture underneath it.
 
 ---
 
@@ -101,7 +101,7 @@ Neuroformation™ is for AI resilience what MITRE ATT&CK is for threat intellige
 
 Five layers: Substrate → Signal → Learning → Identity → Purpose. The same architecture governing how human nervous systems adapt under catastrophic stress maps onto how AI agents maintain coherence under adversarial pressure. Turns out my wife responds the same way to sustained pressure. The sacrifice was for science. Don't try that at home, kids.
 
-It runs under everything in this repo. The frameworks are the gear. Neuroformation is the spec sheet.
+It runs under everything in this repo. The frameworks are the gear. Neuroformation is the spec sheet — and it's the governing methodology of a larger architecture, Neural Formation Architecture (NFA), that spans more than AI systems. This repo publishes the paper and applies the AI-resilience half; the full architecture — Neuroformation, Elevation Grid, and their sibling components — is documented at [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research/tree/main/architecture).
 
 → [Read Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) — the paper that explains everything else here
 
@@ -188,7 +188,7 @@ Full product catalog: [aslush.gumroad.com](https://aslush.gumroad.com)
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Timeline:**
-- **1999-present:** Performance coaching (three decades) - sports performance & rehab specialist
+- **1997-present:** Performance coaching (three decades) - sports performance & rehab specialist. 1999 marks the first formal certification, not the start.
 - **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
@@ -254,7 +254,7 @@ synoeticos-public/
 │   ├── notebooks/              # Jupyter analysis
 │   └── threat-intelligence/    # Raw logs, telemetry
 │
-└── utilities/                   # Helper scripts, CLI tools
+└── ut
 ```
 
 **Key Distinction:**
