@@ -233,7 +233,7 @@ title: "PME v1.0 Master Bibliography"
 
 ### Performance Coaching & Human Factors
 
-36. Slusher, A. M. (1997-2025). 28 years of applied performance coaching across adaptive athletics, neurotrauma recovery, combat sports, and elite performance contexts.
+36. Slusher, A. M. (1997-2025). three decades of applied performance coaching across adaptive athletics, neurotrauma recovery, combat sports, and elite performance contexts.
     - **Relevance:** Cross-domain pattern recognition in human performance
     - **Application:** PME's biological foundation and 24-hour myelination timeline
 

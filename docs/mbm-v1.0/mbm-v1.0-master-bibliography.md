@@ -173,7 +173,7 @@ Slusher, A. M. (2025). *Symbolic Lock Vector (SLV) v2.1: Omega-hardened cognitiv
 
 ## Human Performance Foundation
 
-*The athletic performance coaching origins of MBM — 28 years of practice (1997–2025).*
+*The athletic performance coaching origins of MBM — three decades of practice (1997–2025).*
 
 Slusher, A. M. (2026). *Aaron Slusher Performance Certifications and Credentials*. NSPA-Certified Performance Coach. https://orcid.org/0009-0000-9923-3207
 

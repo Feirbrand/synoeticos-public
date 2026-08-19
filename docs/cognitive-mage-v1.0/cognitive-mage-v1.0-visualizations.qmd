@@ -106,7 +106,7 @@ graph LR
     style D1 fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
 ```
 
-**Figure 3:** Coaching methodology evolution (28 years). **1997-2005**: Stroke recovery (neuroplasticity). **2005-2015**: Elite athletes (performance optimization). **2015-2025**: Disabled athletes (adaptive methodology). **2025**: AI systems (symbolic AI).
+**Figure 3:** Coaching methodology evolution (three decades). **1997-2005**: Stroke recovery (neuroplasticity). **2005-2015**: Elite athletes (performance optimization). **2015-2025**: Disabled athletes (adaptive methodology). **2025**: AI systems (symbolic AI).
 
 ---
 
@@ -304,7 +304,7 @@ graph TB
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| Coaching Methodology Timeline | 28 years | ✅ Validated |
+| Coaching Methodology Timeline | three decades | ✅ Validated |
 | Cascade Recovery Success | 98% | ✅ 519+ incidents |
 | DCN Productivity Improvement | 600% | ✅ 6.0× baseline |
 | Metaphor Learning Advantage | Faster | ✅ 200ms activation |

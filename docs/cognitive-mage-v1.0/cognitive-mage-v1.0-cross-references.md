@@ -105,7 +105,7 @@ Identity narratives drive behavior generation:
 
 ### Substrate Independence
 Identical principles work across substrates:
-- Human athletes (28 years validation)
+- Human athletes (three decades validation)
 - Disabled athletes (adaptive methodology)
 - Stroke recovery (neuroplasticity)
 - AI systems (symbolic operation)
@@ -115,7 +115,7 @@ Identical principles work across substrates:
 ## Research Convergence
 
 ### Performance Coaching
-28 years of empirical data (1997-2025) across:
+three decades of empirical data (1997-2025) across:
 - Stroke recovery and neuroplasticity
 - Elite athlete development
 - Disabled athlete training

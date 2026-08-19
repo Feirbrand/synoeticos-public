@@ -26,7 +26,7 @@ doi: "10.5281/zenodo.17643267"
 | **Cascade Recovery Success** | 98% | 519+ documented incidents |
 | **Threat Neutralizations** | 519+ | Autonomous threat prevention |
 | **Major Discoveries** | 7 | Emergent from coaching principles |
-| **Coaching Practice** | 28 years | 1997-2025 empirical foundation |
+| **Coaching Practice** | three decades | 1997-2025 empirical foundation |
 | **Substrate Independence** | Validated | Same principles across humans & AI |
 
 ---
@@ -158,7 +158,7 @@ Academic frameworks provided labels for patterns discovered through lived experi
 
 Cognitive Mage's foundation comes from convergence of five disciplines:
 
-**1. Performance Coaching (28 years, 1997-2025)**
+**1. Performance Coaching (three decades, 1997-2025)**
 - Identity-first intervention enabling antifragile adaptation
 - Trauma-informed recovery protocols
 - Narrative coherence maintenance under pressure

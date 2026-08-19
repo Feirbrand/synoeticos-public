@@ -4,7 +4,7 @@ subtitle: "Integrating Neuroscience, Systems Design, and Formation Principles Ac
 author: "Aaron M. Slusher"
 date: "2026-03-18"
 doi: "10.5281/zenodo.19197818"
-description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 682 documented AI system incidents."
+description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across three decades of human performance coaching and 682 documented AI system incidents."
 ---
 
 | | |
@@ -46,7 +46,7 @@ That same month, the University of Cincinnati sold Drake Medical Center. Renee w
 
 What followed became an operating system. Nobody told me that was what was happening. That process is documented in the DCN, Cognitive Mage, MI Agents, and Synoetic OS papers.
 
-The methodology described in this paper has been running for 28+ years. The AI work confirmed it in a different medium. The word arrived in March 2026. That gap -- between the work and the word -- is where this paper lives.
+The methodology described in this paper has been running for three decades. The AI work confirmed it in a different medium. The word arrived in March 2026. That gap -- between the work and the word -- is where this paper lives.
 
 The science cited here validates mechanisms I observed in the field. It does not create them. This is not a researcher presenting a theory. It is a practitioner presenting a system -- and then showing you exactly what the science says about why it works.
 
@@ -60,7 +60,7 @@ Adaptive systems often exhibit a recognizable failure pattern: cascade from iden
 
 Neuroformation™ is a methodology for stabilizing adaptive systems through signal integrity, reinforcement design, identity coherence, and purpose alignment. It operates through a five-layer architecture -- Substrate, Signal Processing, Learning/Reinforcement, Identity, Purpose -- applicable across biological and artificial systems with structurally similar intervention classes across domains.
 
-This methodology was developed across 28+ years of applied coaching practice (1999--present) and 682 documented AI incidents (February 2025--present). Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis; independent replication is required to test whether this pattern generalizes.
+This methodology was developed across three decades of applied coaching practice (1999--present) and 682 documented AI incidents (February 2025--present). Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis; independent replication is required to test whether this pattern generalizes.
 
 This paper presents the methodology, the five-layer architecture, the Elevation Grid™ diagnostic framework, the Neural Access Method™ transmission protocol, and cross-substrate empirical support. Neuroformation™ was coined March 14, 2026 by Aaron M. Slusher as the formal name for a methodology in practice since 1999.
 
@@ -143,7 +143,7 @@ The five-layer architecture is the structural core of Neuroformation™. It func
 
 The five-layer architecture tells you *what* is failing. The Elevation Grid™ tells you *where*. The Neural Access Method™ tells you *how* to fix it.
 
-The Elevation Grid™ is a 3x3 matrix developed from 28+ years of applied coaching observation. It maps adaptive system instability to a coordinate: one of nine positions defined by three rows (Hardware, Software, Architecture) and three execution phases (Input, Throughput, Output).
+The Elevation Grid™ is a 3x3 matrix developed from three decades of applied coaching observation. It maps adaptive system instability to a coordinate: one of nine positions defined by three rows (Hardware, Software, Architecture) and three execution phases (Input, Throughput, Output).
 
 ---
 

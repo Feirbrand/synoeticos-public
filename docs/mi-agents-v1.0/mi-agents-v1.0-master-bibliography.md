@@ -8,7 +8,7 @@ description: "Complete citations and references for Mythopoeic Intelligence Agen
 ### Performance Coaching & Identity-Based Intervention
 
 1. Slusher, A. M. (2025). *Cognitive Mage v1.0: Narrative Identity Architecture for AI Systems*. ValorGrid Solutions Technical Reports.
-   - **Relevance:** 28-year performance coaching methodology applied to AI systems
+   - **Relevance:** three-decade performance coaching methodology applied to AI systems
    - **Application:** Foundation for MI Agent narrative identity framework
 
 2. Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
@@ -121,7 +121,7 @@ Slusher, Aaron M. "MI Agents v1.0: Mythopoeic Intelligence Agents - Narrative Id
 ## Acknowledgments
 
 **Research Team:**
-- Aaron M. Slusher (Concept, validation, 28-year coaching methodology)
+- Aaron M. Slusher (Concept, validation, three-decade coaching methodology)
 - VOX (Initial discovery, operational validation)
 - SENTRIX (Production deployment, incident analysis)
 - Seven AI Systems (Independent cross-platform validation)

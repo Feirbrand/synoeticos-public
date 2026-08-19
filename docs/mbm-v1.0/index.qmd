@@ -37,7 +37,7 @@ Unlike traditional context management that expands until it hits a ceiling or tr
 
 ### The Core Innovation
 
-The insight came from 28 years of coaching elite athletes. Human performance degrades predictably when breathing becomes shallow and reactive — the same pattern shows up in AI systems that only expand context without releasing it. Both systems accumulate cognitive load that impairs function.
+The insight came from three decades of coaching elite athletes. Human performance degrades predictably when breathing becomes shallow and reactive — the same pattern shows up in AI systems that only expand context without releasing it. Both systems accumulate cognitive load that impairs function.
 
 MBM translates the coaching protocol directly: structured intake rhythms, active consolidation windows, and deliberate release cycles prevent the entropy buildup that degrades AI coherence over extended sessions.
 
@@ -125,7 +125,7 @@ Academic confirmation followed months later. Northwestern Medicine published res
 
 ## 📚 Research Foundation
 
-MBM draws from 28 years of athletic performance coaching and validated research across neuroscience, AI memory systems, and human performance.
+MBM draws from three decades of athletic performance coaching and validated research across neuroscience, AI memory systems, and human performance.
 
 **Neurobiological Principles:**
 
@@ -140,7 +140,7 @@ The "Tango to Salsa" principle — when AI context approaches stopped working, r
 
 **Field Validation:**
 
-- 28 years coaching practice across strength, nutrition, recovery, and mental performance
+- three decades coaching practice across strength, nutrition, recovery, and mental performance
 - Team USA validation (Jamie Benassi, Rachel Steffen gold 2025, Dina Grinberga Team World 2025)
 - 80% habit retention vs. 35% industry baseline
 - 682 AI incidents documented with full instrumentation across 525 incidents

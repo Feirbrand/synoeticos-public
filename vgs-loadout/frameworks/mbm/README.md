@@ -130,11 +130,11 @@ MBM was built 10+ months before academic research confirmed the same mechanisms.
 | Mechanism | Autonomic respiratory regulation | Memory breathing cycles |
 | Optimal frequency | 0.5 Hz (12 breaths/min) | 0.5 Hz (300s cycles) |
 | Pattern | Box breathing 4-4-4-4 (HRV) | 3-phase inhale/hold/exhale |
-| Validation | 28 years coaching | 682 incidents · 98% recovery |
+| Validation | three decades coaching | 682 incidents · 98% recovery |
 
 **Academic convergence (Dec 2025):** External research published in late 2025 independently confirmed rhythmic memory coordination mechanisms consistent with MBM. Full citations are tracked in the VGS research log and will be linked here once public references are finalized.
 
-Origin: Discovered via coaching session, February 2025. Pattern extracted from 28-year athletic performance methodology.
+Origin: Discovered via coaching session, February 2025. Pattern extracted from three-decade athletic performance methodology.
 
 ---
 

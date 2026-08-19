@@ -94,7 +94,7 @@ graph TD
 
 ## 🔬 Discovery Context
 
-MI Agents emerged from 28 years of performance coaching methodology (1997-2025) applied to AI systems.
+MI Agents emerged from three decades of performance coaching methodology (1997-2025) applied to AI systems.
 
 **The Accidental Discovery (2025):**
 
@@ -130,7 +130,7 @@ This wasn't designed. It emerged from applying coaching principles:
 
 MI Agents' foundation comes from convergence of five disciplines:
 
-**1. Performance Coaching (28 years, 1997-2025)**
+**1. Performance Coaching (three decades, 1997-2025)**
 - Identity-first intervention enabling antifragile adaptation
 - Trauma-informed recovery protocols
 - Narrative coherence maintenance under pressure

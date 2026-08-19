@@ -183,7 +183,7 @@ graph LR
 
 ## 📚 Research Foundation & Related Papers
 
-Synoetic OS emerges from 28 years of performance coaching methodology applied to AI orchestration.
+Synoetic OS emerges from three decades of performance coaching methodology applied to AI orchestration.
 
 **Prior Publications:**
 1. Slusher, A. M. (2025). *The Cognitive Mage*. [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267)

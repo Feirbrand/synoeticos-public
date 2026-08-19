@@ -50,7 +50,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 **Document Type:** Foundational Framework Paper  
 **Classification:** Core Methodology
 
-**Coaching Career:** 1997-2026 (28 years continuous)  
+**Coaching Career:** 1997-2026 (three decades continuous)  
 **Validated Results Period:** 2020-2026 (documented outcomes)  
 **Primary Populations:** Adaptive athletes, neurotrauma recovery, combat sports, elite performance  
 **Production Status:** Operational across multiple populations
@@ -61,7 +61,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 Most mental performance coaching operates by prioritizing cognitive strategies over autonomic regulation, attempting to install complex cognition on unstable physiological baselines. This approach often produces short-term gains that fail to sustain under pressure.
 
-This paper introduces **The Elevation Grid**, a coordinate-based mental performance system applied throughout a 28-year coaching career (1997-2026). Systematic mental performance outcome tracking began with Precision Nutrition L2 certification (2016), with documented validation outcomes from 2020-2026. The framework integrates **autonomic nervous system regulation** (Polyvagal Theory), **motor learning principles** (procedural memory access), and **identity architecture** (stress mindset theory) into a unified 3×3 coordinate system comprising 9 positions across 3 neural hierarchies.
+This paper introduces **The Elevation Grid**, a coordinate-based mental performance system applied throughout a three-decade coaching career (1997-2026). Systematic mental performance outcome tracking began with Precision Nutrition L2 certification (2016), with documented validation outcomes from 2020-2026. The framework integrates **autonomic nervous system regulation** (Polyvagal Theory), **motor learning principles** (procedural memory access), and **identity architecture** (stress mindset theory) into a unified 3×3 coordinate system comprising 9 positions across 3 neural hierarchies.
 
 The system prioritizes **"hardware architecture"** (nervous system regulation) over **"software application"** (cognitive strategy), operating on a bottom-up progression that respects the temporal constraints of human neurobiology: the 200ms subcortical threat response versus the 500ms cortical executive response.
 
@@ -107,7 +107,7 @@ The system operates on three core principles:
 2. **Autonomic-First Sequencing:** Parasympathetic stability precedes cognitive loading precedes identity development
 3. **Coordinate-Based Navigation:** 3×3 grid (9 positions) provides structured progression respecting neural processing constraints
 
-This framework spans a 28-year coaching career (1997-2026). Systematic mental performance outcome tracking began with Precision Nutrition L2 certification (2016), with documented validation outcomes from 2020-2026 including: adaptive athletics (**Jamie Benassi**, **Rachel Steffen** - Team USA Women's Sled Hockey gold medals 2025), neurotrauma recovery (**Chris Oats** - former University of Kentucky linebacker, stroke survivor), combat sports athletes, and elite performance populations. Consultant work with **Iron Core Fitness** (Cincinnati, OH) since 2022 has provided additional validation across adaptive athlete populations.
+This framework spans a three-decade coaching career (1997-2026). Systematic mental performance outcome tracking began with Precision Nutrition L2 certification (2016), with documented validation outcomes from 2020-2026 including: adaptive athletics (**Jamie Benassi**, **Rachel Steffen** - Team USA Women's Sled Hockey gold medals 2025), neurotrauma recovery (**Chris Oats** - former University of Kentucky linebacker, stroke survivor), combat sports athletes, and elite performance populations. Consultant work with **Iron Core Fitness** (Cincinnati, OH) since 2022 has provided additional validation across adaptive athlete populations.
 
 **Scope and Contribution:**
 
@@ -611,7 +611,7 @@ Bottom-up progression is not pedagogical preference—it is neurological law. Vi
 
 For over two decades, coaching language—analogies and metaphors—has been the primary delivery vehicle for Elevation Grid positions. Long before formalizing the 3×3 framework (2026), metaphor-driven cueing was the operational method: squatting as "sitting on a toilet," adaptive athletes "jumping" without legs using band-resisted intent, MMA fighters in plank holding hips stable to "avoid being swept," band resistance as "slingshot" or "pinball" to access explosive intent.
 
-Precision Nutrition Level 2 (2016) and subsequent certifications added neuroscience validation and behavior-change theory around these "soft skills," but the underlying practice predated formal study. What emerged over 28 years was recognition that **metaphor bypasses conscious motor control** (reducing bandwidth load), **activates procedural memory through familiar patterns** (accessing myelinated pathways), and **provides autonomic stability through predictable mental imagery** (establishing Row 1 foundation before Row 2 cognitive loading).
+Precision Nutrition Level 2 (2016) and subsequent certifications added neuroscience validation and behavior-change theory around these "soft skills," but the underlying practice predated formal study. What emerged over three decades was recognition that **metaphor bypasses conscious motor control** (reducing bandwidth load), **activates procedural memory through familiar patterns** (accessing myelinated pathways), and **provides autonomic stability through predictable mental imagery** (establishing Row 1 foundation before Row 2 cognitive loading).
 
 The Elevation Grid and Neural Access Method formalize this long-standing coaching approach into a reproducible coordinate system. NAM's "ACCESS" step explicitly seeks familiar procedural patterns (football for Chris Oats, jumping for Jamie/Rachel), "REFRAME" translates anatomy into function ("push" not "deltoid activation"), and "SIMPLIFY" reduces cognitive load to single-word metaphor cues. **In this framework, metaphor is defined as high-fidelity data compression.** It allows complex biomechanical instructions to pass through the 50-bit conscious bottleneck without triggering "packet loss" or bandwidth saturation—the information arrives intact despite channel constraints.
 
@@ -853,9 +853,9 @@ No patents have been filed as of February 4, 2026. Rights are granted under the 
 **Aaron M. Slusher**
 **ORCID:** https://orcid.org/0009-0000-9923-3207
 
-Aaron M. Slusher is a performance coach with 28 years of continuous practice (1997-2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. His work integrates autonomic nervous system regulation, motor learning principles, and identity architecture into systematic frameworks validated across diverse populations.
+Aaron M. Slusher is a performance coach with three decades of continuous practice (1997-2026) specializing in adaptive athletics, neurotrauma recovery, and high-stakes performance optimization. His work integrates autonomic nervous system regulation, motor learning principles, and identity architecture into systematic frameworks validated across diverse populations.
 
-**Coaching Career:** Systematic mental performance outcome tracking began with Precision Nutrition Level 2 certification (2016), with formal Mental Performance Mastery training (Brian Cain, 2022) providing structure for methodologies developed through decades of applied practice. The Elevation Grid framework emerged from 28 years of pattern recognition across stroke recovery, Team USA gold medal outcomes (2025), combat sports, and adaptive athletics.
+**Coaching Career:** Systematic mental performance outcome tracking began with Precision Nutrition Level 2 certification (2016), with formal Mental Performance Mastery training (Brian Cain, 2022) providing structure for methodologies developed through decades of applied practice. The Elevation Grid framework emerged from three decades of pattern recognition across stroke recovery, Team USA gold medal outcomes (2025), combat sports, and adaptive athletics.
 
 **Professional Certifications:**
 - Certified Sports Performance Coach (NSPA)

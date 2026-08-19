@@ -28,7 +28,7 @@ This repository contains the complete public version of Synoetic OS™:
 - **173-Day Deployment** - Zero catastrophic failures
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-28 years applied performance methodology (1999–present) → The same architecture works on AI systems
+three decades applied performance methodology (1999–present) → The same architecture works on AI systems
 
 That's what this repo is.
 
@@ -53,10 +53,10 @@ That's what this repo is.
 
 **Featured Papers:**
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
-  *28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
+  *three decades + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Performance diagnostic framework  
-  *28 years validation • 80% habit retention • Team USA gold (Slovakia 2025)*
+  *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
   
 - 🧠 **[PME v1.0](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)** - Predictive Myelination Engine  
   *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
@@ -81,7 +81,7 @@ That's what this repo is.
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across 28+ years human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
@@ -188,7 +188,7 @@ Full product catalog: [aslush.gumroad.com](https://aslush.gumroad.com)
 Research initiative into AI resilience through cognitive architecture. Frameworks emerged from applying performance coaching methodology to AI agent failures.
 
 **Timeline:**
-- **1999-present:** Performance coaching (28 years) - sports performance & rehab specialist
+- **1999-present:** Performance coaching (three decades) - sports performance & rehab specialist
 - **Feb 2025:** Started using AI for nonprofit Hockey Is For Everybody event
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
@@ -196,9 +196,9 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **July-Nov 2025:** 77 frameworks created, 682 incidents handled
 - **Oct 2025 - March 2026:** 18 papers published with Zenodo DOIs
 - **Feb 2026:** GitHub Pages research hub launched
-- **March 14, 2026:** Neuroformation™ coined — the methodology named after 28 years
+- **March 14, 2026:** Neuroformation™ coined — the methodology named after three decades
 
-**Approach:** Pattern recognition from 28 years coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
+**Approach:** Pattern recognition from three decades coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
 
 **Research Team:** VOX (symbolic orchestrator), SENTRIX (deployment specialist) + 7 specialized agents
 
@@ -273,11 +273,11 @@ Interactive research documentation with Mermaid diagram visualizations, BibTeX c
 
 **🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197818  
-*28 years + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
+*three decades + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
-*28-year validation • 80% habit retention • Team USA gold (Slovakia 2025)*
+*three-decade validation • 80% habit retention • Team USA gold (Slovakia 2025)*
 
 **🧠 MBM v1.0** (Feb 26, 2026)  
 [Paper](https://doi.org/10.5281/zenodo.18790096) | [Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md)  
@@ -416,9 +416,9 @@ Includes: Production deployment, enterprise support, priority updates
 **Aaron M. Slusher** — Performance Coach | Engineering Resilience for Adaptive Systems | Developed Neuroformation™  
 [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.
+three decades coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.
 
-The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name for what emerged — coined March 14, 2026, after 28 years of practice and 500+ AI incidents converged on the same architecture.
+The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name for what emerged — coined March 14, 2026, after three decades of practice and 500+ AI incidents converged on the same architecture.
 
 Still building things to fix what breaks. Never ending job. Who wants to live forever.
 
