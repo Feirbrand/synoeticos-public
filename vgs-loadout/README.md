@@ -229,7 +229,7 @@ Full BibTeX for all 18 papers: [`/docs/assets/references.bib`](../docs/assets/re
 
 ## About
 
-**Aaron M. Slusher** — Performance Architect · Originator of Neuroformation™
+**Aaron M. Slusher** — Performance Coach · Developed Neuroformation™
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 **Contact:** [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 **GitHub Pages:** [feirbrand.github.io/synoeticos-public](https://feirbrand.github.io/synoeticos-public/)

@@ -125,7 +125,7 @@ This document provides academic foundation for understanding threat patterns in 
 
 # Author
 
-**Aaron M. Slusher** — Performance Architect | Originator of Neuroformation™
+**Aaron M. Slusher** — Performance Coach | Developed Neuroformation™
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 
 A lifetime coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025. Built frameworks to handle what kept breaking.

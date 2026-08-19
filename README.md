@@ -413,7 +413,7 @@ Includes: Production deployment, enterprise support, priority updates
 
 ## 👤 About
 
-**Aaron M. Slusher** — Performance Architect | Engineering Resilience for Adaptive Systems | Creator of Neuroformation™  
+**Aaron M. Slusher** — Performance Coach | Engineering Resilience for Adaptive Systems | Developed Neuroformation™  
 [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 28 years coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.

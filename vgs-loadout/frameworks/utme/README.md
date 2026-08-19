@@ -175,7 +175,7 @@ ValorGrid Solutions. https://doi.org/10.5281/zenodo.17497149
 
 ## About
 
-**Aaron M. Slusher** — Performance Architect · Originator of Neuroformation™
+**Aaron M. Slusher** — Performance Coach · Developed Neuroformation™
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 **Contact:** [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
 **All papers:** [PUBLICATIONS.md](../../../PUBLICATIONS.md)

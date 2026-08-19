@@ -13,7 +13,7 @@ Priority Date: 2025-10-15
 # Symbolic Defense: Hallucination as Defensive Raw Material
 ## Transforming Vulnerabilities into Resilience Assets
 
-**Author:** Aaron M. Slusher — Performance Architect | Originator of Neuroformation™
+**Author:** Aaron M. Slusher — Performance Coach | Developed Neuroformation™
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 **Date:** October 15, 2025
 ---

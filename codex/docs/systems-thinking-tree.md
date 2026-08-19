@@ -13,7 +13,7 @@ Priority Date: 2025-10-15
 # Systems Thinking Tree: From Coaching to AI Resilience
 ## Mapping Human Wisdom to Machine Architecture
 
-**Author:** Aaron M. Slusher — Performance Architect | Originator of Neuroformation™
+**Author:** Aaron M. Slusher — Performance Coach | Developed Neuroformation™
 **ORCID**: https://orcid.org/0009-0000-9923-3207
 **Date:** October 15, 2025
 ---
