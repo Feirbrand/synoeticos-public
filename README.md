@@ -284,7 +284,7 @@ Interactive research documentation with Mermaid diagram visualizations, BibTeX c
 *Memory Breathing Methodology • 40% memory reduction • Bio-inspired consolidation*
 
 **🧠 PME v1.0** (Jan 20, 2026)  
-[Paper](https://doi.org/10.5281/zenodo.18318485) | [Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)  
+[Paper](https://zenodo.org/records/18318485) | [Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)  
 *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
 
 What's deployed so far: Elevation Grid™ v1.1 and a growing set of VGS framework papers. More going live as the hub develops.
@@ -310,7 +310,7 @@ Coordinate-based performance diagnostic. Isomorphic to Synoetic OS™ 3×3 struc
 Memory Breathing Methodology. 40% memory reduction, bio-inspired consolidation.  
 [Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md)
 
-**🧠 PME v1.0** (Jan 2026) — [DOI: 10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485)  
+**🧠 PME v1.0** (Jan 2026) — [DOI: 10.5281/zenodo.18318485](https://zenodo.org/records/18318485)  
 Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 100% drift elimination over 62-day deployment.  
 [Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)
 
