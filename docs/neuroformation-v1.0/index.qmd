@@ -2,7 +2,7 @@
 title: "Neuroformation™: A Methodology for Building Resilience in Adaptive Systems"
 subtitle: "Integrating Neuroscience, Systems Design, and Formation Principles Across Human and Artificial Substrates"
 author: "Aaron M. Slusher"
-date: "2026-03-18"
+date: "2026-03-24"
 doi: "10.5281/zenodo.19197818"
 description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across three decades of human performance coaching and 682 documented AI system incidents."
 ---
@@ -12,7 +12,7 @@ description: "Neuroformation™ is a methodology integrating neuroscience, syste
 | **Author** | Aaron M. Slusher |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
-| **Published** | March 18, 2026 |
+| **Published** | March 24, 2026 |
 | **Version** | 1.0 |
 | **License** | CC BY-NC 4.0 |
 
