@@ -81,7 +81,7 @@ These papers establish the architecture. The other divisions implement it:
 
 <h4>1. Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems</h4>
 
-**Status**: Draft — Ready for Publication | **File**: `neuroformation-v1.0.md` | **DOI**: 10.5281/zenodo.19197818
+**Status**: Published | **File**: `neuroformation-v1.0.md` | **DOI**: 10.5281/zenodo.19197818
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **ORCID**: 0009-0000-9923-3207
 **Coined**: March 14, 2026 | **Priority Date**: March 14, 2026
 
