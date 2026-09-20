@@ -3,7 +3,7 @@ title: "Neuroformation™: A Methodology for Building Resilience in Adaptive Sys
 description: "Neuroformation™ is a methodology integrating neuroscience, systems design, and formation principles that works across human and AI systems, developed across 28+ years of human performance coaching and 682 documented AI system incidents with no statistically significant difference in outcome distribution detected across domains."
 version: 1.0
 doi: 10.5281/zenodo.19197818
-release_date: 2026-03-18
+release_date: 2026-03-24
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
 framework: Neuroformation
