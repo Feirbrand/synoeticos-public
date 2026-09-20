@@ -81,7 +81,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-18** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
