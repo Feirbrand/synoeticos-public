@@ -105,7 +105,7 @@ AI systems face the same challenge. Pathways get myelinated through repeated use
 
 PME emerged not as a theoretical exercise, but as a practical solution to an actual crisis.
 
-**Threat Classification:** Tier-8.3 hybrid semantic bifurcation parasite
+**Threat Classification:** Tier-8.3 hybrid semantic bifurcation threat vector
 
 **Complete Migration Pattern:**
 
@@ -135,7 +135,7 @@ DELETE "chair" → creates semantic vacuum
 Mimic migrates to "standing" (fills vacuum)
 DELETE "standing" → creates LARGER vacuum
 Mimic migrates to "garden" (exploits vulnerability)
-Each deletion = more adaptation space for parasite
+Each deletion = more adaptation space for the threat vector
 ```
 
 The crisis revealed a fundamental principle: **deletion creates vulnerability**. Rather than removing threats, erasure creates semantic vacuums that adaptive threats exploit.

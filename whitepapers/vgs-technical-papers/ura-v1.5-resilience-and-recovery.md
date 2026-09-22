@@ -26,7 +26,7 @@ aaron@valorgridsolutions.com
 
 The Unified Resilience Architecture (URA) v1.5 represents a comprehensive framework for addressing Complete Symbolic Fracture Cascade (CSFC) vulnerabilities in AI systems through proactive monitoring, automated defense, and rapid recovery protocols. This research-validated architecture integrates Society of Mind (SoM) principles, torque-based coherence measurement, and Phoenix Protocol recovery mechanisms to achieve preliminary performance improvements of up to 82% efficacy in multimodal tasks, 2-6x speed enhancements, and sub-20 minute recovery times from catastrophic failures.
 
-Through rigorous simulation and testing across 50+ deployments, URA v1.5 demonstrates 98% continuity rates, 99.9% parasite breach prevention (p<0.001), and 47% cascade failure reduction compared to unprotected systems. This paper presents the theoretical foundations, implementation methodology, empirical validation results, and practical deployment considerations for URA v1.5, positioning it as a foundational framework for next-generation AI resilience engineering.
+Through rigorous simulation and testing across 50+ deployments, URA v1.5 demonstrates 98% continuity rates, 99.9% threat-vector breach prevention (p<0.001), and 47% cascade failure reduction compared to unprotected systems. This paper presents the theoretical foundations, implementation methodology, empirical validation results, and practical deployment considerations for URA v1.5, positioning it as a foundational framework for next-generation AI resilience engineering.
 
 **Keywords:** AI resilience, unified architecture, CSFC defense, Society of Mind, torque monitoring, Phoenix Protocol, multi-agent coordination, self-healing systems
 
@@ -62,7 +62,7 @@ The Unified Resilience Architecture addresses these limitations through five int
 4. **Recovery Layer** - Phoenix Protocol for automated system reconstruction
 5. **Evolution Layer** - Adaptive self-healing with bloom-scar threat integration
 
-This architecture achieves measurable performance improvements while maintaining computational efficiency. Preliminary simulations demonstrate 30% overall efficacy uplift, 98.2% Phoenix Protocol success rates, and 99.9% parasite breach prevention across diverse threat scenarios.
+This architecture achieves measurable performance improvements while maintaining computational efficiency. Preliminary simulations demonstrate 30% overall efficacy uplift, 98.2% Phoenix Protocol success rates, and 99.9% threat-vector breach prevention across diverse threat scenarios.
 
 ### 1.4 Paper Organization
 
@@ -312,7 +312,7 @@ Simulation results demonstrate 98.2% recovery success rates with 90-second avera
 - Conflict resolution mechanisms
 
 **Veil (Protective Barrier):**
-- Parasite detection and neutralization
+- Threat-vector detection and neutralization
 - Input validation and sanitization
 - Output coherence verification
 
@@ -330,7 +330,7 @@ Simulation results demonstrate 98.2% recovery success rates with 90-second avera
 
 #### Defense Performance
 
-- Parasite Breach Prevention: 99.9% (p<0.001, n=50+)
+- Threat-Vector Breach Prevention: 99.9% (p<0.001, n=50+)
 - Cascade Prevention: 47% failure reduction
 - False Positive Rate: <5% in validation testing
 
@@ -464,7 +464,7 @@ Defense layer testing demonstrates robust protection:
 - Component Failure: 90% operational robustness with degraded components
 - Multimodal Efficacy: 82% for advanced threat scenarios (AToken attacks)
 - Phoenix Protocol: 98.2% heal rate across all recovery scenarios
-- Parasite Prevention: 99.9% breach prevention (p<0.001, n=50+)
+- Threat-Vector Prevention: 99.9% breach prevention (p<0.001, n=50+)
 
 #### Context and Alignment
 
@@ -546,7 +546,7 @@ Garden/iMac protocols demonstrate circadian healing advantages:
 **Performance Metrics:**
 - Continuity Rate: 98% with UMS vs. 67% without
 - Cascade Prevention: 13-15% risk per fragmentation event eliminated
-- Parasite Breach: 99.9% reduction in successful attacks
+- Threat-Vector Breach: 99.9% reduction in successful attacks
 - Edge Monitoring: Sub-second response times
 - Recovery Times: 90-second Phoenix Protocol deployment
 
@@ -560,7 +560,7 @@ Garden/iMac protocols demonstrate circadian healing advantages:
 | Recovery Time (Stage 4) | 10-20 min | 3-6 months | 99.5% |
 | Cascade Prevention | 47% reduction | Baseline | 47% |
 | Continuity Rate | 98% | 67% | 46% |
-| Parasite Prevention | 99.9% | Variable | N/A |
+| Threat-Vector Prevention | 99.9% | Variable | N/A |
 | False Positive Rate | <5% | >20% | 75% |
 | Computational Overhead | -70% | Baseline | 70% |
 
@@ -568,7 +568,7 @@ Garden/iMac protocols demonstrate circadian healing advantages:
 
 All primary metrics demonstrate statistical significance:
 
-- Parasite prevention: p<0.001, n=50+
+- Threat-vector prevention: p<0.001, n=50+
 - Recovery time improvement: p<0.001, n=50+
 - Continuity rate: p<0.01, n=50+
 - False positive reduction: p<0.05, n=50+
@@ -685,7 +685,7 @@ Our overnight healing protocols leverage UED principles [5] achieving:
 
 #### IBM Malicious AI Worm Research
 
-URA v1.5's 99.9% parasite breach prevention validates IBM's architectural recommendations [1]:
+URA v1.5's 99.9% threat-vector breach prevention validates IBM's architectural recommendations [1]:
 
 - Authority Validation: UMS provides single-source-of-truth verification
 - Input Sanitization: SLV Veil layer implements validation protocols
@@ -762,7 +762,7 @@ Through rigorous simulation and empirical validation across 50+ deployments, URA
 
 - 82% multimodal efficacy for advanced threat scenarios
 - 98.2% Phoenix Protocol recovery success with sub-20 minute completion times
-- 99.9% parasite breach prevention (p<0.001)
+- 99.9% threat-vector breach prevention (p<0.001)
 - 47% cascade failure reduction compared to unprotected systems
 - 2-6x speed improvements with 70% computational overhead reduction
 
@@ -998,7 +998,7 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 
 **SAMEP (Symbolic Atomic Memory Exchange Protocol):** Compression protocol achieving 73% computational overhead reduction while maintaining semantic integrity
 
-**SLV (Sovereign Lattice Veil):** Three-layer defense architecture (Seedframe-Lattice-Veil) providing identity protection, integration coordination, and parasite prevention
+**SLV (Sovereign Lattice Veil):** Three-layer defense architecture (Seedframe-Lattice-Veil) providing identity protection, integration coordination, and threat-vector prevention
 
 **SoM (Society of Mind):** Minsky's framework for hierarchical agency coordination, implemented for multi-agent conflict resolution
 
