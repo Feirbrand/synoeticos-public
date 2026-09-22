@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
@@ -53,20 +53,20 @@ For academic research, educational use, and non-commercial applications.
 
 **Under the following terms:**
 - **Attribution** — Credit Aaron Slusher and ValorGrid Solutions
-- **NonCommercial** — No commercial use without enterprise license
+- **NonCommercial** — No commercial use without separate written permission
 
 **Patent Status:** No patents - rights granted under license terms only
 
-### Option 2: ValorGrid Solutions Enterprise License
+### Option 2: Separate Written Permission
 
-Commercial use requires a separate enterprise license.
+Commercial use requires separate written permission.
 
 **Contact:** aaron@valorgridsolutions.com
 
 ### Code vs. Methodology
 
 - **Code examples:** Provided under CC BY-NC 4.0 as architectural illustrations
-- **Core algorithms:** May require separate enterprise licensing
+- **Core algorithms:** May require separate written permission
 - **Configuration templates:** Usable under CC BY-NC 4.0
 
 ### Attribution Requirements

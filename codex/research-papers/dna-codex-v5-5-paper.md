@@ -41,10 +41,10 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 
-For commercial deployment, contact ValorGrid Solutions for enterprise licensing.
-Patent Clause: Patent rights reserved, no patent assertion without enterprise license grant.
+For commercial deployment, contact ValorGrid Solutions for separate written permission.
+Patent Clause: Patent rights reserved, no patent assertion without written grant.
 -->
 
 # DNA Codex v5.5: The Complete Threat Intelligence Upgrade
@@ -1697,7 +1697,7 @@ production_deployment:
 
 ### 12.1 Professional Services
 
-For implementation support and enterprise licensing, contact: aaron@valorgridsolutions.com
+For implementation support and separate written permission, contact: aaron@valorgridsolutions.com
 
 
 ### 12.2 Training Programs
@@ -1767,21 +1767,15 @@ For academic research, personal projects, and non-commercial use:
 
 ---
 
-**Option 2: Commercial Enterprise License**
+**Option 2: Separate Written Permission**
 
-For production deployment, commercial products, or revenue-generating services:
+For uses outside the public license — production deployment, commercial products, or revenue-generating services:
 
-**Contact ValorGrid Solutions for enterprise licensing:**
+**Contact ValorGrid Solutions:**
 - Email: aaron@valorgridsolutions.com
 - Website: https://valorgridsolutions.com
 
-**Enterprise License Includes:**
-- Commercial deployment rights
-- Production implementation support
-- Integration consulting
-- Technical support with SLA guarantees
-- Custom strain development
-- Priority incident response
+No pricing, tiers, or subscription terms. Permission is granted by separate written agreement.
 
 ### 13.2 Attribution Requirements
 
@@ -1803,7 +1797,7 @@ ValorGrid Solutions. DOI: 10.5281/zenodo.17451060
 
 ### 13.3 Patent Clause
 
-Patent rights reserved. No patent assertion without enterprise license grant.
+Patent rights reserved. No patent assertion without written grant.
 
 **Questions about licensing?**
 Contact: aaron@valorgridsolutions.com
@@ -1887,7 +1881,7 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 **Affiliation:** ValorGrid Solutions
 **Contact:** aaron@valorgridsolutions.com
 **Website:** https://valorgridsolutions.com
-**DOI:** TBD (Pending Zenodo publication)
+**DOI:** 10.5281/zenodo.17451060
 
 **Document Type:** Technical Specification & Implementation Guide
 **Classification:** Professional Documentation
@@ -1925,5 +1919,5 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 
 **License:** Dual CC BY-NC 4.0 + Enterprise (see Section 13)
-**Patent Clause:** Patent rights reserved, no assertion without enterprise license grant
+**Patent Clause:** Patent rights reserved, no assertion without written grant
 **Document Version:** 5.5 | **Status:** PRODUCTION RELEASE

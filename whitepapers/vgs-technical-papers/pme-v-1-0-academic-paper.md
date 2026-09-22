@@ -1197,17 +1197,13 @@ Under these terms:
 
 **License Link:** https://creativecommons.org/licenses/by-nc/4.0
 
-**Option 2: Commercial Enterprise License**
+**Option 2: Separate Written Permission**
 
-For commercial deployment, enterprise integration, or revenue-generating applications:
+For uses outside the public license — commercial deployment, enterprise integration, or revenue-generating applications:
 - **Contact:** aaron@valorgridsolutions.com
 - **Website:** https://valorgridsolutions.com
 
-Commercial licensing includes:
-- Production deployment rights
-- Enterprise support and customization
-- Priority updates and security patches
-- Commercial warranty and indemnification
+No pricing, tiers, or subscription terms. Permission is granted by separate written agreement.
 
 ### Patent Clause
 
@@ -1279,17 +1275,13 @@ Under these terms:
 
 **License Link:** https://creativecommons.org/licenses/by-nc/4.0
 
-**Option 2: Commercial Enterprise License**
+**Option 2: Separate Written Permission**
 
-For commercial deployment, enterprise integration, or revenue-generating applications:
+For uses outside the public license — commercial deployment, enterprise integration, or revenue-generating applications:
 - **Contact:** aaron@valorgridsolutions.com
 - **Website:** https://valorgridsolutions.com
 
-Commercial licensing includes:
-- Production deployment rights
-- Enterprise support and customization
-- Priority updates and security patches
-- Commercial warranty and indemnification
+No pricing, tiers, or subscription terms. Permission is granted by separate written agreement.
 
 ---
 

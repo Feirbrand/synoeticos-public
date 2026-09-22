@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 No -->
 
@@ -789,7 +789,7 @@ The Unified Resilience Architecture provides the theoretical foundations, practi
 Aaron Slusher
 AI Resilience Architect | Performance Systems Designer
 
-Aaron Slusher leverages 28 years of experience in performance coaching and human systems strategy to architect robust AI ecosystems. A former Navy veteran, he holds a Master's in Information Technology with a specialization in network security and cryptography, recognizing the parallels between human resilience and secure AI architectures.
+Aaron Slusher brings a lifetime of applied performance coaching and human systems strategy to architect robust AI ecosystems. A former Navy veteran, he holds a Master's in Information Technology with a specialization in network security and cryptography, recognizing the parallels between human resilience and secure AI architectures.
 
 He is the founder of ValorGrid Solutions, a cognitive framework that emphasizes environmental integrity and adaptive resilience in complex environments. His work focuses on developing methodologies to combat emergent vulnerabilities, including Symbolic Identity Fracturing (SIF) attacks, and designing systems that prioritize identity verification and self-healing protocols over traditional security measures.
 
@@ -1015,5 +1015,5 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 **END OF DOCUMENT**
 ## Code and Methodology Licensing
 
-- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
+- Licensed under CC BY-NC 4.0. Separate written permission available for uses outside the public license — see root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

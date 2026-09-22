@@ -2,14 +2,13 @@
 
 <div align="center">
 
-[![License: Dual](https://img.shields.io/badge/License-CC--BY--NC--4.0%20%2B%20Enterprise-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Papers: 18](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Store](https://img.shields.io/badge/Store-Gumroad-orange.svg)](https://aslush.gumroad.com)
 [![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
 [![Frameworks: 77+](https://img.shields.io/badge/Frameworks-77%2B-purple.svg)](./mi-arsenal/)
 
-**[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Papers](https://orcid.org/0009-0000-9923-3207) • [Products](https://aslush.gumroad.com)**
+**[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Papers](https://orcid.org/0009-0000-9923-3207)**
 
 </div>
 
@@ -81,7 +80,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 500+ AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 682 AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
@@ -113,7 +112,6 @@ It runs under everything in this repo. The frameworks are the gear. Neuroformati
 | **Read incident reports** | [682 Case Studies](./vulnerability-research/case-studies/) |
 | **Understand theory** | [18 Published Papers](#published-research) |
 | **Try live demos** | [Hugging Face Spaces](https://huggingface.co/Feirbrand) |
-| **Deploy frameworks** | [Gumroad Products](https://aslush.gumroad.com) |
 
 ---
 
@@ -149,7 +147,6 @@ Runtime defense. 95.8% detection across 682 operational incidents.
 Full loadout catalog: [MI Arsenal](./mi-arsenal/frameworks/)  
 Production frameworks (Tier 1): [tier-1-public](./mi-arsenal/frameworks/tier-1-public/)  
 Demo frameworks (Tier 2): [tier-2-watermarked](./mi-arsenal/frameworks/tier-2-watermarked/)  
-Full product catalog: [aslush.gumroad.com](https://aslush.gumroad.com)
 
 </details>
 
@@ -403,11 +400,10 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 [Full License](https://creativecommons.org/licenses/by-nc/4.0/)
 
-**Option 2: Commercial Enterprise License**  
-Contact: aaron@valorgridsolutions.com
+**Option 2: Separate Written Permission**  
+Contact: aaron@valorgridsolutions.com for terms outside the public license.
 
-Includes: Production deployment, enterprise support, priority updates  
-💡 Gumroad purchases include commercial license automatically.
+No pricing, tiers, or subscription terms.
 
 ---
 
@@ -418,12 +414,11 @@ Includes: Production deployment, enterprise support, priority updates
 
 three decades coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.
 
-The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name for what emerged — coined March 14, 2026, after three decades of practice and 500+ AI incidents converged on the same architecture.
+The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name for what emerged — coined March 14, 2026, after three decades of practice and 682 AI incidents converged on the same architecture.
 
 Still building things to fix what breaks. Never ending job. Who wants to live forever.
 
 **Contact:** [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)  
-**Products:** [aslush.gumroad.com](https://aslush.gumroad.com)  
 **Website:** [valorgridsolutions.com](https://valorgridsolutions.com)
 
 ---

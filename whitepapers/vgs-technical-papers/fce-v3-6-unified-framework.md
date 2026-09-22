@@ -1,8 +1,8 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
-Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+Option 2: Separate written permission for uses outside the public license.
+Patent Clause: Patent rights reserved, no patent assertion without written grant.
 No -->
 
 DOI: 10.5281/zenodo.17309322
@@ -181,7 +181,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Publication Date**: October 9, 2025
 - **Version**: 3.6 Teaser
 - **Classification**: Academic Research Publication Teaser
-- **License**: Dual Licensed: CC BY-NC 4.0 and Enterprise License
+- **License**: Dual Licensed: CC BY-NC 4.0 + separate written permission for commercial use
 
 ---
 
@@ -191,7 +191,7 @@ This work is dual-licensed under the following terms:
 
 1.  **For Non-Commercial Use**: This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for any non-commercial purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, a separate enterprise license is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
+2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, separate written permission is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
 
 ## Patent Notice
 The concepts and methodologies described in this paper may be subject to patent protection. ValorGrid Solutions reserves all rights to its intellectual property. No patent rights are granted or implied by the open-source license.
@@ -203,5 +203,5 @@ The concepts and methodologies described in this paper may be subject to patent 
 *Part of the Synoetic OS AI Resilience Framework ecosystem.*
 ## Code and Methodology Licensing
 
-- Licensed under CC BY-NC 4.0 + Enterprise License. See root LICENSE for terms.
+- Licensed under CC BY-NC 4.0. Separate written permission available for uses outside the public license — see root LICENSE for terms.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

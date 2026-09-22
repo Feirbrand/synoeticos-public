@@ -1,8 +1,8 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
-Patent Clause: Patent rights reserved, no patent assertion without enterprise license grant.
+Option 2: Separate written permission for uses outside the public license.
+Patent Clause: Patent rights reserved, no patent assertion without written grant.
 No pricing/revenue/subscription terms in this document.
 -->
 

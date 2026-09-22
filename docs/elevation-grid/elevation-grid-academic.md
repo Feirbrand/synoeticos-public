@@ -33,7 +33,7 @@ SPDX-License-Identifier: CC-BY-NC-4.0 AND APP-Enterprise
 
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@achievepeakperformance.net for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 
@@ -817,18 +817,14 @@ Under these terms:
 
 **Full License:** https://creativecommons.org/licenses/by-nc/4.0/
 
-**Option 2: Commercial Enterprise License**
+**Option 2: Separate Written Permission**
 
-For commercial deployment, enterprise integration, or revenue-generating applications.
+For uses outside the public license — commercial deployment, enterprise integration, or revenue-generating applications.
 
 Contact: aaron@achievepeakperformance.net  
 Website: https://achievepeakperformance.net
 
-Commercial licensing includes:
-- Production deployment rights
-- Enterprise support
-- Priority updates
-- Commercial warranty
+No pricing, tiers, or subscription terms. Permission is granted by separate written agreement.
 
 ### Patent Clause
 
@@ -895,7 +891,7 @@ Achieve Peak Performance develops evidence-based performance optimization framew
 ## LICENSE (REPEATED)
 
 **Option 1:** CC BY-NC 4.0 (Non-commercial) - https://creativecommons.org/licenses/by-nc/4.0/  
-**Option 2:** Enterprise License - aaron@achievepeakperformance.net
+**Option 2:** Separate written permission - aaron@achievepeakperformance.net
 
 **Patent Clause:** No patents filed - rights granted under license terms; good-faith implementations protected from retroactive patent claims by licensor.
 

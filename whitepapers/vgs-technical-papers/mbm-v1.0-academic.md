@@ -19,7 +19,7 @@ publisher: ValorGrid Solutions
 SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: No patents filed - rights granted under license terms, good faith implementation protection
 -->
 # Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management Through Rhythmic Consolidation

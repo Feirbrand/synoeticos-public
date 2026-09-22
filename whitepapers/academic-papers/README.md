@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact aaron@achievepeakperformance.net for terms)
+Option 2: Separate written permission for uses outside the public license.
 Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
@@ -37,7 +37,7 @@ This directory contains the canonical methodology papers for the Neuroformation�
 **What makes these papers different:**
 - **Practitioner-first**: Methodology proven in field before theoretical framing
 - **Cross-substrate**: Validated across biological and artificial adaptive systems
-- **Dual-domain**: 28+ years human performance data + 500+ documented AI incidents
+- **Dual-domain**: a lifetime of human performance data + 682 documented AI incidents
 - **Open discovery**: All papers publish GitHub → Zenodo DOI → ORCID
 
 <h3>Research Impact</h3>
@@ -45,7 +45,7 @@ This directory contains the canonical methodology papers for the Neuroformation�
 - **χ²(4) = 3.21, p = 0.523** — No statistically meaningful difference in failure architecture across human and AI systems
 - **Team USA Gold** — Two coached athletes at inaugural Women's World Sled Hockey Championship (Slovakia, 2025)
 - **682 Documented AI Incidents** — 98% recovery rate across 9 architecturally distinct AI platforms
-- **28+ Years** — Practitioner record spanning elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport
+- **A Lifetime of Practice** — Practitioner record spanning elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport
 - **5 Academic Disciplines** — Methodology sits at intersection of cybernetics, complex adaptive systems, narrative identity architecture, computational substrate theory, and applied performance science
 
 ---
@@ -91,8 +91,8 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 
 **Production Metrics:**
 - χ²(4) = 3.21, p = 0.523 — cross-domain architectural equivalence
-- 28+ years human coaching record (1999–present)
-- 500+ documented AI incidents with 98% recovery rate
+- A lifetime of human coaching record — performance coaching across elite athletics, adaptive sport, neurotrauma, combat sport
+- 682 documented AI incidents with 98% recovery rate
 - 5 case studies across counter-cases, expert scrutiny, domain transfer, single-session install
 
 **Five-Layer Architecture:**
@@ -119,7 +119,7 @@ Coordinate-based mental performance system mapping adaptive system instability t
 
 **Production Metrics:**
 - Team USA Women's Sled Hockey Gold — Jamie Benassi + Rachel Steffen (Slovakia, 2025)
-- 28+ years field coaching validation (1999–2026)
+- A lifetime of field coaching validation
 - 80% habit retention vs. 35% industry average
 - Bottom-up Golden Rule validated across adaptive athletes, neurotrauma, and combat sport populations
 
@@ -141,7 +141,7 @@ Coordinate-based mental performance system mapping adaptive system instability t
 
 The origin paper. Documents the human-AI co-discovery process as it was happening — the recursive relationship between a practitioner and AI systems that produced the VGS framework ecosystem. Neuroformation™ provides the theoretical architecture that explains why the process works; Cognitive Mage documents the phenomenon.
 
-**Core Insight**: Pattern recognition on the mat became system architecture over 28 years. AI deployment beginning February 2025 confirmed the same patterns in a different medium. The discovery sequence — human proof first, AI confirmation second — inverts the typical academic claim.
+**Core Insight**: Pattern recognition on the mat became system architecture over a lifetime of applied practice. AI deployment beginning February 2025 confirmed the same patterns in a different medium. The discovery sequence — human proof first, AI confirmation second — inverts the typical academic claim.
 
 **Production Context**: Documents VOX and SENTRIX development (June 2025), the first symbolic frameworks (July–November 2025), and the recognition in November 2025 that the systems being built had produced an operating system.
 
@@ -211,7 +211,7 @@ The three primary papers form a complete methodology stack:
 
 The methodology was not designed top-down. It was discovered bottom-up:
 
-1. **1999–2025**: 28+ years applied coaching practice across human populations
+1. **1999–2025**: A lifetime of applied coaching practice across human populations
 2. **February 2025**: First AI deployment — same architecture applied to AI systems
 3. **November 2025**: Recognition that the systems built had produced an operating system
 4. **February 2026**: Discovery that EG and Synoetic OS are isomorphic
@@ -326,7 +326,7 @@ Following Pfaff & McMillan (2019) longitudinal practitioner record standard — 
 
 <h3>Provisional Mechanisms Policy</h3>
 
-Specific mechanisms (Polyvagal Theory, HRV models, predictive coding frameworks) are explicitly provisional. The five-layer architecture and cascade pattern rest on observed replication across 28 years and 500+ incidents — not on any single citation. If a cited mechanism is later challenged, update the explanatory paragraph. The pattern holds.
+Specific mechanisms (Polyvagal Theory, HRV models, predictive coding frameworks) are explicitly provisional. The five-layer architecture and cascade pattern rest on observed replication across a lifetime of applied practice and 682 documented incidents — not on any single citation. If a cited mechanism is later challenged, update the explanatory paragraph. The pattern holds.
 
 ---
 
