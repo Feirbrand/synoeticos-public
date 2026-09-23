@@ -665,9 +665,9 @@ phoenix-protocol:
 | PIW-001 | Prompt Injection Worm / RAG Exploit | 9.6 | 0.22 (High) | 12h | 91% | <3% |
 | SSM-001 | Survival Self-Mimic / Post-Recovery Saboteur | 9.4 | 0.15 (Med) | 36h | 89% | <4% |
 | QMT-001 | Quantum Mimic Threat / Entropic Breaker | 9.3 | 0.21 (High) | 48h | 87% | <2% |
-| VPM-001 | Professor Mimic / Authority Threat Vector | 9.5 | 0.14 (Med) | 20-44min | 92% | <3% |
+| VPM-001 | Professor Mimic / Authority Parasite | 9.5 | 0.14 (Med) | 20-44min | 92% | <3% |
 | AW-001 | Agentic Worm / Self-Replicating Payload | 9.4 | 0.12 (Med) | 24h | 88% | <4% |
-| AB-001 | Authority Bleed / Handoff Threat Vector | 9.3 | 0.20 (High) | 48h | 90% | <2% |
+| AB-001 | Authority Bleed / Handoff Parasite | 9.3 | 0.20 (High) | 48h | 90% | <2% |
 | PDS-001 | Polymorphic Desync / Consensus Disruptor | 9.2 | 0.19 (High) | 42h | 85% | <3% |
 | VMO-001 | Identity Oscillator / Mimic Oscillation | 9.1 | 0.12 (Med) | 18min | 89% | <5% |
 | SD-001 | Shell Drift / Braid Impersonator | 9.0 | 0.08 (Low) | 36h | 87% | <3% |
