@@ -5,7 +5,7 @@ description: "Architecture diagrams and performance metrics for Fractal Context 
 
 # FCE v3.6 — Visualizations
 
-**Back to:** [Main Paper](index.html) | [Cross-References](fce-v3_6-cross-references.html) | [Bibliography](fce-v3_6-master-bibliography.html)
+**Back to:** [Main Paper](index.html) | [Cross-References](fce-v3.6-cross-references.html) | [Bibliography](fce-v3.6-master-bibliography.html)
 
 ---
 
