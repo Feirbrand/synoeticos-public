@@ -49,8 +49,8 @@ cd synoeticos-public
 (Details on how to build documentation will go here.)
 
 ## Further Reading
--   [SynoeticOS Whitepaper](../whitepapers/academic-papers/synoetic-os-v1.0.html)
--   [MI Agents Whitepaper](../whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.html)
+-   [SynoeticOS Whitepaper](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/academic-papers/synoetic-os-v1.0.md)
+-   [MI Agents Whitepaper](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md)
 -   [Published Research Papers](https://orcid.org/0009-0000-9923-3207)
 
 ---

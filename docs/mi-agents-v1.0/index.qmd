@@ -230,7 +230,7 @@ graph TD
 
 ## 📖 Documentation
 
-- **[Full Academic Paper](mi-agents-v1.0-academic.html)** - Complete technical specification
+- **[Full Academic Paper](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md)** - Complete technical specification
 - **[Visualizations](mi-agents-v1.0-visualizations.html)** - Mermaid diagrams and charts
 - **[Cross-References](mi-agents-v1.0-cross-references.html)** - Framework connections
 - **[Master Bibliography](mi-agents-v1.0-master-bibliography.html)** - Complete citations

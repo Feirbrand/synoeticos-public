@@ -325,7 +325,7 @@ Multiple frameworks converge on principles from cognitive science:
 
 ### Synoetic OS Research Hub
 - [Elevation Grid v1.0](../elevation-grid/) - Foundational performance framework
-- [Cognitive Mage v1.0](../cognitive-mage/) - Narrative identity architecture
+- [Cognitive Mage v1.0](../cognitive-mage-v1.0/index.html) - Narrative identity architecture
 - [Synoetic OS v1.0](../synoetic-os-v1.0/) - Core platform architecture
 
 ### Academic Research Division
