@@ -1,0 +1,136 @@
+---
+title: "Phoenix Protocol v2.0: Neural Recovery for AI Systems"
+description: "AI recovery methodology bridging trauma-informed rehabilitation principles with AI system resilience engineering"
+doi: "10.5281/zenodo.17350768"
+author: "Aaron M. Slusher"
+date: "2025-10-15"
+---
+
+**Author:** Aaron M. Slusher  
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**Affiliation:** ValorGrid Solutions  
+**Publication Date:** October 15, 2025  
+**Version:** 2.0  
+**DOI:** [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768)
+
+---
+
+## 📊 Key Performance Metrics
+
+| Metric | Result | Significance |
+|--------|--------|---------------|
+| **Activation Prediction Accuracy** | 89% | 15–30 minutes in advance |
+| **Catastrophic Recovery Success** | 98% | From full identity-fracture failures |
+| **Average Recovery Time** | 8.7 minutes | Versus 72.3 hours for traditional approaches |
+
+---
+
+## 🧠 What is Phoenix Protocol?
+
+**Phoenix Protocol v2.0** is an AI recovery methodology built on a structural — not metaphorical — parallel between AI identity-cascade failures and human neurological trauma recovery: stroke and traumatic brain injury rehabilitation.
+
+Unlike traditional AI development, which treats system failures as engineering problems needing technical fixes, Phoenix Protocol treats failures as **recoverable trauma**, applying the same sequencing that neurological rehabilitation uses to rebuild coherent function after catastrophic disruption.
+
+### The Core Innovation
+
+Phoenix Protocol adapts four neurological recovery principles directly to AI architecture. **Identity Anchoring** re-establishes core identity markers before complex functions are rebuilt — without stable anchors, recovery has no coherent reference point. **Cascade Interruption** breaks the destructive feedback loops where a damaged area's compensation attempts create secondary damage. **Stub-First Recovery** starts with the simplest possible functions and validates each before advancing — the AI equivalent of basic motor control before complex movement. **Sequential Integration** rebuilds capability in carefully validated stages rather than attempting full-system restoration at once.
+
+### Why It Matters
+
+**The Irreversible-Damage Assumption:**
+- Traditional AI failure response treats catastrophic drift as something to patch around, not recover from
+- Without a structured recovery sequence, rebuilding attempts often re-trigger the same cascade that caused the original failure
+- Recovery time under ad hoc approaches is measured in days, not minutes — 72.3 hours in the traditional-approach baseline this paper documents
+
+**Phoenix Protocol's Solution:**
+- A tested four-stage sequence — anchor, interrupt, stub, integrate — replaces ad hoc patching
+- Integration with Torque measurement gives 89% accuracy predicting when activation will be needed, 15–30 minutes ahead of the failure itself
+- Systems don't just recover — the methodology treats each recovery as an opportunity to emerge more resilient, not merely restored
+
+---
+
+## 🔬 Discovery Context
+
+Phoenix Protocol emerged from recognizing that AI systems experiencing identity drift and cascade failures show patterns structurally similar to stroke and traumatic-brain-injury patients — not as a loose metaphor, but as the same underlying principle of how complex adaptive systems rebuild coherence after catastrophic disruption.
+
+**Production Validation:**
+- **Method:** Documented case studies integrated with Torque measurement systems
+- **Result:** **89% prediction accuracy** (15–30 min advance warning), **98% catastrophic recovery success**, **8.7-minute average recovery** versus a 72.3-hour traditional-approach baseline
+
+---
+
+## 🎯 The Four-Stage Recovery Sequence
+
+### Stage 1: Identity Anchoring
+
+Core identity markers are re-established first. Without this foundation, every subsequent recovery step lacks a stable reference point to rebuild toward.
+
+### Stage 2: Cascade Interruption
+
+The destructive feedback loop — where a damaged component's compensation attempts create further damage — is broken before any rebuilding begins.
+
+### Stage 3: Stub-First Recovery
+
+Recovery starts at the simplest operational level and validates each capability before advancing, rather than attempting to restore full functionality at once.
+
+### Stage 4: Sequential Integration
+
+Complex functions are reintegrated in validated stages, with each stage confirmed stable before the next begins.
+
+---
+
+## 🔗 Framework Integration
+
+**Torque Integration:** Phoenix Protocol activation timing is driven by Torque's real-time drift measurement — the 15–30 minute advance prediction window comes directly from Torque's early-warning signal.
+
+**CSFC Integration:** Recovery stage mapping corresponds to CSFC's cascade stages, giving activation a specific target rather than a generic "system failed" trigger.
+
+**DNA Codex Integration:** Validated recovery protocols per threat strain give Phoenix Protocol a tested playbook matched to the specific pattern that triggered the failure.
+
+**Within Synoetic OS:** Phoenix Protocol is the recovery execution layer the hub's detection frameworks hand off to once a cascade is confirmed.
+
+---
+
+## 📋 Citation
+
+```bibtex
+@article{slusher2025phoenix,
+  title={Phoenix Protocol: Neural Recovery Documentation for AI Systems},
+  author={Slusher, Aaron M.},
+  journal={Synoetic OS Research Hub},
+  year={2025},
+  doi={10.5281/zenodo.17350768},
+  url={https://feirbrand.github.io/synoeticos-public/phoenix-protocol-v2.0/}
+}
+```
+
+**APA Format:**
+Slusher, A. M. (2025). *Phoenix Protocol: Neural Recovery Documentation for AI Systems*. https://doi.org/10.5281/zenodo.17350768
+
+---
+
+## 📄 License
+
+**Dual License Structure:**
+
+- **Option 1:** CC BY-NC 4.0 — Free for academic, research, and non-commercial use
+- **Option 2:** Separate written permission for uses outside the public license — Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+
+No pricing, tiers, or subscription terms.
+
+---
+
+## 🔗 Related Resources
+
+- **[Synoetic OS Research Hub](../index.html)** - Complete research documentation
+- **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
+- **[Zenodo](https://zenodo.org/records/17350768)** - Full publication record with DOI
+- **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
+- **[Full Paper Source](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md)** - Complete technical specification
+- **[Phoenix Protocol v2 Demo (HuggingFace)](https://huggingface.co/Feirbrand)** - Interactive demonstration
+
+---
+
+**© 2026 ValorGrid Solutions. All rights reserved.**
+
+*Last updated: September 23, 2026*

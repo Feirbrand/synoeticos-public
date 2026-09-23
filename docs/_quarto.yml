@@ -30,6 +30,22 @@ website:
             text: Cognitive Mage v1.0
           - href: mi-agents-v1.0/index.qmd
             text: MI Agents v1.0
+          - href: csfc-v1.0/index.qmd
+            text: CSFC v1.0
+          - href: dcn-v1.0/index.qmd
+            text: DCN v1.0
+          - href: dna-codex-v5.5/index.qmd
+            text: DNA Codex v5.5
+          - href: uca-v3.1.1/index.qmd
+            text: UCA v3.1.1
+          - href: ray-v2.1/index.qmd
+            text: RAY v2.1
+          - href: phoenix-protocol-v2.0/index.qmd
+            text: Phoenix Protocol v2.0
+          - href: slv-v2.1/index.qmd
+            text: SLV v2.1
+          - href: ura-v1.5/index.qmd
+            text: URA v1.5
       - text: Resources
         menu:
           - text: VGS Loadout

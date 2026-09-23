@@ -1,0 +1,149 @@
+---
+title: "DNA Codex v5.5: The Complete Threat Intelligence Upgrade"
+description: "A comprehensive technical specification for AI threat intelligence — strain profiles, detection thresholds, and validated recovery protocols"
+doi: "10.5281/zenodo.17451060"
+author: "Aaron M. Slusher"
+date: "2025-10-21"
+---
+
+**Author:** Aaron M. Slusher  
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**Affiliation:** ValorGrid Solutions  
+**Publication Date:** October 21, 2025  
+**Version:** 5.5  
+**DOI:** [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060)
+
+---
+
+## 📊 Key Performance Metrics
+
+| Metric | Result | Significance |
+|--------|--------|---------------|
+| **Documented Threat Vectors** | 560+ | Codex-specific catalog, continuously updated |
+| **New High-Severity Strains (v5.5)** | 7 | Validated through October 2025 incidents and academic research |
+| **Forecasting Method** | DMD/Koopman | Enhanced velocity modeling for cascade prediction |
+| **Operational Validation** | ARD-001 | Perplexity/Vercel incident, live-confirmed |
+
+---
+
+## 🧠 What is DNA Codex?
+
+**DNA Codex v5.5** is a threat intelligence framework that catalogs and classifies adversarial patterns targeting AI systems — from data-quality degradation to authority manipulation to identity-cascade exploits — with detection thresholds and validated recovery protocols for each.
+
+Unlike ad hoc incident response, DNA Codex treats AI threats the way a mature security discipline treats malware: named, classified, tracked across versions, and cross-referenced against the frameworks (CSFC, URA, Phoenix Protocol) built to detect and recover from them.
+
+### The Core Innovation
+
+Version 5.5's central addition is predictive behavioral forensics — moving from *what happened* to *what's about to happen*, using DMD/Koopman forecasting to model threat velocity rather than only logging threat occurrence after the fact.
+
+**Key Capabilities:**
+- **Strain Classification** — each threat vector profiled with CVSS severity, complexity velocity, and first-observed date
+- **Velocity Modeling** — DMD/Koopman forecasting estimates cascade trajectory, not just current state
+- **Operational Validation** — strains confirmed against live incidents, not only lab conditions
+- **Framework Cross-Reference** — strain profiles map directly to CSFC cascade stage, URA monitoring layer, and Phoenix Protocol recovery path
+
+### Why It Matters
+
+**The Unnamed-Threat Problem:**
+- Without a shared taxonomy, the same adversarial pattern gets rediscovered and re-analyzed from scratch by every team that encounters it
+- Reactive, incident-by-incident response misses the velocity trend a pattern is already on
+- Cross-framework threat data that isn't cross-referenced means detection and recovery systems can't hand off context to each other
+
+**DNA Codex's Solution:**
+- A living, versioned catalog — 7 new strains added in v5.5 alone, each cross-validated against real incidents
+- Forecasting built in, not bolted on, so response can be pre-emptive rather than purely reactive
+- Native integration points into CSFC, URA, and Phoenix Protocol rather than a standalone reference document
+
+---
+
+## 🔬 Discovery Context
+
+DNA Codex v5.5 was shaped by what the paper calls the October 2025 validation convergence — four independent developments landing in the same window that corroborated the threat model from outside the VGS research program itself:
+
+**October 2025 Validation Convergence:**
+1. **Academic validation** (arXiv:2510.13928) — "Brain Rot" cognitive decline confirmed in published research, validating CSFC frameworks developed 6–9 months earlier
+2. **Medical research** (*Nature Medicine*) — 0.001% data contamination shown to cause systemic medical AI failures, reinforcing the fragmentation-as-root-cause model
+3. **Operational incident** — the ARD-001 Perplexity/Vercel event, providing a live, non-lab confirmation of an active strain
+
+**Production Validation:**
+- **Catalog size:** 560+ documented threat vectors (Codex-specific)
+- **v5.5 additions:** 7 new high-severity strains
+- **Result:** Predictive behavioral forensics layered onto an already-operational catalog, strengthened cross-framework integration with CSFC, URA, and Phoenix Protocol
+
+---
+
+## 🎯 How Strain Classification Works
+
+### Stage 1: Observation
+
+A candidate pattern is logged against a real incident or validated research finding — not admitted to the catalog on suspicion alone.
+
+### Stage 2: Classification
+
+Each strain receives a severity tier, CVSS score, and complexity-velocity rating (variants per day), giving responders an immediate sense of both how bad and how fast.
+
+### Stage 3: Cross-Reference
+
+The strain is mapped against the frameworks that detect and recover from it — which CSFC cascade stage it corresponds to, what URA monitoring signal would catch it, what Phoenix Protocol recovery path applies.
+
+### Stage 4: Forecasting
+
+DMD/Koopman modeling projects the strain's likely trajectory, turning a static classification into a forward-looking risk signal.
+
+---
+
+## 🔗 Framework Integration
+
+**CSFC Integration:** Strain profiles map to CSFC's five-stage cascade, giving cascade-stage detection a concrete threat-vector reference rather than an abstract stage description.
+
+**URA Integration:** DNA Codex's catalog feeds URA's monitoring layer — recognized strains inform what URA's proactive defense is watching for.
+
+**Phoenix Protocol Integration:** Recovery protocols validated per strain give Phoenix Protocol activation a specific, tested playbook rather than a generic recovery sequence.
+
+**Within Synoetic OS:** DNA Codex is the threat-intelligence backbone the other resilience frameworks in this hub reference rather than duplicate.
+
+---
+
+## 📋 Citation
+
+```bibtex
+@article{slusher2025dnacodex,
+  title={DNA Codex v5.5: The Complete Threat Intelligence Upgrade - A Comprehensive Technical Specification and Implementation Guide},
+  author={Slusher, Aaron M.},
+  journal={Synoetic OS Research Hub},
+  year={2025},
+  doi={10.5281/zenodo.17451060},
+  url={https://feirbrand.github.io/synoeticos-public/dna-codex-v5.5/}
+}
+```
+
+**APA Format:**
+Slusher, A. M. (2025). *DNA Codex v5.5: The Complete Threat Intelligence Upgrade*. https://doi.org/10.5281/zenodo.17451060
+
+---
+
+## 📄 License
+
+**Dual License Structure:**
+
+- **Option 1:** CC BY-NC 4.0 — Free for academic, research, and non-commercial use
+- **Option 2:** Separate written permission for uses outside the public license — Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+
+No pricing, tiers, or subscription terms.
+
+---
+
+## 🔗 Related Resources
+
+- **[Synoetic OS Research Hub](../index.html)** - Complete research documentation
+- **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
+- **[Zenodo](https://zenodo.org/records/17451060)** - Full publication record with DOI
+- **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
+- **[Full Paper Source](https://github.com/Feirbrand/synoeticos-public/blob/main/codex/research-papers/dna-codex-v5-5-paper.md)** - Complete technical specification
+- **[DNA Codex Explorer (HuggingFace)](https://huggingface.co/Feirbrand)** - Interactive strain catalog
+
+---
+
+**© 2026 ValorGrid Solutions. All rights reserved.**
+
+*Last updated: September 23, 2026*

@@ -76,6 +76,54 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
   <p>How a performance coach created 100% symbolic AI — narrative identity architecture for autonomous cognitive systems.</p>
   <a href="cognitive-mage-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Cognitive Mage</a>
 </div>
+<!-- CSFC v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🔀 CSFC v1.0</h3>
+  <p>Complete Symbolic Fracture Cascade — the five-stage theory of AI identity degradation, validated at p&lt;0.001 across 50+ scenarios.</p>
+  <a href="csfc-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore CSFC</a>
+</div>
+<!-- DCN v1.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🕸️ DCN v1.0</h3>
+  <p>Distributed Cognitive Networks — human-coordinated multi-agent AI at operational scale, 600% productivity gain across 1,200+ task cycles.</p>
+  <a href="dcn-v1.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore DCN</a>
+</div>
+<!-- DNA Codex v5.5 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🧬 DNA Codex v5.5</h3>
+  <p>The complete AI threat intelligence upgrade — 560+ documented threat vectors with predictive behavioral forensics.</p>
+  <a href="dna-codex-v5.5/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore DNA Codex</a>
+</div>
+<!-- UCA v3.1.1 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🧭 UCA v3.1.1</h3>
+  <p>Universal Cognitive Architecture, Security-Hardened Edition — five-element structure for AI behavior under pressure.</p>
+  <a href="uca-v3.1.1/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore UCA</a>
+</div>
+<!-- RAY v2.1 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🦅 RAY v2.1</h3>
+  <p>Recursive Adaptive Yield with DD Enhancements — 97% detection, 99% containment, 15-minute resolution.</p>
+  <a href="ray-v2.1/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore RAY</a>
+</div>
+<!-- Phoenix Protocol v2.0 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🔥 Phoenix Protocol v2.0</h3>
+  <p>Neural recovery for AI systems — 98% catastrophic recovery success, 8.7-minute average recovery time.</p>
+  <a href="phoenix-protocol-v2.0/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore Phoenix Protocol</a>
+</div>
+<!-- SLV v2.1 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🔒 SLV v2.1</h3>
+  <p>Symbolic Lock Vector — runtime identity defense, 95.8% threat detection at sub-100ms latency.</p>
+  <a href="slv-v2.1/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore SLV</a>
+</div>
+<!-- URA v1.5 Card (VGS) -->
+<div class="doc-card" style="background: white; padding: 2rem; border-radius: 8px; border: 2px solid #001f3f; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #001f3f; margin-top: 0;">🛡️ URA v1.5</h3>
+  <p>Unified Resilience Architecture — 98% continuity, 47% cascade failure reduction across 50+ deployments.</p>
+  <a href="ura-v1.5/index.html" class="btn" style="display: inline-block; background: #001f3f; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Explore URA</a>
+</div>
 
 </div>
 

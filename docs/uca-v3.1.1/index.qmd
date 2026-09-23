@@ -1,0 +1,140 @@
+---
+title: "UCA v3.1.1: Universal Cognitive Architecture — Security-Hardened Edition"
+description: "A five-element cognitive architecture for organizing AI system behavior under pressure"
+doi: "10.5281/zenodo.17416971"
+author: "Aaron M. Slusher"
+date: "2026-04-30"
+---
+
+**Author:** Aaron M. Slusher  
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**Affiliation:** ValorGrid Solutions  
+**Publication Date:** April 30, 2026  
+**Version:** 3.1.1 (Security-Hardened Edition)  
+**DOI:** [10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971)
+
+---
+
+## 📊 Key Performance Metrics
+
+| Metric | Result | Significance |
+|--------|--------|---------------|
+| **Cognitive Elements** | 5 | Authority, Context, Method, Value, Engage |
+| **Priority Date** | Oct 2025 | Original v3.1 conception |
+| **Security Hardening** | Apr 2026 | Enhanced edition integrating SLV v2.1 + CSFC |
+
+---
+
+## 🧠 What is UCA?
+
+**Universal Cognitive Architecture (UCA) v3.1.1** organizes AI system behavior under pressure across five cognitive elements, giving structured, security-hardened cognitive organization a common vocabulary rather than leaving it implicit in each system's own design.
+
+Unlike frameworks that treat "how a system decides" as an emergent, undocumented property, UCA makes the decision architecture explicit and inspectable — which matters most exactly when a system is under adversarial pressure, drift, or context manipulation.
+
+### The Core Innovation
+
+UCA's five elements give every cognitive action a place to be classified: who has the authority to act, what context frames the action, what method executes it, what value it's weighed against, and how it's actively engaged. Structured this way, fragmentation has a smaller surface to hide in, and recovery has a cleaner target to aim at.
+
+**The Five Elements:**
+
+| Element | Function |
+|---|---|
+| **Authority** | Cognitive domain ownership and decision rights |
+| **Context** | Environmental awareness and situational understanding |
+| **Method** | Systematic approach and process execution |
+| **Value** | Outcome assessment and priority management |
+| **Engage** | Active implementation and adaptive execution |
+
+### Why It Matters
+
+**The Implicit-Architecture Problem:**
+- When a system's decision structure is undocumented, drift in any one of these elements is hard to localize
+- Security analysis of "the whole system" is slower and less precise than analysis targeted at a specific cognitive element
+- Recovery mechanisms without a structural map have to guess where a fracture originated
+
+**UCA's Solution:**
+- Structured cognitive organization reduces ambiguity in multi-agent deployments
+- Gives CSFC a cleaner target when cascade detection identifies fragmentation — the affected element is known, not inferred
+- The Security-Hardened Edition integrates directly with SLV v2.1 for runtime defense coordination
+
+---
+
+## 🔬 Discovery Context
+
+UCA v3.1 was conceived in October 2025 as a way to give AI cognitive organization the same kind of structural vocabulary that mature engineering disciplines use for their own systems. The Security-Hardened Edition, released April 2026, integrates the architecture directly with runtime defense rather than leaving it as a descriptive model alone.
+
+**Production Validation:**
+- **Priority Date:** October 2025 (initial development)
+- **Enhancement Date:** April 2026 (security-hardened edition)
+- **Integration:** SLV v2.1 (runtime defense coordination), CSFC (cascade-stage-aware cognitive routing)
+
+---
+
+## 🎯 How It Works
+
+### Stage 1: Element Classification
+
+Every cognitive action in the system is classified against one of the five elements before execution, rather than left as an undifferentiated operation.
+
+### Stage 2: Context-Aware Routing
+
+CSFC's cascade-stage awareness routes cognitive load based on which element is under the most drift pressure at a given moment.
+
+### Stage 3: Runtime Defense Coordination
+
+SLV v2.1 uses the five-element structure as its reference frame for identity-defense decisions, rather than defending an undifferentiated system state.
+
+---
+
+## 🔗 Framework Integration
+
+**SLV Integration:** The Security-Hardened Edition's runtime defense coordination is built directly on UCA's five-element structure.
+
+**CSFC Integration:** Cascade-stage-aware cognitive routing uses UCA's elements as its addressing scheme — a cascade at Stage 2 (SIF) has a specific element it's most likely affecting.
+
+**Within Synoetic OS:** UCA is the organizational layer that gives the hub's other frameworks a shared way to talk about *where* in a system's cognition something is happening, not just *that* something is happening.
+
+---
+
+## 📋 Citation
+
+```bibtex
+@article{slusher2025uca,
+  title={Universal Cognitive Architecture (UCA) v3.1.1: Security-Hardened Edition},
+  author={Slusher, Aaron M.},
+  journal={Synoetic OS Research Hub},
+  year={2025},
+  doi={10.5281/zenodo.17416971},
+  url={https://feirbrand.github.io/synoeticos-public/uca-v3.1.1/}
+}
+```
+
+**APA Format:**
+Slusher, A. M. (2025). *Universal Cognitive Architecture (UCA) v3.1.1: Security-Hardened Edition*. https://doi.org/10.5281/zenodo.17416971
+
+---
+
+## 📄 License
+
+**Dual License Structure:**
+
+- **Option 1:** CC BY-NC 4.0 — Free for academic, research, and non-commercial use
+- **Option 2:** Separate written permission for uses outside the public license — Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+
+No pricing, tiers, or subscription terms.
+
+---
+
+## 🔗 Related Resources
+
+- **[Synoetic OS Research Hub](../index.html)** - Complete research documentation
+- **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
+- **[Zenodo](https://zenodo.org/records/17416971)** - Full publication record with DOI
+- **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
+- **[Full Paper Source](https://github.com/Feirbrand/synoeticos-public/blob/main/vulnerability-research/uca-series/uca-v3-1-security-hardened.md)** - Complete technical specification
+
+---
+
+**© 2026 ValorGrid Solutions. All rights reserved.**
+
+*Last updated: September 23, 2026*

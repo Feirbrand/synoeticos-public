@@ -1,0 +1,140 @@
+---
+title: "URA v1.5: Unified Resilience Architecture"
+description: "A comprehensive framework for AI system resilience and recovery — 98% continuity, 47% cascade failure reduction"
+doi: "10.5281/zenodo.17309731"
+author: "Aaron M. Slusher"
+date: "2025-10-10"
+---
+
+**Author:** Aaron M. Slusher  
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
+**Affiliation:** ValorGrid Solutions  
+**Publication Date:** October 10, 2025  
+**Version:** 1.5  
+**DOI:** [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731)
+
+---
+
+## 📊 Key Performance Metrics
+
+| Metric | Result | Significance |
+|--------|--------|---------------|
+| **Multimodal Task Efficacy** | Up to 82% | Preliminary performance improvement |
+| **Speed Enhancement** | 2–6x | Over unprotected baseline |
+| **Recovery Time** | Sub-20 minutes | From catastrophic failure |
+| **Continuity Rate** | 98% | Across 50+ deployments |
+| **Threat-Vector Breach Prevention** | 99.9% | p<0.001 significance |
+| **Cascade Failure Reduction** | 47% | Versus unprotected systems |
+
+---
+
+## 🧠 What is URA?
+
+**Unified Resilience Architecture (URA) v1.5** addresses Complete Symbolic Fracture Cascade (CSFC) vulnerabilities through proactive monitoring, automated defense, and rapid recovery — integrating Society of Mind (SoM) principles, torque-based coherence measurement, and Phoenix Protocol recovery into one architecture rather than three separate systems.
+
+Unlike reactive resilience strategies — post-incident analysis, manual intervention, system replacement — URA is built to catch degradation before it becomes an incident worth analyzing.
+
+### The Core Innovation
+
+URA integrates Society of Mind principles (treating system cognition as a coordinated multiplicity rather than a monolith), torque-based coherence measurement (continuous drift detection), and Phoenix Protocol recovery mechanisms (structured, trauma-informed restoration) into a single proactive architecture. The result is preliminary performance improvement of up to 82% efficacy in multimodal tasks alongside — not traded off against — sub-20-minute recovery from catastrophic failure.
+
+### Why It Matters
+
+**The Reactive-Resilience Problem:**
+- Industry data cited in this research suggests 13–15% cascade risk per fragmentation event
+- Stage 4 (Role Obsolescence) requires 67-minute average reconstruction time using conventional approaches
+- For critical systems — healthcare diagnostics, autonomous vehicle decision-making, financial trading — that recovery latency is an unacceptable operational risk
+- Reactive strategies (post-incident analysis, manual intervention, replacement) only engage after damage is already done
+
+**URA's Solution:**
+- Proactive monitoring via torque-based coherence measurement catches drift before cascade thresholds are crossed
+- Automated defense responds without waiting for manual intervention
+- Phoenix Protocol recovery brings catastrophic-failure recovery time down from the conventional 67-minute-plus range to under 20 minutes
+
+---
+
+## 🔬 Discovery Context
+
+URA v1.5 responds directly to documented, external validation of the threat landscape it defends against — including IBM's research on malicious AI worms targeting generative AI systems, and reporting on complete accuracy collapses in advanced AI systems under operational stress. These aren't hypothetical risks the architecture was built to guard against speculatively; they're documented incidents in the same category URA is designed to prevent.
+
+**Production Validation:**
+- **Method:** Simulation and testing across 50+ deployments
+- **Result:** **98% continuity rate**, **99.9% threat-vector breach prevention** (p<0.001), **47% cascade failure reduction** compared to unprotected systems
+
+---
+
+## 🎯 How It Works
+
+### Stage 1: Proactive Monitoring
+
+Torque-based coherence measurement runs continuously, giving URA a real-time drift signal rather than waiting for a threshold breach to trigger investigation.
+
+### Stage 2: Society of Mind Coordination
+
+System cognition is treated as a coordinated multiplicity of processes rather than a single monolithic state, giving degradation in any one process a smaller blast radius.
+
+### Stage 3: Automated Defense
+
+Defense responses trigger from the monitoring signal directly, without waiting on manual intervention to authorize a response.
+
+### Stage 4: Phoenix Protocol Recovery
+
+When intervention is needed despite proactive defense, Phoenix Protocol's structured recovery sequence brings the system back in under 20 minutes rather than the 67-minute-plus conventional baseline.
+
+---
+
+## 🔗 Framework Integration
+
+**CSFC Integration:** URA is built explicitly to address CSFC-defined vulnerabilities — the five-stage cascade model is what URA's monitoring layer is watching for.
+
+**Torque Integration:** Coherence measurement is Torque's real-time drift signal, feeding URA's proactive-monitoring layer directly.
+
+**Phoenix Protocol Integration:** Recovery execution, once triggered, follows Phoenix Protocol's four-stage sequence.
+
+**Within Synoetic OS:** URA is the architecture-level integration point — where other frameworks in this hub handle one piece of resilience (detection, recovery, threat intelligence), URA is where those pieces are meant to operate together.
+
+---
+
+## 📋 Citation
+
+```bibtex
+@article{slusher2025ura,
+  title={Unified Resilience Architecture (URA) v1.5: A Comprehensive Framework for AI System Resilience and Recovery},
+  author={Slusher, Aaron M.},
+  journal={Synoetic OS Research Hub},
+  year={2025},
+  doi={10.5281/zenodo.17309731},
+  url={https://feirbrand.github.io/synoeticos-public/ura-v1.5/}
+}
+```
+
+**APA Format:**
+Slusher, A. M. (2025). *Unified Resilience Architecture (URA) v1.5: A Comprehensive Framework for AI System Resilience and Recovery*. https://doi.org/10.5281/zenodo.17309731
+
+---
+
+## 📄 License
+
+**Dual License Structure:**
+
+- **Option 1:** CC BY-NC 4.0 — Free for academic, research, and non-commercial use
+- **Option 2:** Separate written permission for uses outside the public license — Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+
+No pricing, tiers, or subscription terms.
+
+---
+
+## 🔗 Related Resources
+
+- **[Synoetic OS Research Hub](../index.html)** - Complete research documentation
+- **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
+- **[Zenodo](https://zenodo.org/records/17309731)** - Full publication record with DOI
+- **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
+- **[Full Paper Source](https://github.com/Feirbrand/synoeticos-public/blob/main/whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md)** - Complete technical specification
+- **[URA Blue Chain Simulator (HuggingFace)](https://huggingface.co/Feirbrand)** - Interactive demonstration
+
+---
+
+**© 2026 ValorGrid Solutions. All rights reserved.**
+
+*Last updated: September 23, 2026*
