@@ -140,7 +140,7 @@ UTME applies **Landauer's Principle** to AI memory:
 - [Elevation Grid v1.0](../elevation-grid/index.html) - Foundational performance framework
 - [PME v1.0](../pme-v1.0/index.html) - Predictive pathway optimization
 - [Torque v2.0](../torque-v2.0/index.html) - Coherence monitoring
-- [Phoenix Protocol v2.0](../phoenix-v2.0/index.html) - Recovery mechanisms
+- [Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html) - Recovery mechanisms
 - [Cognitive Mage v1.0](../cognitive-mage-v1.0/index.html) - Narrative identity
 
 ---

@@ -168,11 +168,11 @@ Layer 7 (Distribution):  DCN - Collective coordination
 ### Synoetic OS Research Hub
 - [UTME v1.0](../utme-v1.0/index.html) - Temporal memory foundation
 - [Torque v2.0](../torque-v2.0/index.html) - Coherence monitoring
-- [Phoenix Protocol v2.0](../phoenix-v2.0/index.html) - Recovery mechanisms
+- [Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html) - Recovery mechanisms
 - [PME v1.0](../pme-v1.0/index.html) - Predictive optimization
 - [DNA Codex v5.5](../dna-codex-v5.5/index.html) - Threat intelligence
 - [DCN v1.0](../dcn-v1.0/index.html) - Distributed coordination
-- [SLV v2.1](../symbolic-lock-vector-v2.1/index.html) - Identity preservation
+- [SLV v2.1](../slv-v2.1/index.html) - Identity preservation
 - [Cognitive Mage v1.0](../cognitive-mage-v1.0/index.html) - Narrative identity
 - [FCE v3.6](../fce-v3.6/index.html) - Context engineering
 - [Elevation Grid v1.0](../elevation-grid/index.html) - Performance framework

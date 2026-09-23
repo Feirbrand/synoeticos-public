@@ -232,10 +232,10 @@ graph LR
 UTME is the temporal foundation for the complete Synoetic OS architecture:
 
 - **[Torque v2.0](../torque-v2.0/index.html)** - Real-time coherence monitoring
-- **[Phoenix Protocol v2.0](../phoenix-v2.0/index.html)** - Cascade recovery and incident response
+- **[Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html)** - Cascade recovery and incident response
 - **[DNA Codex v5.5](../dna-codex-v5.5/index.html)** - Threat intelligence and pattern analysis
 - **[PME v1.0](../pme-v1.0/index.html)** - Predictive pathway optimization
-- **[SLV v2.1](../symbolic-lock-vector-v2.1/index.html)** - Identity preservation during optimization
+- **[SLV v2.1](../slv-v2.1/index.html)** - Identity preservation during optimization
 - **[DCN v1.0](../dcn-v1.0/index.html)** - Distributed multi-agent coordination
 - **[Cognitive Mage v1.0](../cognitive-mage-v1.0/index.html)** - Narrative identity architecture
 

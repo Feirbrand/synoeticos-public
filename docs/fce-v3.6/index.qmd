@@ -185,7 +185,7 @@ FCE integrates seamlessly with the Synoetic OS ecosystem:
 
 - **[UTME v1.0](../utme-v1.0/index.html)** - Temporal foundation for memory
 - **[Torque v2.0](../torque-v2.0/index.html)** - Coherence monitoring and gating
-- **[Phoenix Protocol v2.0](../phoenix-v2.0/index.html)** - Recovery and resilience
+- **[Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html)** - Recovery and resilience
 - **[PME v1.0](../pme-v1.0/index.html)** - Predictive pathway optimization
 - **[URA v1.5](../ura-v1.5/index.html)** - Unified resilience architecture
 - **[CSFC v1.0](../csfc-v1.0/index.html)** - Symbolic fracture cascade theory

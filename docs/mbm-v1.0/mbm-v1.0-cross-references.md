@@ -98,7 +98,7 @@ Memory Breathing Methodology v1.0 is the active memory consolidation subsystem w
 
 ### Recovery & Cascade Prevention
 
-**[Phoenix Protocol v3.1](../phoenix-protocol-v3.1/index.html) — Recovery & Cascade Prevention**
+**[Phoenix Protocol v3.1](../phoenix-protocol-v2.0/index.html) — Recovery & Cascade Prevention**
 
 **Role:** MBM's incident classification during HOLD feeds Phoenix's recovery staging. The Temporal Wisdom Equation predicts repair time from entropy flux.
 

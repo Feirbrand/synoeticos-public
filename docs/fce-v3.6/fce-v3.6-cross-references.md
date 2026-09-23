@@ -141,7 +141,7 @@ FCE enables distributed context sharing:
 ### Synoetic OS Research Hub
 - [UTME v1.0](../utme-v1.0/index.html) - Temporal memory foundation
 - [Torque v2.0](../torque-v2.0/index.html) - Coherence monitoring
-- [Phoenix Protocol v2.0](../phoenix-v2.0/index.html) - Recovery mechanisms
+- [Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html) - Recovery mechanisms
 - [PME v1.0](../pme-v1.0/index.html) - Predictive optimization
 - [URA v1.5](../ura-v1.5/index.html) - Resilience platform
 - [CSFC v1.0](../csfc-v1.0/index.html) - Symbolic cascade theory

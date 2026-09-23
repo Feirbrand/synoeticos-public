@@ -65,7 +65,7 @@ description: "Framework integration and conceptual connections to related Synoet
 - Symbolic healing enables identity restoration
 - 98% recovery success rate (519+ incidents)
 - Dual-layer recovery (technical + symbolic)
-- [Read Phoenix Protocol v2.0](../phoenix-v2.0/index.html)
+- [Read Phoenix Protocol v2.0](../phoenix-protocol-v2.0/index.html)
 
 ### DNA Codex v5.5 (Threat Intelligence)
 **Relationship:** Threat intelligence informs coaching adaptation
@@ -79,7 +79,7 @@ description: "Framework integration and conceptual connections to related Synoet
 - Runtime identity verification
 - Symbolic coherence validation
 - Prevents identity injection attacks
-- [Read SLV v2.1](../symbolic-lock-vector-v2.1/index.html)
+- [Read SLV v2.1](../slv-v2.1/index.html)
 
 ---
 
