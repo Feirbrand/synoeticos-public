@@ -251,7 +251,7 @@ graph TD
 
 ## 🔗 Related Resources
 
-- **[Synoetic OS Research Hub](../../index.md)** - Complete research documentation
+- **[Synoetic OS Research Hub](../index.html)** - Complete research documentation
 - **[ORCID Profile](https://orcid.org/0009-0000-9923-3207)** - All published works
 - **[Zenodo](https://doi.org/10.5281/zenodo.18318485)** - Full publication record
 - **[GitHub Repository](https://github.com/Feirbrand/synoeticos-public)** - Source code and frameworks
