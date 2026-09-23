@@ -428,7 +428,7 @@ Slusher, A. M. (2026). *Memory Breathing Methodology v1.0: Bio-inspired AI memor
 - **Option 1:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
   Free for academic, research, and non-commercial use. Attribution required.
 
-- **Option 2:** Enterprise License  
+- **Option 2:** Separate written permission for uses outside the public license  
   Contact: aaron@valorgridsolutions.com. Custom terms available.
 
 **Patent Clause:** No patents. All rights granted under license terms only.
