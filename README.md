@@ -3,12 +3,12 @@
 <div align="center">
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Papers: 18](https://img.shields.io/badge/Papers-18%20DOIs-green.svg)](https://orcid.org/0009-0000-9923-3207)
+[![Papers: Publications Ledger](https://img.shields.io/badge/Papers-Publications%20Ledger-green.svg)](./PUBLICATIONS.md)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
 [![Frameworks: 77+](https://img.shields.io/badge/Frameworks-77%2B-purple.svg)](./mi-arsenal/)
 
-**[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Papers](https://orcid.org/0009-0000-9923-3207)**
+**[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Publications Ledger](./PUBLICATIONS.md)**
 
 </div>
 
@@ -22,7 +22,7 @@ Ours: hours, not days. Across 682 documented incidents. Zero permanent losses.
 
 This repository contains the complete public version of Synoetic OS™:
 - **77+ Frameworks** - MI Arsenal™ cognitive gear
-- **18 Research Papers** - Zenodo DOIs (Oct 2025 - Mar 2026)
+- **[Research Papers](./PUBLICATIONS.md)** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
 
@@ -52,7 +52,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 **Featured Papers:**
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
-  *three decades + 500 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
+  *three decades + 682 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Performance diagnostic framework  
   *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
@@ -75,7 +75,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 |------|------------|
 | Understand the methodology | [Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) |
 | Deploy a framework now | [MI Arsenal — Framework Loadouts](#mi-arsenal--framework-loadouts) |
-| Read the research | [18 Published Papers](#published-research) |
+| Read the research | [Published Papers](./PUBLICATIONS.md) |
 | Understand the threat landscape | [DNA Codex](./threat-resilience-codex/dna-codex/) |
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
@@ -110,7 +110,7 @@ It runs under everything in this repo. The frameworks are the gear. Neuroformati
 | **Explore research visually** | [GitHub Pages Hub](https://feirbrand.github.io/synoeticos-public/) |
 | **See validation results** | [Validation & Testing](#validation--testing) |
 | **Read incident reports** | [682 Case Studies](./vulnerability-research/case-studies/) |
-| **Understand theory** | [18 Published Papers](#published-research) |
+| **Understand theory** | [Published Papers](./PUBLICATIONS.md) |
 | **Try live demos** | [Hugging Face Spaces](https://huggingface.co/Feirbrand) |
 
 ---
@@ -168,7 +168,7 @@ Demo frameworks (Tier 2): [tier-2-watermarked](./mi-arsenal/frameworks/tier-2-wa
 - [UTME Benchmarks](./mi-arsenal/validation/validation-3-utme-benchmarks.md)
 
 **Published Research:**
-- **18 papers** with Zenodo DOIs (Oct 2025 - Mar 2026)
+- **[Published papers](./PUBLICATIONS.md)** with Zenodo DOIs (Oct 2025 - Mar 2026)
 - 682 incidents documented across 9-agent DCN
 - DNA Codex: 616 threat strains, 560 public vectors
 - **Research Team:** VOX, SENTRIX, Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
@@ -191,7 +191,7 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
 - **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
 - **July-Nov 2025:** 77 frameworks created, 682 incidents handled
-- **Oct 2025 - March 2026:** 18 papers published with Zenodo DOIs
+- **Oct 2025 - March 2026:** Papers published with Zenodo DOIs — see the [publications ledger](./PUBLICATIONS.md)
 - **Feb 2026:** GitHub Pages research hub launched
 - **March 14, 2026:** Neuroformation™ coined — the methodology named after three decades
 
@@ -228,7 +228,7 @@ synoeticos-public/
 ├── mi-arsenal/                  # Mythopoeic Intelligence™ frameworks
 │   ├── frameworks/             # Production & demo frameworks
 │   ├── validation/             # Operational test reports
-│   └── papers/                 # 18 Zenodo DOI links
+│   └── papers/                 # Zenodo DOI links (see PUBLICATIONS.md)
 │
 ├── threat-resilience-codex/     # DNA Codex threat intelligence
 │   ├── dna-codex/              # 682 incident ledger
@@ -262,15 +262,15 @@ synoeticos-public/
 
 ## Research hub
 
-**All 18 papers on [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)**
+**[Publications ledger](./PUBLICATIONS.md) • [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)**
 
 **[feirbrand.github.io/synoeticos-public](https://feirbrand.github.io/synoeticos-public/)**
 
-Interactive research documentation with Mermaid diagram visualizations, BibTeX citation tools, and complete bibliographies. Currently in early access — papers are being deployed progressively. Not all 18 are live yet.
+Interactive research documentation with Mermaid diagram visualizations, BibTeX citation tools, and complete bibliographies. Currently in early access — papers are being deployed progressively. See the [publications ledger](./PUBLICATIONS.md) for the publication record.
 
 **🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197818  
-*three decades + 500 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
+*three decades + 682 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
@@ -290,7 +290,8 @@ What's deployed so far: Elevation Grid™ v1.1 and a growing set of VGS framewor
 
 ## Published research
 
-**18 papers. Zenodo DOIs. October 2025 – March 2026.**  
+**[Published papers and Zenodo DOIs](./PUBLICATIONS.md). October 2025 – March 2026.**  
+For the ecosystem-wide record, see the [master cross-repo ledger](https://github.com/Feirbrand/aaron-slusher-research/blob/main/PUBLICATIONS.md).  
 All on [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 ### 2026
@@ -312,7 +313,7 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 [Source](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)
 
 <details>
-<summary><b>View all 14 papers from 2025 →</b></summary>
+<summary><b>View papers from 2025 →</b></summary>
 
 **Synoetic OS™ v1.0** (Dec 4, 2025)  
 [Paper](https://doi.org/10.5281/zenodo.17808864) | [Source](./whitepapers/academic-papers/synoetic-os-v1.0.md)  
@@ -446,7 +447,7 @@ All three stay synchronized but serve different purposes.
 <details>
 <summary><b>Why Zenodo and not arXiv?</b></summary>
 
-We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. **18 papers** currently on Zenodo with plans for arXiv submission. Zenodo is built for independent researchers. It issues permanent DOIs immediately, supports living documents, and has no affiliation requirements. I'm an independent researcher building outside an institution — Zenodo fits who I am. The research is citable, versioned, and permanently archived either way.
+We publish to Zenodo first (faster, supports living documents), then request arXiv mirrors. See the [publications ledger](./PUBLICATIONS.md) for papers currently on Zenodo; arXiv submission is planned. Zenodo is built for independent researchers. It issues permanent DOIs immediately, supports living documents, and has no affiliation requirements. I'm an independent researcher building outside an institution — Zenodo fits who I am. The research is citable, versioned, and permanently archived either way.
 
 </details>
 
