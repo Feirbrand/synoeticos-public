@@ -309,5 +309,5 @@ Contact & Support
 Research Inquiries: aaron@valorgridsolutions.com
 Community Support: GitHub Issues and Discussions
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
-**License**: Dual CC BY-NC 4.0 + Enterprise
+**License**: Dual — CC BY-NC 4.0, or separate written permission for uses outside the public license
 **Patent Clause**: Patent rights reserved, no patent assertion without written grant.

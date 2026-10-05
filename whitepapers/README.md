@@ -260,7 +260,7 @@ All academic methodology papers follow the **EG v1.1 canonical format:**
 - Academic citation standards (APA author-date)
 - Reproducibility documentation
 - Performance metrics validation
-- Dual license block (CC BY-NC 4.0 + Enterprise)
+- Dual license block (CC BY-NC 4.0, or separate written permission)
 - GitHub → Zenodo → ORCID publication flow
 
 ### Research Voice

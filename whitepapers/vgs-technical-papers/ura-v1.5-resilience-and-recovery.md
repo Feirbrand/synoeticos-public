@@ -1016,4 +1016,4 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 ## Code and Methodology Licensing
 
 - Licensed under CC BY-NC 4.0. Separate written permission available for uses outside the public license — see root LICENSE for terms.
-- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+- **Methodology** and conceptual content is licensed under the dual model above: CC BY-NC 4.0, or separate written permission for uses outside the public license.

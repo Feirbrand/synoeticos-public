@@ -1918,6 +1918,6 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 
 **Copyright 2025 © ValorGrid Solutions. All rights reserved.**
 
-**License:** Dual CC BY-NC 4.0 + Enterprise (see Section 13)
+**License:** Dual — CC BY-NC 4.0, or separate written permission (see Section 13)
 **Patent Clause:** Patent rights reserved, no assertion without written grant
 **Document Version:** 5.5 | **Status:** PRODUCTION RELEASE

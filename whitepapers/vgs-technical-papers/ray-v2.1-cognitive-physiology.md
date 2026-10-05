@@ -626,7 +626,7 @@ All DD enhancements designed exclusively for defense. No offensive capabilities.
 Tensor Logic enables explainable decisions (tensor operations → symbolic explanations). Agentic-Radar provides vulnerability reports with remediation guidance. ReasoningBank patterns human-auditable. No "black box" security.
 
 **Open Research, Protected Implementation:**
-Academic research (this paper) published openly via Zenodo DOI. Core architecture documented for peer validation. Implementation details dual-licensed (CC BY-NC 4.0 + Enterprise). Balance between research openness and IP protection.
+Academic research (this paper) published openly via Zenodo DOI. Core architecture documented for peer validation. Implementation details dual-licensed (CC BY-NC 4.0, or separate written permission). Balance between research openness and IP protection.
 
 **Responsible Threat Intelligence:**
 DNA Codex shared with CISA, MITRE, security research community under coordinated disclosure. CamoLeak (CAMO-001) reported to GitHub Security before public release. ValorGrid prioritizes ecosystem security over competitive advantage.

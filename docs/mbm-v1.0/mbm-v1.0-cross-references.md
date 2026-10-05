@@ -226,7 +226,7 @@ Synoetic OS (Orchestration)
 ## License
 
 **Non-Commercial:** CC BY-NC 4.0  
-**Enterprise:** Contact aaron@valorgridsolutions.com
+**Separate written permission:** Contact aaron@valorgridsolutions.com
 
 ---
 

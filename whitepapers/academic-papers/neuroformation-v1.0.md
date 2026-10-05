@@ -20,7 +20,7 @@ updates:
 ---
 
 <!--
-SPDX-License-Identifier: CC-BY-NC-4.0 AND APP-Enterprise
+SPDX-License-Identifier: CC-BY-NC-4.0
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Option 2: Separate written permission for uses outside the public license.

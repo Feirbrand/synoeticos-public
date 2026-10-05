@@ -17,7 +17,7 @@ keywords:
   - "Antifragile Learning"
   - "Temporal Anchoring"
   - "Information Thermodynamics"
-license: "CC-BY-NC-4.0 AND ValorGrid-Enterprise"
+license: "CC-BY-NC-4.0"
 inLanguage: "en-US"
 publisher:
   name: "ValorGrid Solutions"
@@ -35,7 +35,7 @@ citation:
 
 
 <!--
-SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise
+SPDX-License-Identifier: CC-BY-NC-4.0
 
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)

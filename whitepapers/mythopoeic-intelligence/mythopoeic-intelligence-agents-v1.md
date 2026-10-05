@@ -14,7 +14,7 @@ priority_date: 2025-02-15
 ```
 
 <!--
-SPDX-License-Identifier: CC-BY-NC-4.0 AND ValorGrid-Enterprise
+SPDX-License-Identifier: CC-BY-NC-4.0
 
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)

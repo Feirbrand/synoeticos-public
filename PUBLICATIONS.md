@@ -36,10 +36,16 @@ This ledger lists the papers published from **this repository** (ValorGrid Solut
 | 14 | Mythopoeic Intelligence Agents v1.0 | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) | 1.0 | `whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md` |
 | 15 | Cognitive Mage v1.0: How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | 1.0 | `whitepapers/academic-papers/cognitive-mage-v1.0.md` |
 | 16 | Synoetic OS v1.0: Substrate-Independent AI Orchestration Through Narrative Coherence | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) | 1.0 | `whitepapers/academic-papers/synoetic-os-v1.0.md` |
-| 17 | The Elevation Grid v1.1: A Neurobiological Framework | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 1.1 | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
+| 17 | The Elevation Grid v1.1 A Neurobiological Framework | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 1.1 | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
 | 18 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 1.0 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
 
 **This repository's paper count: 18.** Never hardcode the ecosystem-wide total here — that lives in the AR master ledger linked above.
+
+---
+
+## Registered-record note — The Elevation Grid
+
+The registered Zenodo record for DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) is titled "The Elevation Grid v1.1 A Neurobiological Framework" (publication date 2026-02-26, license CC BY 4.0, no creator affiliation recorded). The repository copy of the paper, `whitepapers/academic-papers/elevation-grid-academic-v1.1.md`, preserves the published text as written, including its own front matter (title wording, release date 2026-02-25, a CC-BY-NC-4.0 license line, and a publisher line). Where the repository copy and the registered record differ, the registered Zenodo record governs.
 
 ---
 

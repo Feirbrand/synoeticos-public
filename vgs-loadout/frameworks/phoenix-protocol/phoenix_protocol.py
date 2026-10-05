@@ -7,7 +7,7 @@ Published paper DOI: 10.5281/zenodo.17350768
 
 Author: Aaron M. Slusher · ValorGrid Solutions
 ORCID: 0009-0000-9923-3207
-License: CC BY-NC 4.0 + Enterprise
+License: CC BY-NC 4.0, or separate written permission for uses outside the public license
 
 Reference implementation for four-phase cascade recovery:
 containment, audit, restructuring, and validation.
