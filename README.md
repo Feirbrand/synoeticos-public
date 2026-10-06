@@ -409,7 +409,7 @@ No pricing, tiers, or subscription terms.
 
 ## 👤 About
 
-**Aaron M. Slusher** — Performance Coach | Engineering Resilience for Adaptive Systems | Developed Neuroformation™  
+**Aaron Slusher · Performance Coach · Neural Formation Architecture**  
 [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 three decades coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.
