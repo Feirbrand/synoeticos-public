@@ -27,7 +27,7 @@ This repository contains the complete public version of Synoetic OS™:
 - **173-Day Deployment** - Zero catastrophic failures
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-three decades applied performance methodology → the same architecture works on AI systems
+three decades of applied performance coaching → patterns applied to AI systems under pressure
 
 This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared architecture behind this work — Neuroformation™, Elevation Grid™, and how they connect — lives one level up at [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research). Start here for the AI-resilience application. Start there for the architecture underneath it.
 
@@ -54,7 +54,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
   *three decades + 682 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
 
-- 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Performance diagnostic framework  
+- 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Coordinate framework  
   *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
   
 - 🧠 **[PME v1.0](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)** - Predictive Myelination Engine  
