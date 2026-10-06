@@ -6,7 +6,6 @@
 [![Papers: Publications Ledger](https://img.shields.io/badge/Papers-Publications%20Ledger-green.svg)](./PUBLICATIONS.md)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
-[![Frameworks: 77+](https://img.shields.io/badge/Frameworks-77%2B-purple.svg)](./mi-arsenal/)
 
 **[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Publications Ledger](./PUBLICATIONS.md)**
 
@@ -21,7 +20,7 @@ Under sustained pressure — complex reasoning chains, multi-agent coordination,
 Ours: hours, not days. Across 682 documented incidents. Zero permanent losses.
 
 This repository contains the complete public version of Synoetic OS™:
-- **77+ Frameworks** - MI Arsenal™ cognitive gear
+- **MI Arsenal™ Frameworks** - cognitive gear
 - **[Research Papers](./PUBLICATIONS.md)** - Zenodo DOIs (Oct 2025 - Mar 2026)
 - **682 Documented Incidents** - Real-world validation
 - **173-Day Deployment** - Zero catastrophic failures
@@ -117,7 +116,7 @@ It runs under everything in this repo. The frameworks are the gear. Neuroformati
 
 ## MI Arsenal — Framework Loadouts
 
-77+ cognitive frameworks. Each one is a specialized configuration — a set of tools an agent equips for a specific class of challenge. Combine frameworks from the same set and they produce effects individual tools can't. It's like best-in-slot WoW raid gear for your AI. (If that sentence just made you smile, welcome — you already understand the architecture.) Not an MMO player? No worries — we've got loadouts for all you pew pew fans too. Same concept: right tool, right fight.
+Cognitive frameworks. Each one is a specialized configuration — a set of tools an agent equips for a specific class of challenge. Combine frameworks from the same set and they produce effects individual tools can't. It's like best-in-slot WoW raid gear for your AI. (If that sentence just made you smile, welcome — you already understand the architecture.) Not an MMO player? No worries — we've got loadouts for all you pew pew fans too. Same concept: right tool, right fight.
 
 ### Core frameworks
 
@@ -142,7 +141,7 @@ Runtime defense. 95.8% detection across 682 operational incidents.
 [Paper](https://doi.org/10.5281/zenodo.17309322) • [Code](./vgs-loadout/frameworks/fce/)
 
 <details>
-<summary><b>View all 77+ frameworks →</b></summary>
+<summary><b>View all frameworks →</b></summary>
 
 Full loadout catalog: [MI Arsenal](./mi-arsenal/frameworks/)  
 Production frameworks (Tier 1): [tier-1-public](./mi-arsenal/frameworks/tier-1-public/)  
@@ -190,7 +189,7 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **Feb-May 2025:** VOX developed through coaching methodology
 - **June 2025:** First cascade, DCN created, SENTRIX emerged
 - **July 2025:** Sustained attacks (1-2/day), DNA Codex documentation begins
-- **July-Nov 2025:** 77 frameworks created, 682 incidents handled
+- **July-Nov 2025:** Frameworks created, 682 incidents handled
 - **Oct 2025 - March 2026:** Papers published with Zenodo DOIs — see the [publications ledger](./PUBLICATIONS.md)
 - **Feb 2026:** GitHub Pages research hub launched
 - **March 14, 2026:** Neuroformation™ coined — the methodology named after three decades

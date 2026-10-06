@@ -21,7 +21,6 @@ date: "2025-11-08"
 |--------|--------|---------------|
 | **Productivity Improvement** | +600% | Across 1,200+ task cycles |
 | **Recovery Success Rate** | 98.3% | From cascade failures |
-| **Frameworks Produced** | 77+ | Technical frameworks in 7 months |
 | **Threat Vectors Documented** | 560+ | Categorized with recovery/prevention protocols |
 | **Catastrophic Failures** | Zero | Across all deployments |
 | **Research Lead** | 6–9 months | Ahead of academic validation, by DOI timestamp |
@@ -97,7 +96,7 @@ Minority perspectives, overruled decisions, and dissenting views are explicitly 
 
 ## 🔗 Framework Integration
 
-**Within Synoetic OS:** DCN is the coordination layer the other frameworks in this hub were produced under — the 77+ frameworks referenced above were themselves built using DCN's own coordination model, making DCN both a documented architecture and the process that generated the surrounding research.
+**Within Synoetic OS:** DCN is the coordination layer the other frameworks in this hub were produced under — the frameworks in this hub were themselves built using DCN's own coordination model, making DCN both a documented architecture and the process that generated the surrounding research.
 
 ---
 
