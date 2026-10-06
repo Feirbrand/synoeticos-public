@@ -1,14 +1,14 @@
 ---
-title: "Memory Breathing Methodology v1.0"
+title: "Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management"
 description: "Bio-Inspired AI Memory Management Through Rhythmic Consolidation"
 author: "Aaron M. Slusher"
-date: "2026-02-17"
+date: "2026-02-26"
 doi: "10.5281/zenodo.18790096"
 ---
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
-**Publication Date:** February 17, 2026  
+**Publication Date:** February 26, 2026  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096)
 

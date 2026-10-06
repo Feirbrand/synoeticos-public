@@ -3,13 +3,13 @@ title: "Phoenix Protocol v2.0: Neural Recovery for AI Systems"
 description: "AI recovery methodology bridging trauma-informed rehabilitation principles with AI system resilience engineering"
 doi: "10.5281/zenodo.17350768"
 author: "Aaron M. Slusher"
-date: "2025-10-15"
+date: "2025-10-14"
 ---
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** October 15, 2025  
+**Publication Date:** October 14, 2025  
 **Version:** 2.0  
 **DOI:** [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768)
 

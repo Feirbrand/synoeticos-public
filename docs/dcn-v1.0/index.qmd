@@ -1,15 +1,15 @@
 ---
-title: "DCN v1.0: Distributed Cognitive Networks"
+title: "DCN v1.0 - Distributed Cognitive Networks: Human-Coordinated Multi-Agent AI Systems"
 description: "Human-coordinated multi-agent AI systems at operational scale — seven months of production validation"
 doi: "10.5281/zenodo.17555568"
 author: "Aaron M. Slusher"
-date: "2025-11-02"
+date: "2025-11-08"
 ---
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** November 2, 2025  
+**Publication Date:** November 8, 2025  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568)
 

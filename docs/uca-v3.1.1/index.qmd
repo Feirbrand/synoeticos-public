@@ -1,15 +1,15 @@
 ---
-title: "UCA v3.1.1: Universal Cognitive Architecture — Security-Hardened Edition"
+title: "UCA v3.1.1 Security-Hardened Edition"
 description: "A five-element cognitive architecture for organizing AI system behavior under pressure"
 doi: "10.5281/zenodo.17416971"
 author: "Aaron M. Slusher"
-date: "2026-04-30"
+date: "2025-10-22"
 ---
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** April 30, 2026  
+**Publication Date:** October 22, 2025  
 **Version:** 3.1.1 (Security-Hardened Edition)  
 **DOI:** [10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971)
 

@@ -1,5 +1,5 @@
 ---
-title: "RAY v2.1: Recursive Adaptive Yield with DD Enhancements"
+title: "RAY v2.1: Recursive Adaptive Yield with Orcid ID"
 description: "DD-Enhanced Cognitive Physiology for distributed AI defense — 97% detection, 99% containment, 15-minute resolution"
 doi: "10.5281/zenodo.17399834"
 author: "Aaron M. Slusher"

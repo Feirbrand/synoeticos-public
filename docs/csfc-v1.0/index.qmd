@@ -1,15 +1,15 @@
 ---
-title: "CSFC v1.0: Complete Symbolic Fracture Cascade — Unified Theory"
+title: "CSFC Unified Theory v1.0"
 description: "The five-stage cascade theory explaining AI identity degradation from architectural data fragmentation to system collapse"
 doi: "10.5281/zenodo.17309239"
 author: "Aaron M. Slusher"
-date: "2025-10-15"
+date: "2025-10-10"
 ---
 
 **Author:** Aaron M. Slusher  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
 **Affiliation:** ValorGrid Solutions  
-**Publication Date:** October 15, 2025  
+**Publication Date:** October 10, 2025  
 **Version:** 1.0  
 **DOI:** [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239)
 
