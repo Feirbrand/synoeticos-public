@@ -3,11 +3,11 @@
   "description": "Synoetic OS - Cognitive Architecture for AI. Research initiative into AI resilience through cognitive architecture.",
   "main_entry_points": [
     "vgs-loadout/",
-    "threat-resilience-codex/",
-    "architectural-frameworks/",
+    "codex/",
+    "mi-arsenal/",
     "whitepapers/",
     "vulnerability-research/",
-    "utilities/"
+    "docs/"
   ],
   "testing_frameworks": [
     {
@@ -22,6 +22,6 @@
     "docstring_style": "Sphinx"
   },
   "documentation": {
-    "developer_guide": "docs/developer-guide.md"
+    "developer_guide": "docs/developer-guide/index.md"
   }
 }

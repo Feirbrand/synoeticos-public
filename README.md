@@ -76,7 +76,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Understand the methodology | [Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md) |
 | Deploy a framework now | [MI Arsenal — Framework Loadouts](#mi-arsenal--framework-loadouts) |
 | Read the research | [Published Papers](./PUBLICATIONS.md) |
-| Understand the threat landscape | [DNA Codex](./threat-resilience-codex/dna-codex/) |
+| Understand the threat landscape | [DNA Codex](./codex/dna-codex/) |
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
@@ -139,7 +139,7 @@ Runtime defense. 95.8% detection across 682 operational incidents.
 
 **FCE v3.6** — Context compression  
 10–20× compression, 95%+ semantic preservation. Context windows are finite. Use them wisely.  
-[Paper](https://doi.org/10.5281/zenodo.17309322) • [Code](./architectural-frameworks/fce-v3.6/)
+[Paper](https://doi.org/10.5281/zenodo.17309322) • [Code](./vgs-loadout/frameworks/fce/)
 
 <details>
 <summary><b>View all 77+ frameworks →</b></summary>
@@ -230,13 +230,13 @@ synoeticos-public/
 │   ├── validation/             # Operational test reports
 │   └── papers/                 # Zenodo DOI links (see PUBLICATIONS.md)
 │
-├── threat-resilience-codex/     # DNA Codex threat intelligence
+├── codex/                       # DNA Codex threat intelligence
 │   ├── dna-codex/              # 682 incident ledger
 │   ├── docs/                   # Threat documentation
 │   ├── fundamentals/           # Threat theory
 │   └── research-papers/        # Codex-derived research
 │
-├── architectural-frameworks/    # Reference implementations
+├── vgs-loadout/                 # Framework reference implementations
 │   ├── fce-v3.6/               # Fractal compression
 │   ├── obmi-series/            # Object-Based MI
 │   ├── resilience-patterns/    # Recursive gains
@@ -340,7 +340,7 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 *Temporal memory engine • 710×–1200× acceleration • Scar-based myelination*
 
 **DNA Codex v5.5** (Oct 26, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17451060) | [Source](./threat-resilience-codex/research-papers/dna-codex-v5-5-paper.md) | [Code](./threat-resilience-codex/dna-codex/)  
+[Paper](https://doi.org/10.5281/zenodo.17451060) | [Source](./codex/research-papers/dna-codex-v5-5-paper.md) | [Code](./codex/dna-codex/)  
 *Living threat intelligence • 525+ validated patterns • 6-9 month predictive lead*
 
 **UCA v3.1.1** (Oct 15, 2025)  
@@ -364,7 +364,7 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 *Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
 
 **FCE v3.6** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309322) | [Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Code](./architectural-frameworks/fce-v3.6/)  
+[Paper](https://doi.org/10.5281/zenodo.17309322) | [Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Code](./vgs-loadout/frameworks/fce/)  
 *Fractal Context Engineering • 10–20× compression • 95%+ semantic preservation*
 
 **URA v1.5** (Oct 10, 2025)  
@@ -379,7 +379,7 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 
 **DNA Codex v5.5** — 560+ validated public behavioral threat signatures for generative AI systems. Platform-agnostic. Organized by family, severity tier (CVSS-based), and evolution velocity.
 
-→ [Browse the codex](./threat-resilience-codex/dna-codex/)  
+→ [Browse the codex](./codex/dna-codex/)  
 → [Query live](https://huggingface.co/spaces/Feirbrand/dna-codex-search)  
 → [Technical paper](https://doi.org/10.5281/zenodo.17451060)
 
