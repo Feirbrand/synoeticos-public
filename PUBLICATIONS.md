@@ -1,4 +1,6 @@
 <!--
+Repository default only; each work's registered record governs.
+Elevation Grid v1.1 (10.5281/zenodo.18790842): CC BY 4.0; no creator affiliation recorded.
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Option 2: Separate written permission for uses outside the public license.
@@ -12,7 +14,9 @@ This ledger lists the papers published from **this repository** (ValorGrid Solut
 
 **Ecosystem-wide publication count and cross-repo ledger:** [`aaron-slusher-research/PUBLICATIONS.md`](https://github.com/Feirbrand/aaron-slusher-research/blob/main/PUBLICATIONS.md) — the master ledger across every repo. This file does not duplicate that count or that content; it links to it.
 
-**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) · **Affiliation:** ValorGrid Solutions · **License:** CC BY-NC 4.0
+**ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+
+**Affiliation and license:** Per-work, as recorded in each registered publication record; repository hosting does not assign creator affiliation. The Elevation Grid v1.1 (DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)) is registered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with no creator affiliation recorded.
 
 ---
 
@@ -56,6 +60,10 @@ The papers listed above have corresponding pages on the [Synoetic OS™ Research
 ---
 
 ## License
+
+The Elevation Grid v1.1 (DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)) is registered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with no creator affiliation recorded. The repository default below does not override that record or any other work's registered license.
+
+### Repository default (where applicable)
 
 **Option 1:** CC BY-NC 4.0 — Free for academic, research, and non-commercial use.
 **Option 2:** Separate written permission for uses outside the public license — Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com).

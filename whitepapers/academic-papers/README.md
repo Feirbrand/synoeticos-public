@@ -1,4 +1,6 @@
 <!--
+Repository default only; each work's registered record governs.
+Elevation Grid v1.1 (10.5281/zenodo.18790842): CC BY 4.0; no creator affiliation recorded.
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Option 2: Separate written permission for uses outside the public license.
@@ -111,7 +113,9 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 <h4>2. Elevation Grid™ v1.1: A Field-Developed Framework for High-Stakes Performance</h4>
 
 **Status**: Published | **File**: `elevation-grid-academic-v1.1.md` | **DOI**: 10.5281/zenodo.18790842
-**Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **GitHub Pages**: [View →](https://feirbrand.github.io/synoeticos-public/)
+**Author**: Aaron M. Slusher | **Registered creator affiliation**: None recorded | **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | **GitHub Pages**: [View →](https://feirbrand.github.io/synoeticos-public/elevation-grid/)
+
+The Elevation Grid v1.1 (DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)) is registered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with no creator affiliation recorded. Historical paper text and its APP publisher wording are preserved; see the [registered-record note](../../PUBLICATIONS.md#registered-record-note--the-elevation-grid).
 
 Coordinate-based mental performance system mapping adaptive system instability to a 3x3 diagnostic grid (9 positions × 3 rows × 3 execution phases). The primary diagnostic instrument of Neuroformation™ methodology.
 
@@ -365,6 +369,6 @@ ValorGrid Solutions delivers AI resilience architecture for organizations deploy
 
 ---
 
-**2026 © ValorGrid Solutions / ValorGrid Solutions. All rights reserved.**
+**2026 © ValorGrid Solutions. Subject to each work's registered license; Elevation Grid v1.1 uses CC BY 4.0.**
 
 *Part of the Synoetic OS™ research ecosystem. The methodology underneath everything — building adaptive systems that do not break under pressure.*

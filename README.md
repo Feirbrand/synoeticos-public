@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Licenses: Per Work](https://img.shields.io/badge/Licenses-Per%20Work-blue.svg)](./PUBLICATIONS.md#license)
 [![Papers: Publications Ledger](https://img.shields.io/badge/Papers-Publications%20Ledger-green.svg)](./PUBLICATIONS.md)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
@@ -388,7 +388,9 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 
 ## 📜 License
 
-### Dual Licensing Model
+The Elevation Grid v1.1 (DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)) is registered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with no creator affiliation recorded. Affiliation and license follow each work's registered record. The repository default below does not override those records.
+
+### Repository Default Licensing Model
 
 **Option 1: Non-Commercial (Free)**  
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
@@ -461,7 +463,7 @@ No. "Gear set" and "loadout" translate cleanly to "coordinated toolkit" for anyo
 
 <div align="center">
 
-**2025–2026 © ValorGrid Solutions. All Rights Reserved.**
+**2025–2026 © ValorGrid Solutions. Subject to the applicable per-work licenses above.**
 
 Part of the Synoetic OS™ research ecosystem
 

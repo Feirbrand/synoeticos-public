@@ -138,6 +138,6 @@ Welcome to the Synoetic OS Research Hub - a comprehensive collection of academic
 This hub contains DOI-backed research and technical specifications for cognitive AI systems, published openly for academic and research communities.
 
 **Author:** Aaron M. Slusher  
-**Organization:** Achieve Peak Performance / ValorGrid Solutions  
-**License:** CC BY-NC 4.0  
+**Hub organizations:** Achieve Peak Performance / ValorGrid Solutions (not a blanket creator affiliation)  
+**Publication affiliation and license:** Per-work, as recorded in each registered publication record. The Elevation Grid v1.1 (DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)) is registered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with no creator affiliation recorded. Other works retain their own registered metadata; see the [publication ledger](https://github.com/Feirbrand/synoeticos-public/blob/main/PUBLICATIONS.md).  
 **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
