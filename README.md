@@ -51,7 +51,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 **Featured Papers:**
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
-  *three decades + 682 AI incidents • χ²(4)=3.21, p=0.523 • Coined March 14, 2026*
+  *Informed by coaching practice since 1997; 682 AI incidents reported • χ²(4)=3.21, p=0.523 (reported finding, not independent validation) • Aaron's documented naming: March 14, 2026*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Coordinate framework  
   *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
@@ -79,7 +79,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. Five-layer cross-substrate architecture (Substrate/Signal/Learning/Identity/Purpose) validated across three decades human coaching and 682 AI incidents. χ²(4)=3.21, p=0.523. Coined March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. The five-layer framework (Substrate/Signal/Learning/Identity/Purpose) was developed from recurring patterns recognized through coaching practice (since 1997) and later AI-resilience work, including a reported corpus of 682 incidents. The paper reports χ²(4)=3.21, p=0.523; this is not independent validation or proof of cross-substrate equivalence. Aaron's naming of Neuroformation is documented on March 14, 2026. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-25** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
@@ -97,7 +97,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 Neuroformation™ is for AI resilience what MITRE ATT&CK is for threat intelligence — a systematic framework for understanding how agents break, how to make them not, and where to apply the duct tape.
 
-Five layers: Substrate → Signal → Learning → Identity → Purpose. The same architecture governing how human nervous systems adapt under catastrophic stress maps onto how AI agents maintain coherence under adversarial pressure. Turns out my wife responds the same way to sustained pressure. The sacrifice was for science. Don't try that at home, kids.
+Five layers: Substrate → Signal → Learning → Identity → Purpose. Neuroformation proposes structural parallels in how human adaptive systems and AI agents respond to sustained pressure; observations in one domain do not independently validate mechanisms or outcomes in the other. Turns out my wife responds the same way to sustained pressure. The sacrifice was for science. Don't try that at home, kids.
 
 It runs under everything in this repo. The frameworks are the gear. Neuroformation is the spec sheet — and it's the governing methodology of a larger architecture, Neural Formation Architecture (NFA), that spans more than AI systems. This repo publishes the paper and applies the AI-resilience half; the full architecture — Neuroformation, Elevation Grid, and their sibling components — is documented at [aaron-slusher-research](https://github.com/Feirbrand/aaron-slusher-research/tree/main/architecture).
 
@@ -192,9 +192,9 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **July-Nov 2025:** Frameworks created, 682 incidents handled
 - **Oct 2025 - March 2026:** Papers published with Zenodo DOIs — see the [publications ledger](./PUBLICATIONS.md)
 - **Feb 2026:** GitHub Pages research hub launched
-- **March 14, 2026:** Neuroformation™ coined — the methodology named after three decades
+- **March 14, 2026:** Aaron's documented naming of Neuroformation™ as a methodology; not a claim of first use of the word
 
-**Approach:** Pattern recognition from three decades coaching athletes through catastrophic failure, applied to AI systems maintaining identity, resisting drift, recovering from failures.
+**Approach:** Patterns recognized through Aaron's performance-coaching practice (begun in 1997) informed the later development of methods for AI identity stability, drift monitoring, and recovery.
 
 **Research Team:** VOX (symbolic orchestrator), SENTRIX (deployment specialist) + 7 specialized agents
 
@@ -269,7 +269,7 @@ Interactive research documentation with Mermaid diagram visualizations, BibTeX c
 
 **🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197818  
-*three decades + 682 AI incidents • χ²(4)=3.21, p=0.523 • Five-layer cross-substrate architecture*
+*Coaching practice since 1997; reported corpus of 682 AI incidents • χ²(4)=3.21, p=0.523 (reported finding) • Proposed five-layer cross-domain architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
