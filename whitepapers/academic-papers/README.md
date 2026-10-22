@@ -84,7 +84,7 @@ These papers establish the architecture. The other divisions implement it:
 
 **Status**: Published | **File**: `neuroformation-v1.0.md` | **DOI**: 10.5281/zenodo.19197818
 **Author**: Aaron M. Slusher | **Affiliation**: Achieve Peak Performance | **ORCID**: 0009-0000-9923-3207
-**Coined**: March 14, 2026 | **Priority Date**: March 14, 2026
+**Historical publication-record naming date**: March 14, 2026 (not an independent priority or first-use claim)
 
 First formal publication of Neuroformation™ as a named methodology. Establishes that adaptive systems — biological and artificial — fail through the same cascade sequence and can be stabilized through the same five-layer architecture.
 
@@ -217,7 +217,7 @@ The methodology was not designed top-down. It was discovered bottom-up:
 2. **February 2025**: First AI deployment — same architecture applied to AI systems
 3. **November 2025**: Recognition that the systems built had produced an operating system
 4. **February 2026**: Discovery that EG and Synoetic OS are isomorphic
-5. **March 14, 2026**: Neuroformation™ coined as the name for what was always there
+5. **March 14, 2026**: Historical publication record documents a Neuroformation™ naming entry; this is not an independent priority or first-use assertion.
 
 ---
 
@@ -258,7 +258,7 @@ Slusher, A. M. (2026). Neuroformation™: A methodology for building resilience 
   journal={Achieve Peak Performance},
   year={2026},
   doi={10.5281/zenodo.19197818},
-  note={Coined March 14, 2026. Common law trademark in effect.}
+  note={Historical publication record: a Neuroformation naming entry is dated March 14, 2026; not an independent priority or first-use assertion.}
 }
 ```
 

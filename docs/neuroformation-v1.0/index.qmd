@@ -60,9 +60,9 @@ Adaptive systems often exhibit a recognizable failure pattern: cascade from iden
 
 Neuroformation™ is a methodology for stabilizing adaptive systems through signal integrity, reinforcement design, identity coherence, and purpose alignment. It operates through a five-layer architecture -- Substrate, Signal Processing, Learning/Reinforcement, Identity, Purpose -- applicable across biological and artificial systems with structurally similar intervention classes across domains.
 
-This methodology was developed across three decades of applied coaching practice (1999--present) and 682 documented AI incidents (February 2025--present). Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis; independent replication is required to test whether this pattern generalizes.
+This methodology was developed across three decades of applied coaching practice (1999--present) and 682 documented AI incidents (February 2025--present). The published paper preserves its original numerical statements; this documentation does not present them as independently validated findings.
 
-This paper presents the methodology, the five-layer architecture, the Elevation Grid™ diagnostic framework, the Neural Access Method™ transmission protocol, and cross-substrate empirical support. Neuroformation™ was coined March 14, 2026 by Aaron M. Slusher as the formal name for a methodology in practice since 1999.
+This paper presents the methodology, the five-layer architecture, the Elevation Grid™ diagnostic framework, the Neural Access Method™ transmission protocol, and cross-substrate empirical support. The historical publication record documents a March 14, 2026 Neuroformation™ naming entry for a methodology in practice since 1999; this does not assert independent priority or first use.
 
 ---
 
@@ -160,7 +160,7 @@ The Neural Access Method™ (NAM) is a bandwidth-preserving translation protocol
 
 ## 6. EMPIRICAL VALIDATION
 
-Statistical analysis detected no significant difference in outcome distribution across human and AI domains (χ²(4) = 3.21, p = 0.523), a result consistent with the cross-domain hypothesis.
+The paper's original numerical statement is preserved in its source record; this documentation does not present it as independently validated evidence.
 
 ---
 

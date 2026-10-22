@@ -51,7 +51,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 **Featured Papers:**
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
-  *Informed by coaching practice since 1997; 682 AI incidents reported • Aaron's documented naming: March 14, 2026*
+  *Informed by coaching practice since 1997; 682 AI incidents reported • Historical publication record: Aaron's naming entry is dated March 14, 2026; this is not an independent priority or first-use claim.*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Coordinate framework  
   *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
@@ -79,7 +79,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. The five-layer framework (Substrate/Signal/Learning/Identity/Purpose) was developed from recurring patterns recognized through coaching practice (since 1997) and later AI-resilience work, including a reported corpus of 682 incidents. Aaron's naming of Neuroformation is documented on March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. The five-layer framework (Substrate/Signal/Learning/Identity/Purpose) was developed from recurring patterns recognized through coaching practice (since 1997) and later AI-resilience work, including a reported corpus of 682 incidents. The historical publication record documents Aaron's naming entry on March 14, 2026; this is not an independent priority or first-use claim. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-26** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
@@ -192,7 +192,7 @@ Research initiative into AI resilience through cognitive architecture. Framework
 - **July-Nov 2025:** Frameworks created, 682 incidents handled
 - **Oct 2025 - March 2026:** Papers published with Zenodo DOIs — see the [publications ledger](./PUBLICATIONS.md)
 - **Feb 2026:** GitHub Pages research hub launched
-- **March 14, 2026:** Aaron's documented naming of Neuroformation™ as a methodology; not a claim of first use of the word
+- **March 14, 2026:** Historical publication record documents Aaron's naming entry for Neuroformation™ as a methodology; not an independent priority or first-use claim.
 
 **Approach:** Patterns recognized through Aaron's performance-coaching practice (begun in 1997) informed the later development of methods for AI identity stability, drift monitoring, and recovery.
 
@@ -416,7 +416,7 @@ No pricing, tiers, or subscription terms.
 
 three decades coaching athletes and neurotrauma clients through catastrophic failure. Started using AI in February 2025 for a nonprofit hockey event. First cascade in June 2025. Spent the next six months building frameworks to handle what kept breaking.
 
-The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name for what emerged — coined March 14, 2026, after three decades of practice and 682 AI incidents converged on the same architecture.
+The methodology crossed enough domains that even the AI helping build it didn't fully understand what was happening at the time. (This is documented. See [Cognitive Mage v1.0](https://doi.org/10.5281/zenodo.17643267).) Neuroformation™ is the name used in the historical publication record, which documents a March 14, 2026 naming entry after three decades of practice and 682 AI incidents converged on the same architecture; this does not assert independent priority or first use.
 
 Still building things to fix what breaks. Never ending job. Who wants to live forever.
 

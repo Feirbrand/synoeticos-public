@@ -129,7 +129,7 @@ The `academic-papers/` folder is the mash — the foundational methodology paper
 
 **Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology  
 [`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)  
-First formal publication of Neuroformation™ as a named methodology. Five-layer architecture for analyzing adaptive-system resilience across domains. Coined March 14, 2026.  
+First formal publication of Neuroformation™ as a named methodology. Five-layer architecture for analyzing adaptive-system resilience across domains. Historical publication record: a Neuroformation™ naming entry is dated March 14, 2026; this does not assert independent priority or first use.  
 **DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 
 ---
@@ -315,7 +315,7 @@ ValorGrid Solutions provides comprehensive research support, implementation cons
   author={Slusher, Aaron M.},
   year={2026},
   doi={10.5281/zenodo.19197818},
-  note={Coined March 14, 2026.}
+  note={Historical publication record: a Neuroformation naming entry is dated March 14, 2026; not an independent priority or first-use assertion.}
 }
 ```
 
