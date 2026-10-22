@@ -1,13 +1,13 @@
 ---
-title: "The Elevation Grid v1.0 - A Neurobiological Framework"
+title: "The Elevation Grid v1.1 A Neurobiological Framework"
 subtitle: "Integrating Autonomic Regulation, Motor Learning, and Identity Architecture Through Coordinate-Based Mental Performance Systems"
 author:
   - name: "Aaron M. Slusher"
     orcid: "0009-0000-9923-3207"
-    affiliation: "Achieve Peak Performance"
-date: "2026-02-05"
+    affiliation: "ValorGrid Solutions"
+date: "2026-02-26"
 doi: "10.5281/zenodo.18790842"
-version: "1.0"
+version: "eg-v1.1"
 description: "A field-validated mental performance framework utilizing a 3×3 coordinate system (9 positions across 3 neural hierarchies) to maximize human capacity in neurotrauma recovery, adaptive athletics, combat sports, and elite performance contexts. Validated through Team USA gold medal outcomes (2025) and documented across 250+ peer-reviewed neuroscience studies."
 keywords:
   - "Mental Performance"
@@ -23,8 +23,8 @@ keywords:
 license: "CC-BY-NC-4.0"
 inLanguage: "en-US"
 publisher:
-  name: "Achieve Peak Performance"
-  url: "https://achievepeakperformance.net"
+  name: "ValorGrid Solutions"
+  url: "https://valorgridsolutions.com"
 
 ---
 
@@ -43,7 +43,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 **Author:** Aaron M. Slusher  
 **ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** Achieve Peak Performance  
+**Affiliation:** ValorGrid Solutions  
 **Contact:** aaron@achievepeakperformance.net  
 **Publication Date:** February 5, 2026  
 **Version:** 1.0  

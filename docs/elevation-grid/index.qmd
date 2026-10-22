@@ -4,7 +4,7 @@ subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-26"
 doi: "10.5281/zenodo.18790842"
-license: "CC BY 4.0"
+license: "CC BY-NC 4.0"
 ---
 
 
@@ -14,8 +14,8 @@ license: "CC BY 4.0"
 | | |
 |---|---|
 | **Author** | Aaron M. Slusher |
-| **Registered creator affiliation** | None recorded in Zenodo |
-| **Registered license** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| **Affiliation** | ValorGrid Solutions |
+| **License** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
 | **Published** | February 5, 2026 |
@@ -255,14 +255,14 @@ three-decade performance coaching career (1997–2026) specializing in adaptive 
 
 ## License
 
-**[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** — As registered for DOI [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842).
+**[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** — per the current Manifest affiliation and license rule for VGS papers.
 
-**Registered creator affiliation:** None recorded. Hosting in the ValorGrid Solutions repository does not assign an affiliation to this work.
+**Affiliation:** ValorGrid Solutions.
 
-The registered Zenodo record governs this page's publication metadata. Historical paper copies retain their original wording, including differing license and publisher lines; they have not been rewritten. See the [registered-record note](https://github.com/Feirbrand/synoeticos-public/blob/main/PUBLICATIONS.md#registered-record-note--the-elevation-grid) for provenance.
+The current Manifest affiliation rule governs this page's affiliation and license presentation for VGS papers. Historical paper copies retain their original wording and have not been rewritten.
 
 ---
 
 *Part of the Synoetic OS™ ecosystem — Building resilient systems through neurobiological validation.*
 
-**The Elevation Grid v1.1 — Registered license: CC BY 4.0.**
+**The Elevation Grid v1.1 — CC BY-NC 4.0 · ValorGrid Solutions.**
