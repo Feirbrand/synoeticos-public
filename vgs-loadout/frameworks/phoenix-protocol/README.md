@@ -117,7 +117,7 @@ print(validate["ready_for_operational_restore"])  # True
 
 | Metric | Result |
 |---|---|
-| Operational recovery rate | 98% reported |
+| Operational recovery rate | 100% (682/682 documented recoveries) |
 | Total incidents | 682 |
 | Recovery time target | <20 minutes |
 | Recovery time stretch goal | <18 minutes |
