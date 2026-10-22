@@ -858,7 +858,7 @@ Under these terms:
 
 **Option 2: Separate Written Permission**
 
-For uses outside the public license — commercial deployment, enterprise integration, or revenue-generating applications:
+For uses outside the public license, separate written permission is required.
 - **Contact:** aaron@achievepeakperformance.net
 - **Website:** https://achievepeakperformance.net
 

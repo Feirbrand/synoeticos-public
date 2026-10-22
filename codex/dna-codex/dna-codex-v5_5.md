@@ -490,11 +490,6 @@ DQD-001 dose-response modeling:
 - Framework Documentation: CSFC/URA/Phoenix guides
 - Implementation Examples: GitHub synoeticos-public repository
 
-**For Enterprise:**
-- Full strain signature database (560+ complete profiles)
-- Operational playbooks and runbooks
-- Priority incident response
-
 ---
 
 **DNA Codex v5.5 - Public Release**
