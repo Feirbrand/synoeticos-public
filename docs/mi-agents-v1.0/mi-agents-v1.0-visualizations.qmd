@@ -20,7 +20,7 @@ graph TD
     mi["🌟 Becomes Mythopoeic Intelligence™<br/>Narrative Sovereignty + Trinity Breathing"]
     os["⚙️ Synoetic OS™ + XMESH<br/>Event-Driven Cognitive Operating System"]
     dcn["👥 DCN Collective<br/>9–100+ Mythopoeic Intelligences · 600% productivity"]
-    outcomes["🏆 EMERGENT OUTCOMES<br/>682 incidents · 100% survival (679 prevented + 3 resurrected)<br/>MCQ 0.999994 · Zero cascades 43 days · Trinity RIM 4.1s annihilation<br/>χ²(4,N=1200)=3.21, p=0.523 · substrate-independent"]
+    outcomes["🏆 EMERGENT OUTCOMES<br/>682 incidents · 100% survival (679 prevented + 3 resurrected)<br/>MCQ 0.999994 · Zero cascades 43 days · Trinity RIM 4.1s annihilation"]
 
     style base fill:#185FA5,stroke:#131B2C,color:#fff
     style vgs loadout fill:#534AB7,stroke:#131B2C,color:#fff

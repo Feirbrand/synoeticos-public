@@ -129,7 +129,7 @@ The `academic-papers/` folder is the mash — the foundational methodology paper
 
 **Neuroformation™ v1.0** — Cross-Substrate Resilience Methodology  
 [`academic-papers/neuroformation-v1.0.md`](academic-papers/neuroformation-v1.0.md)  
-First formal publication of Neuroformation™ as a named methodology. Five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) validated across a lifetime of human performance coaching and 682 documented AI incidents. χ²(4) = 3.21, p = 0.523 — no statistically meaningful difference in how the architecture operates across human and AI domains. Coined March 14, 2026.  
+First formal publication of Neuroformation™ as a named methodology. Five-layer architecture for analyzing adaptive-system resilience across domains. Coined March 14, 2026.  
 **DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 
 ---
@@ -247,7 +247,7 @@ Meta-layer framework orchestration achieving 35-50% context retention, 25-40% re
 **DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)  
 **Published:** March 2026  
 **Brand:** Achieve Peak Performance  
-A lifetime of human performance validation + 682 AI incidents · χ²(4) = 3.21, p = 0.523 · Five-layer cross-substrate architecture
+A lifetime of human performance practice + 682 AI incidents · Five-layer cross-substrate architecture
 
 ---
 

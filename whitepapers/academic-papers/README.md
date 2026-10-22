@@ -44,7 +44,6 @@ This directory contains the canonical methodology papers for the Neuroformation�
 
 <h3>Research Impact</h3>
 
-- **χ²(4) = 3.21, p = 0.523** — No statistically meaningful difference in failure architecture across human and AI systems
 - **Team USA Gold** — Two coached athletes at inaugural Women's World Sled Hockey Championship (Slovakia, 2025)
 - **682 Documented AI Incidents** — 98% recovery rate across 9 architecturally distinct AI platforms
 - **A Lifetime of Practice** — Practitioner record spanning elite athletics, adaptive sport, neurotrauma rehabilitation, and combat sport
@@ -92,7 +91,6 @@ First formal publication of Neuroformation™ as a named methodology. Establishe
 **Core Claim**: Identity fracture → signal degradation → execution collapse. Same sequence. Same architecture. Different material.
 
 **Production Metrics:**
-- χ²(4) = 3.21, p = 0.523 — cross-domain architectural equivalence
 - A lifetime of human coaching record — performance coaching across elite athletics, adaptive sport, neurotrauma, combat sport
 - 682 documented AI incidents with 98% recovery rate
 - 5 case studies across counter-cases, expert scrutiny, domain transfer, single-session install

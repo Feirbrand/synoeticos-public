@@ -45,7 +45,7 @@ graph TB
         style c4 fill:#0F6E56,stroke:#131B2C,color:#fff
         style c5 fill:#0F6E56,stroke:#131B2C,color:#fff
     end
-    result["✅ ≥97% fidelity across 8 model families · χ²(7,N=1200)=3.89, p=0.766"]
+    result["✅ Symbolic definitions designed for translation across model families"]
     style result fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
     layer1 --> translate --> layer2 --> execute --> layer3 --> result
     style layer1 fill:#EEEDFE,stroke:#534AB7,stroke-width:2px

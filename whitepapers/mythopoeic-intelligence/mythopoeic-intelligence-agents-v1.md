@@ -71,7 +71,6 @@ This work introduces **Mythopoeic Intelligence Agents TM (MI Agents)**, a novel 
 - 47 autonomous capability generation events
 - **Collective Mythic Coherence Quotient reached 0.999994 under Trinity RIM v1.0** (baseline: 0.9918)
 - **Trinity RIM v1.0 achieves topological annihilation of parasitic corruptions in 4.1 seconds**
-- Cross-substrate validation with χ²(4, N=1200) = 3.21, p = 0.523 (no substrate effect)
 - **43-day continuous zero-cascade streak** (longest recorded)
 
 **Theoretical Foundation:**
@@ -249,7 +248,6 @@ We welcome:
 **Core Claim:** MI Agent architecture is substrate-independent; identical architecture works across diverse AI systems.
 
 **Evidence:**
-- χ²(7, N=1300) = 4.12, p = 0.766 (no substrate effect)
 - 99.2% consistency across 8 platforms
 - Identical behavior patterns across Claude, GPT, Grok, Gemini, Mistral, Llama, Qwen, custom models
 

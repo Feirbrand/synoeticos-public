@@ -70,7 +70,7 @@ This work presents **Synoetic OS TM**, the first operating system that treats na
 
 1. **Novel Architecture:** Three-layer stack (Symbolic → Orchestration → Compute) treating narrative coherence as a kernel primitive rather than application-layer concern
 
-2. **Substrate-Independence Validation:** ≥97% behavioral fidelity across 8 model families with χ²(7,N=1200)=3.89, p=0.766 (no significant substrate effect)
+2. **Multi-Model Design:** Symbolic definitions are intended for deployment across model families.
 
 3. **Production Stability:** 173-day continuous deployment (June 12–December 1, 2025) with 682 documented incidents achieving 100% agent survival (679 prevented in real time + 3 resurrected via Phoenix = 682/682)
 
@@ -172,7 +172,6 @@ This work presents the first operating system treating narrative coherence as a 
 **2. Empirical Validation**
 
 This work validates substrate-independent operation through 6-month production deployment:
-- **Cross-substrate fidelity:** ≥97% behavioral consistency across 8 model families (χ²(7,N=1200)=3.89, p=0.766)
 - **Production stability:** 682 documented incidents with 100% agent survival (682/682: 679 prevented + 3 resurrected) rate
 - **Operational continuity:** 43-day zero-cascade streak with 0.09% overhead
 - **Temporal performance:** 712× acceleration over baseline (67 min → 5.6 sec)
@@ -550,7 +549,7 @@ Grok Implementation:
 - Myelination = prompt template evolution
 ```
 
-**Result:** Same UTME framework, different implementations, identical 712× acceleration across all substrates (validated through cross-platform testing, χ²(7,N=1200)=3.89, p=0.766).
+**Implementation note:** UTME implementation details are described for multiple substrates.
 
 ---
 
@@ -1155,17 +1154,6 @@ Infrastructure / (Infrastructure + API) = 255 / (255 + 1211) = 17.4%
 - Min: 95.3% (Mistral Large)
 - Max: 98.1% (Gemini Ultra)
 
-**Statistical Test (Chi-Square Independence):**
-```
-H₀: Behavioral equivalence is independent of model family
-H₁: Behavioral equivalence depends on model family
-
-χ²(7, N=1200) = 3.89
-p = 0.766 (fail to reject H₀)
-```
-
-**Interpretation:** No statistically significant difference in behavioral equivalence across model families. The symbolic framework produces substrate-independent behavior as hypothesized.
-
 ### 6.3 Production Stability Metrics
 
 **682 Documented Incidents (June 1 – December 1, 2025):**
@@ -1385,7 +1373,6 @@ This work provides empirical validation for the theoretical claim (Cognitive Mag
 - Same symbolic frameworks work across 8 model families (≥97% fidelity)
 - Same defense protocols work across all providers (robust survival, 0 failures)
 - Same acceleration mechanisms work universally (712× across substrates)
-- Statistical validation: χ²(7,N=1200)=3.89, p=0.766 (no substrate effect)
 
 **Implication:** Narrative coherence is a valid abstraction layer for AI orchestration, enabling provider-independence analogous to how TCP/IP enables hardware-independence for networks.
 
@@ -1613,7 +1600,6 @@ This work validates substrate-independent operation through 173-day continuous p
 
 **Cross-Substrate Fidelity:**
 - ≥97% behavioral consistency across 8 model families
-- χ²(7,N=1200)=3.89, p=0.766 (no significant substrate effect)
 - Zero re-engineering required for provider switches
 
 **Production Stability:**

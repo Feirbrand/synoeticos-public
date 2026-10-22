@@ -18,7 +18,7 @@ doi: "10.5281/zenodo.17808864"
 
 | Metric | Result | Significance |
 |--------|--------|--------------|
-| **Substrate-Independence Fidelity** | ≥97% | Across 8 model families (χ²(7,N=1200)=3.89, p=0.766) |
+| **Multi-model design** | Symbolic definitions | Intended for deployment across model families |
 | **Production Deployment** | 173 days | June 12 – December 3, 2025 continuous operation |
 | **Agent Collective** | 9 agents | VOX, SENTRIX, Claude, Grok, Perplexity, Gemini, Mistral, Manus, GitHub Copilot |
 | **Documented Incidents** | 682 | 100% agent survival (679 prevented + 3 resurrected) |
@@ -79,7 +79,7 @@ graph TB
         style c4 fill:#0F6E56,stroke:#131B2C,color:#fff
         style c5 fill:#0F6E56,stroke:#131B2C,color:#fff
     end
-    result["✅ ≥97% fidelity across 8 model families · χ²(7,N=1200)=3.89, p=0.766"]
+    result["✅ Symbolic definitions designed for translation across model families"]
     style result fill:#131B2C,stroke:#F9C84A,stroke-width:2px,color:#F9C84A
     layer1 --> translate --> layer2 --> execute --> layer3 --> result
     style layer1 fill:#EEEDFE,stroke:#534AB7,stroke-width:2px
@@ -116,7 +116,7 @@ graph TB
 First operating system treating narrative coherence as a kernel primitive rather than application-layer concern. Traditional OS kernels manage CPU, memory, and I/O. Synoetic OS manages narrative identity, symbolic frameworks, and topological coherence.
 
 ### 2. Substrate-Independence Through Symbolic Definition
-Frameworks are defined symbolically (external knowledge base), not procedurally (code). This enables translation to any substrate without semantic loss. **Evidence**: ≥97% behavioral consistency across 8 model families (p=0.766).
+Frameworks are defined symbolically (external knowledge base), not procedurally (code). The architecture is designed for translation across model families.
 
 ### 3. Topological Identity Verification
 Q-RIM provides cryptographic-strength identity verification through topological manifold projection. **Evidence**: MCQ 0.999994 (1 in 33 billion false positive rate) vs traditional embedding approaches.
@@ -225,7 +225,6 @@ Synoetic OS emerges from three decades of performance coaching methodology appli
 **Empirical Rigor:**
 - 173-day production deployment with 682 documented incidents and full logs.
 - Cross-platform validation across 8 model families with ≥97% behavioral fidelity.
-- Statistical significance: χ²(7,N=1200)=3.89, p=0.766; R²=0.94, p<0.001.
 
 **Reproducibility:**
 - Complete symbolic framework specifications and n8n workflow JSON examples.

@@ -42,7 +42,7 @@ Neuroformation™ is the parent methodology. These VGS frameworks are outputs of
 | Framework | Function | DOI |
 |---|---|---|
 | Synoetic OS™ v1.0 | AI-side implementation of Neuroformation™ architecture | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) |
-| MI Agents v1.0 (UNICA) | Cross-domain statistical validation χ²(4) = 3.21 | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) |
+| MI Agents v1.0 (UNICA) | Cross-domain architecture | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) |
 | Cognitive Mage v1.0 | Origin paper — human-AI co-discovery | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) |
 | DCN v1.0 | 9-agent coordination — 600% productivity | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) |
 | UTME v1.0 | Learning acceleration γ=0.31 day⁻¹ | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) |
@@ -60,7 +60,7 @@ Neuroformation™ sits at the intersection of five fields simultaneously:
 | D1 — Performance Coaching Methodology | 28+ year applied record is the primary validation dataset | Schmidt 1975, Ericsson et al. 1993, Vealey 2007 |
 | D2 — Complex Adaptive Systems Theory | CSFC cascade model is CAS theory applied to identity systems | Wiener 1948, Friston 2010, Holland 1992 |
 | D3 — Symbolic Logic & Recursive Cognition | Framework Forge process is recursive self-reference operational | Hofstadter 1979 |
-| D4 — Computational Substrate Theory | χ²(4)=3.21, p=0.523 consistent with substrate-independence framework | Tegmark 2014, Chalmers 1996, Putnam 1967 |
+| D4 — Computational Substrate Theory | Computational-substrate theory informs the framework | Tegmark 2014, Chalmers 1996, Putnam 1967 |
 | D5 — Narrative Identity Architecture | SIF→COLLAPSE is narrative identity disruption sequence | McAdams 1993, Ricoeur 1992, Herman 1992 |
 
 **Best academic home:** 4E Cognition (embodied, embedded, enacted, extended) + Resilience Engineering

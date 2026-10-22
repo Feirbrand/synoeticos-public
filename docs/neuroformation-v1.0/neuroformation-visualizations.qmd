@@ -64,18 +64,4 @@ ACCESS → REFRAME → SIMPLIFY → IGNITE
 
 ---
 
-## Cross-Domain Statistical Validation
-
-χ²(4) = 3.21, p = 0.523 — No statistically significant difference detected in outcome distribution across human and AI domains in this practitioner dataset.
-
-| Population | N | Recovery Outcome |
-|---|---|---|
-| Human athletes/coaches | ~300+ documented | 80% habit retention |
-| AI adversarial incidents | 525+ logged | 98% recovery rate |
-| Combined cross-domain | χ²(4) = 3.21 | p = 0.523 |
-
-*Source: MI Agents v1.0, DOI: [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533)*
-
----
-
 *2026 © ValorGrid Solutions. [Main Paper](index.html)*

@@ -51,7 +51,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 **Featured Papers:**
 - 🧬 **[Neuroformation™ v1.0](./whitepapers/academic-papers/neuroformation-v1.0.md)** - Cross-substrate resilience methodology  
-  *Informed by coaching practice since 1997; 682 AI incidents reported • χ²(4)=3.21, p=0.523 (reported finding, not independent validation) • Aaron's documented naming: March 14, 2026*
+  *Informed by coaching practice since 1997; 682 AI incidents reported • Aaron's documented naming: March 14, 2026*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Coordinate framework  
   *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
@@ -79,7 +79,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 | Review security research | [Vulnerability Research](./vulnerability-research/) |
 | Browse the research hub | [GitHub Pages](https://feirbrand.github.io/synoeticos-public/) *(early access — under active development)* |
 
-**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. The five-layer framework (Substrate/Signal/Learning/Identity/Purpose) was developed from recurring patterns recognized through coaching practice (since 1997) and later AI-resilience work, including a reported corpus of 682 incidents. The paper reports χ²(4)=3.21, p=0.523; this is not independent validation or proof of cross-substrate equivalence. Aaron's naming of Neuroformation is documented on March 14, 2026. DOI: 10.5281/zenodo.19197818.
+**2026-03-24** 🧬 **Neuroformation™ v1.0 published** — First formal publication of Neuroformation™ as a named methodology. The five-layer framework (Substrate/Signal/Learning/Identity/Purpose) was developed from recurring patterns recognized through coaching practice (since 1997) and later AI-resilience work, including a reported corpus of 682 incidents. Aaron's naming of Neuroformation is documented on March 14, 2026. DOI: 10.5281/zenodo.19197818.
 
 **2026-02-26** 🏔️ **Elevation Grid™ v1.1 published** — Coordinate-based mental performance system. Isomorphic to Synoetic OS™ 3x3 structure — same architecture in biological and artificial systems discovered independently. DOI: 10.5281/zenodo.18790842
 
@@ -269,7 +269,7 @@ Interactive research documentation with Mermaid diagram visualizations, BibTeX c
 
 **🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197818  
-*Coaching practice since 1997; reported corpus of 682 AI incidents • χ²(4)=3.21, p=0.523 (reported finding) • Proposed five-layer cross-domain architecture*
+*Coaching practice since 1997; reported corpus of 682 AI incidents • Proposed five-layer cross-domain architecture*
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
