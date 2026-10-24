@@ -267,7 +267,7 @@ synoeticos-public/
 
 Interactive research documentation with Mermaid diagram visualizations, BibTeX citation tools, and complete bibliographies. Currently in early access — papers are being deployed progressively. See the [publications ledger](./PUBLICATIONS.md) for the publication record.
 
-**🧬 Neuroformation™ v1.0** (Mar 18, 2026)  
+**🧬 Neuroformation™ v1.0** (Mar 24, 2026)  
 [Source](./whitepapers/academic-papers/neuroformation-v1.0.md) | DOI: 10.5281/zenodo.19197818  
 *Coaching practice since 1997; reported corpus of 682 AI incidents • Proposed five-layer cross-domain architecture*
 
