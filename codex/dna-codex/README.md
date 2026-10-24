@@ -23,7 +23,7 @@ This folder contains the public DNA Codex v5.5 catalog release. The full operati
 
 ## Contents
 
-- [`dna-codex-v5.5.md`](./dna-codex-v5.5.md) — public catalog release with behavioral classifications
+- [`dna-codex-v5.5.md`](./dna-codex-v5_5.md) — public catalog release with behavioral classifications
 
 ---
 
