@@ -45,7 +45,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 **ORCID:** https://orcid.org/0009-0000-9923-3207  
 **Affiliation:** Achieve Peak Performance  
 **Contact:** aaron@achievepeakperformance.net  
-**Publication Date:** February 5, 2026  
+**Publication Date:** February 26, 2026  
 **Version:** 1.0  
 **Document Type:** Foundational Framework Paper  
 **Classification:** Core Methodology

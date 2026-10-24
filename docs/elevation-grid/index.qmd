@@ -18,7 +18,7 @@ license: "CC BY-NC 4.0"
 | **License** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
-| **Published** | February 5, 2026 |
+| **Published** | February 26, 2026 |
 | **Habit Retention** | 80% (vs 35% industry baseline) |
 | **Validation** | Team USA Gold Medals, 250+ peer-reviewed studies |
 
