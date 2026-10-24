@@ -14,7 +14,7 @@ license: "CC BY-NC 4.0"
 | | |
 |---|---|
 | **Author** | Aaron M. Slusher |
-| **Affiliation** | ValorGrid Solutions |
+| **Affiliation** | Achieve Peak Performance |
 | **License** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
@@ -255,14 +255,14 @@ three-decade performance coaching career (1997–2026) specializing in adaptive 
 
 ## License
 
-**[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** — per the current Manifest affiliation and license rule for VGS papers.
+**[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** — the non-commercial public license for this Achieve Peak Performance paper.
 
-**Affiliation:** ValorGrid Solutions.
+**Affiliation:** Achieve Peak Performance.
 
-The current Manifest affiliation rule governs this page's affiliation and license presentation for VGS papers. Historical paper copies retain their original wording and have not been rewritten.
+The paper's public affiliation and license presentation follow its canonical Achieve Peak Performance publication record. Historical paper copies retain their original wording and have not been rewritten.
 
 ---
 
 *Part of the Synoetic OS™ ecosystem — Building resilient systems through neurobiological validation.*
 
-**The Elevation Grid v1.1 — CC BY-NC 4.0 · ValorGrid Solutions.**
+**The Elevation Grid v1.1 — CC BY-NC 4.0 · Achieve Peak Performance.**

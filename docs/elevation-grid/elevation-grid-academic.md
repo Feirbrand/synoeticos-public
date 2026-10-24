@@ -4,7 +4,7 @@ subtitle: "Integrating Autonomic Regulation, Motor Learning, and Identity Archit
 author:
   - name: "Aaron M. Slusher"
     orcid: "0009-0000-9923-3207"
-    affiliation: "ValorGrid Solutions"
+    affiliation: "Achieve Peak Performance"
 date: "2026-02-26"
 doi: "10.5281/zenodo.18790842"
 version: "eg-v1.1"
@@ -23,8 +23,8 @@ keywords:
 license: "CC-BY-NC-4.0"
 inLanguage: "en-US"
 publisher:
-  name: "ValorGrid Solutions"
-  url: "https://valorgridsolutions.com"
+  name: "Achieve Peak Performance"
+  url: "https://achievepeakperformance.net"
 
 ---
 
@@ -43,7 +43,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 **Author:** Aaron M. Slusher  
 **ORCID:** https://orcid.org/0009-0000-9923-3207  
-**Affiliation:** ValorGrid Solutions  
+**Affiliation:** Achieve Peak Performance  
 **Contact:** aaron@achievepeakperformance.net  
 **Publication Date:** February 5, 2026  
 **Version:** 1.0  
