@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "ELEVATION GRID - CITATION AGGREGATOR OUTPUT"
+description: "Master bibliography for the research and sources supporting the Elevation Grid framework."
 ---
 
 ## Master Bibliography & Citation Index

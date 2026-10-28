@@ -1,5 +1,6 @@
 ---
 title: "FCE v3.6 Cross-References"
+description: "Cross-references connecting the FCE Unified Framework to related research and repository materials."
 ---
 
 # FCE v3.6 Cross-References

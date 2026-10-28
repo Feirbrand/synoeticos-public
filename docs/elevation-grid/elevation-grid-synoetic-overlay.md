@@ -1,7 +1,6 @@
-
 ---
-
 title: "Elevation Grid – Synoetic OS Overlay"
+description: "A Synoetic OS overlay showing how Elevation Grid categories map to the broader architecture."
 ---
 
 [← Back to Paper](index.html) | [Visualizations →](elevation-grid-visualizations.html) | [CTS Overlay →](elevation-grid-cts-overlay.html)

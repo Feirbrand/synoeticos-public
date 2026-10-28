@@ -1,5 +1,6 @@
 ---
 title: "UTME v1.0 Master Bibliography"
+description: "Master bibliography for the research and sources supporting Unified Temporal Memory Equilibrium."
 ---
 
 # UTME v1.0 Master Bibliography

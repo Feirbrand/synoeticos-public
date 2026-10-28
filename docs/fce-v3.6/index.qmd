@@ -1,5 +1,6 @@
 ---
 title: "FCE Unified Framework v3.6"
+description: "A unified framework for fractal context engineering and semantic compression in AI systems."
 author: "Aaron M. Slusher"
 date: "2025-10-10"
 doi: "10.5281/zenodo.17309322"

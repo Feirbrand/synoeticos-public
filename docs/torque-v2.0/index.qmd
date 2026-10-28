@@ -1,5 +1,6 @@
 ---
 title: "Torque v2.0: Quantitative Foundation for AI Resilience"
+description: "A quantitative framework for monitoring rotational identity stability and AI resilience under pressure."
 author: "Aaron M. Slusher"
 date: "2025-10-17"
 doi: "10.5281/zenodo.17379750"

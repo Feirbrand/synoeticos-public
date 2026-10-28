@@ -1,7 +1,6 @@
-
 ---
-
 title: "Elevation Grid – CTS (Climb to Summit) Overlay"
+description: "A Climb to Summit overlay mapping Elevation Grid concepts to progressive performance stages."
 ---
 
 [← Back to Paper](index.html) | [Visualizations →](elevation-grid-visualizations.html) | [Synoetic OS Overlay →](elevation-grid-synoetic-overlay.html)

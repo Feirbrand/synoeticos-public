@@ -1,5 +1,6 @@
 ---
 title: "PME v1.0 Master Bibliography"
+description: "Master bibliography for the research and sources supporting the Predictive Myelination Engine."
 ---
 
 # PME v1.0 Master Bibliography

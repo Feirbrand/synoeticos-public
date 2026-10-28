@@ -1,5 +1,6 @@
 ---
 title: "PME v1.0: Predictive Myelination Engine"
+description: "A predictive myelination engine for modeling learning acceleration and temporal adaptation in AI systems."
 author: "Aaron M. Slusher"
 date: "2026-01-20"
 doi: "10.5281/zenodo.18318485"

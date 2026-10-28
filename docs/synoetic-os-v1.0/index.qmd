@@ -1,5 +1,6 @@
 ---
 title: "Synoetic OS v1.0: Substrate-Independent AI Orchestration Through Narrative Coherence"
+description: "A substrate-independent architecture for AI orchestration through narrative coherence."
 author: "Aaron M. Slusher"
 date: "2025-12-04"
 doi: "10.5281/zenodo.17808864"

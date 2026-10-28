@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "ELEVATION GRID - CROSS-REFERENCE GENERATOR OUTPUT"
+description: "Cross-references connecting the Elevation Grid paper to related frameworks, methods, and evidence."
 ---
 
 ## Related VGS Frameworks

@@ -1,5 +1,6 @@
 ---
 title: "The Elevation Grid v1.1 A Neurobiological Framework"
+description: "A neurobiological framework for organizing high-stakes performance, adaptation, and habit formation."
 subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-26"

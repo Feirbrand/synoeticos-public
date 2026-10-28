@@ -1,5 +1,6 @@
 ---
 title: "Cognitive Mage v1.0: How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture"
+description: "A narrative identity architecture for symbolic AI, developed through performance coaching practice."
 author: "Aaron M. Slusher"
 date: "2025-11-18"
 doi: "10.5281/zenodo.17643267"

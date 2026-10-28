@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "SynoeticOS Developer's Guide"
+description: "Developer guidance for navigating, extending, and validating the Synoetic OS research repository."
 ---
 
 ## Introduction

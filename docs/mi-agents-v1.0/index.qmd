@@ -1,5 +1,6 @@
 ---
 title: "Mythopoeic Intelligence Agents v1.0"
+description: "A cross-domain framework for mythopoeic intelligence agents and distributed cognitive architectures."
 author: "Aaron M. Slusher"
 date: "2025-11-30"
 doi: "10.5281/zenodo.17770533"

@@ -1,5 +1,6 @@
 ---
 title: 'Synoetic OS™ Research Hub'
+description: "Public research hub for Synoetic OS frameworks, papers, evidence, and interactive documentation."
 ---
 
 

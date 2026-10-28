@@ -1,5 +1,6 @@
 ---
 title: "PME v1.0 Cross-References"
+description: "Cross-references connecting PME to related frameworks, methods, and repository evidence."
 ---
 
 # PME v1.0 Cross-References

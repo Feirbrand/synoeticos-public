@@ -1,5 +1,6 @@
 ---
 title: "FCE v3.6 Master Bibliography"
+description: "Master bibliography for the research and sources supporting the FCE Unified Framework."
 ---
 
 # FCE v3.6 Master Bibliography
