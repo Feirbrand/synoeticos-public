@@ -20,8 +20,6 @@ license: "CC BY-NC 4.0"
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
 | **Published** | February 26, 2026 |
-| **Habit Retention** | 80% (vs 35% industry baseline) |
-| **Validation** | Team USA Gold Medals, 250+ peer-reviewed studies |
 
 ---
 
@@ -138,39 +136,16 @@ timeline
     
     2005-2015 : Combat Sports Validation
              : MMA, Boxing, Sled Hockey
-             : Team USA gold medals
     
     2015-2026 : Elite Performance Integration
              : Multi-population deployment
-             : 250+ peer-reviewed studies
-             : 80% habit retention documented
 ```
-
-### Success Metrics
-
-**Habit Retention Comparison:**
-
-```{mermaid}
-graph LR
-    A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
-    
-    C["Elevation Grid<br/>80% Retention"] -->|"Autonomic-First<br/>Bottom-Up<br/>Hardware-Focused"| D["SUCCESS"]
-    
-    style A fill:#3576F6,color:#FFFFFF
-    style B fill:#3576F6,color:#FFFFFF
-    style C fill:#34D8EA,color:#131B2C
-    style D fill:#34D8EA,color:#131B2C
-```
-
-**+45 percentage points improvement (128% increase)**
-
----
 
 ## Scientific Foundation
 
 ```{mermaid}
 graph TD
-    A["Elevation Grid Framework"] -->|"Supported by"| B["250+ Peer-Reviewed Studies"]
+    A["Elevation Grid Framework"] -->|"Integrates research from"| B["Four Research Domains"]
     
     B --> C["Neuroscience<br/>LeDoux, Porges, Libet<br/>Polyvagal Theory<br/>Threat Detection"]
     B --> D["Motor Learning<br/>Fitts & Posner<br/>Myelination<br/>Procedural Memory"]

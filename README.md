@@ -54,7 +54,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
   *Informed by coaching practice since 1997; 682 AI incidents reported • Historical publication record: Aaron's naming entry is dated March 14, 2026; this is not an independent priority or first-use claim.*
 
 - 🏔️ **[Elevation Grid™ v1.1](https://feirbrand.github.io/synoeticos-public/elevation-grid/)** - Coordinate framework  
-  *three decades validation • 80% habit retention • Team USA gold (Slovakia 2025)*
+  *Diagnostic coordinate map for identifying and closing performance gaps*
   
 - 🧠 **[PME v1.0](./whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md)** - Predictive Myelination Engine  
   *712× acceleration • 87.3% prediction accuracy • 100% drift elimination*
@@ -275,7 +275,7 @@ Interactive research documentation with Mermaid diagram visualizations, BibTeX c
 
 **🏔️ Elevation Grid™ v1.1** (Feb 26, 2026)  
 [GitHub Pages](https://feirbrand.github.io/synoeticos-public/elevation-grid/) | [Source](./whitepapers/academic-papers/elevation-grid-academic-v1.1.md) | [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)  
-*three-decade validation • 80% habit retention • Team USA gold (Slovakia 2025)*
+*Coordinate-based diagnostic framework for performance and resilience work*
 
 **🧠 MBM v1.0** (Feb 26, 2026)  
 [Paper](https://doi.org/10.5281/zenodo.18790096) | [Source](./whitepapers/vgs-technical-papers/mbm-v1.0-academic.md)  
