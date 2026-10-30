@@ -278,8 +278,8 @@ Publications use direct, evidence-based language:
 **Academic Validation**
 Framework development through convergent research methodologies. Operational findings documented alongside academic publications enable bidirectional knowledge transfer between practitioners and researchers.
 
-**Enterprise Implementation**
-Production deployment frameworks for AI resilience across cognitive engineering, context management, and threat detection scenarios.
+**Applied Deployment**
+Framework application patterns for AI resilience across cognitive engineering, context management, and threat detection scenarios, documented for research and practitioner reference.
 
 **Security Research**
 Documented patterns from operational experience contributing to open source threat intelligence. Convergent findings demonstrate independent validation through academic research.
@@ -287,8 +287,8 @@ Documented patterns from operational experience contributing to open source thre
 **Cognitive Architecture**
 Systems thinking foundations for understanding AI as complex adaptive systems. Methodological basis for resilience engineering approaches.
 
-**Professional Services**
-ValorGrid Solutions provides comprehensive research support, implementation consultation, training programs, and academic collaboration for framework deployment.
+**Academic Collaboration**
+Separate written permission is available for uses outside the public license — contact: aaron@valorgridsolutions.com. No pricing, support plans, training programs, or consulting services are offered through this repository.
 
 ---
 
