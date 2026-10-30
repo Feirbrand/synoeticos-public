@@ -5,7 +5,7 @@ subtitle: "A Neurobiological Framework for High-Stakes Performance"
 author: "Aaron M. Slusher"
 date: "2026-02-26"
 doi: "10.5281/zenodo.18790842"
-license: "CC BY-NC 4.0"
+license: "CC BY 4.0"
 ---
 
 
@@ -15,8 +15,8 @@ license: "CC BY-NC 4.0"
 | | |
 |---|---|
 | **Author** | Aaron M. Slusher |
-| **Affiliation** | Achieve Peak Performance |
-| **License** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| **Affiliation** | None listed on the registered record |
+| **License** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
 | **DOI** | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
 | **Published** | February 26, 2026 |
@@ -231,14 +231,14 @@ three-decade performance coaching career (1997–2026) specializing in adaptive 
 
 ## License
 
-**[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** — the non-commercial public license for this Achieve Peak Performance paper.
+**[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** — the registered public license for this paper.
 
-**Affiliation:** Achieve Peak Performance.
+**Affiliation:** None listed on the registered record.
 
-The paper's public affiliation and license presentation follow its canonical Achieve Peak Performance publication record. Historical paper copies retain their original wording and have not been rewritten.
+Filing note: Elevation Grid™ is hosted in this repository for architecture-lineage reasons. Its registered publication record (no creator affiliation listed; license: CC BY 4.0; DOI: 10.5281/zenodo.18790842) is unchanged from when it was filed and is not altered by its current repo location.
 
 ---
 
 *Part of the Synoetic OS™ ecosystem — Building resilient systems through neurobiological validation.*
 
-**The Elevation Grid v1.1 — CC BY-NC 4.0 · Achieve Peak Performance.**
+**The Elevation Grid v1.1 — CC BY 4.0 · No creator affiliation recorded.**
