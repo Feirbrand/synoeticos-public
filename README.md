@@ -361,8 +361,8 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 *Entropy-conserving recovery • 100% survival across 682 incidents • Dual-layer resurrection*
 
 **CSFC v1.0** (Oct 10, 2025)  
-[Paper](https://doi.org/10.5281/zenodo.17309239) | [Source](./mi-arsenal/frameworks/tier-1-public/csfc/csfc-unified-theory.md) | [Code](./vulnerability-research/csfc-series/)  
-*Cascading Symbolic Failure Cycle • Six-stage cascade model • 87% prediction accuracy*
+[Paper](https://doi.org/10.5281/zenodo.17309239) | [Source](./whitepapers/vgs-technical-papers/csfc-unified-theory.md) | [Code](./vulnerability-research/csfc-series/)  
+*Complete Symbolic Fracture Cascade • Five-stage cascade model • Data-fragmentation root-cause framework*
 
 **FCE v3.6** (Oct 10, 2025)  
 [Paper](https://doi.org/10.5281/zenodo.17309322) | [Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Code](./vgs-loadout/frameworks/fce/)  
