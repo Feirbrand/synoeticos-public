@@ -362,7 +362,8 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 
 **CSFC v1.0** (Oct 10, 2025)  
 [Paper](https://doi.org/10.5281/zenodo.17309239) | [Source](./whitepapers/vgs-technical-papers/csfc-unified-theory.md) | [Code](./vulnerability-research/csfc-series/)  
-*Complete Symbolic Fracture Cascade • Five-stage cascade model • Data-fragmentation root-cause framework*
+*Complete Symbolic Fracture Cascade • Five-stage cascade model • Data-fragmentation root-cause framework*  
+*Active development: [`csfc-research`](https://github.com/Feirbrand/csfc-research) — separate protected-research repo; this v1.0 paper and series remain canonical and unmoved*
 
 **FCE v3.6** (Oct 10, 2025)  
 [Paper](https://doi.org/10.5281/zenodo.17309322) | [Source](./whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md) | [Code](./vgs-loadout/frameworks/fce/)  
