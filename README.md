@@ -22,7 +22,7 @@ Ours: hours, not days. Across 682 documented incidents. Zero permanent losses.
 This repository contains the complete public version of Synoetic OS™:
 - **MI Arsenal™ Frameworks** - cognitive gear
 - **[Research Papers](./PUBLICATIONS.md)** - Zenodo DOIs (Oct 2025 - Mar 2026)
-- **682 Documented Incidents** - Real-world validation
+- **682 Reported AI Incidents** - operational corpus, not independent scientific validation
 - **173-Day Deployment** - Zero catastrophic failures
 
 **Built by Aaron M. Slusher** | [ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)  
@@ -62,7 +62,7 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 **Interactive Features:**
 - 11 Mermaid diagram visualizations
 - BibTeX citation copy-to-clipboard
-- Complete 250+ study bibliography
+- Reference bibliography across component mechanisms
 - Cross-framework references
 - Schema.org structured data
 

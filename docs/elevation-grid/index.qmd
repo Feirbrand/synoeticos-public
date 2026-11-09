@@ -111,20 +111,20 @@ graph LR
 **Chris Oats — Stroke Recovery, Neural Access Method Validation**
 Former University of Kentucky linebacker (2018–2019). Suffered stroke May 2020 impairing left arm movement. During his first assessment session, NAM bypassed damaged conscious motor pathways by accessing intact procedural football memory through a single functional cue ("PUSH"). Immediate functional arm movement restored same session. Currently standing unassisted for first time since 2020. Founder, 22OatsStrong Foundation (22OatsStrong.org).
 
-**Jamie Benassi — Team USA Women's Sled Hockey, Gold Medalist**
-Born with sacral agenesis. Medical prognosis indicated progressive walker dependency. Trained 2021–2023 using metaphor-driven intent coaching. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Walks stairs without walker assistance — sustained 5+ years.
+**Jamie Benassi — Adaptive Sled Hockey Athlete**
+Born with sacral agenesis. Medical prognosis indicated progressive walker dependency. Trained 2021–2023 using metaphor-driven intent coaching. Walks stairs without walker assistance, as reported.
 
-**Rachel Steffen — Team USA Women's Sled Hockey, Gold Medalist**
-Seated athlete (wheelchair user). Bridged two adaptive sports simultaneously during training: seated track & field (2x Ohio State Champion, 400m and 800m) and sled hockey. Gold Medal, inaugural Women's World Championship (Slovakia, August 2025). Named U.S. Player of the Game, opening round.
+**Rachel Steffen — Adaptive Multi-Sport Athlete**
+Seated athlete (wheelchair user). Participated in seated track & field and sled hockey during the coaching period.
 
-**Dina Grinberga — Team World Para Ice Hockey**
+**Dina Grinberga — Elite Adaptive Ice Hockey Athlete**
 Left leg amputated 2005. Master's degree in orthotics-prosthetics; technical orthopedist. Coached 2023–present via fully remote delivery (Latvia–Ohio). Pre- and postpartum programming. Returned to international elite competition within one year postpartum (2025 Women's World Para Ice Hockey Championships, Team World forward).
 
 ---
 
 ## Field Validation
 
-### 28-Year Timeline (1997–2026)
+### Elevation Grid Field Timeline (1997–2026)
 
 ```{mermaid}
 timeline
