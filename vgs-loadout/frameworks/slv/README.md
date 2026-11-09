@@ -156,7 +156,7 @@ Published paper: [Symbolic Lock Vector v2.1](https://doi.org/10.5281/zenodo.1776
 
 ## Live Demo
 
-**[SLV Demo → Hugging Face](https://huggingface.co/spaces/Feirbrand/slv-demo)**
+**[SLV Demo → Hugging Face](https://huggingface.co/spaces/Feirbrand/Symbolic_Lock_Vector)**
 
 > Note: The live HF demo is on SLV v1.2. The published paper and this implementation are v2.1. The demo will be upgraded to v2.1.
 

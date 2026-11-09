@@ -133,7 +133,7 @@ Published paper: [FCE Unified Framework v3.6](https://doi.org/10.5281/zenodo.173
 
 ## Live Demo
 
-**[FCE Compressor → Hugging Face](https://huggingface.co/spaces/Feirbrand/fce-compressor)**
+**[FCE Compressor → Hugging Face](https://huggingface.co/spaces/Feirbrand/fce-compressor-demo)**
 
 ---
 

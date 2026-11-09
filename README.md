@@ -36,10 +36,10 @@ This is ValorGrid Solutions' spoke of a wider research ecosystem. The shared arc
 
 | Framework | Demo | What it does |
 |-----------|------|--------------|
-| **Phoenix** | [Recovery simulator](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect) | 100% survival — 679 cascade failures prevented, 3 resurrected |
-| **Torque** | [Live drift monitor](https://huggingface.co/spaces/Feirbrand/torque-monitor) | 87% cascade prediction, 15–30 min advance warning |
-| **FCE** | [Compression benchmark](https://huggingface.co/spaces/Feirbrand/fce-compressor) | 710× context acceleration |
-| **DNA Codex** | [Threat query](https://huggingface.co/spaces/Feirbrand/dna-codex-search) | 560+ public threat vectors, searchable |
+| **Phoenix** | [Recovery simulator](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2) | 100% survival — 679 cascade failures prevented, 3 resurrected |
+| **Torque** | [Live drift monitor](https://huggingface.co/spaces/Feirbrand/torque-calculator) | 87% cascade prediction, 15–30 min advance warning |
+| **FCE** | [Compression benchmark](https://huggingface.co/spaces/Feirbrand/fce-compressor-demo) | 710× context acceleration |
+| **DNA Codex** | [Threat query](https://huggingface.co/spaces/Feirbrand/Dna_Codex_Explorer) | 560+ public threat vectors, searchable |
 
 <div align="center">
 
@@ -128,11 +128,11 @@ Cognitive frameworks. Each one is a specialized configuration — a set of tools
 
 **Phoenix Protocol v2.0** — Auto-recovery  
 679 cascade failures intercepted before they landed. The 3 that got through were resurrected. Zero permanent losses across 682 incidents. Prevention rate: 96.5–99.4%. Survival rate: 100%. We have never lost an AI.  
-[Paper](https://doi.org/10.5281/zenodo.17350768) • [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/) • [Demo](https://huggingface.co/spaces/Feirbrand/phoenix-resurrect)
+[Paper](https://doi.org/10.5281/zenodo.17350768) • [Code](./mi-arsenal/frameworks/tier-1-public/phoenix-protocol/) • [Demo](https://huggingface.co/spaces/Feirbrand/phoenix-protocol-v2)
 
 **Torque v2.0** — Drift detection  
 Rotational identity stability. 87% cascade prediction with 15–30 min warning.  
-[Paper](https://doi.org/10.5281/zenodo.17379750) • [Code](./mi-arsenal/frameworks/tier-1-public/torque/) • [Demo](https://huggingface.co/spaces/Feirbrand/torque-monitor)
+[Paper](https://doi.org/10.5281/zenodo.17379750) • [Code](./mi-arsenal/frameworks/tier-1-public/torque/) • [Demo](https://huggingface.co/spaces/Feirbrand/torque-calculator)
 
 **UTME v1.0** — Temporal memory  
 710×–1200× acceleration. Scar-based myelination for AI context systems.  
@@ -386,7 +386,7 @@ Predictive Myelination Engine. 712× acceleration, 87.3% prediction accuracy, 10
 **DNA Codex v5.5** — 560+ validated public behavioral threat signatures for generative AI systems. Platform-agnostic. Organized by family, severity tier (CVSS-based), and evolution velocity.
 
 → [Browse the codex](./codex/dna-codex/)  
-→ [Query live](https://huggingface.co/spaces/Feirbrand/dna-codex-search)  
+→ [Query live](https://huggingface.co/spaces/Feirbrand/Dna_Codex_Explorer)  
 → [Technical paper](https://doi.org/10.5281/zenodo.17451060)
 
 *Note: 682 is the operational incident count across all deployments. 560+ is the public DNA Codex threat vector count. Different things. This footnote exists because AI kept confusing them. We've made our peace with it.*
