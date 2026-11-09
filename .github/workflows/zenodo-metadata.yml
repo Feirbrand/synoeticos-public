@@ -1,8 +1,13 @@
 name: Auto-Update Zenodo Metadata
 
+# Disabled auto-firing on release (2026-11-09): PAPER selection grabs the most
+# recently modified file under whitepapers/, not the paper tied to the release
+# tag — it has been overwriting .zenodo.json with the wrong paper's metadata
+# on every release (see VGS Recovery hub §3.14/§3.15; Torque DOI handoff).
+# Re-enable only after PAPER selection is bound to github.event.release.tag_name.
+# Manual run still available via workflow_dispatch if ever needed.
 on:
-  release:
-    types: [published]
+  workflow_dispatch:
 
 permissions:
   contents: write
