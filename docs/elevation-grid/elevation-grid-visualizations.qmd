@@ -187,30 +187,7 @@ graph LR
 
 ---
 
-## 9. Habit Retention: Elevation Grid vs. Industry Baseline
-
-```{mermaid}
-graph LR
-    A["Industry Baseline<br/>35% Retention"] -->|"Cognitive-First<br/>Top-Down<br/>Willpower-Dependent"| B["FAILURE"]
-    
-    C["Elevation Grid<br/>80% Retention"] -->|"Autonomic-First<br/>Bottom-Up<br/>Hardware-Focused"| D["SUCCESS"]
-    
-    style A fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style B fill:#131B2C,stroke:#131B2C,stroke-width:2px,color:#fff
-    style C fill:#34D8EA,stroke:#131B2C,stroke-width:2px,color:#000
-    style D fill:#3576F6,stroke:#131B2C,stroke-width:2px,color:#fff
-```
-
-```
-Elevation Grid:    ████████████████████████████████████████ 80%
-Industry Baseline: ███████████████ 35%
-
-Improvement: +45 percentage points (128% increase)
-```
-
----
-
-## 10. Field Validation: 28-Year Timeline (1997–2026)
+## 9. Field Validation: Elevation Grid Timeline (1997–2026)
 
 ```{mermaid}
 timeline
@@ -229,14 +206,13 @@ timeline
              : Continued framework refinement
     
     2020-2026 : Adaptive Athletics Foundation
-             : Team USA sled hockey gold medals
+             : Adaptive-sport outcomes, as reported
              : 250+ peer-reviewed studies
-             : 80% habit retention documented
 ```
 
 ---
 
-## 11. Research Validation: Peer-Reviewed Sources
+## 10. Research Validation: Peer-Reviewed Sources
 
 ```{mermaid}
 graph TD
