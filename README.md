@@ -5,7 +5,7 @@
 [![Licenses: Per Work](https://img.shields.io/badge/Licenses-Per%20Work-blue.svg)](./PUBLICATIONS.md#license)
 [![Papers: Publications Ledger](https://img.shields.io/badge/Papers-Publications%20Ledger-green.svg)](./PUBLICATIONS.md)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Incidents: 682](https://img.shields.io/badge/Incidents-682%20Documented-red.svg)](./vulnerability-research/)
+[![Incidents: 682 Reported](https://img.shields.io/badge/Incidents-682%20Reported-red.svg)](./vulnerability-research/)
 
 **[Research Hub](https://feirbrand.github.io/synoeticos-public/) • [Live Demos](https://huggingface.co/Feirbrand) • [Publications Ledger](./PUBLICATIONS.md)**
 
@@ -15,9 +15,11 @@
 
 Your AI agents are going to break.
 
-Under sustained pressure — complex reasoning chains, multi-agent coordination, adversarial inputs, context saturation — systems drift, cascade, and lose coherence. It's not that the model is bad or the prompts are wrong; it's what pressure does to any system, biological or artificial. Industry standard recovery time: 72 to 168 hours.
+Under sustained pressure — complex reasoning chains, multi-agent coordination, adversarial inputs, context saturation — systems drift, cascade, and lose coherence. It's not that the model is bad or the prompts are wrong; it's what pressure does to any system, biological or artificial.
 
-Ours: hours, not days. Across 682 documented incidents. Zero permanent losses.
+Synoetic OS™ operational records report 682 AI incidents: 679 cascade failures prevented, 3 recoveries, and zero permanent losses reported.
+
+These are historical operational outcomes, not independently benchmarked recovery times.
 
 This repository contains the complete public version of Synoetic OS™:
 - **MI Arsenal™ Frameworks** - cognitive gear
