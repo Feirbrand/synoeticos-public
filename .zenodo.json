@@ -1,13 +1,13 @@
 {
   "title": "UTME v1.0 TM: Unified Temporal Memory Equilibrium",
-  "description": "",
-  "version": "",
-  "publication_date": "",
+  "description": "This paper introduces UTME (Unified Temporal Memory Equilibrium), an information-theoretic algorithm explaining how AI systems accumulate muscle memory from experience through scar-based myelination—learning not just what happened, but how to respond faster each time.",
+  "version": "v1.0",
+  "publication_date": "2025-10-31",
   "creators": [
     {
       "name": "Slusher, Aaron M.",
       "orcid": "0009-0000-9923-3207",
-      "affiliation": "Achieve Peak Performance"
+      "affiliation": "ValorGrid Solutions"
     }
   ],
   "upload_type": "publication",
