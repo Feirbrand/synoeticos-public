@@ -29,9 +29,6 @@ jobs:
         with:
           version: 1.8.0
 
-      - name: Install TinyTeX
-        run: quarto install tinytex
-
       - name: Render Quarto site
         run: quarto render
         working-directory: ./docs
